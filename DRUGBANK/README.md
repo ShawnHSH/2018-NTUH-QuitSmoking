@@ -1,0 +1,4 @@
+#DrugBank过滤
+ParseDrugBank2CSV 从xml的drugbank文档中仅抓出药名和类型，生成csv文档
+
+WordExtract遍历文件夹内的json病历文档，匹对出其中的drugbank词汇，并画出分布图
