@@ -1,0 +1,81 @@
+﻿
+Subjective 
+DM(-), HTN(-)
+smoking(+)
+2016-8-6 CAG in Mackay Hospital : CAD, 2-VD, LAD highly calcification
+Rota is indicated 
+Plan 
+admission for cath 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.10 Coronary atherosclerosis, coronary artery disease 
+ 
+
+Subjective 
+DM(-), HTN(-)
+smoking(+)
+2016-8-6 CAG in Mackay Hospital : CAD, 2-VD, LAD highly calcification
+Rota is indicated
+2016-9-8 s/p rota + POBAS over LAD (Orsiro)
+right inguinal hematoma--> stationary 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.10 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保  2016/09/16 已確認 已批 林茂欣 用藥原因:B.置放塗藥支架6個月內得與aspirin合併使用，放置支架(stent)之日期為 2016/09/08
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/09/16 已確認 已批 林茂欣  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/09/16 執行、已批 Specimen:BLO
+完成：2017/03/09
+ 林茂欣 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/09/16 執行、已批 Specimen:BLO
+完成：2017/03/09
+ 林茂欣 
+檢驗 09043C0P HDL 1  N 2016/09/16 執行、已批 Specimen:BLO
+完成：2017/03/09
+ 林茂欣 
+檢驗 09044C0P LDL 1  N 2016/09/16 執行、已批 Specimen:BLO
+完成：2017/03/09
+ 林茂欣 
+ 
+
+Subjective 
+effort angina improved
+blood test: not yet test 
+Objective 
+BP: 140/70 mmHg, pR: 72 bPM
+Chest: Bs clear 
+Assessment 
+DM(-), HTN(-)
+smoking(+)
+2016-8-6 CAG in Mackay Hospital : CAD, 2-VD, LAD highly calcification
+Rota is indicated
+2016-9-8 s/p rota + POBAS over LAD (Orsiro)
+right inguinal hematoma--> stationary 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.10 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/12 已確認 已批 林茂欣 重複原因:病人因素(補給天數並延後回診)
+尚有餘藥2天 
+用藥原因:B.置放塗藥支架6個月內得與aspirin合併使用，放置支架(stent)之日期為 2016/09/08
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2016/10/12 已確認 已批 林茂欣 重複原因:病人因素(補給天數並延後回診)
+尚有餘藥2天  
+ 

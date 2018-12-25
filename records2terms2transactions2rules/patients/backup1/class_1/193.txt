@@ -1,0 +1,333 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+right neck mass for 3 months
+
+現病史：
+acute tonsillitis 3 months ago then right submandibular neck mass was noted, painful(+, at that time), size decreased
+
+LF:there is a 2x2cm elastic, movable, non-tender neck mass at right level II
+
+過去病史：
+A(socail)B(-)C(social)
+HTN(-)DM(-)CAD(-)
+
+過敏史：
+藥物過敏：不清楚 
+
+
+目前用藥：
+denied
+
+最近三個月內旅遊史：US 日期：
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：na 
+Assessment 
+Rt neck mass 
+Plan 
+CNB under sona guide
+App 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.6 Lymphadenopathy  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 15007BZP Thyroid aspiration cytology 1  N 2015/11/20 執行、已批 SITE:R't
+Specimen:THY
+完成：2015/11/21
+ 陳俊男 
+檢驗 15007BQP Neck Lymph Node aspiration cytology 1  N 2015/11/20 執行、已批 SITE:R't
+Specimen:NEA
+完成：2015/11/21
+ 陳俊男 
+檢查 19005BEH ENT Head Neck Echo-耳鼻喉頭頸部超音波 1 內含 N 2015/10/19 執行、已批 檢查項目:篩檢, 切片
+位置:淋巴結, 其他
+完成：2015/11/20
+ 柯政郁 
+治療 19007BZS Ultrasonic guidance for needle placement 1  N 2015/11/20 執行、已批 完成：2015/11/20
+ 陳俊男 
+治療 29011C0A Thyroid puncture 1  N 2015/11/20 執行、已批 完成：2015/11/20
+ 陳俊男 
+治療 29008B00 淋巴腺穿刺 1  N 2015/11/20 執行、已批 完成：2015/11/20
+ 陳俊男 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/19 已批 完成：2015/10/19  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/10/19 已批 完成：2015/10/19 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 研究所以上 嚼檳榔 無 
+吸菸 >10年，每天<20支 自覺口腔黏膜有無異常症狀? 有 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/11/30 執行、已批 完成：2015/11/30
+ 陳俊男 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+right neck mass for 3 months
+
+現病史：
+acute tonsillitis 3 months ago then right submandibular neck mass was noted, painful(+, at that time), size decreased
+
+LF:there is a 2x2cm elastic, movable, non-tender neck mass at right level II
+
+過去病史：
+A(socail)B(-)C(social)
+HTN(-)DM(-)CAD(-)
+
+過敏史：
+藥物過敏：不清楚 
+
+
+目前用藥：
+denied
+
+最近三個月內旅遊史：US 日期：
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+【20151120】ENT Head Neck Echo :right neck swelling for 3 months, subsided now
+Ultrasound Findings:
+ NO :01
+ Lesion:LN
+ Site:  level II
+ Side:  right
+ Size:    1.87  X    0.88  X          cm
+ Shape: oval
+ Boundary: regular
+ Halo:   
+ Internal echo:
+   Echogenecity: hypoechoic
+   Calcification:absent
+   Architecture: solid
+ Vascularity: linear hilar
+ Hilus echo:   
+ Adjacent soft tissue: 
+ Resistive index(RI):
+ Elastic score:      0.04
+ Procedure:
+  Fine needle aspiration:2 smears for cytology
+  Core needle biopsy:
+ Remarks:
+ NO :02
+ Lesion:mass
+ Site:  thyroid gland
+ Side:  right
+ Size:    0.63  X    0.41  X          cm
+ Shape:  
+ Boundary:  
+ Halo:   
+ Internal echo:
+   Echogenecity:  
+   Calcification: 
+   Architecture:  
+ Vascularity: 98.4%
+ Hilus echo:   
+ Adjacent soft tissue: 
+ Resistive index(RI):
+ Elastic score:      (TRANS): 1.38;0.84 (L/G; L/M)
+                     (LONGI): 0.72;0.36 (L/G; L/M)
+ Procedure:
+  Fine needle aspiration:2 smears for cytology (soft)
+  Core needle biopsy:
+ Remarks: Histogram: 101.6/153.2/110.8/185.9(Lesion/Gland/Muscle/Fat)
+Diagnosis
+  (1) Cervical lymphadenopathies (right level IIa), suggestive of benign 
+  lesion; (2) Thyroid nodule (right), (3) Thyroid cysts, tiny
+Suggestion
+  FNA done to both right level IIa LN and right thyroid nodule; pursue 
+  report please
+  檢查者 :   周承翰主治醫師  /  陳俊男主治醫師
+【20151121】Thyroid Aspiration Cytology: Negative for malignant cells   *
+【20151121】Neck Lymph Node Aspiration Cytology: Negative for malignant cells   * 
+Assessment 
+Rt neck mass 
+Plan 
+follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.6 Lymphadenopathy  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/30 已批 完成：2015/11/30  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/11/30 已批 完成：2015/11/30 
+ 
+
+Subjective 
+left cheek mass noted by himself for 1 week
+size stationary
+not related to meal 
+Objective 
+left Stansen's duct orifice injected with ulcer
+no other induration
+smooth nasopharynx with mucoid discharge 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 527.2 Sialoadenitis  
+O 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cephalexin 250 mg/cap 1 cap Q6H PO 7 28 cap 健保  2015/12/09 已確認 已批 譚慶鼎  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX TID OR 7 1 tube 健保  2015/12/09 已確認 已批 譚慶鼎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/09 已批 完成：2015/12/09  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/09 已批 完成：2015/12/09  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/12/09 已批 完成：2015/12/09 
+ 
+
+Subjective 
+left cheek mass noted by himself for 1 week, subsided after using medication
+size stationary
+not related to meal 
+Objective 
+left Stansen's duct orifice tiny induration ?
+no other induration
+smooth nasopharynx 
+Plan 
+explanation
+advice follow up if symptoms persisted 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 527.2 Sialoadenitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 7 14 tab 健保  2015/12/16 已確認 已批 譚慶鼎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/16 已批 完成：2015/12/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/16 已批 完成：2015/12/16  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/12/16 已批 完成：2015/12/16 
+ 
+Subjective 
+PROGRESSIVE RECESSION OF HAIR LINE FOR 2-3 YEARS.
+SCALING AND ITCHING ON TOEWEBS RECENTLY.
+
+NO PRIOR TREATMENT.
+FH: FATHER WITH AGA 
+Objective 
+SLGIHT RECESSION OB BITEMPORAL HAIR LINE.
+
+SCALING ON MULTIPLE TOE WEBS 
+Plan 
+1. MINOXIDIL 2% BIL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L64.9 Alopecia androgenetica 慢  
+O B35.3 Tinea pedis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zalain Cream 2% 15 g/tube 1 XX BID D 7 1 tube 健保  2016/05/02 已確認 已批 林頌然  
+Minoxidil topical soln 2% 60 mL/btl 1 mL BID D 30 1 btl 自費  2016/05/02 已確認 已批 林頌然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/02 已批 完成：2016/05/02  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/02 已批 完成：2016/05/02  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2016/05/02 已批 完成：2016/05/02  
+ 
+ 
+
+Subjective 
+46 years old man
+Ask for smoking cessation;
+30 pack-years smoking;
+No marked chronic illness
+current smoking amount: 20/min
+
+
+Family history:
+Father:
+Mother 
+Siblings: 5
+offsprings: 2
+E Brother ; Y Brother
+5 E Sister ; Y Sister
+
+Medical Hx:, 
+Objective 
+Pain scale: 0/10
+BP: 120/70 mmHg
+Throat: injected
+Neck: supple
+RHB, no murmur
+BS: clear
+Abdomen: soft and flat, 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+30 Nicotinell TTS 1.75 mg/1 cm2 30 cm2/pce 1 pce QD D 14 14 pce 健保  2016/09/17 已確認 已批 張皓翔  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 14 60 tab 健保  2016/09/17 已確認 已批 張皓翔  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/12/23 執行、已批、未看完 完成：2016/12/23
+ 張皓翔 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/03/23 刪除、刪除、未看完 完成：2017/03/23
+ 李怡璇 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/03/23 執行、已批、未看完 完成：2017/03/23
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/09/17 已批 完成：2016/09/17  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/09/17 已批 完成：2016/09/17  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/09/17 已批 完成：2016/09/17 
+ 

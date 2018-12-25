@@ -1,0 +1,1161 @@
+﻿
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+PERSISTS
+
+EKG: OLD ANTEROSEPTAL MI??
+
+CAG: EASY CORONARY SPASM 
+Objective 
+126/70, 75
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild
+
+
+【20160520】Treadmill & Resting :Under adequate treadmill stress test, (1) moderate to severe stress-induced ischemia at septum; (2) stress-induced LV dysfunction. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I25.10 Coronary arterial disease 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Herbesser 30 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/07/28 已確認 已批 蔡佳醍  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/07/28 已確認 已批 蔡佳醍 
+ 
+
+
+Subjective 
+7/20 no more chest pain after recent med
+ for cigarette smoking cessatioin, PTCA no stent 6/24.
+ Med for angina. tried to smoke cigarette by will.
+ for 3 months only. never chewing gum only. 
+NKDA
+cigarette smoking 1PPD
+Med for angina and for back pain. 
+no more chest pain
+on ismo, concor and Bokey, --> Herbesser ismo NTG prn 
+Objective 
+7/20 BW 160 BW 55 120/88 P 69
+
+【20160520】Treadmill & Resting :Under adequate treadmill stress test, (1) moderate to severe stress-induced ischemia at septum; (2) stress-induced LV dysfunction.
+ cardiac cath
+Post-Catheterization diagnosis:
+Patent Coronary Artery
+Prinzmetal angina 
+
+【20160422】Doppler color flow mapping :
+【20160315】Chest : PA View (Standing) :normal heart size. prominence of the hilar shadow(s) on right side. scoliosis of the spine, probably due to positioning factor. no active lung lesion. 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+20 Nicotinell TTS 1.75 mg/1 cm2 20 cm2/pce 1 pce QD D 14 14 pce 健保  2016/07/20 已確認 已批 王維典  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 14 105 tab 健保  2016/07/20 已確認 已批 王維典  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/10/25 執行、已批、未看完 完成：2016/10/25
+ 王維典 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/01/11 執行、已批、未看完 完成：2017/01/11
+ 王維典 
+ 
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+PERSISTS
+
+EKG: OLD ANTEROSEPTAL MI??
+
+CAG: EASY CORONARY SPASM 
+Objective 
+126/70, 78
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild
+
+
+【20160520】Treadmill & Resting :Under adequate treadmill stress test, (1) moderate to severe stress-induced ischemia at septum; (2) stress-induced LV dysfunction. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+O I25.10 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Herbesser 30 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/30 已確認 已批 蔡佳醍  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/30 已確認 已批 蔡佳醍 重復原因:醫師停診(抽審時需舉證并延後回診) 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F41.1 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/06/30 已確認 已批 賴婉玲  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2016/06/30 已確認 已批 賴婉玲  
+Sulpin F.C. 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/30 已確認 已批 賴婉玲  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/30 已確認 已批 賴婉玲 
+ 
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+PERSISTS
+
+EKG: OLD ANTEROSEPTAL MI?? 
+Objective 
+122/70, 78
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild
+
+
+【20160520】Treadmill & Resting :Under adequate treadmill stress test, (1) moderate to severe stress-induced ischemia at septum; (2) stress-induced LV dysfunction. 
+Plan 
+ADMISSION 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I25.10 Coronary arterial disease 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保  2016/06/16 已確認 已批 蔡佳醍  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/16 已確認 已批 蔡佳醍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/06/16 已確認 已批 蔡佳醍  
+SOLAXIN 200 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2016/06/16 已確認 已批 蔡佳醍 
+ 
+
+Subjective 
+came alone
+complained about insomnia(interrupted sleep)
+stationary 
+覺得這個月開始有比較容易放松, 也比較容易入睡
+but still some doctor-shopping behaviors
+1/11看完疼痛科門診覺得吃藥無效就沒再去看
+3/3去看CV OPD 做完Treadmill 和24 hr Holter
+treat HTN
+
+hypnopompic hallucination
+被夢吵醒 
+Objective 
+rigid about changing life style 
+Plan 
+Keep Cymbalta 60 mg/day
+follow-up in 12 weeks
+Psychopharmacoeducation
+suggested tapering Alpraline
+supportive psychotherapy 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F41.1 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/06/10 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2016/06/10 已確認 已批 潘欣平  
+Sulpin F.C. 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/10 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/10 已確認 已批 潘欣平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2016/06/10 執行、已批 完成：2016/06/10
+ 潘欣平 
+ 
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+PERSISTS
+
+EKG: OLD ANTEROSEPTAL MI?? 
+Objective 
+122/70, 90
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild 
+Plan 
+EXERCISE TL201 SCAN(5/20), BAI-HU UCG(4/22) (SUSPECT OLD MI) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+O I25.10 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保  2016/05/19 已確認 已批 蔡佳醍  
+Ismo-20 20 mg/tab 0.5 tab BID PO 28 28 tab 健保  2016/05/19 已確認 已批 蔡佳醍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/05/19 已確認 已批 蔡佳醍  
+SOLAXIN 200 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2016/05/19 已確認 已批 蔡佳醍 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F41.1 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/05/05 已確認 已批 林威良  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2016/05/05 已確認 已批 林威良  
+Susine F.C. 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/05/05 已確認 已批 林威良  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/05/05 已確認 已批 林威良 
+ 
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+PERSISTS
+
+EKG: OLD ANTEROSEPTAL MI?? 
+Objective 
+110/70, 90
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild 
+Plan 
+BAI-HU UCG(4/22) (SUSPECT OLD MI) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+O I25.10 Coronary arterial disease 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18007B0F [北護]杜卜勒氏彩色心臟血流圖[檢查] 1  N 2016/04/22 執行、已批 完成：2016/04/22
+ 蔡佳醍 
+檢查 18005B0A [北護]超音波心臟圖（單雙面）[檢查] 1  N 2016/04/22 執行、已批 完成：2016/04/22
+ 蔡佳醍 
+ 
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+PERSISTS
+
+EKG: OLD ANTEROSEPTAL MI?? 
+Objective 
+112/70, 90
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild 
+Plan 
+EXERCISE TL201 SCAN(5/20), BAI-HU UCG(4/22) (SUSPECT OLD MI) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I25.10 Coronary arterial disease 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Herbesser 30 mg/tab 1 tab TID PO 28 84 tab 健保  2016/04/21 已確認 已批 蔡佳醍  
+Ismo-20 20 mg/tab 0.5 tab BID PO 28 28 tab 健保  2016/04/21 已確認 已批 蔡佳醍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/04/21 已確認 已批 蔡佳醍  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+核醫 000TP132 Treadmill & Resting 1  N 2016/04/21 執行、已批 完成：2016/05/20
+ 蔡佳醍 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2016/04/21 執行、已批 完成：2016/05/20
+ 蔡佳醍 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F41.1 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/04/08 已確認 已批 林威良  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2016/04/08 已確認 已批 林威良  
+Susine F.C. 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/04/08 已確認 已批 林威良  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/04/08 已確認 已批 林威良 
+ 
+
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+SEVERE NOW
+ASSOCIATED WITH PALPITATION 
+Objective 
+102/70, 90
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+O I25.10 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Herbesser 30 mg/tab 1 tab TID PO 28 84 tab 健保  2016/03/24 已確認 已批 蔡佳醍  
+Ismo-20 20 mg/tab 0.5 tab BID PO 28 28 tab 健保  2016/03/24 已確認 已批 蔡佳醍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/03/24 已確認 已批 蔡佳醍 
+ 
+
+Subjective 
+came alone
+complained about insomnia(interrupted sleep)
+stationary 
+覺得這個月開始有比較容易放松, 也比較容易入睡
+but still some doctor-shopping behaviors
+1/11看完疼痛科門診覺得吃藥無效就沒再去看
+3/3去看CV OPD 做完Treadmill 和24 hr Holter
+treat HTN
+
+hypnopompic hallucination
+被夢吵醒 
+Objective 
+rigid about changing life style 
+Plan 
+Keep Cymbalta 60 mg/day
+follow-up in 12 weeks
+Psychopharmacoeducation
+suggested tapering Alpraline 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F41.1 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/03/18 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2016/03/18 已確認 已批 潘欣平  
+Susine F.C. 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/18 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/18 已確認 已批 潘欣平 
+ 
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK
+SEVERE NOW
+ASSOCIATED WITH PALPITATION 
+Objective 
+142/90
+
+RHB, NO MURMUR
+
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion.
+【20150826】CT With/Without Contrast-Chest :No definite active lung lesion. No definite aortic dissection or pulmonary embolism.
+
+Interpretation Summary
+?The left ventricle is grossly normal in size and shape.
+?The LV systolic function is normal
+?Aortic regurgitation, mild
+?Mitral regurgitation, trace
+?Tricuspid regurgitation, mild
+?Pulmonic regurgitation, mild 
+Plan 
+TXT
+HOLTER
+HOME BP MONITORING 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest pain 慢  
+O I25.10 Coronary arterial disease 慢  
+O I21.3 Acute myocardial infarction 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Herbesser 30 mg/tab 1 tab BID PO 21 42 tab 健保  2016/03/03 已確認 已批 蔡佳醍  
+Ismo-20 20 mg/tab 0.5 tab BID PO 21 21 tab 健保  2016/03/03 已確認 已批 蔡佳醍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 21 21 cap 健保  2016/03/03 已確認 已批 蔡佳醍  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18019BXS 24-HRS Holter E.C.G.-２４小時連續記錄心電 1  N 2016/03/03 執行、已批 完成：2016/03/17
+ 蔡佳醍 
+檢查 18015B0S Treadmill Exercise ECG-復次階段運動心電圖 1  N 2016/03/03 執行、已批 Indications for treadmill exercise test:Diagnosis of CAD
+完成：2016/03/14
+ 蔡佳醍 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 2 cap QD PO 28 56 cap 健保 3 2016/02/17 已確認 已批 林小琴  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2016/02/17 已確認 已批 林小琴  
+200 (DC)Dogmatyl 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/17 已確認 已批 林小琴  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/17 已確認 已批 林小琴 
+ 
+
+Subjective 
+no response to previous medication
+panic disorder
+night aggravation 
+Objective 
+疼痛評估：疼痛指數： 6分; 持續痛 ; 疼痛部位： left chest; 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O F41.0 Panic disorder (F41.0) 慢  
+M M94.0 Chondrocostal junction syndrome [Tietze] 慢  
+O F41.1 Anxiety state (F41.9) 慢  
+O B02.23 Postherpetic polyneuropathy  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Tramal Retard 100 mg/tab 1 tab BID PO 21 42 tab 健保  2016/01/11 已確認 已批 孫維仁  
+Zoloft 50 mg/tab 1 tab QD PO 21 21 tab 健保  2016/01/11 已確認 已批 孫維仁  
+Lidopat patch 5% 700 mg/pce 2 pce QD D 21 42 pce 健保  2016/01/11 已確認 已批 孫維仁 
+ 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 2 cap QD PO 28 56 cap 健保 3 2016/01/11 已確認 已批 謝欣妤  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2016/01/11 已確認 已批 謝欣妤  
+200 (DC)Dogmatyl 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/11 已確認 已批 謝欣妤  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/11 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+came alone
+complained about insomnia(interrupted sleep)
+
+hypnopompic hallucination
+被夢吵醒 
+Objective 
+rigid about changing life style 
+Plan 
+Cymbalta titrate to 60 mg/day
+follow-up in 12 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 2 cap QD PO 28 56 cap 健保 3 2015/12/25 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保 3 2015/12/25 已確認 已批 潘欣平  
+200 (DC)Dogmatyl 200 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/25 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/25 已確認 已批 潘欣平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2015/12/25 執行、已批 完成：2015/12/25
+ 潘欣平 
+ 
+
+Subjective 
+right chest pain for 1 year
+costochondritis due to motorcycle contusion
+may try lidopat
+painful skin rash
+anxiety state 
+Objective 
+【20150910】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size and no obvious pulmonary nodular or mass lesion. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 733.6 Tietze disease  
+O 300.00 Anxiety state (F41.9) 慢  
+O 053.13 Postherpetic polyneuropathy  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/12/14 已確認 已批 孫維仁  
+Lidopat patch 5% 700 mg/pce 2 pce QD D 28 56 pce 健保  2015/12/14 已確認 已批 孫維仁  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 39009C00 病灶內注射 3  N 2015/12/14 執行、已批 完成：2015/12/14
+ 孫維仁 
+ 
+
+Subjective 
+came alone
+complained about insomnia(interrupted sleep) 
+Objective 
+rigid about changing life style 
+Plan 
+Cymbalta titrate to 60 mg/day
+follow-up in 4 weeks
+reeducative psychotherapy 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 2 cap QD PO 21 42 cap 健保  2015/12/04 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 21 21 tab 健保  2015/12/04 已確認 已批 潘欣平  
+200 (DC)Dogmatyl 200 mg/tab 1 tab HS PO 21 21 tab 健保  2015/12/04 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 21 21 tab 健保  2015/12/04 已確認 已批 潘欣平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45087C00 特殊心理治療–成人 1  N 2015/12/04 執行、已批 完成：2015/12/04
+ 潘欣平 
+ 
+
+Subjective 
+came alone
+complained about insomnia(interrupted sleep) 
+Objective 
+rigid about changing life style 
+Plan 
+keep current regimen
+follow-up in 4 weeks
+reeducative psychotherapy 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap QD PO 28 28 cap 健保  2015/11/06 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 28 28 tab 健保  2015/11/06 已確認 已批 潘欣平  
+200 (DC)Dogmatyl 200 mg/tab 1 tab HS PO 28 28 tab 健保  2015/11/06 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保  2015/11/06 已確認 已批 潘欣平 
+ 
+
+Subjective 
+came alone
+每周還是會有3-4天會 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap QD PO 21 21 cap 健保  2015/10/16 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 21 21 tab 健保  2015/10/16 已確認 已批 潘欣平  
+200 (DC)Dogmatyl 200 mg/tab 1 tab HS PO 21 21 tab 健保  2015/10/16 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 21 21 tab 健保  2015/10/16 已確認 已批 潘欣平 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap QD PO 21 21 cap 健保  2015/09/25 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 21 21 tab 健保  2015/09/25 已確認 已批 潘欣平  
+200 (DC)Dogmatyl 200 mg/tab 0.5 tab HS PO 21 11 tab 健保  2015/09/25 已確認 已批 潘欣平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45087C00 特殊心理治療–成人 1  N 2015/09/25 執行、已批 完成：2015/09/25
+ 潘欣平 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+general discomfort
+
+現病史：
+高中畢業
+job: 賣咸水雞, 小生意
+2014/06 開始chest tightness, 
+dizziness, 
+general weakness
+tremor
+辭職
+
+myofascial pain of posterior neck
+
+2015/04 還有想去工作
+2015/08 又變得低落, irritability, suicidal ideation(跳樓, 吃安眠藥), insomnia
+看電視和手機還可以稍微轉移一下
+
+denied manic episode
+
+major concern: body discomfort
+
+過去病史：
+NA
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：B
+
+目前用藥：Deanxit 1# QD, Rivotril 1# HS, Alpraline 1# HSPRN
+家族病史：NA 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+pressued speech
+rumination about anger toward our ER
+suspect cluster A personality trait
+delayed response 
+Assessment 
+r/o psychosis 
+Plan 
+Rivotril(0.5) 1# HS
+Cymbalta(30) 1# QD
+Dogmatyl(50) 1# HS
+Alpraline(0.5) 1# prn
+x 14 days
+Reeducative psychotherapy 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cymbalta 30 mg/cap 1 cap QD PO 14 14 cap 健保  2015/09/11 已確認 已批 潘欣平  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab PRN PO 14 14 tab 健保  2015/09/11 已確認 已批 潘欣平  
+Dogmatyl 50 mg/tab 1 tab HS PO 14 14 tab 健保  2015/09/11 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 14 14 tab 健保  2015/09/11 已確認 已批 潘欣平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45087C00 特殊心理治療–成人 1  N 2015/09/11 執行、已批 完成：2015/09/11
+ 潘欣平 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+general discomfort
+
+現病史：
+高中畢業
+job: 賣咸水雞, 小生意
+2014/06 開始chest pain, with radiating to back 
+dizziness, 
+general weakness
+tremor
+辭職
+claimed no precipitating factors
+
+myofascial pain of posterior neck(脖子很緊)
+
+2015/04 還有想去工作
+2015/08 又變得低落, irritability, suicidal ideation(跳樓, 吃安眠藥), insomnia
+看電視和手機還可以稍微轉移一下
+frequently visited our ER, underwent series of examination(EKG, 運動心電圖) but without significant finding
+followed-up at our CV OPD
+referred by CV specialist for "自律神經功能檢查"
+
+denied manic episode
+
+major concern: chest pain
+
+過去病史：
+NA
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：B
+
+目前用藥：NA
+家族病史：NA 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+pressued speech
+argumentative
+irritable 
+Assessment 
+Anxiety state 
+Plan 
+Diagnostic interview
+Rivotril(0.5) 1# HS
+Deanxit 1# QD
+Ativan(0.5) 1# prn
+follow-up in 11 day
+suggest keep follow-up at CV OPD
+Emotional support 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab QDPRN PO 11 11 tab 健保  2015/08/31 已確認 已批 潘欣平  
+Deanxit /tab 1 tab QAM PO 11 11 tab 健保  2015/08/31 已確認 已批 潘欣平  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 11 11 tab 健保  2015/08/31 已確認 已批 潘欣平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2015/08/31 執行、已批 完成：2015/08/31
+ 潘欣平 
+ 
+
+Subjective 
+CC: Fever for 2 days, went to ER 
+PI: Productive cough(+) Chest pain(+) for two days, also accompanied with fever up to 38.7
+sometimes dyspnea
+rhinirrhea(-)
+
+history of CAD, neurosis s/p NTG, no effect, CAD(+) by trendmill at 雙和 hospital
+
+T: NIL
+O: 休養
+C&C: NIL 
+Objective 
+T:３７
+Pain s
+【20150820】Gram's(GS)#4: Gram (-) rods 3+   *
+【20150820】Gram's(GS)#3: Gram (-) cocco-bacilli 3+   *
+
+【20150820】WBC: 12.06   K/μL
+【20150820】Seg: 81.6   %
+
+【20150820】Chest : PA View (Standing) :Patchy infiltration in right lower lung zone. Heart size normal. 
+Plan 
+1. f/u CXR next visit
+2. refill antibiotics for 5 days
+R3 鍾宜璇/ VS Yao 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 486 Pneumonia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 5 10 tab 健保  2015/08/22 已確認 已批 鍾宜璇  
+Ismo-20 20 mg/tab 0.5 tab BID PO 5 5 tab 健保  2015/08/22 已確認 已批 鍾宜璇  
+Bokey EM cap 100 mg/cap 1 cap QD PO 5 5 cap 健保  2015/08/22 已確認 已批 鍾宜璇  
+PARAMOL 500 mg/tab 1 tab QID PO 5 20 tab 健保  2015/08/22 已確認 已批 鍾宜璇  
+Regrow SR 60 mg/tab 1 tab BID PO 5 10 tab 健保  2015/08/22 已確認 已批 鍾宜璇  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 5 10 tab 健保  2015/08/22 已確認 已批 鍾宜璇 
+ 
+
+Subjective 
+A PATIENT OF ACS DIAGNOSED IN ANOTHER HOSPITAL
+
+CARDIAC CATH THROUGH RADIAL ARTERIES FAILED
+
+PREVIOUS TXT STRONG POSITIVE IN ANOTHER HOSPITAL
+
+CAD RISK FACTORS: MALE, EX-SMOKER
+
+INTERMITTENT CHEST PAIN, RADIATED TO LEFT BACK 
+Objective 
+RHB, NO MURMUR
+
+【20150421】Transthoracic UCG(健保)(不得改為自費) : 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 410.90 Myocardial infarction 慢 職  
+M 786.50 Chest Pain  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Ismo-20 20 mg/tab 0.5 tab BID PO 21 21 tab 健保  2015/04/23 已確認 已批 蔡佳醍  
+Brilinta 90 mg/tab 1 tab BID PO 21 42 tab 健保  2015/04/23 已確認 已批 蔡佳醍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 21 21 cap 健保  2015/04/23 已確認 已批 蔡佳醍 重復原因:補給天數 (至下次預約門診日) 
+ 
+
+Subjective 
+Chesat pain and tightness for one months
+Exterional dyspnes 
+Plan 
+anxitey
+medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 786.50 Chest Pain  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 14 42 tab 健保  2015/04/14 已確認 已批 李任光 
+ 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M 786.50 Chest Pain  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/04/08 已確認 已批 林小琴  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/04/08 已確認 已批 林小琴 
+ 
+
+Subjective 
+Chesat pain and tightness for one months
+Exterional dyspnes 
+Objective 
+38 y/o male
+
+PMH:Nil
+PSH:Nil
+MEds:Cardil, isosorbide, aspirin, 
+Social Hx: smoking(-), dribnkign(-)
+Allergy:(-)
+Occupation: worker
+
+PE: RHB, murmur,
+
+ECGi in 2015-3:
+Normal sinus rhythm
+Normal ECG
+
+
+【20150306】HbA1c: 5.5   %
+【20150306】WBC: 6.75   k/μL
+【20150306】RBC: 5.36   M/μL
+【20150306】PS: -   
+【20150306】PLT: 205   k/μL
+【20150306】HB: 16.5   g/dL
+【20150306】LDL-C: 120   mg/dL
+【20150306】LDL-C: 120   mg/dL
+【20150306】HDL-C: 41   mg/dL
+【20150306】Alb: 4.6   g/dL
+【20150306】T-BIL: 0.96   mg/dL
+【20150306】CRE: 0.9   mg/dL
+【20150306】GLU AC: 92   mg/dL
+【20150306】TG: 72   mg/dL
+【20150306】UN: 16.0   mg/dL
+【20150306】T-CHO: 173   mg/dL
+
+
+【20150306】Chest : PA View (Standing) :The lung parenchyma are symmetrical in density with normal pulmonary markings and no masses evident. There is no pleural thickening and the costophrenic angles are sharp. 
+Plan 
+CAD or pulmonary embolism evalutiaotn 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 786.50 Chest Pain  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/03/06 執行、已批 完成：2015/03/06
+ 陳信銘 
+ 
+
+Subjective 
+Chesat pain and tightness for one months
+Exterional dyspnes 
+Objective 
+38 y/o male
+
+PMH:Nil
+PSH:Nil
+MEds:Nil
+Social Hx: smoking(-), dribnkign(-)
+Allergy:(-)
+Occupation: worker
+
+PE: RHB, murmur, 
+Plan 
+CAD or pulmonary embolism evalutiaotn 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 786.50 Chest Pain  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/03/05 已確認 已批 吳毅暉  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/03/05 已確認 已批 吳毅暉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 18001C0P ECG routine 1  N 2015/03/05 執行、已批 Specimen:ECG
+完成：2015/03/06
+ 吳毅暉 
+檢驗 08011CZP CBC & platelet 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09025CZP AST(GOT) 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09029CZP BIL T 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09002CZP BUN 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09005CZP Glucose (AC) 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09006C0P HbA1c 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09043C0P HDL 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+檢驗 09044C0P LDL 1  N 2015/03/05 執行、已批 Specimen:BLO
+完成：2015/03/06
+ 吳毅暉 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/03/05 執行、已批 完成：2015/03/06
+ 吳毅暉 
+影醫 32001CVM Chest : Lateral Left 1  N 2015/03/05 執行、已批 完成：2015/03/06
+ 吳毅暉 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/03/05 執行、已批 Indication:Follow up
+小部位:For whole aorta,
+其他：r/o pulmonary embolsim
+完成：2015/04/08
+ 吳毅暉 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2015/03/05 執行、已批 其他：chest apin
+完成：2015/04/21
+ 吳毅暉 
+檢查 18015B0S Treadmill Exercise ECG-復次階段運動心電圖 1  N 2015/03/05 執行、已批 Indications for treadmill exercise test:Diagnosis of CAD
+完成：2015/04/08
+ 吳毅暉 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2015/03/05 執行、已批 完成：2015/04/21
+ 吳毅暉 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2015/03/05 執行、已批 完成：2015/04/21
+ 吳毅暉 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/04/08 執行、已批 完成：2015/04/08
+ 屈靜如 
+醫材 20000932 CT INJECTION SYSTEM #200ML 1  N 2015/04/08 執行、已批 完成：2015/04/08
+ 屈靜如 
+ 
+
+
+

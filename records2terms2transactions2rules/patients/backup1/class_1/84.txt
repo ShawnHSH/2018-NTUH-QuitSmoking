@@ -1,0 +1,295 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+PSA elevation
+==> suggest biopsy at 慈濟醫院
+
+現病史：
+NA
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+DRE: no hard nodule, hen egg sized prostate (CHC) 
+Assessment 
+BPH under Urief 
+Plan 
+PSA, f-PSA
+RTC 1W 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2015/04/28 執行、已批 Specimen:BLO
+完成：2015/04/28
+ 陳忠信 
+檢驗 27083B0P FREE FORM PROSTATE SPECIFIC ANTIGEN 1  N 2015/04/28 執行、已批 Specimen:BLO
+完成：2015/04/28
+ 陳忠信 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/28 已批 完成：2015/04/28  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/04/28 已批 完成：2015/04/28 
+ 
+Subjective 
+主要病史來源：病人
+主訴：
+PSA elevation
+==> suggest biopsy at 慈濟醫院
+LUTS: urinary frequency (mild) 
+Objective 
+DRE: no hard nodule, hen egg sized prostate (CHC)
+【20150428】Serum PSA: 17.081   ng/mL
+【20150428】% fPSA: 13.9   % 
+Assessment 
+BPH under Urief 
+Plan 
+Suggest TRUSP-biopsy (ADOD) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cravit 500 mg/tab 1 tab QD PO 1 1 tab 自費  2015/05/05 已確認 已批 陳忠信 特殊醫囑:非用於治療肺結核 
+用藥原因:for prostate biopsy
+ 
+栓 Bisacodyl Supp 10 mg/pill 1 pill HS R 1 1 pill 健保  2015/05/05 已確認 已批 陳忠信  
+口服 Dulcolax EC 5 mg/tab 2 tab HS PO 1 2 tab 健保  2015/05/05 已確認 已批 陳忠信  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09027CZP ALP 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 08011CZP C.B.C+PLATELET(I) 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 09015CZP CRE B. 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 18001C0P EKG routine 1  N 2015/05/05 執行、已批 Specimen:ECG
+完成：2015/05/22
+ 陳忠信 
+檢驗 09025CZP GOT 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 09026CZP GPT 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 09022CZP K 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 09021CZP Na+ 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 08036BZP P.T.T. 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 08026CZP PT 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 09002CZP UN B. 1  N 2015/05/05 執行、已批 Specimen:BLO
+完成：2015/05/22
+ 陳忠信 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/05/05 執行、已批 Specimen:UR1
+完成：2015/05/22
+ 陳忠信 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/05/05 執行、已批 Specimen:UR1
+完成：2015/05/22
+ 陳忠信 
+影醫 32001CXM CHEST: PA VIEW (STANDING) 1  N 2015/05/05 執行、已批 完成：2015/05/22
+ 陳忠信 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/05 已批 完成：2015/05/05  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/05/05 已批 完成：2015/05/05  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/05/05 已批 完成：2015/05/05 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25012B0W Immunohistochemical stains, each antibody 1  N 2015/06/03 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/06/03 
+ 
+
+Subjective 
+主要病史來源：病人
+主訴：
+PSA elevation
+==> suggest biopsy at 慈濟醫院
+LUTS: urinary frequency (mild) 
+Objective 
+DRE: no hard nodule, hen egg sized prostate (CHC)
+【20150428】Serum PSA: 17.081   ng/mL
+【20150428】% fPSA: 13.9   %
+TRUSP: prostate size 64.9 ml 
+Assessment 
+BPH under Urief s/p TRUSP-biopsy (all benign) 
+Plan 
+PSA (3M)
+RTC 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 28 tab 健保 3 2015/06/10 已確認 已批 陳忠信  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2015/06/10 執行、已批 Specimen:BLO
+完成：2015/08/26
+ 陳忠信 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/10 已批 完成：2015/06/10  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/06/10 已批 完成：2015/06/10  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/10 已批 完成：2015/06/10 
+ 
+
+Subjective 
+主要病史來源：病人
+主訴：
+PSA elevation
+==> suggest biopsy at 慈濟醫院
+LUTS: urinary frequency (mild) 
+Objective 
+DRE: no hard nodule, hen egg sized prostate (CHC)
+【20150428】Serum PSA: 17.081   ng/mL
+【20150428】% fPSA: 13.9   %
+TRUSP: prostate size 64.9 ml
+-【20150826】Serum PSA: 16.198   ng/mL 
+Assessment 
+BPH under Urief s/p TRUSP-biopsy (all benign, 20150528) 
+Plan 
+PSA (3M)
+RTC 3M, W3 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 28 tab 健保 3 2015/09/01 已確認 已批 陳忠信 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2015/09/01 執行、已批 Specimen:BLO
+完成：2015/11/21
+ 陳忠信 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/01 已批 完成：2015/09/01  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/09/01 已批 完成：2015/09/01  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/01 已批 完成：2015/09/01 
+ 
+
+Subjective 
+主要病史來源：病人
+主訴：
+PSA elevation
+==> suggest biopsy at 慈濟醫院
+LUTS: urinary frequency (mild)
+20151125 stationary 
+Objective 
+DRE: no hard nodule, hen egg sized prostate (CHC)
+【20150428】Serum PSA: 17.081   ng/mL
+【20150428】% fPSA: 13.9   %
+TRUSP: prostate size 64.9 ml
+-【20150826】Serum PSA: 16.198   ng/mL
+--【20151121】Serum PSA: 15.237   ng/mL 
+Assessment 
+BPH under Urief s/p TRUSP-biopsy (all benign, 20150528) 
+Plan 
+PSA (3M)
+RTC 3M, W3 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 28 tab 健保 3 2015/11/25 已確認 已批 陳忠信 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2015/11/25 開立、已批 Specimen:BLO
+ 陳忠信 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/25 已批 完成：2015/11/25  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/11/25 已批 完成：2015/11/25  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/11/25 已批 完成：2015/11/25  
+ 
+
+
+Subjective 
+for smoking cessation: 2016/04/18
+smoking for 40 years, 0.5 PPD, FTND: 6/10 
+PH: HTN with Mx, heart dz(-), mental dz(-), sleep well
+quit history: quit for 2 month, never use medication to quit
+patient preferred champix, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/04/18 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/04/18 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/07/20 執行、已批、未看完 完成：2016/07/20
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/10/13 執行、已批、未看完 完成：2016/10/13
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/18 已批 完成：2016/04/18  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/04/18 已批 完成：2016/04/18  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/04/18 已批 完成：2016/04/18 
+ 

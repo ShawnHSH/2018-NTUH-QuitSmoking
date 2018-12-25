@@ -1,0 +1,111 @@
+﻿
+Subjective 
+51 Y/O man
+DM (+) for 10+ years (AC sugar: 170)
+heavy smoker (+)
+S: Bilateral hands posture/action tremor for 1-2 years.
+no slow movement or weakness.
+body weight loss 15 Kg/2 years
+tachycardiac (+)
+BP:130/75, HR:90 
+Objective 
+no mask face
+no rest tremor
+posture tremor: R/L: ++/++
+action tremor: R/L: ++/++
+no rigidity or bradykinesia
+Gait: no shiffling gait 
+Assessment 
+Bilateral hands posture/action tremor, R/O essential tremor or hyperthyroid related?
+DM poor control
+heavy smoker 
+Plan 
+check free T4, TSH, AC sugar, HbA1C, ceruloplasmin, lipid profiles
+Suggest quite smoking, decreased tea intake, control sugar well 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R25.1 Tremor 慢 傳  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 14 42 tab 健保  2016/11/01 已確認 已批 林靜嫻  
+(管4) Secorin 10 mg/tab 1 tab HS PO 14 14 tab 健保  2016/11/01 已確認 已批 林靜嫻  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/11/01 執行、已批 Specimen:BLO
+完成：2016/11/03
+ 林靜嫻 
+檢驗 09006C0P HbA1c 1  N 2016/11/01 執行、已批 Specimen:BLO
+完成：2016/11/03
+ 林靜嫻 
+檢驗 27027B0T Free T4 (RIA) 1  N 2016/11/01 執行、已批 Specimen:BLO
+完成：2016/11/03
+
+ 林靜嫻 
+檢驗 27004C0T TSH (RIA) 1  N 2016/11/01 執行、已批 Specimen:BLO
+完成：2016/11/03
+ 林靜嫻 
+ 
+
+Subjective 
+< CC>
+Involuntary tremor
+< PI>
+involuntary tremor Weight loss
+Type 2 diabetes without treatment
+borderline thyroid function data => repeat
+
+mother have goiter 
+Objective 
+< Physical examination> 
+BH: 
+BW: 
+BP: 135/89
+HEENT: grossly normal thyroid: normal Chest: BS: clear, symmetric expansion Heart:RHB, no murmur Abdomen: soft and flat, no mass Ext:no edema, freely movable 
+Plan 
+1. Give OAD and inform the risk of hypoglycemia
+2. Check diabetic complication and co-morbidity 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O E05.90 Hyperthyroidism 慢  
+M E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保  2016/11/08 已確認 已批 張以承 用藥原因:12.1
+ 
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2016/11/08 已確認 已批 張以承 用藥原因:12.1
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/11/08 執行、已批 Specimen:UR1
+完成：2016/11/30
+ 張以承 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/11/08 執行、已批 Specimen:UR1
+完成：2016/11/30
+ 張以承 
+檢驗 09005CZP Glucose (AC) 1  N 2016/11/08 執行、已批 Specimen:BLO
+完成：2016/11/30
+ 張以承 
+檢驗 09006C0P HbA1c 1  N 2016/11/08 執行、已批 Specimen:BLO
+完成：2016/11/30
+ 張以承 
+檢驗 09044C0P LDL 1  N 2016/11/08 執行、已批 Specimen:BLO
+完成：2016/11/30
+ 張以承 
+檢驗 09106C0P Free T4 1  N 2016/11/08 執行、已批 Specimen:BLO
+完成：2016/11/30
+ 張以承 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/11/08 執行、已批 Specimen:BLO
+完成：2016/11/30
+ 張以承 
+ 

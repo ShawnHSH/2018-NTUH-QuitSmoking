@@ -1,0 +1,1792 @@
+﻿
+Subjective 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1030310) Consider low dose NSAID first, and watch out if fibrolmyalgia
+(1030324) No obvious side effect, arthralgia also improved, not taking celebrex
+(1030421) Condition statiaonry, consider monitor clinical condition
+(1030616) Back pain when lying down and difficult hand elevation, Still elevated IgA but mild improving, keep medicaiton, consider ultracet usage before sleep
+(1030811) Dominant elevated MCV, consider check folic acid/vit B 
+Objective 
+IgA 461->432->417->409
+ANA (-)
+HLA-B27 (-)
+Vit B12 602
+RF (-)
+IgG 1150
+CRP 0.08->0.11->0.08
+ESR 22
+D-dimer 1.56
+WBC 5210->4890->4580
+Hb 10.4->10.6->10.9
+PLT 147->153->154
+Cre 1.4->1.6->1.3
+MCV 116->117
+ALT 22->20
+AST 49
+UA 3.9
+Ca 2.31 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2014/08/11 已確認 已批 沈玠妤 重複原因:補給天數 (至下次預約門診日)
+ 
+(管4) Ultracet tab /tab 1 tab HSPRN PO 28 28 tab 健保  2014/08/11 已確認 已批 沈玠妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09130B0P Folic Acid 1  N 2014/08/10 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 09129B0P Vitamin B12 1  N 2014/08/10 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 09026CZP ALT(GPT) 1  N 2014/08/11 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 09015CZP Creatinine (Blood) 1  N 2014/08/11 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 09013CZP Uric acid 1  N 2014/08/11 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 09011CZP Calcium, Ca 1  N 2014/08/11 刪除、刪除、未看完 Specimen:BLO
+ 沈玠妤 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2014/08/11 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 08011CZP CBC & platelet 1  N 2014/08/11 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 08013CZP WBC classification 1  N 2014/08/11 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+檢驗 12027B0P IgA 1  N 2014/08/11 執行、已批 Specimen:BLO
+完成：2014/09/25
+ 沈玠妤 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2014/08/25 已確認 已批 劉雅芳 重複原因:補給天數 (至下次預約門診日);尚餘 2 日藥
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/08/25 已確認 已批 劉雅芳 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+Subjective 
+Palpitation for months
+under liver clinic 
+Objective 
+BP 124/72   mmHg
+HR 72   /min regular
+clear lung
+no edema 
+Plan 
+10/13 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0P ECG routine 1  N 2014/08/25 執行、已批 Specimen:ECG
+完成：2014/08/25
+ 張博淵 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2014/08/25 執行、已批 完成：2014/08/25
+ 張博淵 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2014/08/25 執行、已批 完成：2014/09/18
+ 張博淵 
+檢查 18019BXS 24-HRS Holter E.C.G.-２４小時連續記錄心電 1  N 2014/08/25 執行、已批 完成：2014/09/18
+ 張博淵 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2014/08/25 執行、已批 完成：2014/09/18
+ 張博淵 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2014/08/25 執行、已批 完成：2014/09/18
+ 張博淵 
+ 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2014/09/10 已確認 已批 宋美雯 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2014/09/24 已確認 已批 王瑞芬 重複原因:補給天數 (至下次預約門診日);尚餘 2 日藥
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/09/24 已確認 已批 王瑞芬 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+
+Subjective 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1030310) Consider low dose NSAID first, and watch out if fibrolmyalgia
+(1030324) No obvious side effect, arthralgia also improved, not taking celebrex
+(1030421) Condition statiaonry, consider monitor clinical condition
+(1030616) Back pain when lying down and difficult hand elevation, Still elevated IgA but mild improving, keep medicaiton, consider ultracet usage before sleep
+(1030811) Dominant elevated MCV, consider check folic acid/vit B
+(1031006) Mild inadequate Vit B12 and folic acid but otherwise staitonary 
+Objective 
+IgA 461->432->417->409->359
+ANA (-)
+HLA-B27 (-)
+Vit B12 602->776
+RF (-)
+IgG 1150
+CRP 0.08->0.11->0.08
+ESR 22
+D-dimer 1.56
+WBC 5210->4890->4580->4140
+Hb 10.4->10.6->10.9->10.1
+PLT 147->153->154->132
+Cre 1.4->1.6->1.3
+MCV 116->117
+ALT 22->20->22
+AST 49
+Cre 1.3
+UA 3.9
+Ca 2.31 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/10/06 已確認 已批 沈玠妤 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09130B0P Folic Acid 1  N 2014/10/06 刪除、刪除、未看完 Specimen:BLO
+ 沈玠妤 
+檢驗 09129B0P Vitamin B12 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 09026CZP ALT(GPT) 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 09015CZP Creatinine (Blood) 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 09013CZP Uric acid 1  N 2014/10/06 刪除、刪除、未看完 Specimen:BLO
+ 沈玠妤 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 08011CZP CBC & platelet 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 08013CZP WBC classification 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 12027B0P IgA 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 09035C0P Iron & TIBC 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+檢驗 08079B0P D-dimer 1  N 2014/10/06 執行、已批 Specimen:BLO
+完成：2014/12/18
+ 沈玠妤 
+ 
+
+
+
+Subjective 
+Palpitation for months, now improved
+under liver clinic
+ECG sinus with APCs, 58/min 
+Objective 
+BP 120/72  mmHg
+HR 66   /min regular
+clear lung
+no edema
+【20140925】Folic Acid: 19.6   ng/mL
+【20140925】HB: 10.1   g/dL
+【20140918】Transthoracic UCG(健保)(不得改為自費) : LVEF 78%
+【20140825】Chest : PA View (Standing) :Chest PA/AP shows normal heart size. multiple bilateral ribs fractures. 
+Plan 
+explain, no Rx
+self f/u 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+ 
+
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 1 tab PRN PO 28 15 tab 健保  2014/10/21 已確認 已批 陳培哲  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2014/10/21 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/10/21 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+自費 三價 Agrippal S1 0.5 mL/syrg 自費流感疫苗 1 syrg STAT IM 1 1 syrg 自費  2014/10/21 已確認 已批 陳培哲 劑別:A. 第一劑 (成人及國小學童請選本劑別)
+批號:149101
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2014/10/21 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 陳培哲 
+檢驗 09038CZP Albumin(Blood) 1  N 2014/10/21 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 陳培哲 
+檢驗 09025CZP AST(GOT) 1  N 2014/10/21 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2014/10/21 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 陳培哲 
+檢驗 09029CZP BIL T 1  N 2014/10/21 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 陳培哲 
+檢驗 09030CZP BIL D 1  N 2014/10/21 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 陳培哲 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2014/10/21 執行、已批 Reason for abodominal echo:.
+完成：2014/11/10
+ 陳培哲 
+治療 000Z3098 流感疫苗或破傷風類毒素注射費 1 自費 N 2014/10/21 執行、已批 完成：2014/10/21 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/05 已確認 已批 劉耀中 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2014/11/26 已確認 已批 吳進益 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/26 已確認 已批 吳進益 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/12/03 已確認 已批 黃麗臻 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2014/12/24 已確認 已批 劉耀中 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/12/24 已確認 已批 劉耀中 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+
+Subjective 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1030310) Consider low dose NSAID first, and watch out if fibrolmyalgia
+(1030324) No obvious side effect, arthralgia also improved, not taking celebrex
+(1030421) Condition statiaonry, consider monitor clinical condition
+(1030616) Back pain when lying down and difficult hand elevation, Still elevated IgA but mild improving, keep medicaiton, consider ultracet usage before sleep
+(1030811) Dominant elevated MCV, consider check folic acid/vit B
+(1031006) Mild inadequate Vit B12 and folic acid but otherwise staitonary
+(1031229) Clinical condition stationary, consider keep medication first, previous fracture, consider f/u 
+Objective 
+IgA 461->432->417->409->359->361
+ANA (-), HLA-B27 (-), RF (-)
+Vit B12 602->776->881
+IgG 1150
+CRP 0.08->0.11->0.08
+ESR 22
+D-dimer 1.56->1.82
+WBC 5210->4890->4580->4140->4920
+Hb 10.4->10.6->10.9->10.1->10.7
+PLT 147->153->154->132->164
+Cre 1.4->1.6->1.3->1.4
+MCV 116->117
+ALT 22->20->22->34
+AST 49
+Cre 1.3->1.4
+UA 3.9
+Ca 2.31
+Iron/TIBC 138/297 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/12/29 已確認 已批 沈玠妤 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09129B0P Vitamin B12 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 09026CZP ALT(GPT) 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 09015CZP Creatinine (Blood) 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 08011CZP CBC & platelet 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 08013CZP WBC classification 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 12027B0P IgA 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 09035C0P Iron & TIBC 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+檢驗 08079B0P D-dimer 1  N 2014/12/29 執行、已批 Specimen:BLO
+完成：2015/03/13
+ 沈玠妤 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 1 tab PRN PO 28 15 tab 健保  2015/01/13 已確認 已批 陳培哲  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/01/13 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/01/13 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/03/30
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/03/30
+ 陳培哲 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/03/30
+ 陳培哲 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/03/30
+ 陳培哲 
+檢驗 09002CZP BUN 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/03/30
+ 陳培哲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/03/30
+ 陳培哲 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/01/28 已確認 已批 陸蕙芬 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/02/11 已確認 已批 沈玉琴 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/11 已確認 已批 沈玉琴 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 070.32 Chronic hepatitis B (HBV) 慢  
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/25 已確認 已批 邵芷瑩 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/03/11 已確認 已批 劉耀中 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/03/11 已確認 已批 劉耀中 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+Subjective 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1030310) Consider low dose NSAID first, and watch out if fibrolmyalgia
+(1030324) No obvious side effect, arthralgia also improved, not taking celebrex
+(1030421) Condition statiaonry, consider monitor clinical condition
+(1030616) Back pain when lying down and difficult hand elevation, Still elevated IgA but mild improving, keep medicaiton, consider ultracet usage before sleep
+(1030811) Dominant elevated MCV, consider check folic acid/vit B
+(1031006) Mild inadequate Vit B12 and folic acid but otherwise staitonary
+(1031229) Clinical condition stationary, consider keep medication first, previous fracture, consider f/u
+(1040323) Clinical condition stioantary 
+Objective 
+IgA 461->432->417->409->359->361->381
+ANA (-), HLA-B27 (-), RF (-)
+Vit B12 602->776->881->841
+IgG 1150
+CRP 0.08->0.11->0.08->0.69
+ESR 22
+D-dimer 1.56->1.82->1.39
+WBC 4890->4580->4140->4920->5390
+Hb 10.4->10.6->10.9->10.1->10.7->10.8
+PLT 147->153->154->132->164->159
+Cre 1.4->1.6->1.3->1.4
+MCV 116->117
+ALT 22->20->22->34->20
+AST 49
+Cre 1.3->1.4
+UA 3.9
+Ca 2.31
+Iron/TIBC 138/297->95/280 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/03/23 已確認 已批 沈玠妤 重複原因:補給天數 (至下次預約門診日) 
+ 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/03/23 執行、已批 Specimen:UR1
+完成：2015/06/03
+ 沈玠妤 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/03/23 執行、已批 Specimen:UR1
+完成：2015/06/03
+ 沈玠妤 
+
+
+主/次 診斷碼 診斷名稱 註記 
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Hepsera, Cash 10 mg/tab 1 tab QD PO 90 90 tab 自費  2015/04/07 已確認 已批 陳培哲  
+Zeffix, Cash 100 mg/tab 1 tab QD PO 90 90 tab 自費  2015/04/07 已確認 已批 陳培哲  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/04/07 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/04/07 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/06/23
+ 陳培哲 
+檢驗 14032C0P HBsAg (EIA) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/06/23
+ 陳培哲 
+檢驗 09025CZP AST(GOT) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/06/23
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/06/23
+ 陳培哲 
+檢驗 09002CZP BUN 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/06/23
+ 陳培哲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/06/23
+ 陳培哲 
+
+
+主/次 診斷碼 診斷名稱 註記 
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/04/20 已確認 已批 陳盈君 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/05/05 已確認 已批 謝欣妤 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/05 已確認 已批 謝欣妤 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/20 已確認 已批 黃筱淳 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/06/03 已確認 已批 黃麗臻 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/06/03 已確認 已批 黃麗臻 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+Subjective 
+SpA 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1030616) Back pain when lying down and difficult hand elevation, Still elevated IgA but mild improving, keep medicaiton, consider ultracet usage before sleep
+(1030811) Dominant elevated MCV, consider check folic acid/vit B
+(1031006) Mild inadequate Vit B12 and folic acid but otherwise staitonary
+(1031229) Clinical condition stationary, consider keep medication first, previous fracture, consider f/u
+(1040323) Clinical condition stioantary
+(1040615) Joint condition staiotary, one episode of muscle sprain, otherwise stataionry, f/u serology 
+Objective 
+IgA 461->432->417->409->359->361->381
+ANA (-), HLA-B27 (-), RF (-)
+Vit B12 602->776->881->841
+IgG 1150
+CRP 0.08->0.11->0.08->0.69
+ESR 22
+D-dimer 1.56->1.82->1.39
+WBC 4890->4580->4140->4920->5390
+Hb 10.4->10.6->10.9->10.1->10.7->10.8
+PLT 147->153->154->132->164->159
+Cre 1.4->1.6->1.3->1.4
+MCV 116->117
+ALT 22->20->22->34->20
+AST 49
+Cre 1.3->1.4
+UA 3.9
+Ca 2.31
+Iron/TIBC 138/297->95/280
+U/A pro (+/-), wbc (0-2) 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/06/15 已確認 已批 沈玠妤 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09129B0P Vitamin B12 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 08011CZP CBC & platelet 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 08013CZP WBC classification 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 12027B0P IgA 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 09035C0P Iron & TIBC 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+檢驗 08079B0P D-dimer 1  N 2015/06/14 執行、已批 Specimen:BLO
+完成：2015/08/28
+ 沈玠妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/06/30 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/06/30 已確認 已批 陳培哲 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/06/30 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 陳培哲 
+檢驗 09025CZP AST(GOT) 1  N 2015/06/30 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/30 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 陳培哲 
+檢驗 09029CZP BIL T 1  N 2015/06/30 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 陳培哲 
+檢驗 09030CZP BIL D 1  N 2015/06/30 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 陳培哲 
+檢驗 09002CZP BUN 1  N 2015/06/30 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 陳培哲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/06/30 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 陳培哲 
+ 
+
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/07/15 已確認 已批 邱秀珍 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/07/29 已確認 已批 劉耀中 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/07/29 已確認 已批 劉耀中 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/12 已確認 已批 劉婉華 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/08/26 已確認 已批 劉婉華 重複原因:補給天數 (至下次預約門診日)
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/26 已確認 已批 劉婉華 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+ 
+Subjective 
+SpA 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1030811) Dominant elevated MCV, consider check folic acid/vit B
+(1031006) Mild inadequate Vit B12 and folic acid but otherwise staitonary
+(1031229) Clinical condition stationary, consider keep medication first, previous fracture, consider f/u
+(1040323) Clinical condition stioantary
+(1040615) Joint condition staiotary, one episode of muscle sprain, otherwise stataionry, f/u serology
+(1040907) Joint condition statioanry, otherwise stationary, 
+Objective 
+IgA 417->409->359->361->381->413
+ANA (-), HLA-B27 (-), RF (-)
+Vit B12 602->776->881->841->793
+IgG 1150
+CRP 0.08->0.11->0.08->0.69->0.11
+ESR 22
+D-dimer 1.56->1.82->1.39->1.8
+WBC 4580->4140->4920->5390->5490
+Hb 10.6->10.9->10.1->10.7->10.8->10
+PLT 153->154->132->164->159->162
+Cre 1.4->1.6->1.3->1.4->1.5
+MCV 116->117->121
+ALT 22->20->22->34->20->22
+AST 49
+Cre 1.3->1.4
+UA 3.9
+Ca 2.31
+Iron/TIBC 138/297->95/280->89/248
+U/A pro (+/-), wbc (0-2) 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/07 已確認 已批 沈玠妤 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08079B0P D-dimer 1  N 2015/09/06 刪除、刪除、未看完 Specimen:BLO
+ 沈玠妤 
+檢驗 09129B0P Vitamin B12 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 09026CZP ALT(GPT) 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 08011CZP CBC & platelet 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 08013CZP WBC classification 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 12027B0P IgA 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 09035C0P Iron & TIBC 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 09033CZP LDH 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 12046B0P Haptoglobulin 1  N 2015/09/06 刪除、刪除、未看完 Specimen:BLO
+ 沈玠妤 
+檢驗 09130B0P Folic Acid 1  N 2015/09/06 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+檢驗 09013CZP Uric acid 1  N 2015/09/07 執行、已批 Specimen:BLO
+完成：2015/11/19
+ 沈玠妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/09/22 已確認 已批 陳培哲 重複原因:病人因素(補給天數並延後回診); 1 日藥量
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/22 已確認 已批 陳培哲 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/12/03
+ 陳培哲 
+檢驗 09025CZP AST(GOT) 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/12/03
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/12/03
+ 陳培哲 
+檢驗 09002CZP BUN 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/12/03
+ 陳培哲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/12/03
+ 陳培哲 
+檢驗 08026CZP PT 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/12/03
+ 陳培哲 
+檢驗 08036BZP PTT 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/12/03
+ 陳培哲 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/02 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+CC: for influenza
+pH:liver cirrhosis
+allergy hx:denied, egg(-) 
+Objective 
+BT:36.6'C
+Chest:bil.clear breath sound
+Heart:RHB, no murmur 
+Plan 
+1. for Influenza 
+2. well explain
+
+R3呂昀珊/VS程劭儀 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O V04.8 Need for prophylactic vaccination and inoculation against influenza  
+M 571.5 Cirrhosis of Liver 重 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+0.5免 Vaxigrip 0.5 mL/syrg 免費流感疫苗 1 syrg STAT IM 1 1 syrg 內含  2015/10/14 已確認 已批 呂昀珊 劑別:A. 第一劑 (成人及含國小以上學生請選本劑別)
+批號:M7241-1-CDC
+用藥原因:50-64歲高風險慢性病患(接種年－出生年＝50～64) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/10/21 已確認 已批 林威良  
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/21 已確認 已批 林威良 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+O 780.52 失眠 Insomnia  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/04 已確認 已批 張筱涓 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/11/18 已確認 已批 張筱涓  
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/18 已確認 已批 張筱涓 
+ 
+
+
+Subjective 
+SpA 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1031006) Mild inadequate Vit B12 and folic acid but otherwise staitonary
+(1031229) Clinical condition stationary, consider keep medication first, previous fracture, consider f/u
+(1040323) Clinical condition stioantary
+(1040615) Joint condition staiotary, one episode of muscle sprain, otherwise stataionry, f/u serology
+(1040907) Joint condition statioanry, otherwise stationary, mild anemia, keep medication 
+(1041130) One episode of AGE, joint condition stiaontary, creatinin mild progress, otherwise stationary. Anemia, consider check stool OB 
+Objective 
+IgA 417->409->359->361->381->413->386
+ANA (-), HLA-B27 (-), RF (-)
+Vit B12 602->776->881->841->793
+IgG 1150
+CRP 0.11->0.08->0.69->0.11->0.08
+ESR 22
+D-dimer 1.56->1.82->1.39->1.8
+WBC 4140->4920->5390->5490->4620
+Hb 10.9->10.1->10.7->10.8->10->9.5
+PLT 154->132->164->159->162->156
+Cre 1.4->1.6->1.3->1.4->1.5->1.5
+MCV 116->117->121
+ALT 22->20->22->34->20->22->24
+AST 49
+Cre 1.3->1.4
+UA 3.9
+Ca 2.31
+LDH 201
+Vit B12 654
+Iron/TIBC 111/273
+Iron/TIBC 138/297->95/280->89/248
+U/A pro (+/-), wbc (0-2) 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/30 已確認 已批 沈玠妤 重複原因:病人因素(補給天數並延後回診) 
+ 
+
+ 檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/11/28 執行、已批 Specimen:UR1
+完成：2016/02/17
+ 沈玠妤 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/11/28 執行、已批 Specimen:UR1
+完成：2016/02/17
+ 沈玠妤 
+檢驗 09134CZP Stool: occult blood (免疫定量法) 1  N 2015/11/30 執行、已批 Specimen:STO
+完成：2016/02/17
+ 沈玠妤 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/12/15 已確認 已批 陳培哲 重複原因:病人因素(補給天數並延後回診); 1 日藥量
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/15 已確認 已批 陳培哲 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 14032C0P HBsAg (EIA) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09025CZP AST(GOT) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09002CZP BUN 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/30 已確認 已批 黃麗臻 
+ 
+
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/12/15 已確認 已批 陳培哲 重複原因:病人因素(補給天數並延後回診); 1 日藥量
+ 
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/15 已確認 已批 陳培哲 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 14032C0P HBsAg (EIA) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09025CZP AST(GOT) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09002CZP BUN 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/15 執行、已批 Specimen:BLO
+完成：2016/02/24
+ 陳培哲 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/30 已確認 已批 黃麗臻 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2016/01/06 已確認 已批 彭婉柔  
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/06 已確認 已批 彭婉柔 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 571.5 Cirrhosis of Liver 重 慢 職  
+O 294.8 Other specified organic brain syndromes (chronic) 重 慢  
+O 780.52 失眠 Insomnia  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2016/01/27 已確認 已批 彭婉柔  
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/27 已確認 已批 彭婉柔 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 279.4 Autoimmune disease, not elsewhere classified 重 罕  
+O 729.1 Myofascial pain syndrome  
+O 845.10 Foot and toe sprain 外  
+O 715.37 Osteoarthritis, ankle tarsal bone 慢 傳  
+O 780.52 失眠 Insomnia  
+O 716.90 Seronegative arthritis 慢  
+O 571.5 Cirrhosis of Liver 重 慢 職  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/27 已確認 已批 彭婉柔 
+ 
+
+
+Subjective 
+SpA 
+Complained costal tenderenss for about half year, more severe when moving, and if lying flat, maybe tenderness at night 
+PET : no obvious uptake, mild arthritis change 
+PH : HBV with Liver cirrhosis (+)s/p TIPS, DM (-), HTN (-) spondylolisthesis
+
+(1031229) Clinical condition stationary, consider keep medication first, previous fracture, consider f/u
+(1040323) Clinical condition stioantary
+(1040615) Joint condition staiotary, one episode of muscle sprain, otherwise stataionry, f/u serology
+(1040907) Joint condition statioanry, otherwise stationary, mild anemia, keep medication 
+(1041130) One episode of AGE, joint condition stiaontary, creatinin mild progress, otherwise stationary. Anemia, consider check stool OB
+(1050222) Stationary condition, stool OB (+) but AGE recently, consider f/u Hb and stool , otherwise staitonary 
+Objective 
+IgA 417->409->359->361->381->413->386
+ANA (-), HLA-B27 (-), RF (-)
+Vit B12 602->776->881->841->793
+IgG 1150
+CRP 0.11->0.08->0.69->0.11->0.08
+ESR 22
+D-dimer 1.56->1.82->1.39->1.8
+WBC 4920->5390->5490->4620->4450
+Hb 10.1->10.7->10.8->10->9.5->9.9
+PLT 132->164->159->162->156->152
+Cre 1.4->1.6->1.3->1.4->1.5->1.5
+MCV 116->117->121
+ALT 22->34->20->22->24->27
+AST 49->51
+Cre 1.3->1.4->1.6
+UA 3.9
+Ca 2.31
+LDH 201
+Vit B12 654
+Iron/TIBC 111/273
+Iron/TIBC 138/297->95/280->89/248
+U/A pro (+/-)->(1+), wbc (0-2)
+Stool OB (+) 
+Assessment 
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.3.No definite evidence of hepatic tumor.4.S/P Cholecystectomy. S/P Splenectomy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M35.9 Autoimmune disease 慢  
+O M19.90 Seronegative arthritis 慢 傳  
+O K74.60 Cirrhosis of liver 重 慢 職  
+O B18.1 Chronic hepatitis B 慢  
+O G47.00 Insomnia, unspecified 慢  
+O M79.1 Myofascial pain syndrome 慢  
+O S93.609A Foot sprain, unspecified side 慢 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/22 已確認 已批 沈玠妤 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09129B0P Vitamin B12 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 08011CZP CBC & platelet 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 08013CZP WBC classification 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 12027B0P IgA 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 09035C0P Iron & TIBC 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+ 檢驗 09130B0P Folic Acid 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 09013CZP Uric acid 1  N 2016/02/21 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 沈玠妤 
+檢驗 09134CZP Stool: occult blood (免疫定量法) 1  N 2016/02/22 報到、已批 Specimen:STO
+ 沈玠妤 
+治療 000Z3028 COPY FOR EXAMINIZATION REPORT<10 1 自費 N 2016/02/22 執行、已批 完成：2016/02/22
+ 沈玠妤 
+
+
+
+
+M K74.60 Cirrhosis of liver 重 慢 職  
+O F06.8 Other specified mental disorders due to known physiological condition 重 慢 複  
+O B18.1 Chronic hepatitis B 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2016/03/08 已確認 已批 陳培哲  
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/08 已確認 已批 陳培哲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/03/08 執行、已批 Specimen:BLO
+完成：2016/05/23
+ 陳培哲 
+檢驗 09025CZP AST(GOT) 1  N 2016/03/08 執行、已批 Specimen:BLO
+完成：2016/05/23
+ 陳培哲 
+檢驗 09026CZP ALT(GPT) 1  N 2016/03/08 執行、已批 Specimen:BLO
+完成：2016/05/23
+ 陳培哲 
+檢驗 14032C0P HBsAg (EIA) 1  N 2016/03/08 執行、已批 Specimen:BLO
+完成：2016/05/23
+ 陳培哲 
+檢驗 09002CZP BUN 1  N 2016/03/08 執行、已批 Specimen:BLO
+完成：2016/05/23
+ 陳培哲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/03/08 執行、已批 Specimen:BLO
+完成：2016/05/23
+ 陳培哲 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M35.9 Autoimmune disease 慢  
+O M19.90 Seronegative arthritis 慢 傳  
+O K74.60 Cirrhosis of liver 重 慢 職  
+O B18.1 Chronic hepatitis B 慢  
+O G47.00 Insomnia, unspecified 慢  
+O M79.1 Myofascial pain syndrome 慢  
+O S93.609A Foot sprain, unspecified side 慢 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/16 已確認 已批 宋美雯 
+ 
+
+Subjective 
+dysphagia for one week 
+smoking: 
+drinking : 
+betel nut: 
+
+Liver cirrhosis due to HBV s/p TIPS , splentomy 
+Esophageal varices with bleeding before TIPS 
+Objective 
+【20160224】HBsAg: Positive(57.46)   IU/mL
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.
+2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.
+3.No definite evidence of hepatic tumor.
+4.S/P Cholecystectomy. S/P Splenectomy. 
+Plan 
+PES 
+RTC 3day 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R13.10 Dysphagia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2016/03/23 已確認 已批B 黃嘉涵  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W Surgical pathology Level IV 1  N 2016/03/23 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/03/24
+ 黃嘉涵 
+檢查 28016CZS [總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查 1  N 2016/03/21 執行、已批 完成：2016/03/23
+ 李章銘 
+治療 28030C0S ENDOSCOPIC BIOPSY EACH EXAM. 1  N 2016/03/23 執行、已批 完成：2016/03/23
+ 黃嘉涵 
+醫材 20430824 SINGLE USE BIOPSY FORCEPS 1 內含 N 2016/03/23 執行、已批 完成：2016/03/23
+ 黃嘉涵 
+ 
+
+
+Subjective 
+dysphagia for one week 
+smoking: 
+drinking : 
+betel nut: 
+
+Liver cirrhosis due to HBV s/p TIPS , splentomy 
+Esophageal varices with bleeding before TIPS 
+Objective 
+【20160224】HBsAg: Positive(57.46)   IU/mL
+【20130802】CT With/Without Contrast-Abdomen :1.Liver cirrhosis.
+2.S/P TIPS from RHV to MPV. Partial thrombosis of RHV and MPV.
+3.No definite evidence of hepatic tumor.
+4.S/P Cholecystectomy. S/P Splenectomy.
+【20160323】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O esophageal cancer
+ Indication :   Dysphagia
+ Instrument :   GIF-Q260                          .13
+ Pre-medication :  Buscopan
+ Anesthesia :      Nil
+ Medicine history : Nil
+ Endoscopic Findings
+   Esophagus :
+     One easily-touch bleeding irregular mass lesion occupied at least half 
+     circumference of the lumen(with mild luminal stenosis) was noted form 32cm to 
+     38cm below incisors, s/p biopsyx4
+     Multiple yellowish-whitish coatings were noted at whole esophagus
+   Stomach :
+     Hyperemic patches and snake-skin appearance were noted at body and fundus
+     Engorged varices were noted at cardia and fundus
+   Duodenum :
+     There were no ulcers nor scars in the bulb and second portion
+ Endoscopic Diagnosis 
+   Esophagus :
+     Esophageal cancer, lower esophagus(32-38cm below insicors), s/p biopsy
+   Stomach :
+     Congestive gastropathy, body and fundus
+     Esophageal varices, cardia and fundus
+   Duodenum :
+     Negative
+ HP Test :
+   Not done
+ Complication :
+   Nil 
+Plan 
+Admission for staging 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+
+
+
+
+Subjective 
+esophageal cancer, 
+oral cancer, 
+retromolar trigone and tongue cancers 
+Objective 
+Oral cavity, tongue, left border, wide excision, squamous cell carcinoma
+Oral cavity, alveolar mucosa, retromolar, left upper, wide excision, squamous cell carcinoma
+【20160426】癌症治療效果追蹤評估 Disease Status:
+No evidence of recurrence or metastases 
+Plan 
+f/u 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O R13.10 Dysphagia 慢  
+O C15.9 Esophageal cancer 重 慢 癌  
+M C06.9 Oral cancer 重 慢 癌  
+O C15.3 Esophagus cancer, upper third 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lindacin 150 mg/cap 1 cap QD GA 28 28 cap 健保  2016/04/26 已確認 已批 王成平  
+B.C. /cap 1 cap BID PO 28 56 cap 自費  2016/04/26 已確認 已批 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M K74.60 Cirrhosis of liver 重 慢 職  
+O F06.8 Other specified mental disorders due to known physiological condition 重 慢 複  
+O B18.1 Chronic hepatitis B 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2016/04/27 已確認 已批 陳冠伶  
+(DC)NOOTROPIL 1200 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/27 已確認 已批 陳冠伶 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M35.9 Autoimmune disease 慢  
+O M19.90 Seronegative arthritis 慢 傳  
+O K74.60 Cirrhosis of liver 重 慢 職  
+O B18.1 Chronic hepatitis B 慢  
+O G47.00 Insomnia, unspecified 慢  
+O M79.1 Myofascial pain syndrome 慢  
+O S93.609A Foot sprain, unspecified side 慢 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salazine EC 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/27 已確認 已批 陳冠 
+ 
+
+
+Subjective 
+HBV-cirrhosis, c/b EV, hypersplenism, s/p TIPS(II)
+Initial presentation: dysphagia for two weeks, weight loss 
+Objective 
+BW 56kg(4/27)
+
+【20160416】1.Left lower lung tumor2. Group 7,11 lymph nodes :Lung,lower lobe, left,VATS wedge resection,squamous cell carcinoma,metastatic     Lymph node,group 7,,lymphadenectomy,anthracosis (2/2),    Lymph node,group 11, lymphadenectomy,anthracosis (2/2),    
+
+【20160407】. :Esophagus,25 cm below incisors,endoscopic biopsy,dysplasia,moderate     Esophagus,31cm below incisors,endoscopic biopsy,dysplasia,moderate     
+
+【20160407】E.U.S.內視鏡超音波檢查－上消化道( 內視鏡科 ) :E
+Diagnosis :
+  Esophageal cancer, 31cm below incisor, with obstruction, cT3N2, s/p biopsy
+  Esophageal dysplasia, 25-31cm below incisor, s/p biopsy
+  Post partial glossectomy
+Preliminary Cytology Diagnosis :
+  Nil
+
+【20160402】1.left tongue tumor 2.left retromolar trigone tumor :Oral cavity,tongue, left border,wide excision,squamous cell carcinoma     Oral cavity,alveolar mucosa, retromolar, left upper,wide excision,squamous cell carcinoma     
+
+【20160330】Whole body FDG (健保) :1. Probable lower esophageal cancer with metastases at lower paraesophageal, diaphragamatic and gastric lymph nodes.
+2. Suspect malignancy at LLL nodule. Suggest tissue proof.
+
+【20160328】CT With/Without Contrast-Brain :No obvious brain or neck metastasis
+
+【20160324】. :Esophagus,lower,endoscopic biopsy,squamous cell carcinoma 
+Assessment 
+1. Esophageal cancer, squamous cell carcinoma, 31cm below incisor with obstruction, cT3N2M1 with lung metastasis(pathology: frequent tumor emboli), s/p left lower lobe VATS wedge resection on 2016/04/15
+2.Synchronous oral cavity squamous cell carcinoma; left tongue border, status post partial glossectomy on 2016/04/01, pT2Nx; left upper retromolar trigone, status post wide excision, pT1Nx, close margin(0.1mm); both margin involved by dysplasia 
+Plan 
+Simulation on 5/12 10:00 NPO4 hr
+Start RT on 5/18 LA3 for 25 fractions 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+O C06.9 Oral cancer 重 慢 癌  
+O C15.3 Esophagus cancer, upper third 重 慢 癌  
+ 
+
+
+Subjective 
+xRT plan: 
+Simulation on 5/12 10:00 NPO4 hr
+Start RT on 5/18 LA3 for 25 fractions
+
+Progressive dysphagia x 2 months (now dysphagia, Gr 3-4/6)
+No BW loss; 
+
+[PH]
+1) HBV related liver cirrhosis since1998
+2) Esophageal varices bleeding status post transjugular intrahepatic portosystemic shunt with TIPS dysfunction in 南京軍區醫院 on 2002/12/31.
+3) Hypersplenism status post Modified Sugiura Procedure performed by Prof Lee PH on 2003/04/04
+HBV-cirrhosis, c/b EV, hypersplenism, s/p TIPS(II)
+Initial presentation: dysphagia for two weeks, weight loss 
+Objective 
+BW 56Kg
+ECOG-PS ~1
+Neck LAP(-)
+Chest clear BS
+Abd no ascites, J-tube wound (+)
+No leg edema 
+
+【20160407】E.U.S.內視鏡超音波檢查－上消化道 
+Endoscopic Findings :
+  Several surgical stitches were noted at tongue. One ulcerative mass was noted at 31cm below incisor, with luminal obstrucion. The scope could not pass through. Magnified endoscopy with NBI showed JES-ME type B3 at the main tumor lesion and type B1-2 from 25cm to 31cm below incisor. Lugol chromoendoscopy showed large unstained area with pink color sign over the tumor, s/p biopsy (A); there were also several small unstained area from 25cm to 31cm below incisor. A large LVL was noted at 25cm below incisor, s/p biopsy(B).
+Endoscopic Ultrasound Findings :
+  EUS with Olympus UM-DP12-25R miniprobe showed circumferential wall thickening with destruction of whole esophageal layers at middle to lower esophagus  (length up to 11cm, depth up to 1.4cm). At least three hypoechoic nodular lesions (up to 0.9cm) were found at paraesophageal space. 
+           
+Diagnosis :
+  Esophageal cancer, 31cm below incisor, with obstruction, cT3N2, s/p biopsy
+  Esophageal dysplasia, 25-31cm below incisor, s/p biopsy
+
+==> 
+【20160407】. :Esophagus,25 cm below incisors,endoscopic biopsy,dysplasia,moderate     Esophagus,31cm below incisors,endoscopic biopsy,dysplasia,moderate     
+
+【20160330】Whole body FDG (健保) :1. Probable lower esophageal cancer with metastases at lower paraesophageal, diaphragamatic and gastric lymph nodes.
+2. Suspect malignancy at LLL nodule. Suggest tissue proof.
+BW 56kg(4/27)
+
+【20160416】1.Left lower lung tumor2. Group 7,11 lymph nodes :Lung,lower lobe, left,VATS wedge resection,squamous cell carcinoma,metastatic     Lymph node,group 7,,lymphadenectomy,anthracosis (2/2),    Lymph node,group 11, lymphadenectomy,anthracosis (2/2),    
+
+【20160407】. :Esophagus,25 cm below incisors,endoscopic biopsy,dysplasia,moderate     Esophagus,31cm below incisors,endoscopic biopsy,dysplasia,moderate     
+
+【20160407】E.U.S.內視鏡超音波檢查－上消化道( 內視鏡科 ) :E
+Diagnosis :
+  Esophageal cancer, 31cm below incisor, with obstruction, cT3N2, s/p biopsy
+  Esophageal dysplasia, 25-31cm below incisor, s/p biopsy
+  Post partial glossectomy
+Preliminary Cytology Diagnosis :
+  Nil
+
+【20160402】1.left tongue tumor 2.left retromolar trigone tumor :Oral cavity,tongue, left border,wide excision,squamous cell carcinoma     Oral cavity,alveolar mucosa, retromolar, left upper,wide excision,squamous cell carcinoma     
+
+【20160330】Whole body FDG (健保) :1. Probable lower esophageal cancer with metastases at lower paraesophageal, diaphragamatic and gastric lymph nodes.
+2. Suspect malignancy at LLL nodule. Suggest tissue proof.
+
+【20160328】CT With/Without Contrast-Brain :No obvious brain or neck metastasis
+
+【20160324】. :Esophagus,lower,endoscopic biopsy,squamous cell carcinoma 
+Assessment 
+[Oncolog Summary]
+1) Esophageal Cancer, squamous cell carcinoma, of lower esophagus with upper abdominal LN and lung mets, s/p metastasectomy of left lung met (2016/4/15)
+1. Esophageal cancer, squamous cell carcinoma, 31cm below incisor with obstruction, cT3N2M1 with lung metastasis(pathology: frequent tumor emboli), s/p left lower lobe VATS wedge resection on 2016/04/15
+2.Synchronous oral cavity squamous cell carcinoma; left tongue border, status post partial glossectomy on 2016/04/01, pT2Nx; left upper retromolar trigone, status post wide excision, pT1Nx, close margin(0.1mm); both margin involved by dysplasia 
+Plan 
+Treatment plan: definitive CRT using platinum/5-FU combination. 
+
+--My suggestion on 2016/4/26--
+Explain to the patient/family the disease status (stage IV disease), and the potential treatment options (which are all palliative). 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.3 Malignant neoplasm of upper third of esophagus 重 慢 癌  
+O C15.9 Esophageal cancer 重 慢 癌  
+O C06.9 Oral cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 08013CZP WBC classification 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09038CZP Albumin(Blood) 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09025CZP AST(GOT) 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09029CZP BIL T 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09030CZP BIL D 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09002CZP BUN 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09021CZP Sodium, Na 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09022CZP Potassium, K 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09011CZP Calcium, Ca 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 09037C0P Ammonia(STAT) 1  N 2016/04/28 執行、已批 Specimen:BLO
+完成：2016/05/09
+ 徐志宏 
+檢驗 12080B0P SCC 1  N 2016/04/28 執行、 
+ 
+

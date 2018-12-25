@@ -1,0 +1,823 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M V70.7 Healthy Volunteer  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 08013CZP WBC differential count 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 11001C0P ABO Typing 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 11003CYP Rh Typing 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09005CZP Glucose (AC) 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09005CYP Glucose (PC 2h) 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 000PP204 B.C.S. 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09031CZP Gamma-GT, GGT 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09032CZP Creatine Kinase, CK 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09017CZP Amylase 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09043C0P HDL 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09044C0P LDL 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 27049C0P Alpha-FetoProtein(AFP) 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 14051C0P Anti-HCV Ab 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09022CZP Potassium, K 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09021CZP Sodium, Na 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09023CZP Chloride, Cl 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 12001C0P Syphilis (VDRL) 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 12081B0P PSA 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 06012CZP 尿一般檢查 1 內含 Y 2015/01/07 執行、已批 檢體： UR1
+完成：2015/01/07
+ 吳明賢 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 Y 2015/01/07 執行、已批 檢體： UR1
+完成：2015/01/07
+ 吳明賢 
+檢驗 09134CZP 糞便潛血免疫分析 1 內含 Y 2015/01/07 執行、已批 檢體： STO
+完成：2015/01/07
+ 吳明賢 
+檢驗 09006C0P HbA1c 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 14032C0P HBsAg (EIA) 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 14033CZP Anti-HBs Ab quantification 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 12015CWP Ｃ反應性蛋白試驗（生化室） 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 27027B0P Free T4 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 27004C0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 27055B0T CA19-9 (RIA) 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 27050BZT CEA (RIA) (Serum) 1 內含 Y 2015/01/07 執行、已批 檢體： BLO
+完成：2015/01/07
+ 吳明賢 
+檢驗 000028TH C-13 UREASE BREATH TEST 1 內含 Y 2015/01/07 執行、已批 檢體： GAS
+完成：2015/01/07
+ 吳明賢 
+影醫 32011CZM L Spine (Lateral View) 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+影醫 32006C0M Abdomen:KUB 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+影醫 000M4A02 Low dose lung cancer screening CT 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000036TH EKG(Electrocardiography) 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000017TH SCREENING SPIROMETRY 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000029TH BODY COMPOSITION ANALYSIS 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000012TH CONSULTATION 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000003TH CONSULTATION 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000037TH Uroflow 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000E0404 Best corrected visual acuity 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000E0407 Autorefraction 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 23401C00 Slit lamp exam 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 23501C00 Funduscopic exam 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 23305CZ0 氣壓式眼壓測定 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000032TH AUDIOMETRY(PURE TONE) 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000020TH SONOGRAPHY: ABDOMEN 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000033TH UPPER G. I. PANENDOSCOPY 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000035TH COLONOSCOPY 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000001TH NUTRITIONAL CONSULTANT(GROUP) 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000002TH NUTRITIONAL CONSULTANT(INDIVIDUAL) 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000013TH REPORT(1) 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000014TH CONSULTATION 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 00022265 Health check lunch 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000048TH Anesthesia, for endoscopy(Gastroscope+Colonscope) 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+治療 000023TH SONOGRAPHY: THYROID 1 內含 Y 2015/01/07 執行、已批 完成：2015/01/07
+ 吳明賢 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+referred form 健檢中心 due to tongue tip lesion for 10 years
+Ask for biopsy
+
+現病史：
+The lesion: not increased size, non-tenderness, no ulceration
+tongue movement OK
+No tungue numbness
+BW loss(+): due to work hard?
+no sore throat
+No blood-tinged sputum
+
+
+過去病史：
+Nil
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：不清楚 
+
+
+目前用藥：
+NA
+
+最近三個月內旅游史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+tongue tip small lesion 
+Assessment 
+Tongue tip fibroma 
+Plan 
+OPD OR excision (LA) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Oral tumor 
+ 
+
+Subjective 
+Urinary frequency for 6 months
+residual urine sensation
+PH: 
+DM(-), HTN (-), CAD(-)
+Denied other systemic diseases
+Allergies: nil 
+Objective 
+【20150107】Serum PSA: 1.125   ng/mL
+【20150107】RBC (S): 0-2   /HPF 
+Assessment 
+BPH
+R/O OAB
+ED 
+Plan 
+PRL, testosterone, LH
+RTC 1W
+ask for circumcision (cash) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 7 7 tab 健保  2015/01/13 已確認 已批 陳忠信 
+ 
+檢驗 09126C0P LH 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 陳忠信 
+檢驗 27011BZT Prolactin 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 陳忠信 
+檢驗 09121B0P Testosterone 1  N 2015/01/13 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 陳忠信 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Oral tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cephalexin 250 mg/cap 1 cap QID PO 3 12 cap 健保  2015/01/16 已確認 已批 林傳益  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2015/01/16 已確認 已批 林傳益  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX AS ORDER OR 3 1 tube 健保  2015/01/16 已確認 已批 林傳益 
+ 
+病理 25004C0W Surgical pathology Level IV 1  N 2015/01/16 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/01/16
+ 周佩玲 
+治療 71011C00 Biopsy of oral mucosa 1  N 2015/01/14 執行、已批 主副刀:1
+手術起時:2015/01/16 00:00
+手術迄時:2015/01/16 00:00
+完成：2015/01/16
+ 林傳益 
+醫材 20450405 電刀回路板 1  N 2015/01/16 執行、已批 完成：2015/01/16
+ 古慧質 
+醫材 20300240 Ｄｅｘｏｎ縫合線 1  N 2015/01/16 執行、已批 完成：2015/01/16
+ 古慧質 
+醫材 20461012 密閉式抽吸系統蓄積袋 (白) 1  N 2015/01/16 執行、已批 完成：2015/01/16
+ 古慧質 
+
+主/次 診斷碼 診斷名稱 注記 
+M 605 Redundant prepuce and phimosis 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 自費  2015/01/19 已確認 已批 洪士鈞  
+眼 Tetracycline Oph Oint 10 mg/1 g 1% 5 g/tube 1 XX QD D 3 1 tube 自費  2015/01/19 已確認 已批 洪士鈞  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000G0132 包皮手術 1 自費 N 2015/01/19 執行、已批 主副刀:1
+手術起時:2015/01/19 12:14
+手術迄時:2015/01/19 12:14
+完成：2015/01/19
+ 周詠智 
+ 
+
+Subjective 
+Urinary frequency for 6 months
+residual urine sensation
+PH: 
+DM(-), HTN (-), CAD(-)
+Denied other systemic diseases
+Allergies: nil 
+Objective 
+【20150107】Serum PSA: 1.125   ng/mL
+【20150107】RBC (S): 0-2   /HPF
+【20150114】Prolactin: 22.6   ng/ml
+【20150114】LH: 11.3   mIU/mL
+【20150114】Testosterone: 6.62   ng/mL 
+Assessment 
+BPH
+Phimosis
+R/O OAB
+ED
+Hyperprolactinemia 
+Plan 
+wound dressing
+PRL (2w)
+RTC 2w
+乙診 包皮過長 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 605 Phimosis 男  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 27011BZT Prolactin 1  N 2015/01/20 執行、已批 Specimen:BLO
+完成：2015/01/30
+ 陳忠信 
+治療 48025C00 拆線(10CM以下) 1  N 2015/01/20 刪除、刪除、未看完 完成：2015/01/20
+ 陳忠信 
+治療 000Z3043 中文診斷書 1 自費 N 2015/01/20 執行、已批 完成：2015/01/20
+ 陳忠信 
+治療 48011C00 手術創傷處置及換藥-小 1  N 2015/01/20 執行、已批 完成：2015/01/20
+ 陳忠信 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2015/01/20 執行、已批 完成：2015/01/20
+ 陳忠信 
+ 
+
+Subjective 
+for report 
+Objective 
+Oral cavity, tongue, tip, excision, fibroepithelial polyp 
+Plan 
+certification *2 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Oral tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/01/23 已確認 已批 林志峰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z3043 中文診斷書 1 自費 N 2015/01/23 執行、已批 完成：2015/01/23
+ 林志峰 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2015/01/23 執行、已批 完成：2015/01/23
+ 林志峰 
+ 
+
+Subjective 
+Urinary frequency for 6 months
+residual urine sensation
+20150203 stationary
+PH: 
+DM(-), HTN (-), CAD(-)
+Denied other systemic diseases
+Allergies: nil 
+Objective 
+【20150107】Serum PSA: 1.125   ng/mL
+【20150107】RBC (S): 0-2   /HPF
+【20150114】Prolactin: 22.6   ng/ml
+【20150114】LH: 11.3   mIU/mL
+【20150114】Testosterone: 6.62   ng/mL
+-【20150130】Prolactin: 7.67   ng/ml 
+Assessment 
+BPH
+Phimosis
+R/O OAB
+ED
+Hyperprolactinemia 
+Plan 
+Observation
+Kegel exercise 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 605 Phimosis 男  
+ 
+
+Subjective 
+right ankle injury 3 months (被高跟鞋踩到)
+discomft at posterolateral aspect of right ankle after prolonged walking
+right ankle injury 3 months (被高跟鞋踩到)
+discomft at posterolateral aspect of right ankle after prolonged walking 
+Objective 
+U/S: a well defined hypoechoic nodule at posterior-lateral ankle,R/O Linear fracture, postero-lateral talus.
+
+no obvious swelling at right ankle
+
+toe gait: mild soreness at posterolateral aspect of right ankle, near peroneal tendons
+heel gait: ok
+
+no heel varus or valgus
+mild tenderness at right peroneus tendon at the posterior aspect of lateral malleolus
+no obvious swelling at right ankle
+
+toe gait: mild soreness at posterolateral aspect of right ankle, near peroneal tendons
+heel gait: ok
+
+no heel varus or valgus
+mild tenderness at right peroneus tendon at the posterior aspect of lateral malleolus 
+Assessment 
+r/o peroneus tendon injury???
+r/o peroneus tendon injury??? 
+Plan 
+X-ray: right ankle AP/LAT
+soft tissue echo
+X-ray: right ankle AP/LAT
+soft tissue echo
+MRI: right ankle
+CRE,BUN 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 719.47 Ankle pain  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP BUN 1  N 2015/04/29 執行、已批 Specimen:BLO
+完成：2015/04/29
+ 王崇禮 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/04/29 執行、已批 Specimen:BLO
+完成：2015/04/29
+ 王崇禮 
+影醫 000MP027 Ankle: Right 1  Y 2015/04/29 執行、已批 小部位:.
+完成：2015/04/29
+ 洪志鍵 
+影醫 33085BGM MRI With/Without Contrast--Lower Extremities 1  N 2015/04/29 執行、已批 小部位:right ankle
+Indication:a well defined hypoechoic nodule at posterior-lateral ankle,R/O Linear fracture, postero-lateral talus
+有顱內動脈瘤血管夾:不清楚
+有心律調整器(CEID):不清楚
+完成：2015/05/01
+ 王崇禮 
+檢查 19005BJQ Soft Tissue Echo (ORTH)-軟組織超音波檢查（骨科） 1  Y 2015/04/29 執行、已批 完成：2015/04/29
+ 王崇禮 
+ 
+
+Subjective 
+right ankle injury 3 months (被高跟鞋踩到)
+discomft at posterolateral aspect of right ankle after prolonged walking
+right ankle injury 3 months (被高跟鞋踩到)
+discomft at posterolateral aspect of right ankle after prolonged walking 
+Objective 
+U/S: a well defined hypoechoic nodule at posterior-lateral ankle,R/O Linear fracture, postero-lateral talus.
+
+no obvious swelling at right ankle
+
+toe gait: mild soreness at posterolateral aspect of right ankle, near peroneal tendons
+heel gait: ok
+
+no heel varus or valgus
+mild tenderness at right peroneus tendon at the posterior aspect of lateral malleolus
+no obvious swelling at right ankle
+
+toe gait: mild soreness at posterolateral aspect of right ankle, near peroneal tendons
+heel gait: ok
+
+no heel varus or valgus
+mild tenderness at right peroneus tendon at the posterior aspect of lateral malleolus
+【20150501】MRI With/Without Contrast--Lower Extremities :suspect posterior ankle impingement; bone marrow hyperemia at the medial talar dome, r/o bone bruise or OCD; recommend clinical correlation. (G16734/7) 
+Assessment 
+r/o peroneus tendon injury???
+r/o peroneus tendon injury??? 
+Plan 
+AFO(病患拒)
+Follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 732.7 Osteochondritis dissecans (OCD) 
+ 
+
+Subjective 
+Liver tumor follow up 
+Favor liver hemangioma (1.2cm)
+Hyperlipidemia follow up 
+Objective 
+【20150107】GT_ES :Health check-up
+ Indication :
+   Health check-up
+ Instrument :
+   GIF-Q260  .12
+ Pre-medication :
+   Hyoscine butylbromide 1 amp 20mg IV
+ Sedation :
+   IVGA
+ Endoscopic Findings :
+   Esophagus
+     One mucosal break (<5mm long) with erosion is noted at the lower 
+     esophagus.
+   Stomach
+     Negative
+   Duodenum
+     Negative
+ Endoscopic Diagnosis :
+   Esophagus
+     Reflux esophagitis,LA Gr. A,Lower esophagus
+   Stomach
+     Negative
+   Duodenum
+     Negative
+ Suggestion
+   Avoid spicy food
+   Treatment at GI outpatient clinic if symptomatic
+           助
+
+【20150107】ABD_US :Liver Probable,Hemangioma , single,S5,1.1x1.2 cm.
+ GB : Negative
+ Biliary systemNegative
+ Pancreas :Negative
+ Spleen :Negative
+ Kidney :Negative
+ PV :Negative
+ Others :Negative
+ Suggestion
+   Follow-up abdominal ultrasound 3 months later
+                                                  檢查者:  陳錦得主治醫師
+【20150107】THY_US :Multinodular goiter, bilateral.
+Suggestions :
+  Follow-up by thyroid ultrasound in one year is recommended.
+                                          檢查者:   王治元主治醫師 
+Plan 
+ABD US, AFP, ALT, TG, T-CHO, LDL-C
+OPD follow up one week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 530.11 Reflux esophagitis 慢  
+O 272.4 Hyperlipidemia 慢  
+M 239.0 Liver tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/10/26 執行、已批 Specimen:BLO
+完成：2015/10/30
+ 賴佑平 
+檢驗 09026CZP ALT(GPT) 1  N 2015/10/26 執行、已批 Specimen:BLO
+完成：2015/10/30
+ 賴佑平 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/10/26 執行、已批 Specimen:BLO
+完成：2015/10/30
+ 賴佑平 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/10/26 執行、已批 Specimen:BLO
+完成：2015/10/30
+ 賴佑平 
+檢驗 09044C0P LDL 1  N 2015/10/26 執行、已批 Specimen:BLO
+完成：2015/10/30
+ 賴佑平 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2015/10/26 執行、已批 Reason for abodominal echo:Hepatic tumor follow up,liver hemangioma
+完成：2015/10/30
+ 賴佑平 
+ 
+
+Subjective 
+Liver tumor follow up 
+Favor liver hemangioma (1.2cm)
+Hyperlipidemia follow up 
+Objective 
+【20151030】LDL-C: 170   mg/dL
+【20151030】ALT: 18   U/L
+【20151030】TG: 210   mg/dL
+【20151030】T-CHO: 259   mg/dL 
+Plan 
+ABD US
+OPD follow up 2 months 
+CPK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Liver tumor  
+O 530.11 Reflux esophagitis 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/11/02 已確認 已批 賴佑平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/23
+ 賴佑平 
+檢驗 09026CZP ALT(GPT) 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/23
+ 賴佑平 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/23
+ 賴佑平 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/23
+ 賴佑平 
+檢驗 09044C0P LDL 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/23
+ 賴佑平 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/11/02 執行、已批 Specimen:BLO
+完成：2015/12/23
+ 賴佑平 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2015/11/02 執行、已批 Reason for abodominal echo:Hepatic tumor follow up,liver hemangioma
+完成：2015/11/06
+ 賴佑平 
+ 
+
+Subjective 
+Liver tumor follow up 
+Favor liver hemangioma (1.2cm)
+Hyperlipidemia follow up 
+Objective 
+【20151030】Alpha-Fetoprotein: 4.34   ng/mL
+【20151030】LDL-C: 170   mg/dL
+【20151030】ALT: 18   U/L
+【20151030】TG: 210   mg/dL
+【20151030】T-CHO: 259   mg/dL
+【20151106】Follow up Abdomen Echo :Small hepatic tumor, Probably, hemangioma
+     檢查者:                        /                       /陳美志主治醫師 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Liver tumor  
+O 272.4 Hyperlipidemia 慢  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+Subjective 
+Liver tumor follow up 
+Favor liver hemangioma (1.2cm)
+Hyperlipidemia follow up 
+Objective 
+【20151223】Alpha-Fetoprotein: 3.68   ng/mL
+【20151223】LDL-C: 123   mg/dL
+【20151223】CK: 128   U/L
+【20151223】ALT: 13   U/L
+【20151223】TG: 281   mg/dL
+【20151223】T-CHO: 209   mg/dL
+【20151106】Follow up Abdomen Echo :Small hepatic tumor, Probably, hemangioma
+     檢查者:                        /                       /陳美志主治醫師
+【20151030】LDL-C: 170   mg/dL
+【20151030】ALT: 18   U/L
+【20151030】TG: 210   mg/dL
+【20151030】T-CHO: 259   mg/dL
+【20150107】THY_US :Multinodular goiter, bilateral.
+Suggestions :
+  Follow-up by thyroid ultrasound in one year is recommended.
+                                          檢查者:   王治元主治醫師 
+Plan 
+OPD follow up 3 months
+Thoid US 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Liver tumor  
+O 530.11 Reflux esophagitis 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/28 已確認 已批 賴佑平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/03/16
+ 賴佑平 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/03/16
+ 賴佑平 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/03/16
+ 賴佑平 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/03/16
+ 賴佑平 
+檢驗 09044C0P LDL 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/03/16
+ 賴佑平 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/03/16
+ 賴佑平 
+檢查 19005BTA [總院]Thyroid Echo (MED)-甲狀腺超音波檢查 1  N 2015/12/28 執行、已批 待檢部位:甲狀腺
+Reason for echo:goiter
+完成：2016/03/25
+ 賴佑平 
+ 
+
+Subjective 
+Liver tumor follow up 
+Favor liver hemangioma (1.2cm)
+Hyperlipidemia follow up 
+Objective 
+【20160316】Alpha-Fetoprotein: 3.84   ng/mL
+【20160316】ALT: 13   U/L
+【20160316】LDL-C: 129   mg/dL
+【20160316】TG: 213   mg/dL
+【20160316】T-CHO: 200   mg/dL
+【20160316】CK: 275   U/L
+
+【20151223】TG: 281   mg/dL
+【20151223】T-CHO: 209   mg/dL
+【20151106】Follow up Abdomen Echo :Small hepatic tumor, Probably, hemangioma
+     檢查者:                        /                       /陳美志主治醫師 
+Plan 
+OPD follow up 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D49.0 Liver tumor  
+O E78.5 Hyperlipidemia 慢  
+O K21.0 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/03/21 已確認 已批 賴佑平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/03/18 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 賴佑平 
+檢驗 09026CZP ALT(GPT) 1  N 2016/03/18 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 賴佑平 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/03/18 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 賴佑平 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/03/18 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 賴佑平 
+檢驗 09044C0P LDL 1  N 2016/03/18 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 賴佑平 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/03/18 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 賴佑平 
+ 
+
+Subjective 
+Liver tumor follow up 
+Favor liver hemangioma (1.2cm)
+Hyperlipidemia follow up 
+Objective 
+【20160608】LDL-C: 149   mg/dL
+【20160608】CK: 197   U/L
+【20160608】ALT: 13   U/L
+【20160608】TG: 115   mg/dL
+【20160608】T-CHO: 215   mg/dL
+【20160316】LDL-C: 129   mg/dL
+【20151106】Follow up Abdomen Echo :Small hepatic tumor, Probably, hemangioma
+     檢查者:                        /                       /陳美志主治醫師
+【20160325】Thyroid Echo :Small thyroid nodules, bilateral.
+   檢查者:   王舜禾住院醫師         /張然舜主治醫師          /  
+                                                             / 邱偉益主治醫師 
+Plan 
+OPD follow up 4 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D49.0 Liver tumor  
+O K21.0 Reflux esophagitis 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/06/13 已確認 已批 賴佑平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/06/08 執行、已批 Specimen:BLO
+完成：2016/09/20
+ 賴佑平 
+檢驗 09026CZP ALT(GPT) 1  N 2016/06/08 執行、已批 Specimen:BLO
+完成：2016/09/20
+ 賴佑平 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/06/08 執行、已批 Specimen:BLO
+完成：2016/09/20
+ 賴佑平 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/06/08 執行、已批 Specimen:BLO
+完成：2016/09/20
+ 賴佑平 
+檢驗 09044C0P LDL 1  N 2016/06/08 執行、已批 Specimen:BLO
+完成：2016/09/20
+ 賴佑平 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/06/08 執行、已批 Specimen:BLO
+完成：2016/09/20
+ 賴佑平 
+ 

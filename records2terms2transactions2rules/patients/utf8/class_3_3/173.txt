@@ -1,0 +1,816 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+For full mouth examination 
+Pain at lower left region since 5 months ago, but pain attacked more severe last Saturday
+
+現病史：
+This 57-year-old male hadn't been to dental clinic for a while. He experienced dull pain at his lower left region since 5 months ago. It became more painful last Saturday and he went to LDC for treatment. After taking antibiotics, the s/s get better. 38 extraction was suggest by local dentist. He went to our OPD for second opinion.
+
+過去病史：
+All major systemic diseases denied.
+Alcohol(-) Betel quid(-) Cigarette(+), 1 pack/day for 20~30 years
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：O
+
+目前用藥：
+Nil
+
+最近三個月內旅游史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：2~3 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：36
+
+身體檢查：
+1. Present dentition:
+87 54321, X2345678
+87654321, 12345678
+2. Tooth mobility: 36 Gr +
+3. Probing depth >= 5 mm:
+18(MB, DB), 17(MB, DB), 15(MB, DB, ML, DL), 14(MB, DB, ML, DL), 11(MB, MP)
+22(MB), 25(DB), 27(MB, B, DB), 28(MB, B, DB)
+36(B, L ML), 37(B), 38(B)
+46 (B), 47 (MB), 48(B)
+5. Furcation involvement: 36, 46
+6. 17, 18 mesial shift
+7. 48 buccal distal large decay, no occlusal contact with 18
+7. 36 no obvious dental caries, percussion pain(+), palpation from lingual side(+), a swelling at lingual gingiva near marginal gingiva level, no obvious tooth mobility, furcation involved
+ML 8 5 3 DL
+MB 3 5 3 DB
+8. Oral hygiene: poor, full mouth plaque accumulation and gingiva inflammation 
+9. Soft tissue findings: a 3mm*3mm ulceration at left corner of mouth
+ 
+Assessment 
+Dx. Chronic periodontitis, oral ulcer
+ 
+Plan 
+初始治療計劃：
+Tx.
+1. Check panoramic X-ray film and bilateral bite-wing film and 36 periapical film. Findings:
+36 furcation involvement
+Generalized horizontal bony destruction
+Subgingiva calculus deposition
+2. 36 periodontal emergency treatment under local anethesia: 1.7mL 2% lidocaine with 1:80000 epinephrine
+subgingiva local scaling and irrigation with 0.12% chlorohexidine
+
+Tx plan.
+Phase I periodontal treatment
+Oral hygiene instruction
+48 extraction
+
+Rx.
+Amoxicillin 250 mg/cap 1# Q8H for 3 days
+PARAMOL 500 mg/tab 1# TID for 3 days
+Dexaltin Oral Paste 0.1% 5 g/tube for topical use
+R1李方瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+O 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2014/12/31 已確認 已批 陳漪紋  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2014/12/31 已確認 已批 陳漪紋  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX PRN OR 7 1 tube 健保  2014/12/31 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2014/12/31 執行、已批 齒位1:FM
+完成：2014/12/31
+ 陳漪紋 
+治療 91001C00 Periodontal Emergency Treatment 1  N 2014/12/31 執行、已批 齒位1:36
+完成：2014/12/31
+ 陳漪紋 
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 2. Generalized deep pocket and increased mobility of teeth. 3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. full mouth charting and photo records were taken, 2.plaque control(術前) was done with application of disclosing agent, 3.oral hygiene instruction was done, 4.explained treatment plan to the patient, 5.signed consent
+
+Tx plan
+1.FM phase I therapy+OHI
+2.suggest 18,48 extraction
+3.36 suspectes mesial root fracture,extraction or mesial root amputation may be indicated
+
+R2張棠皓
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2015/01/03 執行、已批 完成：2015/01/03
+ 陳漪紋 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2015/01/08 執行、已批 完成：2015/01/08
+ 陳漪紋 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2015/02/12 執行、已批 完成：2015/02/12
+ 陳漪紋 
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+1.Generalized plaque and calculus deposition. 2. Generalized deep pocket and increased mobility of teeth. 3) Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at UR and LR.  3. subgingival plaque and calculus, soft diseased cementum, removed under local / bolck anesthesia of UR and LR.
+4.18,48 simple extraction
+< OP note > 
+Pre-OP Dx: #18,48   chronic periodontitis
+Post-OP Dx: #18,48 chronic periodontitis s/p simple extraction
+OP method:#18,48  simple extraction
+OP procedures:
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual
+2.Upper right and lower right area local anesthesia was done with 3.4 mL 2% xylocaine (with 1:80000 epinephrine)
+3.Removal of tooth #18,48 with elevators and forceps
+4.Socket curettage to remove granulation tissue and normal saline irrigation
+5.Gauze packing for 1 hour
+9.Post-OP wound care instruction was given
+Specimen for pathology: Nil
+
+
+R2張棠皓
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2015/01/05 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92013C00 SIMPLE EXTRACTION 2  N 2015/01/05 執行、已批 齒位1:18
+齒位2:48
+完成：2015/01/05
+ 陳漪紋 
+ 
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+1.Generalized plaque and calculus deposition. 2. Generalized deep pocket and increased mobility of teeth. 3) Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at UL and LL.  3. subgingival plaque and calculus, soft diseased cementum, removed under local / bolck anesthesia of UL and LL.
+
+
+R2張棠皓
+ 
+
+Subjective 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+1.Oral hygiene: Fair
+2.24,25,26 cervical abrasion,sensitive to air-blow(++)
+ 
+Assessment 
+Generalized chronic periodontitis
+cervical abasion,24,25,26
+ 
+Plan 
+1.OHI with disclosing agent  
+2. Plaque index was recorded .
+3.24,25,26 CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)acid etching, DBA application, polymerization
+(4)composite resin filling
+(5)condensing, contouring, polymerization
+(6)finishing and polishing
+
+R2張棠皓
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 521.0 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89008C00 COM. RESIN, POST.,1 -SURFACE 3  N 2015/01/16 執行、已批 齒位1:24
+齒位2:25
+齒位3:26
+完成：2015/01/16
+ 陳漪紋 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 521.2 Abrasion, cervical  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89008C00 COM. RESIN, POST.,1 -SURFACE 2  N 2015/01/19 執行、已批 齒位1:34
+齒位2:35
+完成：2015/01/19
+ 洪孟豪 
+ 
+
+Subjective 
+C.C. Asking for #36 endodontic treatment
+ 
+Objective 
+疼痛評估：疼痛指數： NA; 疼痛部位： NA
+LF. 
+#36
+Percussion pain:(+)especially mesial side
+Palpation pain:(+)mesial buccal gingiva
+mobility:GrI 
+Radiographic finding:
+mesial root fracutre, furcation area with bony destruction
+ 
+Assessment 
+Dx. #36 chronic pulpitis, mesial root fracture
+ 
+Plan 
+Tx.
+#36
+1.local and block anesthesia with 2% lidoncaine + 1:80000 epinephrine 3.4ml
+2.Rubber dam application(I)
+3.Access opening
+4.Identified 4 orifice,MB,ML,DB,DL
+5.Canal enlargement & debridement
+6.Irrigation with 2.5% NaOCl
+7.Dry cotton & Caviton temporary sealing
+
+Operator:R2林均霈
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 522.0 Pulpitis, chronic  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 90012C00 RUBBER DAM APPLICATION 1  N 2015/01/26 執行、已批 齒位1:36
+完成：2015/01/26
+ 陳敏慧 
+治療 90015C00 CANAL ENLARGE & DEBRIDEMENT 1  N 2015/01/26 執行、已批 齒位1:36
+完成：2015/01/26
+ 陳敏慧 
+治療 90012C00 RUBBER DAM APPLICATION 1  N 2015/01/28 執行、已批 齒位1:36
+完成：2015/01/28
+ 林俊彬 
+治療 90012C00 RUBBER DAM APPLICATION 1  N 2015/02/04 執行、已批 齒位1:36
+完成：2015/02/04
+ 林俊彬 
+治療 90012C00 RUBBER DAM APPLICATION 1  N 2015/02/24 執行、已批 齒位1:36
+完成：2015/02/24
+ 蔡宜玲 
+治療 90002C00 ENDODONTIC TX FOR TWO CANALS 1  N 2015/02/24 執行、已批 齒位1:36
+完成：2015/02/24
+ 蔡宜玲 
+治療 89008C00 COM. RESIN, POST.,1 -SURFACE 1  N 2015/02/24 執行、已批 齒位1:36
+完成：2015/02/24
+ 蔡宜玲 
+ 
+
+Subjective 
+C.C. Asking for #36 endodontic treatment
+ 
+Objective 
+疼痛評估：疼痛指數： NA; 疼痛部位： NA
+LF. 
+#36
+Percussion pain:(+)especially mesial side,but improved compared to last time
+Palpation pain:(+-)mesial buccal gingiva
+mobility:GrI 
+Radiographic finding:
+mesial root fracutre, furcation area with bony destruction
+ 
+Assessment 
+Dx. #36 chronic pulpitis, mesial root fracture
+ 
+Plan 
+Tx.
+#36
+1.local and block anesthesia with 2% lidoncaine + 1:80000 epinephrine 3.4ml
+2.Rubber dam application(II)
+3.Removed temporary sealing
+4.Identified 4 orifice,MB,ML,DB,DL
+5.Canal enlargement & debridement
+6.Check WL by endometer:
+ MB:12.5mm 10#
+ ML: 12 mm 10#
+ DB:16.5mm 15#
+ DL: 13 mm  8#=> cancal obstruction was noted
+7.Irrigation with 2.5% NaOCl
+8.Dry cotton & Caviton temporary sealing
+
+Operator:R2林均霈
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 522.0 Pulpitis, chronic  
+ 
+ 
+ 
+
+Subjective 
+C.C. Asking for #36 endodontic treatment
+ 
+Objective 
+疼痛評估：疼痛指數： NA; 疼痛部位： NA
+LF. 
+#36
+Percussion pain:(+)especially mesial side,but improved compared to last time
+Palpation pain:(+-)mesial buccal gingiva
+mobility:GrI 
+Radiographic finding:
+mesial root fracutre, furcation area with bony destruction
+ 
+Assessment 
+Dx. #36 chronic pulpitis, mesial root fracture
+ 
+Plan 
+Tx.
+#36
+1.Rubber dam application(III)
+2.Removed temporary sealing
+3.Identified 4 orifice,MB,ML,DB,DL
+4.Canal enlargement & debridement
+5.Check WL by endometer and x-ray:
+MB:12.5mm #10
+ML: 14 mm #10
+DB:16.5mm IAF:#15,MAF:#30
+DL: 13 mm 8# , without patency
+6.Irrigation with 2.5% NaOCl
+7.Ca(OH)2 dressing
+8.Dry cotton & IRM temporary sealing
+
+Operator:R2林均霈
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 522.0 Pulpitis, chronic 
+ 
+
+Subjective 
+Asking for periodontal treatment(牙周統合照護計畫同次療程)
+ 
+Objective 
+Deep pocket as recorded in charting data attached.  (見上傳再評估charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Full mouth charting and photo records were taken, 2.Plaque control(術後) was done with application of disclosing agent, 3.Oral hygiene instruction was done, 4.Explained treatment plan after phase I to the patient
+
+R2張棠皓
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2015/02/16 已確認 已批 王振穎  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2015/02/16 已確認 已批 王振穎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91009B00 PERIODONTAL FLAP OP:LOCALIZED(<=3 T) 1  N 2015/02/16 執行、已批 齒位1:46
+齒位2:47
+完成：2015/02/16
+ 王振穎 
+治療 000L0456 *DARK-FIELD EXAMINATION 1 自費 N 2015/02/16 執行、已批 齒位1:46
+齒位2:47
+完成：2015/02/16
+ 王振穎 
+ 
+
+Subjective 
+C.C. Asking for #36 endodontic treatment
+ 
+Objective 
+疼痛評估：疼痛指數： 0 疼痛部位： NA
+LF. 
+#36
+Percussion pain:(+)especially mesial side,but improved compared to last time
+Palpation pain:(+-)mesial buccal gingiva
+mobility:GrI 
+Radiographic finding:
+mesial root fracutre, furcation area with bony destruction
+ 
+Assessment 
+Dx. #36 chronic pulpitis, mesial root fracture
+ 
+Plan 
+Tx.
+#36
+1.Rubber dam application(IV)
+2.Removed temporary sealing
+3.Identified 4 orifice,MB,ML,DB,DL
+4.Canal enlargement & debridement
+5.Check WL by endometer and x-ray:
+MB:12.5mm #10 coronal enlarged by GG-drill #1-#3
+ML: 14 mm #10 coronal enlarged by GG-drill #1-#3
+DB:16.5mm IAF:#15,MAF:#30, step back to #45, maincone:#40 
+DL: 13 mm IAF:8#, MAF:#25, without patency, step back to #40, main cone:#25
+6.Irrigation with 2.5% NaOCl
+7.RCF with GP and root canal sealer by lateral compaction techinique
+8.MB, ML dressing with dense Ca(OH)2 under orifice level
+9.Coronal sealing with GIC and CRF 
+ -cavity preparation 
+ -acid etching , DBA application, polymerization
+ -CRF (Post. 1 surface), polymerization
+ -check occlussion , finishing and polishing
+
+
+Operator:R2林均霈 / vs蔡宜玲
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 522.0 Pulpitis, chronic 
+ 
+
+Subjective 
+For continue periodontal follow up(Previous treatment by Dr.張棠浩)
+ 
+Objective 
+Oral hygiene: Poor 
+PPD>=5mm:
+ 76 |  78
+    | 678
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  2. Plaque index was recorded 3. Probing data was recorded.
+G3李建成/VS陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91004C00 SCALING:FULL-MOUTH 1  N 2015/07/23 執行、已批 齒位1:FM
+完成：2015/07/23
+ 王振穎 
+ 
+
+Subjective 
+Asking for periodontal treatment of #36 37 38
+ 
+Objective 
+1.Mild gingival inflammation. 2. Deep pocket as record in charting data attached.
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+#363738 mucoperiosteum surgery (with GTR )    
+< OP note >  
+Pre-OP Dx:#363738 chronic periodontitis 
+Post-OP Dx: #363738  chronic periodontitis s/p flap operation 
+OP method: #363738 flap operation 
+OP findings: deep pocket as recorded in attached data 
+OP procedure: 1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual. 2.Pockets depth were recorded. 3. LL local anesthesia was done with 3.4mL 2% lidocaine (with 1:80000 epinephrine) 4.Incision and flap reflection was done with #15 blade and #12 blade. 5.Granulation tissues, subgingival calculus were removed and root surfaces were planed. 6.Osseous deformity was removed by alveoloplasty. 7.Root conditioning With EDTA. Autogenous bone and ______ graft were inserted to #___ intrabony defect to even bone crest and overbuilt up at coronal area. ______ membrane adapted to cover the defect. Emdogain was applied on the #___ tooth intrabony defect. 8.Flap was closed by interrupted/matress sutures. 10.Post-OP wound care instruction was given 
+Specimen for pathology: Nil,  Next visit: f/u for wound healing
+Operator:G3李建成/VS陳漪紋Recorded by G3李建成/VS陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 873.63 Tooth root fracture 外  
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2015/08/24 已確認 已批 陳漪紋  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2015/08/24 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91009B00 PERIODONTAL FLAP OP:LOCALIZED(<=3 T) 1  N 2015/08/24 執行、已批 齒位1:37
+完成：2015/08/24
+ 陳漪紋 
+治療 92014C00 COMPLICATED EXTRACTION 1  N 2015/08/24 執行、已批 齒位1:36
+完成：2015/08/24
+ 陳漪紋 
+ 
+
+Subjective 
+For oral hygiene instruction and periodontal follow up(patient complete periodontal therapy phase I and II)
+ 
+Objective 
+1.Oral hygiene: Poor to Fair(difficult cleaning over lower posterior teeth lingual side)
+2.PPD>=5mm:Nil
+3.#36 missing tooth (extracted in 2015/08/24)
+ 
+Assessment 
+Generalized chronic periodontitis
+Missing tooth, 36
+ 
+Plan 
+1.OHI with disclosing agent  2. Plaque index was recorded 3. Probing data was recorded.4.Consult Prostho dept for 36 edentulous ridge reconstruction
+G3李建成/VS陳漪紋
+
+< PS dept>
+suggest 36 implantation
+tx fee and course explained to the patient
+appoint for next appointment for 36 surgical stent impression
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z02.79 Encounter for issue of other medical certificate 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z3043 中文診斷書 1 自費 N 2016/01/18 執行、已批 完成：2016/01/18
+ 王振穎 
+ 
+
+Subjective 
+CC:For tooth 36 implantation
+ 
+PDH:
+tooth 36,37,38 mucoperiosteum surgery (with GTR ) on 2015,08,24
+ 
+Objective 
+LF;
+1.present dentition:
+   7 54321 x2345678
+   7654321 12345 78
+2.tooth 17 mesial tilting
+3.bridge:11x22
+4.missing tooth:16,21,36
+ 
+Assessment 
+missing tooth:36
+ 
+Plan 
+impression for surgical sten fabrication
+arrnge 2016/03/07 for CBCT
+
+Ri吳燕城/VS胡家源
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0549 *Prosthetic Tx Addition 1 自費 N 2016/01/18 執行、已批 齒位1:36
+技工所:1
+完成：2016/01/18
+ 胡家源 
+ 
+
+Subjective 
+CC:For tooth 36 implantation
+ 
+PDH:
+tooth 36,37,38 mucoperiosteum surgery (with GTR ) on 2015,08,24
+ 
+Objective 
+LF;
+1.present dentition:
+   7 54321 x2345678
+   7654321 12345 78
+2.tooth 17 mesial tilting
+3.bridge:11x22
+4.missing tooth:16,21,36
+ 
+Assessment 
+missing tooth:36
+ 
+Plan 
+impression for surgical sten fabrication
+arrnge 2016/03/07 for CBCT
+
+Ri吳燕城/VS胡家源
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0549 *Prosthetic Tx Addition 1 自費 N 2016/01/18 執行、已批 齒位1:36
+技工所:1
+完成：2016/01/18
+ 胡家源 
+ 
+
+Subjective 
+for 36 implantation evaluation
+ 
+Objective 
+36 missing
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+take CBCT with 36 surgical stent:resorbed bone height and width was noted
+consult PR Dr.Chen for 36 implantation
+
+G1許植淵/VS胡家源
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0562 局部電腦斷層攝影 1 自費 N 2016/03/07 執行、已批 完成：2016/03/07
+ 胡家源 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/07 已批 完成：2016/03/07  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1 自費 N 2016/03/07 已批 完成：2016/03/07 
+ 
+
+Subjective 
+Asking for full mouth examination
+ 
+Objective 
+1. mild gingival inflammation, and generalized plaque and calculus deposition  at LA.
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1)Oral hygiene instruction, 2)Full mouth scaling was performed
+G3李建成/VS陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91004C00 SCALING:FULL-MOUTH 1  N 2016/03/24 執行、已批 齒位1:FM
+完成：2016/03/24
+ 陳漪紋 
+ 
+
+Subjective 
+Asking for implant surgery of I36
+ 
+Objective 
+Missing teeth of #36
+ 
+Assessment 
+Missing tooth,36
+ 
+Plan 
+#36 implant surgery with autogenous bone placement
+< OP note > 
+Pre-OP Dx: #36 missing tooth 
+Post-OP Dx: #36 missing tooth s/p flap operation 
+OP method: #36 implantation 
+OP findings: #36 missing 
+OP procedure:
+1.Aseptic procedure and draping was done as usual  2.LL Local anesthesia was done with 2% Lidocaine 3.4ml (1:80,000 epinephrine) 3.Incision was made on edentulous area and mucoperiosteal flap was reflected 4.The implant bed was prepared with twist ,profile drills & cortical drill of increasing diameter,consecutively and implant was inserted.(4.8x10mm,SP,WN) 5.Autogenous bone chips were harvested from distal. 6.The autogenous bone chips were placed into defect at implant mesial side 7.Flap was repositioned and closed by interrupted simple loop & horizontal mattress sutures with 4-0 & 5-0 Nylon sutures. 10.Post-OP wound care instruction was given to patient. Specimen for pathology : Nil 
+Operator:G3李建誠/VS 陳漪紋 Recorded by:G3李建誠/VS 陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/04/25 已確認 已批 陳漪紋  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2016/04/25 已確認 已批 陳漪紋  
+Corol Oral Rinse Soln 0.12% 250 mL/btl 15 mL BID GA 7 1 btl 自費  2016/04/25 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0867 DENTAL IMPLANTATION,D 1 自費 N 2016/04/25 執行、已批 齒位1:36
+完成：2016/04/25
+ 陳漪紋 
+治療 000L0438 VESTIBULOPLASTY 1 自費 N 2016/04/25 執行、已批 齒位1:36
+完成：2016/04/25
+ 陳漪紋 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/04/25 執行、已批 齒位1:FM
+完成：2016/04/25
+ 陳漪紋 
+ 
+
+Subjective 
+Asking for suture removal
+ 
+Objective 
+1.#36 status post implant surgery, with 3 stitches suture 
+2.wound healing : fair
+ 
+Assessment 
+Chronic periodontitis
+ 
+Plan 
+1.OHI, local debridement with 0.12% CHX and sponge
+2. Suture removal, no more stitch was found
+G3李建成/VS陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+完成：2016/05/11

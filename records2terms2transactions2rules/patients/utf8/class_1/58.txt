@@ -1,0 +1,51 @@
+﻿
+健康行為及篩檢結果 
+陽性轉診院所代碼 4/19補寄  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 專科,大學 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌癥? 無 請問您有無腸道不適癥狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/03/11 執行、已批 Specimen:STO
+完成：2016/03/14
+ 詹其峰 
+ 
+
+Subjective 
+for smoking cessation: 2016/03/14
+smoking for 40 years, 1 PPD, FTND: 4/10 
+PH: heart dz(-), mental dz(-), r/o COPD, sleep well
+quit history: quit for one week last year, never use medication to quit
+patiet preferred NRT 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+30 Nicotinell TTS 1.75 mg/1 cm2 30 cm2/pce 1 pce QD D 14 14 pce 健保  2016/03/14 已確認 已批 郭斐然  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 14 90 tab 健保  2016/03/14 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/06/17 執行、已批、未看完 完成：2016/06/17
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/09/13 執行、已批、未看完 完成：2016/09/13
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/14 已批 完成：2016/03/14  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/03/14 已批 完成：2016/03/14  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/03/14 已批 完成：2016/03/14 
+ 

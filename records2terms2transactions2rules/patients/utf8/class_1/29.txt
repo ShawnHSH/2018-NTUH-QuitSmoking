@@ -1,0 +1,668 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M V70.7 Healthy Volunteer  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 08013CZP WBC differential count 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 11001C0P ABO Typing 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 11003CYP Rh Typing 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09005CZP Glucose (AC) 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09005CYP Glucose (PC 2h) 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 000PP204 B.C.S. 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09031CZP Gamma-GT, GGT 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09032CZP Creatine Kinase, CK 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09017CZP Amylase 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09043C0P HDL 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09044C0P LDL 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 27049C0P Alpha-FetoProtein(AFP) 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 14051C0P Anti-HCV Ab 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09022CZP Potassium, K 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09021CZP Sodium, Na 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09023CZP Chloride, Cl 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 12001C0P Syphilis (VDRL) 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 12081B0P PSA 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 06012CZP 尿一般檢查 1 內含 Y 2015/05/11 執行、已批 檢體： UR1
+完成：2015/05/11
+ 吳明賢 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 Y 2015/05/11 執行、已批 檢體： UR1
+完成：2015/05/11
+ 吳明賢 
+檢驗 09134CZP 糞便潛血免疫分析 1 內含 Y 2015/05/11 執行、已批 檢體： STO
+完成：2015/05/11
+ 吳明賢 
+檢驗 09006C0P HbA1c 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 14032C0P HBsAg (EIA) 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 14033CZP Anti-HBs Ab quantification 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 12015CWP Ｃ反應性蛋白試驗（生化室） 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 27027B0P Free T4 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 27004C0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 27055B0T CA19-9 (RIA) 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+檢驗 27050BZT CEA (RIA) (Serum) 1 內含 Y 2015/05/11 執行、已批 檢體： BLO
+完成：2015/05/11
+ 吳明賢 
+影醫 32001CXM Chest : PA View (Standing) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+影醫 32001CVM Chest : Lateral Left 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+影醫 32011CZM L Spine (Lateral View) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+影醫 32006C0M Abdomen:KUB 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000036TH EKG(Electrocardiography) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000017TH SCREENING SPIROMETRY 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000029TH BODY COMPOSITION ANALYSIS 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000012TH CONSULTATION 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000003TH CONSULTATION 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000037TH Uroflow 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000E0404 Best corrected visual acuity 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000E0407 Autorefraction 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 23401C00 Slit lamp exam 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 23501C00 Funduscopic exam 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 23305CZ0 氣壓式眼壓測定 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000032TH AUDIOMETRY(PURE TONE) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000020TH SONOGRAPHY: ABDOMEN 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000033TH UPPER G. I. PANENDOSCOPY 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000035TH COLONOSCOPY 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000001TH NUTRITIONAL CONSULTANT(GROUP) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000002TH NUTRITIONAL CONSULTANT(INDIVIDUAL) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000013TH REPORT(1) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000014TH CONSULTATION 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 00022265 Health check lunch 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+治療 000048TH Anesthesia, for endoscopy(Gastroscope+Colonscope) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/11
+ 吳明賢 
+ 
+
+
+
+主/次 診斷碼 診斷名稱 注記 
+M 211.3 Colon polyp 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/05/20 已確認 已批B 汪詩韻  
+自費 Niflec Powder 137.155 g/pack 1 pack AS ORDER PO 1 1 pack 自費  2015/05/11 已確認 已批 陳建全  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W 病理切片 1  N 2015/05/20 執行、已批 術式名稱:.
+組織來源:A-colon
+診斷名稱:polyp
+完成：2015/05/20
+ 汪詩韻 
+檢查 28017CT1 Colon fiberoscopy(自費藥Niflec)-大腸纖維鏡檢查(for HMC only) 1 內含 Y 2015/05/11 執行、已批 完成：2015/05/20
+ 陳建全 
+治療 000038TH 內視鏡檢查無痛麻醉（ＨＭＣ） 1 自費 N 2015/05/20 執行、已批 完成：2015/05/20
+ 李卉齡 
+治療 49027C00 polypectomy 1  N 2015/05/20 執行、已批 完成：2015/05/20
+ 吳芳蘭 
+醫材 20435204 腸胃道止血處置夾釘 1 自費 N 2015/05/20 執行、已批 完成：2015/05/20
+ 吳芳蘭 
+ 
+
+
+
+Subjective 
+Leukoplakia noted incidentally 
+Assessment 
+ABC Hx: smoking and alcohol 
+Plan 
+Arrange Left side leukoplakia incisional biopsy, LA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia of oral mucosa, including tongue 
+ 
+
+
+
+Subjective 
+2015.5.11 HMC PES: GERD (A)
+2015.5.20 CF: A/C TA s/p 
+Objective 
+【20150520】A-colon :Intestine,large,colon,ascending,colonoscopic polypectomy,tubular adenoma     
+【20150511】GT_ES :Health check-up
+ Indication :
+   Health check-up
+ Instrument :
+   GIF-H260Z .21
+ Pre-medication :
+   Hyoscine butylbromide 1 amp 20mg IV
+ Sedation :
+   IVGA
+ Endoscopic Findings :
+   Esophagus
+     Mucosal breaks (<5mm) at lower esophagus.
+   Stomach
+     Negative
+   Duodenum
+     Negative
+ Endoscopic Diagnosis :
+   Esophagus
+     Reflux esophagitis,LA Gr. A,Lower esophagus
+   Stomach
+     Negative
+   Duodenum
+     Negative
+ Suggestion
+   Observation
+   Treatment at GI outpatient clinic if symptomatic
+           助
+【20150511】CF_ES :Indication :
+   自費健康檢查
+ Colon preparation agent :
+   PEG-ELS類
+ Cleansing time :
+   Morning single dose
+ Cleansing Level :
+   Poor
+ Instrument :
+   CF-240AI   .4
+ Insertion level :
+   Cecum
+ Pre-medication :
+   Hyoscine butylbromide
+ Sedation :
+   Midazolam (Dormicum)
+   Propofol
+   Fentanyl (含Alfentanyl)
+ Accessibility :
+   Easy
+ Anti-platelet / Anti-coagulant agents :
+   NIL
+ Colonoscopic Findings :
+   A 0.5 cm Is polyp at A/C near ICV. much fecus in colon.
+ Endoscopic diagnosis :
+   Tubular adenoma,Is,Ascending colon,0.5cm,Nil,(A)
+ Complication :
+   NIL
+【20150520】Colon fiberoscopy(自費藥Niflec) (for HMC only) :Indication :
+   自費健康檢查
+ Colon preparation agent :
+   PEG-ELS類
+ Cleansing time :
+   Morning single dose
+ Cleansing Level :
+   Poor
+ Instrument :
+   CF-260AI   .11
+ Insertion level :
+   Cecum
+ Pre-medication :
+   Hyoscine butylbromide
+ Sedation :
+   Midazolam (Dormicum)
+   Propofol
+   Fentanyl (含Alfentanyl)
+ Accessibility :
+   Easy
+ Anti-platelet / Anti-coagulant agents :
+   NIL
+ Colonoscopic Findings :
+   External hemorrhoids were noted. A 0.6 cm Isp polyp at A/C near cecum s/p 
+   polypectomy and hemoclipping (A), a 0.4 cm IIa with type 1 pits polyp at D/C.
+ Endoscopic diagnosis :
+   External hemorrhoids
+   Tubular adenoma,Isp,Ascending colon,0.6cm,S/p polypectomy,S/p hemoclipping,
+   (A)
+ Complication :
+   NIL 
+Plan 
+RTC 1mo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 211.3 Colon polyp 慢  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 28 tab 健保  2015/05/28 已確認 已批 陳建全 
+ 
+
+
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Oral tumor  
+O 528.6 Leukoplakia of oral mucosa, including tongue  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cephalexin 250 mg/cap 1 cap QID PO 3 12 cap 健保  2015/06/05 已確認 已批 李國豪  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2015/06/05 已確認 已批 李國豪  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX AS ORDER OR 7 1 tube 健保  2015/06/05 已確認 已批 李國豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25003C0W Surgical pathology Level III 1  N 2015/06/04 刪除、刪除 每瓶(包)之檢體數量:2
+Operation findings:Left buccal leukoplakia * 2
+術式名稱:Left buccal leukoplakia * 2
+組織來源:Left buccal leukoplakia * 2
+診斷名稱:Left buccal leukoplakia * 2
+完成：2015/06/06
+ 李國豪 
+病理 25004C0W Surgical pathology Level IV 2  N 2015/06/06 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/06/06
+ 劉育豪 
+治療 71011C00 Biopsy of oral mucosa 1  N 2015/06/04 執行、已批 主副刀:1
+手術起時:2015/06/05 00:00
+手術迄時:2015/06/05 00:00
+完成：2015/06/05
+ 李國豪 
+醫材 20006802 外科刀片 1 內含 N 2015/06/05 執行、已批 完成：2015/06/05
+ 古慧質 
+醫材 20000912 塑膠注射器帶針#5CC 1 內含 N 2015/06/05 執行、已批 完成：2015/06/05
+ 古慧質 
+醫材 20005205 塑膠針頭 25Ｇ 1 內含 N 2015/06/05 執行、已批 完成：2015/06/05
+ 古慧質 
+醫材 20450405 電刀回路板 1  N 2015/06/05 執行、已批 完成：2015/06/05
+ 古慧質 
+醫材 20300240 Ｄｅｘｏｎ縫合線 1  N 2015/06/05 執行、已批 完成：2015/06/05
+ 古慧質 
+醫材 20461012 密閉式抽吸系統蓄積袋 (白) 1  N 2015/06/05 執行、已批 完成：2015/06/05
+ 古慧質 
+ 
+
+
+Subjective 
+Left buccal wound: well 
+Objective 
+Pathology: Oral cavity, left buccal, anterior, excisional biopsy, squamous hyperplasia
+Oral cavity, left buccal, posterior, excisional biopsy, squamous hyperplasia 
+Plan 
+OPD 3m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Oral tumor  
+ 
+
+
+
+Subjective 
+2015.5.11 HMC PES: GERD (A)
+2015.5.20 CF: A/C TA s/p
+certificate x 1 for colon polypectomy 
+Objective 
+【20150520】A-colon :Intestine,large,colon,ascending,colonoscopic polypectomy,tubular adenoma     
+【20150511】GT_ES :Health check-up
+ Indication :
+   Health check-up
+ Instrument :
+   GIF-H260Z .21
+ Pre-medication :
+   Hyoscine butylbromide 1 amp 20mg IV
+ Sedation :
+   IVGA
+ Endoscopic Findings :
+   Esophagus
+     Mucosal breaks (<5mm) at lower esophagus.
+   Stomach
+     Negative
+   Duodenum
+     Negative
+ Endoscopic Diagnosis :
+   Esophagus
+     Reflux esophagitis,LA Gr. A,Lower esophagus
+   Stomach
+     Negative
+   Duodenum
+     Negative
+ Suggestion
+   Observation
+   Treatment at GI outpatient clinic if symptomatic
+           助
+【20150511】CF_ES :Indication :
+   自費健康檢查
+ Colon preparation agent :
+   PEG-ELS類
+ Cleansing time :
+   Morning single dose
+ Cleansing Level :
+   Poor
+ Instrument :
+   CF-240AI   .4
+ Insertion level :
+   Cecum
+ Pre-medication :
+   Hyoscine butylbromide
+ Sedation :
+   Midazolam (Dormicum)
+   Propofol
+   Fentanyl (含Alfentanyl)
+ Accessibility :
+   Easy
+ Anti-platelet / Anti-coagulant agents :
+   NIL
+ Colonoscopic Findings :
+   A 0.5 cm Is polyp at A/C near ICV. much fecus in colon.
+ Endoscopic diagnosis :
+   Tubular adenoma,Is,Ascending colon,0.5cm,Nil,(A)
+ Complication :
+   NIL
+【20150520】Colon fiberoscopy(自費藥Niflec) (for HMC only) :Indication :
+   自費健康檢查
+ Colon preparation agent :
+   PEG-ELS類
+ Cleansing time :
+   Morning single dose
+ Cleansing Level :
+   Poor
+ Instrument :
+   CF-260AI   .11
+ Insertion level :
+   Cecum
+ Pre-medication :
+   Hyoscine butylbromide
+ Sedation :
+   Midazolam (Dormicum)
+   Propofol
+   Fentanyl (含Alfentanyl)
+ Accessibility :
+   Easy
+ Anti-platelet / Anti-coagulant agents :
+   NIL
+ Colonoscopic Findings :
+   External hemorrhoids were noted. A 0.6 cm Isp polyp at A/C near cecum s/p 
+   polypectomy and hemoclipping (A), a 0.4 cm IIa with type 1 pits polyp at D/C.
+ Endoscopic diagnosis :
+   External hemorrhoids
+   Tubular adenoma,Isp,Ascending colon,0.6cm,S/p polypectomy,S/p hemoclipping,
+   (A)
+ Complication :
+   NIL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 211.3 Colon polyp 慢  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 28 tab 健保 3 2015/06/25 已確認 已批 陳建全  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z3043 中文診斷書 1 自費 N 2015/06/25 執行、已批 完成：2015/06/25
+ 陳建全 
+ 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M 211.3 Colon polyp 慢  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 28 tab 健保 3 2015/07/15 已確認 已批 林沛珍 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 211.3 Colon polyp 慢  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 28 tab 健保 3 2015/08/20 已確認 已批 林沛珍 
+ 
+
+
+Subjective 
+Right facial palsy and slurred speech on 2016/1/10. 
+Recovery within 15 minutes. 
+
+Past history: 
+1. 2013/07 left pontine infarction, under regular Aspirin, but shift to to Dipyridamol 25mg BID for one month ago
+2. Hypertension
+3. Type 2 diabetes mellitus for 10 years, last HbA1c: 6.2
+4. Heavy smoker, 3 PPD for 40 years 
+Objective 
+[Neurological Examination]
+Consciousness: clear and alert, oriented
+Visual field: intact by confrontation test
+Pupil size: 3mm/3mm, light reflex +/+
+EOM: full and free, no nystagmus, no diplopia
+Bilateral symmetric facial sensation
+Corneal reflex +/+
+No facial palsy
+Gag reflex +/+
+No tongue deviation on protrusion
+Muscle power:
+ Right upper proximal 5, upper distal 5, lower proximal 5, lower distal 5
+ Left upper proximal 5, upper distal 5, lower proximal 5, lower distal 5
+DTR:
+ Right biceps ++, triceps ++, brachioradialis ++, knee ++, ankle ++
+ Left biceps ++, triceps ++, brachioradialis ++, knee ++, ankle ++
+Babinski sign: flexor/flexor
+Sensory: bilateral symmetric by pinprick and light touch
+FNF/KHS: no dysmetria
+Gait: intact 
+Assessment 
+TIA, left MCA M1 stenosis
+DM, hypertension
+Old left pontine infarction in 2013/07 
+Plan 
+1. Add aspirin 1# QD; keep persantin. 
+2. Smoking cessation. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M G45.9 Transient ischemic attack 重 慢 腦  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 14 14 cap 健保  2016/01/18 已確認 已批 范恬心 
+ 
+
+
+Subjective 
+2 years ago, stroke
+DM, HTN under medical control in 三重 hospital
+Smoking 2-3PPD for 40 years
+
+No chest pain
+Dyspnea on exertion(-)
+Not checking home BP
+2 years ago, stroke
+DM, HTN under medical control in 三重 hospital
+Smoking 2-3PPD for 40 years
+------------------------------------------------
+No chest pain
+Dyspnea on exertion(-)
+Not checking home BP 
+Objective 
+【20130731】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) either soft tissue attenuation or mild stress-induced ischemia at basal anterior, basal septal and mid to basal inferior walls, (2) good LV systolic function, but r/o stress induced LV dysfunction and RV overload.
+ECG92015/5/11): NSR, no obvious ST T change
+BP: 166/100 mmHg(R), 142/90(L)
+【20130731】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) either soft tissue attenuation or mild stress-induced ischemia at basal anterior, basal septal and mid to basal inferior walls, (2) good LV systolic function, but r/o stress induced LV dysfunction and RV overload.
+ECG92015/5/11): NSR, no obvious ST T change
+BP: 130/80mmHg(R)
+Carotid duplex: neg
+【20160112】MRI With/Without Contrast--Brain :Left proximal MCA chronic occlusion. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R06.00 Dyspnea 慢  
+O R42 Dizziness 慢  
+O I67.89 Stroke 重 慢 腦  
+ 
+
+
+
+
+Subjective 
+Right facial palsy and slurred speech on 2016/1/10. 
+Recovery within 15 minutes. 
+
+Past history: 
+1. 2013/07 left pontine infarction, under regular Aspirin, but shift to to Dipyridamol 25mg BID for one month ago
+2. Hypertension
+3. Type 2 diabetes mellitus for 10 years, last HbA1c: 6.2
+4. Heavy smoker, 3 PPD for 40 years
+
+Numbness in bilateral fingertips, especially ulnar side. 
+Objective 
+2016/02/01
+hypesthesia in bilateral fingertips.
+
+[Neurological Examination]
+Consciousness: clear and alert, oriented
+Visual field: intact by confrontation test
+Pupil size: 3mm/3mm, light reflex +/+
+EOM: full and free, no nystagmus, no diplopia
+Bilateral symmetric facial sensation
+Corneal reflex +/+
+No facial palsy
+Gag reflex +/+
+No tongue deviation on protrusion
+Muscle power:
+ Right upper proximal 5, upper distal 5, lower proximal 5, lower distal 5
+ Left upper proximal 5, upper distal 5, lower proximal 5, lower distal 5
+DTR:
+ Right biceps ++, triceps ++, brachioradialis ++, knee ++, ankle ++
+ Left biceps ++, triceps ++, brachioradialis ++, knee ++, ankle ++
+Babinski sign: flexor/flexor
+Sensory: bilateral symmetric by pinprick and light touch
+FNF/KHS: no dysmetria
+Gait: intact 
+Assessment 
+TIA, left MCA M1 stenosis
+DM, hypertension
+Old left pontine infarction in 2013/07
+Suspected lower cervical radiculopathy 
+Plan 
+1. Cervical AP+lateral
+2. NCV(motor上肢+sensory)+F-wave+EMG
+3. Switch aspirin+persantin to Aggrenox 1# BID 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M G45.9 Transient ischemic attack 重 慢 腦  
+O M54.12 Radiculopathy, cervical region  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aggrenox MR cap /cap (金山分院專用) 1 cap BID PO 28 56 cap 健保 2 2016/02/01 已確認 已批 范恬心 
+ 
+影醫 000MP083 Spine: Cervical AP, LAT. 1  N 2016/02/01 執行、已批 小部位:ROUTINE
+完成：2016/02/01
+ 范恬心 
+檢查 000JEX09 針極肌電圖檢查 1  N 2016/02/01 執行、已批 完成：2016/03/15
+ 范恬心 
+
+治療 20014B0J 針極肌電圖檢查(Needle EMG) 1  N 2016/02/01 執行、已批 完成：2016/03/15
+ 范恬心 
+治療 20015B0J 運動神經傳導速度測定-上肢(Motor nerve conduction velocity-upper) 1  N 2016/02/01 執行、已批 完成：2016/03/15
+ 范恬心 
+治療 20019B0J 感覺神經傳導速度測定(Sensory nerve conduction velocity) 1  N 2016/02/01 執行、已批 完成：2016/03/15
+ 范恬心 
+治療 20023B0J Ｆ波(F wave) 1  N 2016/02/01 執行、已批 完成：2016/03/15
+ 范恬心 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M G45.9 Transient ischemic attack 重 慢 腦  
+O M54.12 Radiculopathy, cervical region  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aggrenox MR cap /cap (金山分院專用) 1 cap BID PO 28 56 cap 健保 2 2016/02/22 已確認 已批 沈玉琴 
+ 

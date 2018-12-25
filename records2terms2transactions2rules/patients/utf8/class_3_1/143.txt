@@ -1,0 +1,143 @@
+﻿
+Subjective 
+referred from health examination center for 13 root coverage and 37 restoration
+(37 Dl cusp fracture for 1 month)
+ 
+Objective 
+PMH:
+all major systemic diseases were denied
+no known drug or food allergy
+LF:
+gingival recession at 13 34-36 44-46 buccal side
+37 DL cusp fracutre
+generalized gingiva inflammation and plaque accumulation
+PD>=5mm:nil
+ 
+Assessment 
+chronic gingivitis
+ 
+Plan 
+treatment plan:
+1. FM scaling
+2. OD consultation for 37 restoration(informed the patient that onlay or crown might be indicated)
+3. root coverage of 13 (34 35 44 45) assign TR3洪秀君
+TR3洪秀君/VS王振穎
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/11/18 執行、已批 齒位1:FM
+完成：2015/11/18
+ 王振穎 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/18 已批 完成：2015/11/18  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/11/18 已批 完成：2015/11/18 
+ 
+
+Subjective 
+referred from health examination center for 13 root coverage and 37 restoration
+(37 Dl cusp fracture for 1 month) 
+Objective 
+smoking (+)
+LLL 2 small nodules, <5mm
+CT followup 
+Assessment 
+chronic gingivitis 
+Plan 
+treatment plan:
+1. FM scaling
+2. OD consutlation for 37 restoration(informed the patient that onlay or crown might be indicated)
+3. root coverage of 13 (34 35 44 45)
+TR3洪秀君/VS王振穎 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+O 239.1 Lung Tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2015/11/24 執行、已批 Indication:Lung Tumor
+小部位:all
+其他：low dose ct
+完成：2016/05/20
+ 陳晉興 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/24 已批 完成：2015/11/24  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/11/24 已批 完成：2015/11/24  
+ 
+ 
+Subjective 
+referred from health examination center for 13 root coverage and 37 restoration
+(37 Dl cusp fracture for 1 month) 
+Objective 
+smoking (+)
+LLL 2 small nodules, <5mm
+CT followup
+【20160520】CT Without Contrast-Chest :LLL GGNs, stable. 
+Assessment 
+chronic gingivitis 
+Plan 
+treatment plan:
+1. FM scaling
+2. OD consutlation for 37 restoration(informed the patient that onlay or crown might be indicated)
+3. root coverage of 13 (34 35 44 45)
+TR3洪秀君/VS王振穎 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+O D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/31 已批 完成：2016/05/31  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/31 已批 完成：2016/05/31 
+ 
+
+Subjective 
+for smoking cessation: 2016/07/04
+smoking for 12 years, 15 CPD, FTND: 5/10
+PH: heart dz(-), mental dz(-)
+有小孩想戒菸，戶外吸菸
+quit history: ever use loznege to quit, feel effective but too expensive
+patient preferred champix, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/07/04 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重復原因:病人因素(補給天數并延後回診)
+尚有余藥7天 
+ 
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/07/04 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/10/05 執行、已批、未看完 完成：2016/10/05
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/01/04 執行、已批、未看完 完成：2017/01/04
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/04 已批 完成：2016/07/04  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/07/04 已批 完成：2016/07/04  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/07/04 已批 完成：2016/07/04 
+ 
+

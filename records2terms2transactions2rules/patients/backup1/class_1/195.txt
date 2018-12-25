@@ -1,0 +1,1043 @@
+﻿
+Subjective 
+History of GU reflux;
+Left wrist fracture s/p 1 months;
+Son is a medical doctor in NTUH;
+曾鵬文refer; 
+Objective 
+Ulnar prominence (+);
+Limited ROM;
+疼痛評估：疼痛指數： 2-3分; 間歇痛 ; 疼痛部位： left wrist;; 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 813.81 Radial fracture 外  
+O 845.00 Ankle sprain 外  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP005 Wrist: Left 1  Y 2014/11/26 執行、已批 小部位:AP,LAT
+完成：2014/11/26
+ 王廷明 
+影醫 000MP027 Ankle: Right 1  N 2014/11/26 執行、已批 小部位:Routine
+完成：2014/11/26
+ 王廷明 
+行政費用 000O1001 掛號費 1 自費 N 2014/11/26 已批 完成：2014/11/26 
+ 
+Subjective 
+He visited ER on 2014/11/18 due to epigastralgia and tarry stool for one day
+
+Pathology of endoscopic biopsy (done in 1/5) shown on 1/7 PM:
+Stomach, pylorus, lesser curvature, endoscopic biopsy, adenocarcinoma, without Helicobacter infection
+Stomach, pylorus, greater curvature, endoscopic biopsy, atypical cells, without Helicobacter infection
+
+Informed of patient by telephone on 1/7 and arrange admission (13B) for him 
+Objective 
+【20141118】Chest : PA View (Standing) :1. hazy density noted in the both lower lungs. 
+2. the heart size is normal.
+3. thoracic cage is intact.
+【20141119】HB: 9.7   g/dL
+【20141119】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :Tarry stool
+ Indication : Tarry stool
+ Endoscopic Diagnosis 
+       Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+       Superficial gastritis,antrum
+       Duodenal ulcerative lesion, bulb, with involvement of pylorus, s/p biopsy
+Patho: Intestine, small, duodenal, endoscopic biopsy, gastric heterotopia
+Microscopically, it shows antral type gastric mucosa with Helicobacter infection, suggestive of gastric heterotopia. 
+Plan 
+EGD 6 weeks later 
+RTC 2M later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 530.11 Reflux esophagitis 慢  
+O 532.90 Duodenal ulcer 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/01/05 已確認 已批B 郭憶妮  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 28 tab 健保 2 2014/11/26 已確認 已批 陳美志  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W Surgical pathology Level IV 2  N 2015/01/05 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/01/05
+ 郭憶妮 
+病理 25012B0W Immunohistochemical stains, each antibody 2  N 2015/01/06 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/01/06
+ 徐珮君 
+病理 25012B0W Immunohistochemical stains, each antibody 1  N 2015/01/07 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/01/07
+ 徐珮君 
+檢查 28016CZS [總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查 1  N 2014/11/26 執行、已批 完成：2015/01/05
+ 陳美志 
+治療 28030C0S ENDOSCOPIC BIOPSY EACH EXAM. 1  N 2015/01/05 執行、已批 完成：2015/01/05
+ 郭憶妮 
+行政費用 000O1001 掛號費 1 自費 N 2014/11/26 已批 完成：2014/11/26  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2014/11/26 已批 完成：2014/11/26  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/11/26 已批 完成：2014/11/26 
+ 
+
+Subjective 
+For wound check and stitches removal;
+手術史 
+2014/12/01 Operative Method: ORIF with AO locking plate (9S); AIBG, right side 
+Objective 
+No fever at home;
+Wound:  dry and clean;
+Mild swelling at operative site;
+No local infection sign; 
+
+
+疼痛評估：疼痛指數： 0-1分; 間歇痛 ; 疼痛部位： around operative incision; 
+Plan 
+Removal of stiches;
+Watch for infection or stitches abscess;
+Regular follow up for clinical and radiological results; 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 845.00 Ankle sprain 外  
+M 813.81 Radial fracture 外  
+O V58.3 Wound care  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Bio-cal Chewable /tab 1 tab TID PO 28 84 tab 自費  2014/12/10 已確認 已批 王廷明  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP005 Wrist: Left 1  Y 2014/12/10 執行、已批 小部位:AP,LAT
+完成：2015/01/07
+ 王廷明 
+治療 48025C00 拆線(次)(小於10CM) 2  N 2014/12/10 執行、已批 完成：2014/12/10
+ 王廷明 
+治療 95002C00 石膏固定:短臂 1  N 2014/12/10 執行、已批 完成：2014/12/10
+ 王廷明 
+治療 000Z3043 中文診斷書 1 自費 N 2014/12/10 執行、已批 完成：2014/12/10
+ 王廷明 
+醫材 20000700 皺紋棉捲(4吋) 2  N 2014/12/10 執行、已批 完成：2014/12/10
+ 王廷明 
+醫材 20000342 彩色石膏護具(3吋) 2 自費 N 2014/12/10 執行、已批 完成：2014/12/10
+ 王廷明 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/10 已批 完成：2014/12/10  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/12/10 已批 完成：2014/12/10  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2014/12/10 已批 完成：2014/12/10 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 530.11 Reflux esophagitis 慢  
+O 532.90 Duodenal ulcer 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 28 tab 健保 2 2014/12/25 已確認 已批 趙瑞真  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/12/25 已批 完成：2014/12/25  
+ 
+Subjective 
+History of GU reflux;
+Left wrist fracture s/p ;
+手術史 
+2014/12/01 Operative Method: ORIF with AO locking plate (9S); AIBG, right side 
+Son is a medical doctor in NTUH;
+曾鵬文refer; 
+Objective 
+Ulnar prominence (+);
+Limited ROM;
+疼痛評估：疼痛指數： 2-3分; 間歇痛 ; 疼痛部位： left wrist;; 
+Plan 
+Start PT; 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 813.81 Radial fracture 外  
+O 845.00 Ankle sprain 外  
+O 716.80 Other arthritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Bio-cal Chewable /tab 1 tab TID PO 28 84 tab 自費  2015/01/07 已確認 已批 王廷明  
+Indol Gel 1% 10 g/tube 1 XX QD D 14 2 tube 健保  2015/01/07 已確認 已批 王廷明  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP005 Wrist: Left 1  Y 2015/01/07 開立、已批 小部位:AP,LAT
+ 王廷明 
+治療 000Z3043 中文診斷書 1 自費 N 2015/01/07 執行、已批 完成：2015/01/07
+ 王廷明 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2015/01/07 執行、已批 完成：2015/01/07
+ 王廷明 
+治療 95021C00 石膏拆除 1  N 2015/01/07 執行、已批 完成：2015/01/07
+ 王廷明 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/07 已批 完成：2015/01/07  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/01/07 已批 完成：2015/01/07  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/01/07 已批 完成：2015/01/07 
+ 
+
+Subjective 
+History of GU reflux;
+Left wrist fracture s/p ;
+手術史 
+2014/12/01 Operative Method: ORIF with AO locking plate (9S); AIBG, right side 
+Son is a medical doctor in NTUH;
+曾鵬文refer; 
+Objective 
+Ulnar prominence (+);
+Limited ROM;
+疼痛評估：疼痛指數： 2-3分; 間歇痛 ; 疼痛部位： left wrist;; 
+Plan 
+Start PT; 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 845.00 Ankle sprain 外  
+M 813.81 Radial fracture 外  
+O 716.80 Other arthritis 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP005 Wrist: Left 1  Y 2015/02/25 開立、已批 小部位:AP,LAT
+ 王廷明 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/25 已批 完成：2015/02/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/02/25 已批 完成：2015/02/25 
+ 
+
+Subjective 
+No fever
+Gruel : tolerated.
+Stool fair
+
+BW: 60 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+complication: duodenal stump leak
+
+2/17 WBC 13120 
+Plan 
+CBc, CRP
+RTC 3-12 (W4) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 682.9 Abscess  
+M 151.9 Gastric cancer 重 慢 癌  
+O 813.81 Radial fracture 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Cefspan 100 mg/cap 2 cap BID PO 14 56 cap 健保  2015/02/26 已確認 已批 賴逸儒  
+Flagyl 250 mg/tab 2 tab TID PO 14 84 tab 健保  2015/02/26 已確認 已批 賴逸儒  
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 14 36 tab 健保  2015/02/26 已確認 已批 賴逸儒  
+MgO 250 mg/tab 1 tab TID PO 14 42 tab 健保  2015/02/26 已確認 已批 賴逸儒  
+(DC)Pantoloc 40 mg/tab 1 tab QD PO 14 14 tab 健保  2015/02/26 已確認 已批 賴逸儒  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 14 42 tab 健保  2015/02/26 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/02/26 執行、已批 Specimen:BLO
+完成：2015/02/26
+ 賴逸儒 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2015/02/26 執行、已批 Specimen:BLO
+完成：2015/02/26
+ 賴逸儒 
+治療 48011C00 小換藥(小於10CM) 1  N 2015/02/26 執行、已批 完成：2015/02/26
+ 賴逸儒 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/26 已批 完成：2015/02/26  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/02/26 已批 完成：2015/02/26  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/02/26 已批 完成：2015/02/26 
+ 
+
+Subjective 
+night sweats
+
+Gruel : tolerated.
+Stool fair
+
+BW: 60-61 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+complication: duodenal stump leak
+
+【20150226】WBC: 10.34   k/μL
+right drain wound: granulation tissue 
+Plan 
+CBC
+
+RTC 2week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 813.81 Radial fracture 外  
+O 682.9 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+MgO 250 mg/tab 1 tab TID PO 14 42 tab 健保  2015/03/12 已確認 已批 賴逸儒  
+(DC)Pantoloc 40 mg/tab 1 tab QD PO 14 14 tab 健保  2015/03/12 已確認 已批 賴逸儒  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 14 42 tab 健保  2015/03/12 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/03/12 執行、已批 Specimen:BLO
+完成：2015/03/25
+ 賴逸儒 
+治療 000Z3063 中文診斷書第二份起每份50元 2 自費 N 2015/03/12 執行、已批 完成：2015/03/12
+ 莊靜如 
+治療 000Z3043 中文診斷書 1 自費 N 2015/03/12 執行、已批 完成：2015/03/12
+ 莊靜如 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/12 已批 完成：2015/03/12  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/12 已批 完成：2015/03/12  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/03/12 已批 完成：2015/03/12 
+ 
+
+Subjective 
+night sweats
+
+rice meal : tolerated.
+Stool fair
+
+BW: 60-61 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+complication: duodenal stump leak
+
+【20150325】WBC: 6.93   k/μL
+【20150325】HB: 11.1   g/dL 
+Plan 
+RTC 4 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 682.9 Abscess  
+O 813.81 Radial fracture 外  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/27 已批 完成：2015/03/27 
+ 
+
+Subjective 
+rice meal : tolerated.
+Stool fair
+
+BW: 60-->61.5 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+complication: duodenal stump leak
+
+
+【20150325】WBC: 6.93   k/μL
+【20150325】HB: 11.1   g/dL 
+Plan 
+RTC 3 mo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 813.81 Radial fracture 外  
+O 682.9 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 28 28 pack 自費  2015/04/24 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/24 已批 完成：2015/04/24  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/04/24 已批 完成：2015/04/24  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2015/04/24 已批 完成：2015/04/24 
+ 
+
+
+Subjective 
+rice meal : tolerated.
+Stool fair
+
+BW: 60-->61.5 kg--58 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+complication: duodenal stump leak 
+Plan 
+RTC 1 mo
+
+CBC, Cre, ALT, CEA
+
+ABD CT 2015-9 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 682.9 Abscess  
+O 813.81 Radial fracture 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 28 28 pack 自費  2015/07/17 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/07/17 執行、已批 Specimen:BLO
+完成：2015/07/17
+ 賴逸儒 
+檢驗 09026CZP ALT(GPT) 1  N 2015/07/17 執行、已批 Specimen:BLO
+完成：2015/07/17
+ 賴逸儒 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2015/07/17 執行、已批 Specimen:BLO
+完成：2015/07/17
+ 賴逸儒 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/07/17 執行、已批 Specimen:BLO
+完成：2015/07/17
+ 賴逸儒 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2015/07/17 執行、已批 Indication:Gastric cancer, Follow up
+小部位:all
+完成：2015/09/02
+ 賴逸儒 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/09/02 執行、已批 完成：2015/09/02
+ 黃琬婷 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2015/09/02 執行、已批 完成：2015/09/02
+ 黃琬婷 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/17 已批 完成：2015/07/17  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/07/17 已批 完成：2015/07/17  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2015/07/17 已批 完成：2015/07/17 
+ 
+
+Subjective 
+rice meal : tolerated.
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+complication: duodenal stump leak
+
+【20150720】RIA:CEA (Serum): 2.19   ng/ml
+【20150717】HB: 11.4   g/dL
+【20150717】CRE: 0.7   mg/dL 
+Plan 
+RTC 6 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 813.81 Radial fracture 外  
+O 682.9 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 28 28 pack 自費  2015/08/14 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/14 已批 完成：2015/08/14  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/08/14 已批 完成：2015/08/14  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2015/08/14 已批 完成：2015/08/14 
+ 
+
+Subjective 
+rice meal : tolerated.
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg, statinary 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+complication: duodenal stump leak
+
+
+【20150902】CT With/Without Contrast-Abdomen :Post-op changes. 
+Fat stranding around the celiac artery, suggest follow up. 
+Much food in the distended stomach, probable stenosis at gastrojejunal anastomosis, suggest clinical correlation. 
+Plan 
+RTC 4 wks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 682.9 Abscess  
+O 813.81 Radial fracture 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 28 28 pack 自費  2015/09/25 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 47079B00 癌症治療計畫諮詢規劃費 1  N 2015/08/26 執行、已批 完成：2015/09/25
+ 張芝綺 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/25 已批 完成：2015/09/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/09/25 已批 完成：2015/09/25  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2015/09/25 已批 完成：2015/09/25  
+ 
+Subjective 
+rice meal : tolerated.
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+
+【20150902】CT With/Without Contrast-Abdomen :Post-op changes. 
+Fat stranding around the celiac artery, suggest follow up. 
+Much food in the distended stomach, probable stenosis at gastrojejunal anastomosis, suggest clinical correlation. 
+Plan 
+RTC 4 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 813.81 Radial fracture 外  
+O 682.9 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 28 28 pack 自費  2015/10/23 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/23 已批 完成：2015/10/23  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/10/23 已批 完成：2015/10/23  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2015/10/23 已批 完成：2015/10/23 
+ 
+Subjective 
+rice meal : tolerated.
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak 
+Plan 
+RTC 4 weeks
+
+CEA, Cre 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 682.9 Abscess  
+O 813.81 Radial fracture 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 28 28 pack 自費  2015/11/27 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2015/12/18
+ 賴逸儒 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2015/12/18
+ 賴逸儒 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/27 已批 完成：2015/11/27  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/11/27 已批 完成：2015/11/27  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2015/11/27 已批 完成：2015/11/27 
+ 
+
+Subjective 
+rice meal : tolerated.
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20151218】RIA:CEA (Serum): 1.59   ng/ml
+【20151218】CRE: 0.7   mg/dL 
+Plan 
+RTC 4 weeks
+
+PES 2016-3 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 151.9 Gastric cancer 重 慢 癌  
+O 813.81 Radial fracture 外  
+O 682.9 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 28 28 pack 自費  2015/12/25 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z3043 中文診斷書 1 自費 N 2015/12/25 執行、已批 完成：2015/12/25
+ 賴逸儒 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/25 已批 完成：2015/12/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/25 已批 完成：2015/12/25  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2015/12/25 已批 完成：2015/12/25  
+ 
+
+Subjective 
+vomiting 5 days ago, only tolerate gruel.
+
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg--54 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20151218】RIA:CEA (Serum): 1.59   ng/ml
+【20151218】CRE: 0.7   mg/dL 
+Plan 
+RTC 3 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C16.9 Gastric cancer 重 慢 癌  
+O L02.91 Abscess  
+O S52.90XA Radial fracture 外 職  
+O K29.70 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 21 21 pack 自費  2016/02/05 已確認 已批 賴逸儒  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 21 21 tab 健保  2016/02/05 已確認 已批 賴逸儒  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 21 63 tab 健保  2016/02/05 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/05 已批 完成：2016/02/05  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/02/05 已批 完成：2016/02/05  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2016/02/05 已批 完成：2016/02/05 
+ 
+
+Subjective 
+no fever; one episode of ileus and admitted 2016-1-27
+
+no vomiting now.
+
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg--54 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20151218】RIA:CEA (Serum): 1.59   ng/ml
+【20151218】CRE: 0.7   mg/dL
+【20160126】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :gastric ca s/p op, for follow up
+ Indication :   gastric ca s/p op, for follow up
+ Instrument :   GIF-Q260                          .13
+ Pre-medication :  Buscopan
+ Anesthesia :      Nil
+ Medicine history : Nil
+ Endoscopic Findings
+   Esophagus :
+     There were no ulcers nor varix in the esophagus
+   Stomach :
+     Status post subtotal gastrectomy with BII anastomosis. On entry, much bile 
+     like materials were noted in remnant stomach. Hyperemic patches were noted at 
+     fundus. Erythematous and edematous mucosal change was noted at anastomosis 
+     site, biopsyx2 were done.
+   Duodenum :
+     Patent A and E loops were noted.
+ Endoscopic Diagnosis 
+   Esophagus :
+     Negative finding
+   Stomach :
+     Status post subtotal gastrectomy with BII anastomosis 
+Plan 
+RTC 3 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C16.9 Gastric cancer 重 慢 癌  
+O K29.70 Gastritis 慢  
+O S52.90XA Radial fracture 外 職  
+O L02.91 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 21 21 pack 自費  2016/02/26 已確認 已批 賴逸儒  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 21 63 tab 健保  2016/02/26 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/26 已批 完成：2016/02/26  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/02/26 已批 完成：2016/02/26  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2016/02/26 已批 完成：2016/02/26 
+ 
+
+Subjective 
+no fever; one episode of ileus and admitted 2016-1-27
+
+no vomiting now.
+
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg--54 kg--54.7kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20151218】RIA:CEA (Serum): 1.59   ng/ml
+【20151218】CRE: 0.7   mg/dL
+
+【20160126】HB: 9.5   g/dL 
+Plan 
+RTC 8 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C16.9 Gastric cancer 重 慢 癌  
+O L02.91 Abscess  
+O S52.90XA Radial fracture 外 職  
+O K29.70 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Krestin 1 g/pack 1 pack QDPC PO 56 56 pack 自費  2016/03/18 已確認 已批 賴逸儒  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 28 84 tab 健保  2016/03/18 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/18 已批 完成：2016/03/18  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/03/18 已批 完成：2016/03/18  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/18 已批 完成：2016/03/18 
+ 
+
+Subjective 
+Loose stool 2-3/D
+
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg--54 kg--54.7kg--52 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20151218】RIA:CEA (Serum): 1.59   ng/ml
+【20151218】CRE: 0.7   mg/dL
+
+【20160126】HB: 9.5   g/dL 
+Plan 
+RTC 5/20
+
+CBc, Cre, ALt, Na, K, CEA
+ABD CT 2016-5 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C16.9 Gastric cancer 重 慢 癌  
+O K29.70 Gastritis 慢  
+O S52.90XA Radial fracture 外 職  
+O L02.91 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Smecta 3 g/pack 1 pack TID PO 7 21 pack 健保  2016/04/29 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/04/29 執行、已批 Specimen:BLO
+完成：2016/04/29
+ 賴逸儒 
+檢驗 08011CZP CBC & platelet 1  N 2016/04/29 執行、已批 Specimen:BLO
+完成：2016/04/29
+ 賴逸儒 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/29 執行、已批 Specimen:BLO
+完成：2016/04/29
+ 賴逸儒 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2016/04/29 執行、已批 Specimen:BLO
+完成：2016/04/29
+ 賴逸儒 
+檢驗 09021CZP Sodium, Na 1  N 2016/04/29 執行、已批 Specimen:BLO
+完成：2016/04/29
+ 賴逸儒 
+檢驗 09022CZP Potassium, K 1  N 2016/04/29 執行、已批 Specimen:BLO
+完成：2016/04/29
+ 賴逸儒 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2016/04/29 執行、已批 Indication:Gastric cancer, Follow up
+小部位:all
+完成：2016/05/06
+ 賴逸儒 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/05/06 執行、已批 完成：2016/05/06
+ 黃琬婷 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/05/06 執行、已批 完成：2016/05/06
+ 黃琬婷 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/29 已批 完成：2016/04/29  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/04/29 已批 完成：2016/04/29  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2016/04/29 已批 完成：2016/04/29 
+ 
+
+Subjective 
+Loose stool 2-3/D
+
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg--54 kg--54.7kg--52 kg--50.6 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20160126】HB: 9.5   g/dL
+
+【20160502】RIA:CEA (Serum): 1.47   ng/ml
+【20160429】HB: 10.8   g/dL
+【20160506】CT With/Without Contrast-Abdomen :1.Gastric cancer S/P radical subtotal gastrectomy.
+2.Mild wall thickening at anastomotic site, suggest correlation with PES. 
+Plan 
+RTC 4 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O L02.91 Abscess  
+M C16.9 Gastric cancer 重 慢 癌  
+O S52.90XA Radial fracture 外 職  
+O K29.70 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Smecta 3 g/pack 1 pack TID PO 14 42 pack 健保  2016/05/20 已確認 已批 賴逸儒  
+Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 14 42 pack 自費  2016/05/20 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/20 已批 完成：2016/05/20  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/20 已批 完成：2016/05/20  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2016/05/20 已批 完成：2016/05/20 
+ 
+
+Subjective 
+Loose stool 2-3/D, improved
+
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg--54 kg--54.7kg--52 kg--50.6 kg--51.5 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20160126】HB: 9.5   g/dL
+
+【20160502】RIA:CEA (Serum): 1.47   ng/ml
+【20160429】HB: 10.8   g/dL
+【20160506】CT With/Without Contrast-Abdomen :1.Gastric cancer S/P radical subtotal gastrectomy.
+2.Mild wall thickening at anastomotic site, suggest correlation with PES. 
+Plan 
+RTC 2 mo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C16.9 Gastric cancer 重 慢 癌  
+O K29.70 Gastritis 慢  
+O S52.90XA Radial fracture 外 職  
+O L02.91 Abscess  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 28 84 pack 自費  2016/06/24 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/24 已批 完成：2016/06/24  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/06/24 已批 完成：2016/06/24  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2016/06/24 已批 完成：2016/06/24 
+ 
+Subjective 
+Loose stool 2-3/D, improved
+
+Stool fair
+
+BW: 60-->61.5 kg--58 kg--> 56kg-- 57 kg--56.7 kg--54 kg--54.7kg--52 kg--50.6 kg--51.5 kg 
+Objective 
+s/p subtotal gastrectomy 0n 2015-1-15
+pT3N0M0
+
+conj: not pale
+
+complication: duodenal stump leak
+
+【20160126】HB: 9.5   g/dL
+
+【20160502】RIA:CEA (Serum): 1.47   ng/ml
+【20160429】HB: 10.8   g/dL
+【20160506】CT With/Without Contrast-Abdomen :1.Gastric cancer S/P radical subtotal gastrectomy.
+2.Mild wall thickening at anastomotic site, suggest correlation with PES. 
+Plan 
+RTC 3 mo
+
+CBC, Cre, ALT, CEA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C16.9 Gastric cancer 重 慢 癌  
+O L02.91 Abscess  
+O S52.90XA Radial fracture 外 職  
+O K29.70 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 56 168 pack 自費  2016/08/12 已確認 已批 賴逸儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/10/24
+ 賴逸儒 
+檢驗 09015CZP (Blood)Creatinine 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/10/24
+ 賴逸儒 
+檢驗 09026CZP ALT(GPT) 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/10/24
+ 賴逸儒 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/10/24
+ 賴逸儒 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/12 已批 完成：2016/08/12  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/08/12 已批 完成：2016/08/12  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1 自費 N 2016/08/12 已批 完成：2016/08/12 
+ 
+
+Subjective 
+for smoking cessation: 2016/09/26
+smoking for 40 years, 0.5 PPD, FTND: 3/10
+PH: gastric cancer s/p gastrectomy one year ago. heart dz(-), mental dz(-)
+quit history: quit only when admission. never use medication to quit.
+smoking most in the morning and after meal.
+patient preferred champix, inform side effect
+ask for 4 weeks medication due to schedule problem 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 21 42 tab 健保  2016/09/26 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/09/26 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:病人因素(補給天數並延後回診)
+尚有餘藥21天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/12/27 執行、已批、未看完 完成：2016/12/27
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/03/29 執行、已批、未看完 完成：2017/03/29
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/09/26 已批 完成：2016/09/26  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/09/26 已批 完成：2016/09/26  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/09/26 已批 完成：2016/09/26  
+ 
+
+
+
+ 

@@ -1,0 +1,74 @@
+﻿
+主/次 診斷碼 診斷名稱 註記 
+M R93.8 Abnormal chest X-ray  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2016/07/26 執行、已批 Indication:lung tumor
+小部位:MEDIASTINUM, LUNGS/PLEURA
+其他：low dose
+完成：2016/08/13
+ 陳晉興 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/26 已批 完成：2016/07/26  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/07/26 已批 完成：2016/07/26  
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 研究所以上 嚼檳榔 >10年，每天<20顆 
+吸菸 >10年，每天>=20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 有異常，需進一步追蹤或轉介(請填原因) 
+需進一步追蹤或轉介原因 均質性薄白斑     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/08/26 執行、已批 完成：2016/08/26
+ 陳信銘 
+ 
+
+Subjective 
+8/26 cigarette smoking 20+ years. 15 pieces perd day. 
+familty history of ung cancer. father and mother. 
+PMH: nil
+Med: nil
+alcohol oscially
+NKDA 
+Objective 
+8/26 
+130/79  P 90
+
+pros and cons provided
+patient decided to try gum and patch first. 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+20 Nicotinell TTS 1.75 mg/1 cm2 20 cm2/pce 1 pce QD D 14 14 pce 健保  2016/08/26 已確認 已批 王維典  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 14 140 tab 健保  2016/08/26 已確認 已批 王維典  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/12/02 執行、已批、未看完 完成：2016/12/02
+ 王維典 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/02/27 執行、已批、未看完 完成：2017/02/27
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/26 已批 完成：2016/08/26  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/08/26 已批 完成：2016/08/26  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/08/26 已批 完成：2016/08/26  
+ 
+ 

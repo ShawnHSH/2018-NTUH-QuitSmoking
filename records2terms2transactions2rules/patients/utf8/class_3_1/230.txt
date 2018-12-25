@@ -1,0 +1,2083 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION 
+
+現病史：
+HEMORRHOID S/P 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA 
+Assessment 
+PSA
+TESTOSTERONE 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 7 14 cap 健保  2015/03/24 已確認 已批 張孝欽  
+Mesyrel 50 mg/tab 1 tab HS PO 7 7 tab 健保  2015/03/24 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09121B0P Testosterone 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/03/24
+ 張孝欽 
+檢驗 12081B0P PSA 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/03/24
+ 張孝欽 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/24 已批 完成：2015/03/24  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/24 已批 完成：2015/03/24  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/03/24 已批 完成：2015/03/24 
+ 
+Subjective 
+主要病史來源：病人
+
+主訴：
+ask 2nd opinion about acoustic neuroma
+
+現病史：
+國泰2015/1MRI: showed left acoustic neuroma
+left hearing loss for 2 years 
+left tinnitus(+)
+left aural fullness(-)
+vertigo(-), dizziness(-)
+
+過去病史：
+HTN
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：不清楚 
+血型：A
+
+目前用藥：
+NA
+
+最近三個月內旅游史：無
+
+家族病史：不清楚/不便回答
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA 
+Plan 
+explanation and follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/25 已批 完成：2015/03/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/25 已批 完成：2015/03/25 
+ 
+
+Subjective 
+Heaing loss for 2 years, tinnitus. MRI 1.4 cm acoustic tumor 
+Plan 
+Cr, CyberKnife 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/03/26 執行、已批 Specimen:BLO
+完成：2015/03/26
+ 曾漢民 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/26 已批 完成：2015/03/26  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/26 已批 完成：2015/03/26 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION , INCONTINCENCE
+
+現病史：
+HEMORRHOID S/P 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20150324】Testosterone: 2.20   ng/mL
+【20150324】Serum PSA: 2.728   ng/mL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 607.84 Impotence of organic origin 男  
+O 257.2 Hypogonadism, male 慢 男  
+O 788.31 Urge incontinence 復  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/03/31 已確認 已批 張孝欽  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保  2015/03/31 已確認 已批 張孝欽  
+Mesyrel 50 mg/tab 1 tab HS PO 7 7 tab 健保  2015/03/31 已確認 已批 張孝欽  
+Testosterone Cypionate inj 200 mg/1 mL /amp 200 mg Q4W IM 28 1 amp 健保  2015/03/31 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+醫材 20000905 塑膠注射器，帶針3CC (螺旋，23G*1+1/4"") 1  N 2015/03/31 執行、已批 完成：2015/03/31
+ 張孝欽 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/31 已批 完成：2015/03/31  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/31 已批 完成：2015/03/31  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/31 已批 完成：2015/03/31 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072BMM CT With/without Contrast-Brain(with hand push for Cyberknife) 1  N 2015/04/09 執行、已批 Indication:L't acoustic tumor
+小部位:whole brain
+其他：for Cyberknife 無顯影劑過敏
+完成：2015/04/09
+ 曾漢民 
+影醫 33085B11 MRI With/without Contrast-Brain(for Cyberknife) 1  N 2015/04/09 執行、已批 Indication:L't acoustic tumor
+小部位:whole brain
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+其他：for Cyberknife 無顯影劑過敏
+完成：2015/04/09
+ 曾漢民 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1 內含 N 2015/04/09 執行、已批 完成：2015/04/09
+ 單美麗 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/09 已批 完成：2015/04/09  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/04/09 已批 完成：2015/04/09  
+ 
+ 
+
+預約日期 時段 序號 院區 檢查室 地點 
+2015/4/9 上午 10 總院區 總院東址電腦斷層室(三) 臺大總院東址電腦斷層攝影(三)室 
+2015/4/9 上午 3 總院區 總院東址磁振掃描室 GE 臺大總院東址一樓磁振掃描(三)室 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 3 3 tab 自費  2015/04/15 已確認 已批 曾漢民  
+Dorison 4 mg/tab 1 tab QD PO 3 3 tab 健保  2015/04/15 已確認 已批 曾漢民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37029B00 加馬機立體定位放射手術 1  N 2015/04/15 執行、已批 完成：2015/04/15
+ 曾漢民 
+醫材 20455604 UNI-FRAME MASK (短) 1 內含 N 2015/04/15 執行、已批 完成：2015/04/15
+ 曾漢民 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/15 已批 完成：2015/04/15  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/04/15 已批 完成：2015/04/15  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/04/15 已批 完成：2015/04/15 
+ 
+
+Subjective 
+CyberKnife for acoustic tumor on 2015/4/15 
+Plan 
+next visit one year later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z3043 中文診斷書 1 自費 N 2015/04/22 執行、已批 完成：2015/04/22
+ 曾漢民 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/22 已批 完成：2015/04/22  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1 自費 N 2015/04/22 已批 完成：2015/04/22 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION , INCONTINCENCE
+
+現病史：
+HEMORRHOID S/P 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20150324】Testosterone: 2.20   ng/mL
+【20150324】Serum PSA: 2.728   ng/mL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 788.31 Urge incontinence 復  
+O 257.2 Hypogonadism, male 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/28 已確認 已批 張孝欽  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/04/28 已確認 已批 張孝欽  
+Mesyrel 50 mg/tab 1 tab HS PO 7 7 tab 健保  2015/04/28 已確認 已批 張孝欽 特殊醫囑:天數小於21天 
+ 
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/04/28 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/28 已批 完成：2015/04/28  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/04/28 已批 完成：2015/04/28  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/28 已批 完成：2015/04/28 
+ 
+
+Subjective 
+DM for one year
+Dyslipidemia
+
+Orthostatic hypotension for 2-3 months
+No hypertension
+Atorvastatin 20 mg QN
+Aspirin 100 mg QD
+Glimepiride 2 mg BID 
+Objective 
+BH: 167
+BW: 69
+BP: 120/80 
+Plan 
+DM complication evaluation
+RTC 2 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09006C0P HbA1c 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09026CZP ALT(GPT) 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/05/01 執行、已批 Specimen:UR1
+完成：2015/05/02
+ 許智堯 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/05/01 執行、已批 Specimen:UR1
+完成：2015/05/02
+ 許智堯 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2015/05/01 執行、已批 Specimen:UR1
+完成：2015/05/02
+ 許智堯 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09043C0P HDL 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09044C0P LDL 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 09013CZP Uric acid 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+檢驗 08011CZP CBC & platelet 1  N 2015/05/01 執行、已批 Specimen:BLO
+完成：2015/05/02
+ 許智堯 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/01 已批 完成：2015/05/01  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/05/01 已批 完成：2015/05/01 
+ 
+Subjective 
+DM, noted for one year
+Dyslipidemia
+
+Orthostatic hypotension for 2-3 months
+No hypertension
+Sometimes diarrhea
+Hypoglycemia, less than once per week
+
+Current clinic medication
+Atorvastatin 20 mg QN
+Aspirin 100 mg QD
+Glimepiride 2 mg BID 
+Objective 
+BH: 167
+BW: 69
+BP: 120/80
+
+【20150502】GLU AC: 118   mg/dL
+【20150502】GLU 2hr PC: 247   mg/dL
+【20150502】HbA1c: 6.5   %
+【20150502】ALT: 22   U/L
+【20150502】CRE: 0.9   mg/dL
+【20150502】UA: 6.0   mg/dL
+【20150502】LDL-C: 75   mg/dL
+【20150502】HDL-C: 40   mg/dL
+【20150502】TG: 230   mg/dL
+【20150502】T-CHO: 135   mg/dL
+【20150502】Microalbumin/CRE(U): 0.004   *
+【20150502】Protein(C): -   mg/dL
+【20150502】Glu.(C): -   mg/dL 
+Assessment 
+【20150502】CRE: 0.9 mg/dL 
+Plan 
+RTC 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/05/15 已確認 已批 許智堯  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/05/15 已確認 已批 許智堯  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/15 已確認 已批 許智堯  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/15 已批 完成：2015/05/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/05/15 已批 完成：2015/05/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/05/15 已批 完成：2015/05/15 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 788.31 Urge incontinence 復  
+O 257.2 Hypogonadism, male 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/19 已確認 已批 謝欣妤  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/05/19 已確認 已批 謝欣妤  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/05/19 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/05/19 已批 完成：2015/05/19  
+ 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/06/09 已確認 已批 賴婉玲  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/06/09 已確認 已批 賴婉玲  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/06/09 已確認 已批 賴婉玲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/09 已批 完成：2015/06/09 
+ 
+
+注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 788.31 Urge incontinence 復  
+O 257.2 Hypogonadism, male 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/15 已確認 已批 黃麗臻  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/06/15 已確認 已批 黃麗臻  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/06/15 已確認 已批 黃麗臻  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/15 已批 完成：2015/06/15 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/07/06 已確認 已批 林小琴  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/07/06 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/07/06 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/06 已批 完成：2015/07/06 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION , INCONTINCENCE
+
+現病史：
+HEMORRHOID S/P 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20150324】Testosterone: 2.20   ng/mL
+【20150324】Serum PSA: 2.728   ng/mL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 607.84 Impotence of organic origin 男  
+O 257.2 Hypogonadism, male 慢 男  
+O 788.31 Urge incontinence 復  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/21 已確認 已批 張孝欽  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/07/21 已確認 已批 張孝欽  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/07/21 已確認 已批 張孝欽  
+Testosterone Cypionate inj 200 mg/1 mL /amp 200 mg Q4W IM 1 1 amp 健保  2015/07/21 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+醫材 20000911 塑膠注射器含針3CC (直叉，23G*1+1/4") 1  N 2015/07/21 執行、已批、未看完 完成：2015/07/21
+ 張孝欽 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/21 已批 完成：2015/07/21  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/07/21 已批 完成：2015/07/21  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/21 已批 完成：2015/07/21 
+ 
+Subjective 
+DM, noted for one year
+Dyslipidemia
+
+Orthostatic hypotension for 2-3 months
+No hypertension
+Sometimes diarrhea
+Hypoglycemia, less than once per week
+
+Current clinic medication
+Atorvastatin 20 mg QN
+Aspirin 100 mg QD
+Glimepiride 2 mg BID 
+Objective 
+BH: 167
+BW: 69
+BP: 120/80
+
+【20150502】GLU AC: 118   mg/dL
+【20150502】GLU 2hr PC: 247   mg/dL
+【20150502】HbA1c: 6.5   %
+【20150502】ALT: 22   U/L
+【20150502】CRE: 0.9   mg/dL
+【20150502】UA: 6.0   mg/dL
+【20150502】LDL-C: 75   mg/dL
+【20150502】HDL-C: 40   mg/dL
+【20150502】TG: 230   mg/dL
+【20150502】T-CHO: 135   mg/dL
+【20150502】Microalbumin/CRE(U): 0.004   *
+【20150502】Protein(C): -   mg/dL
+【20150502】Glu.(C): -   mg/dL
+【20150502】HbA1c: 6.5   %  LDL-C: 75   mg/dL  HDL-C: 40   mg/dL  ALT: 22   U/L  CRE: 0.9   mg/dL  UA: 6.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 247   mg/dL  TG: 230   mg/dL  T-CHO: 135   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 9.5   mg/L  CRE(U): 246   mg/dL 
+Assessment 
+【20150502】CRE: 0.9 mg/dL 
+Plan 
+ac pc a1c lipid
+W3 pm 38 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/07 已確認 已批 李弘元 用藥原因:LDL-C: 75 (2015/05/02)
+ 
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/08/07 已確認 已批 李弘元  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/07 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/08/07 執行、已批 Specimen:BLO
+完成：2015/08/07
+ 李弘元 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/08/07 執行、已批 Specimen:BLO
+完成：2015/08/07
+ 李弘元 
+檢驗 09006C0P *HbA1c 1  N 2015/08/07 執行、已批 Specimen:BLO
+完成：2015/08/07
+ 李弘元 
+檢驗 09001CZP T-CHO 1  N 2015/08/07 執行、已批 Specimen:BLO
+完成：2015/08/07
+ 李弘元 
+檢驗 09004CZP TG 1  N 2015/08/07 執行、已批 Specimen:BLO
+完成：2015/08/07
+ 李弘元 
+檢驗 09043C0P HDL 1  N 2015/08/07 執行、已批 Specimen:BLO
+完成：2015/08/07
+ 李弘元 
+檢驗 09044C0P LDL 1  N 2015/08/07 執行、已批 Specimen:BLO
+完成：2015/08/07
+ 李弘元 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/07 已批 完成：2015/08/07  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 
+ 
+
+Subjective 
+CyberKnife for acoustic tumor on 2015/4/15
+20150819 Tinnitus, dizziness recently 
+Plan 
+stugeron 1# tid
+cephadol 1# tid x 2 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Cinnazine 25 mg/tab 1 tab TIDPC PO 14 42 tab 健保  2015/08/19 已確認 已批 曾漢民  
+Diphenidol SC 25 mg/tab 1 tab TID PO 14 42 tab 健保  2015/08/19 已確認 已批 曾漢民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/19 已批 完成：2015/08/19  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/08/19 已批 完成：2015/08/19  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/08/19 已批 完成：2015/08/19 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/31 已確認 已批 劉婉華 用藥原因:LDL-C: 75 (2015/05/02)
+ 
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/08/31 已確認 已批 劉婉華  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/31 已確認 已批 劉婉華  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/08/31 已批 完成：2015/08/31 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/24 已確認 已批 林小琴 用藥原因:LDL-C: 75 (2015/05/02)
+ 
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/09/24 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/24 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/24 已批 完成：2015/09/24 
+ 
+
+Subjective 
+AN s/p cyberknife
+
+現病史：
+國泰2015/1MRI: showed left acoustic neuroma
+left hearing loss for 2 years 
+left tinnitus(+)
+left aural fullness(-)
+vertigo(-), dizziness(-)
+
+過去病史：
+HTN
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：不清楚 
+血型：A
+
+目前用藥：
+NA
+
+最近三個月內旅游史：無
+
+家族病史：不清楚/不便回答
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA 
+Plan 
+explanation and follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Cinnazine 25 mg/tab 1 tab BID PO 21 42 tab 健保  2015/09/24 已確認 已批 楊庭華  
+B.C. /cap 1 cap BID PO 21 42 cap 自費  2015/09/24 已確認 已批 楊庭華  
+(管4) Secorin 10 mg/tab 1 tab BID PO 21 42 tab 健保  2015/09/24 已確認 已批 楊庭華  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/10/05
+ 楊庭華 
+檢驗 09005CZP Glucose (AC) 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/10/05
+ 楊庭華 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/10/05
+ 楊庭華 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/10/05
+ 楊庭華 
+檢驗 12001C0P Syphilis (VDRL) 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/10/05
+ 楊庭華 
+影醫 000MP083 Spine: Cervical AP, LAT. 1  N 2015/09/24 執行、已批 小部位:.
+完成：2015/09/24
+ 楊庭華 
+檢查 22023B00 ECoG-耳蝸誘發聽力檢查 1  N 2015/09/24 刪除、刪除、未看完  楊庭華 
+檢查 22016B99 ENG-平衡功能檢查 1  N 2015/09/24 執行、已批 完成：2015/10/08
+ 楊庭華 
+治療 22016BZ0 Vestibular Function Test (ENG) 1  N 2015/09/24 執行、已批 完成：2015/10/08
+ 楊庭華 
+治療 22019B00 Caloric test 1  N 2015/09/24 執行、已批 完成：2015/10/08
+ 楊庭華 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/24 已批 完成：2015/09/24  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/09/24 已批 完成：2015/09/24  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/09/24 已批 完成：2015/09/24 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 788.31 Urge incontinence 復  
+O 257.2 Hypogonadism, male 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/13 已確認 已批 張孝欽  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/10/13 已確認 已批 張孝欽  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/10/13 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+醫材 20000911 塑膠注射器含針3CC (直叉，23G*1+1/4") 1  N 2015/10/13 刪除、刪除、未看完 完成：2015/10/13
+ 張孝欽 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/13 已批 完成：2015/10/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/10/13 已批 完成：2015/10/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/13 已批 完成：2015/10/13 
+ 
+
+Subjective 
+AN s/p cyberknife
+
+現病史：
+國泰2015/1MRI: showed left acoustic neuroma
+left hearing loss for 2 years 
+left tinnitus(+)
+left aural fullness(-)
+vertigo(-), dizziness(-)
+
+過去病史：
+HTN
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：不清楚 
+血型：A
+
+目前用藥：
+NA
+
+最近三個月內旅游史：無
+
+家族病史：不清楚/不便回答
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20151005】S.T.S. (VDRL/RPR Test): Non-Reactive   *
+【20150807】TG: 208   mg/dL
+【20150807】T-CHO: 120   mg/dL
+【20151005】HB: 15.2   g/dL
+【20151005】GLU AC: 97   mg/dL
+【20151005】TG: 142   mg/dL
+【20151005】T-CHO: 120   mg/dL
+【20150924】Spine: Cervical AP, LAT. :No obvious bone detruction or abnormal soft tissue change.
+The alignement is well.
+Spur formation shown in both anterior and posterior aspect of C4,5,6. 
+Plan 
+explanation and follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 225.1 Acoustic neuroma 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Cinnazine 25 mg/tab 1 tab BID PO 28 56 tab 健保  2015/10/15 已確認 已批 楊庭華  
+Diphenidol SC 25 mg/tab 1 tab BID PO 28 56 tab 健保  2015/10/15 已確認 已批 楊庭華  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 22001B99 Routine audiometry (>=3 歲 )-常規聽力檢查 1  Y 2015/10/15 執行、已批 完成：2015/10/15
+ 楊庭華 
+檢查 22018B99 ABR-Threshold (腦干反應檢查-閾值測定) 1 自費 N 2015/10/15 執行、已批 完成：2015/11/23
+ 楊庭華 
+檢查 22001BY0 Pure tone audiometry (>=3 歲 )-純音聽力檢查 1 自費 N 2015/10/15 執行、已批 完成：2015/12/03
+ 楊庭華 
+檢查 00EXENT2 Speech test-語言聽力檢查 1 自費 N 2015/10/15 執行、已批 完成：2015/12/03
+ 楊庭華 
+治療 22001BZ0 Audiometry(Pure Tone) 1  N 2015/10/15 執行、已批 完成：2015/10/15
+ 楊庭華 
+治療 22004C00 Tympanometry 1  N 2015/10/15 執行、已批 完成：2015/10/15
+ 楊庭華 
+治療 22026C00 聽反射檢查 1  N 2015/10/15 執行、已批 完成：2015/10/15
+ 楊庭華 
+治療 22018B00 腦干反應檢查 1 自費 N 2015/10/15 執行、已批 完成：2015/11/23
+ 楊庭華 
+治療 22013B00 Speech audiometry 1 自費 N 2015/10/15 執行、已批 完成：2015/12/03
+ 楊庭華 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/15 已批 完成：2015/10/15  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/10/15 已批 完成：2015/10/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/15 已批 完成：2015/10/15 
+ 
+
+Subjective 
+DM, noted for one year
+Dyslipidemia
+
+Orthostatic hypotension for 2-3 months
+No hypertension
+Sometimes diarrhea
+Hypoglycemia, less than once per week
+
+Current clinic medication:
+Atorvastatin 20 mg QN
+Aspirin 100 mg QD
+Glimepiride 2 mg BID
+
+2015/10/28 SMBG: no, Compliance(ok), Hypoglycemia(-), other discomforts(dizziness) 
+Objective 
+BH: 167cm
+BW: 69kg
+BMI=24.7
+
+BP: 115/75mmHg
+PR: 82/min
+
+【20150502】HbA1c: 6.5   %, GLU AC: 118   mg/dL, GLU 2hr PC: 247   mg/dL
+【20150502】ALT: 22   U/L, CRE: 0.9   mg/dL, UA: 6.0   mg/dL
+【20150502】LDL-C: 75 mg/dL, HDL-C: 40 mg/dL, TG: 230 mg/dL, T-CHO: 135   mg/dL
+【20150502】Microalbumin/CRE(U): 0.004
+
+【20150807】HbA1c: 6.1   %, GLU AC: 95   mg/dL, GLU 2hr PC: 212   mg/dL
+【20150807】TG: 208 mg/dL, T-CHO: 120 mg/dL, HDL-C: 39 mg/dL, LDL-C: 66   mg/dL
+
+【20150807】HbA1c: 6.1   %
+【20150807】GLU AC: 95   mg/dL
+【20150807】GLU 2hr PC: 212   mg/dL
+【20150807】TG: 208   mg/dL
+【20150807】T-CHO: 120   mg/dL
+【20150807】LDL-C: 66   mg/dL
+【20150807】HDL-C: 39   mg/dL
+
+【20151005】GLU AC: 97   mg/dL
+【20151005】TG: 142   mg/dL, T-CHO: 120   mg/dL 
+Assessment 
+1. T2DM
+2. Dyslipidemia
+3. Vertigo (ENT) 
+Plan 
+1. Keep current medications x 3 mo
+2. Educate of diet and exercise control
+3. Hypoglycemia management education.
+4. Encourage SMBG and BP record.
+5. Suggest weight reduction. 
+6. Lab: A1c, AC, PC
+7. RTC 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/28 已確認 已批 吳婉禎 重復原因:病人因素 (補給天數并延後回診)
+ 
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/10/28 已確認 已批 吳婉禎 重復原因:病人因素 (補給天數并延後回診)
+ 
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2015/10/28 已確認 已批 吳婉禎 重復原因:病人因素 (補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09006C0P HbA1c 1  N 2015/10/23 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 吳婉禎 
+檢驗 09005CZP Glucose (AC) 1  N 2015/10/23 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 吳婉禎 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/10/23 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 吳婉禎 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/28 已批 完成：2015/10/28  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/10/28 已批 完成：2015/10/28  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/28 已批 完成：2015/10/28 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/11/23 已確認 已批 賴婉玲  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/11/23 已確認 已批 賴婉玲  
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2015/11/23 已確認 已批 賴婉玲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/11/23 已批 完成：2015/11/23 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 788.31 Urge incontinence 復  
+O 257.2 Hypogonadism, male 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/03 已確認 已批 沈玉琴  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/12/03 已確認 已批 沈玉琴  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/12/03 已確認 已批 沈玉琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/03 已批 完成：2015/12/03 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/14 已確認 已批 沈玉琴  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/12/14 已確認 已批 沈玉琴  
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2015/12/14 已確認 已批 沈玉琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/14 已批 完成：2015/12/14 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION , INCONTINCENCE
+
+現病史：
+HEMORRHOID S/P 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20150324】Testosterone: 2.20   ng/mL
+【20150324】Serum PSA: 2.728   ng/mL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O N52.9 Impotence of organic origin 慢 男  
+O E29.1 Hypogonadism, male 慢 男  
+O N39.41 Urge incontinence 慢 復  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/01/05 已確認 已批 張孝欽  
+10 Tofranil 10 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/05 已確認 已批 張孝欽  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/01/05 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/05 已批 完成：2016/01/05  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/01/05 已批 完成：2016/01/05  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/05 已批 完成：2016/01/05 
+ 
+
+Subjective 
+DM noted for one year
+
+Orthostatic hypotension for 2-3 months
+No hypertension
+Sometimes diarrhea
+Hypoglycemia, less than once per week
+
+Current clinic medication:
+Atorvastatin 20 mg QN
+Aspirin 100 mg QD
+Glimepiride 2 mg BID
+
+2016/01/20 SMBG: no, Compliance(ok), Hypoglycemia(-), other discomforts(dizziness) 
+Objective 
+BH: 167cm, BW: 69kg, BMI=24.7
+
+BP: 115/75mmHg
+PR: 82/min
+
+【20150502】HbA1c: 6.5   %, GLU AC: 118   mg/dL, GLU 2hr PC: 247   mg/dL
+【20150502】ALT: 22   U/L, CRE: 0.9   mg/dL, UA: 6.0   mg/dL
+【20150502】LDL-C: 75 mg/dL, HDL-C: 40 mg/dL, TG: 230 mg/dL, T-C: 135 mg/dL
+【20150502】Microalbumin/CRE(U): 0.004
+【20150807】HbA1c: 6.1   %, GLU AC: 95   mg/dL, GLU 2hr PC: 212   mg/dL
+【20150807】TG: 208 mg/dL, T-C: 120 mg/dL, HDL-C: 39 mg/dL, LDL-C: 66 mg/dL
+【20151005】GLU AC: 97   mg/dL, TG: 142   mg/dL, T-CHO: 120   mg/dL
+
+【20160112】HbA1c: 6.5   %, GLU AC: 121   mg/dL, GLU 2hr PC: 221   mg/dL 
+Assessment 
+1. T2DM
+2. Dyslipidemia
+3. Vertigo (ENT) 
+Plan 
+1. Add Metformin 250mg bid
+keep others x 3M
+2. Educate of diet and exercise control
+3. Hypoglycemia management education.
+4. Encourage SMBG and BP record.
+5. Suggest weight reduction. 
+6. Lab: A1c, AC, PC
+7. RTC 3M -> enroll 共照 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/20 已確認 已批 吳婉禎 用藥原因:LDL-C: 66 (2015/08/07)
+ 
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/01/20 已確認 已批 吳婉禎  
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2016/01/20 已確認 已批 吳婉禎  
+Loditon 500 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/01/20 已確認 已批 吳婉禎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09006C0P HbA1c 1  N 2016/01/08 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09005CZP Glucose (AC) 1  N 2016/01/08 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/01/08 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2016/01/20 執行、已批 Specimen:UR1
+完成：2016/04/06
+ 吳婉禎 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/01/20 執行、已批 Specimen:UR1
+完成：2016/04/06
+ 吳婉禎 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/01/20 執行、已批 Specimen:UR1
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09026CZP ALT(GPT) 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09043C0P HDL 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢驗 09044C0P LDL 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/06
+ 吳婉禎 
+檢查 000CMED1 糖尿病變篩檢檢查(含眼底、視力、尿液微量白蛋白、面神經刺激、動脈分段血流壓力檢查) 1  N 2016/01/20 執行、已批 完成：2016/04/13
+ 吳婉禎 
+治療 18009B0A 動脈分段血流及壓力之測定 1  N 2016/04/13 執行、已批 完成：2016/04/13
+ 王秋香 
+治療 23502C00 眼底彩色攝影（每張） 1  N 2016/04/13 執行、已批 完成：2016/04/13
+ 王秋香 
+治療 23501C00 眼底檢查 1  N 2016/04/13 執行、已批 完成：2016/04/13
+ 王秋香 
+治療 000E0404 V A CHECK 1 自費 N 2016/04/13 執行、已批 完成：2016/04/13
+ 王秋香 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/20 已批 完成：2016/01/20  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/01/20 已批 完成：2016/01/20  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/20 已批 完成：2016/01/20 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION , INCONTINCENCE
+
+現病史：
+HEMORRHOID S/P 
+RUS S/P URSL 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20150324】Testosterone: 2.20   ng/mL
+【20150324】Serum PSA: 2.728   ng/mL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O N39.41 Urge incontinence 慢 復  
+O E29.1 Hypogonadism, male 慢 男  
+O N52.9 Impotence of organic origin 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/03/29 已確認 已批 張孝欽  
+10 Tofranil 10 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/29 已確認 已批 張孝欽  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/03/29 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/29 已批 完成：2016/03/29  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/03/29 已批 完成：2016/03/29  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/29 已批 完成：2016/03/29 
+ 
+Subjective 
+DM FU
+
+2016/01/20 SMBG: no
+2016/04/13 SMBG: no, Compliance(ok), Hypoglycemia(-), other discomforts(-); HBV, HCV history (-), insomnia(+), fatiuge(+) 
+Objective 
+BH: 167cm, BW: 69kg, BMI=24.7
+
+BP: 112/64mmHg
+PR: 81/min
+
+【20150502】HbA1c: 6.5   %, GLU AC: 118   mg/dL, GLU 2hr PC: 247   mg/dL
+【20150502】ALT: 22   U/L, CRE: 0.9   mg/dL, UA: 6.0   mg/dL
+【20150502】LDL-C: 75 mg/dL, HDL-C: 40 mg/dL, TG: 230 mg/dL, T-C: 135 mg/dL
+【20150502】Microalbumin/CRE(U): 0.004
+【20150807】HbA1c: 6.1   %, GLU AC: 95   mg/dL, GLU 2hr PC: 212   mg/dL
+【20150807】TG: 208 mg/dL, T-C: 120 mg/dL, HDL-C: 39 mg/dL, LDL-C: 66 mg/dL
+【20151005】GLU AC: 97   mg/dL, TG: 142   mg/dL, T-CHO: 120   mg/dL
+
+【20160112】HbA1c: 6.5   %, GLU AC: 121   mg/dL, GLU 2hr PC: 221   mg/dL
+
+【20160406】HbA1c: 6.3   %, GLU AC: 102   mg/dL, GLU 2hr PC: 125   mg/dL
+【20160406】TG: 85 mg/dL, T-CHO: 91 mg/dL, HDL-C: 32 mg/dL, LDL-C: 51 mg/dL
+【20160406】CRE: 0.8   mg/dL, ALT: 47   U/L, Microalbumin/CRE(U): <0.004   * 
+Assessment 
+1. T2DM (糖尿病共照網)
+2. Dyslipidemia
+3. Vertigo (ENT) 
+Plan 
+1. Keep current medications x 3M
+2. Lab: A1c, AC, PC, AST, ALT, T-bil
+3. Educate of diet and exercise control
+Hypoglycemia management education.
+Encourage SMBG and BP record.
+Suggest weight reduction. 
+4. RTC 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/04/13 已確認 已批 吳婉禎  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/04/13 已確認 已批 吳婉禎  
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2016/04/13 已確認 已批 吳婉禎  
+Loditon 500 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/04/13 已確認 已批 吳婉禎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/04/12 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 吳婉禎 
+檢驗 09006C0P HbA1c 1  N 2016/04/12 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 吳婉禎 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 吳婉禎 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 吳婉禎 
+檢驗 09025CZP AST(GOT) 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 吳婉禎 
+檢驗 09029CZP Bilirubin, total 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 吳婉禎 
+治療 P1407C00 糖尿病第一階段新收案管理照護費 1  N 2016/04/12 執行、已批 完成：2016/04/13
+ 吳婉禎 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/13 已批 完成：2016/04/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/04/13 已批 完成：2016/04/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/13 已批 完成：2016/04/13 
+ 
+
+Subjective 
+CyberKnife for acoustic tumor on 2015/4/15
+20150819 Tinnitus, dizziness recently
+20160427 Follow up 
+Plan 
+Cr, MRI 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D33.3 Acoustic neuroma 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33085BYM MRI With/Without Contrast--Brain 1  N 2016/04/27 執行、已批 Indication:Acoustic neuroma
+小部位:SUPRATENTORIAL, POSTERIOR FOSSA, SELLA TURCICA
+有顱內動脈瘤血管夾:不清楚
+有心律調整器(CEID):否
+完成：2016/06/30
+ 曾漢民 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/27 已批 完成：2016/04/27  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/04/27 已批 完成：2016/04/27  
+ 
+ 
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION , INCONTINCENCE
+
+現病史：
+HEMORRHOID S/P 
+RUS S/P URSL 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20150324】Testosterone: 2.20   ng/mL
+【20150324】Serum PSA: 2.728   ng/mL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O N52.9 Impotence of organic origin 慢 男  
+O E29.1 Hypogonadism, male 慢 男  
+O N39.41 Urge incontinence 慢 復  
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/06/14 已確認 已批 張孝欽 重復原因:病人因素(補給天數并延後回診)
+ 
+10 Tofranil 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/14 已確認 已批 張孝欽 重復原因:病人因素(補給天數并延後回診)
+ 
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/06/14 已確認 已批 張孝欽 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/14 已批 完成：2016/06/14  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/06/14 已批 完成：2016/06/14  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/14 已批 完成：2016/06/14 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O N39.41 Urge incontinence 慢 復  
+M N40.0 Benign prostatic hypertrophy 慢 男  
+O N52.9 Impotence of organic origin 慢 男  
+O E29.1 Hypogonadism, male 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/07/06 已確認 已批 林小琴  
+10 Tofranil 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/06 已確認 已批 林小琴  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/07/06 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/06 已批 完成：2016/07/06 
+ 
+Subjective 
+DM FU
+
+2016/01/20 SMBG: no
+2016/04/13 SMBG: no, HBV, HCV history (-), insomnia(+), fatiuge(+)
+2016/07/06 SMBG: no, Compliance(ok), Hypoglycemia(-), other discomforts(+) postural dizziness 
+Objective 
+BH: 167cm, BW: 69kg, BMI=24.7
+BP: 118/69mmHg
+PR: 80/min
+Sclera: anicteric
+
+【20150502】HbA1c: 6.5   %, GLU AC: 118   mg/dL, GLU 2hr PC: 247   mg/dL
+【20150502】ALT: 22   U/L, CRE: 0.9   mg/dL, UA: 6.0   mg/dL
+【20150502】LDL-C: 75 mg/dL, HDL-C: 40 mg/dL, TG: 230 mg/dL, T-C: 135 mg/dL
+【20150502】Microalbumin/CRE(U): 0.004
+【20150807】HbA1c: 6.1   %, GLU AC: 95   mg/dL, GLU 2hr PC: 212   mg/dL
+【20150807】TG: 208 mg/dL, T-C: 120 mg/dL, HDL-C: 39 mg/dL, LDL-C: 66 mg/dL
+【20151005】GLU AC: 97   mg/dL, TG: 142   mg/dL, T-CHO: 120   mg/dL
+【20160112】HbA1c: 6.5   %, GLU AC: 121   mg/dL, GLU 2hr PC: 221   mg/dL
+【20160406】HbA1c: 6.3   %, GLU AC: 102   mg/dL, GLU 2hr PC: 125   mg/dL
+【20160406】TG: 85 mg/dL, T-CHO: 91 mg/dL, HDL-C: 32 mg/dL, LDL-C: 51 mg/dL
+【20160406】CRE: 0.8   mg/dL, ALT: 47   U/L, Microalbumin/CRE(U): <0.004   *
+
+【20160618】HbA1c: 6.3   %, GLU AC: 81   mg/dL, GLU 2hr PC: 127   mg/dL
+【20160618】AST: 24   U/L, ALT: 42   U/L, T-BIL: 2.01   mg/dL 
+Assessment 
+1. T2DM (糖尿病共照網)
+2. Dyslipidemia
+3. Vertigo (ENT)
+4. Abnormal liver function tests 
+Plan 
+1. Keep current medications x 3M
+2. Lab: A1c, AC, PC; CBC; abdominal echo
+3. Educate of diet and exercise control, hypoglycemia management
+4. Encourage SMBG and BP record.
+5. Suggest weight reduction. 
+6. RTC 3M and 約GI OPD for elevated T-bil and ALT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O R42 Vertigo 慢  
+O R94.5 Abnormal liver function test  
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/07/06 已確認 已批 吳婉禎  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/07/06 已確認 已批 吳婉禎  
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2016/07/06 已確認 已批 吳婉禎  
+Loditon 500 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/07/06 已確認 已批 吳婉禎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 14033CZP Anti-HBs Ab 1  N 2016/07/01 刪除、刪除、未看完 Specimen:BLO
+ 吳婉禎 
+檢驗 14032C0P HBsAg (EIA) 1  N 2016/07/01 刪除、刪除、未看完 Specimen:BLO
+ 吳婉禎 
+檢驗 14051C0P Anti-HCV Ab 1  N 2016/07/01 刪除、刪除、未看完 Specimen:BLO
+ 吳婉禎 
+檢驗 09005CZP Glucose (AC) 1  N 2016/07/04 執行、已批 Specimen:BLO
+完成：2016/09/21
+ 吳婉禎 
+檢驗 09006C0P HbA1c 1  N 2016/07/04 執行、已批 Specimen:BLO
+完成：2016/09/21
+ 吳婉禎 
+檢驗 09044C0P LDL 1  N 2016/07/04 執行、已批 Specimen:BLO
+完成：2016/09/21
+ 吳婉禎 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/07/05 執行、已批 Specimen:BLO
+完成：2016/09/21
+ 吳婉禎 
+檢驗 08011CZP CBC & platelet 1  N 2016/07/06 執行、已批 Specimen:BLO
+完成：2016/09/21
+ 吳婉禎 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2016/07/01 執行、已批 Reason for abodominal echo:Abnormal liver function, elevated T-bil
+完成：2016/07/25
+ 吳婉禎 
+治療 P1408C00 糖尿病第一階段追蹤管理照護費 1  N 2016/07/04 執行、已批 完成：2016/07/06
+ 吳婉禎 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/06 已批 完成：2016/07/06  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/07/06 已批 完成：2016/07/06  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/06 已批 完成：2016/07/06 
+ 
+
+Subjective 
+CyberKnife for acoustic tumor on 2015/4/15
+20150819 Tinnitus, dizziness recently
+20160427 Follow up
+20160713 MRI stationary 
+Plan 
+follow up 2 years later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D33.3 Acoustic neuroma 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/13 已批 完成：2016/07/13  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/07/13 已批 完成：2016/07/13 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O N52.9 Impotence of organic origin 慢 男  
+O E29.1 Hypogonadism, male 慢 男  
+O N39.41 Urge incontinence 慢 復  
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/07/29 已確認 已批 謝欣妤  
+10 Tofranil 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/29 已確認 已批 謝欣妤  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/07/29 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/29 已批 完成：2016/07/29 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O R42 Vertigo 慢  
+O R94.5 Abnormal liver function test  
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/07/29 已確認 已批 謝欣妤  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/07/29 已確認 已批 謝欣妤  
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2016/07/29 已確認 已批 謝欣妤  
+Loditon 500 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/07/29 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/29 已批 完成：2016/07/29 
+ 
+
+Subjective 
+HBV, HCV history (-), insomnia(+), fatiuge(+)
+
+
+abnormal liver function noted since 20160406
+Alcohol-/drug-/toxin-/shock- 
+taking lipitor
+20160729 for liver function checkup 
+Objective 
+【20160406】ALT: 47   U/L
+
+【20160618】AST: 24   U/L
+【20160618】ALT: 42   U/L
+【20160618】T-BIL: 2.01   mg/dL
+
+【20160725】Abdomen Echo Ultrasound :Fatty liver, Moderate 
+Plan 
+RTC 2w 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+O R42 Vertigo 慢  
+O R94.5 Abnormal liver function test  
+M K76.0 Fatty liver 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Albumin(Blood) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 09040CZP Total Protein (Blood) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 09029CZP BIL T 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 09030CZP BIL D 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 09025CZP AST(GOT) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 09026CZP ALT(GPT) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 09027CZP ALP 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 14032C0P HBsAg (EIA) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 14033CZP Anti-HBs Ab 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 14037C0P Anti-HBc Ab 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 14051C0P Anti-HCV Ab 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12116C0P Ferritin 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12050B0P Ceruloplasmin 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12053B0P Anti-Nuclear Ab(ANA) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12056B0P Anti-Mitochondrial antibody (AMA) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12054BZP Liver/Kidney Microsomal Ab Antibody(LKM) 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12057B0P Smooth muscle antibody 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+檢驗 12025B0P IgG 1  N 2016/07/29 執行、已批 Specimen:BLO
+完成：2016/07/29
+ 蘇東弘 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/29 已批 完成：2016/07/29  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/07/29 已批 完成：2016/07/29  
+ 
+ 
+
+Subjective 
+HBV, HCV history (-), insomnia(+), fatiuge(+)
+
+
+abnormal liver function noted since 20160406
+Alcohol-/drug-/toxin-/shock- 
+taking lipitor
+20160729 for liver function checkup
+20160812 indirect hyperbilirubinemia, favor NASH 
+Objective 
+【20160406】ALT: 47   U/L
+
+【20160618】AST: 24   U/L
+【20160618】ALT: 42   U/L
+【20160618】T-BIL: 2.01   mg/dL
+
+【20160725】Abdomen Echo Ultrasound :Fatty liver, Moderate
+
+【20160729】Smooth Muscle Antibody: 1:10(-)   1:N
+【20160729】Mitochondrial Antibody: 1:10(-)   1:N
+【20160729】LKM: 1:10(-)   1:N
+【20160729】Anti-HCV Ab: Negative   *
+【20160729】Anti-Nuclear Antibody: 1:40(-)   1:N
+【20160729】Ceruloplasmin: 25.6   mg/dL
+【20160729】Ferritin: 229   ng/mL
+【20160729】IgG: 1080.00   mg/dL
+【20160729】Anti-HCV Ab: Negative (0.05)  *
+【20160729】Anti-HBc: Negative (0.89)  *
+【20160729】Anti-HBs: Positive(65.93)   mIU/mL
+【20160729】HBsAg: Negative(0.03)   IU/mL
+【20160729】Alpha-Fetoprotein: 2.32   ng/mL
+【20160729】AST: 27   U/L
+【20160729】ALT: 44   U/L
+【20160729】T-BIL: 2.13   mg/dL
+【20160729】D-BIL: 0.39   mg/dL
+【20160729】GGT: 39   U/L
+【20160729】Alb: 4.4   g/dL 
+Assessment 
+NC, anti-HBs pos 
+Plan 
+RTC 12w
+exercise and diet control, keep FU 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K76.0 Fatty liver 慢  
+O R94.5 Abnormal liver function test  
+O E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+O R42 Vertigo 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2016/08/11 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 09026CZP ALT(GPT) 1  N 2016/08/11 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/08/11 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 09029CZP BIL T 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 09030CZP BIL D 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 09027CZP ALP 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 12182CSP UGT1A1*28 polymorphism analysis 1  N 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/11/16
+ 蘇東弘 
+檢驗 09029CZP BIL T 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09030CZP BIL D 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09027CZP ALP 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 12182CSP UGT1A1*28 polymorphism analysis 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09029CZP BIL T 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09030CZP BIL D 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09027CZP ALP 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 12182CSP UGT1A1*28 polymorphism analysis 1  N 2016/08/12 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/12 已批 完成：2016/08/12  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/08/12 已批 完成：2016/08/12 
+ 
+
+注記 
+O R42 Vertigo 慢  
+O R94.5 Abnormal liver function test  
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/08/25 已確認 已批 賴婉玲  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/08/25 已確認 已批 賴婉玲  
+Amaryl 2 mg/tab 1 tab BIDAC PO 28 56 tab 健保 3 2016/08/25 已確認 已批 賴婉玲  
+Loditon 500 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/08/25 已確認 已批 賴婉玲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/08/25 已批 完成：2016/08/25 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+FREQUENCY, URGENY, NOCTURIA 1-2 PER NIGHT , DRIBBLING , SEXUAL DYSFUNCTION , INCONTINCENCE
+
+現病史：
+HEMORRHOID S/P 
+RUS S/P URSL 
+
+過去病史：
+PH: DM
+
+
+過敏史：
+
+
+目前用藥：
+DM WITH MED TX 
+
+最近三個月內旅游史：有
+
+家族病史：腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+【20150324】Testosterone: 2.20   ng/mL
+【20150324】Serum PSA: 2.728   ng/mL 
+Assessment 
+PSA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O N52.9 Impotence of organic origin 慢 男  
+O N39.41 Urge incontinence 慢 復  
+O E29.1 Hypogonadism, male 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保 3 2016/09/13 已確認 已批 張孝欽  
+10 Tofranil 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/09/13 已確認 已批 張孝欽  
+Befon 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/09/13 已確認 已批 張孝欽  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2016/09/13 執行、已批 Specimen:BLO
+完成：2016/09/13
+ 張孝欽 
+行政費用 000O1001 掛號費 1 自費 N 2016/09/13 已批 完成：2016/09/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/09/13 已批 完成：2016/09/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/09/13 已批 完成：2016/09/13 
+ 
+
+Subjective 
+DM FU
+
+2016/01/20 SMBG: no
+2016/04/13 SMBG: no, HBV, HCV history (-), insomnia(+), fatiuge(+)
+2016/07/06 SMBG: no, postural dizziness
+2016/09/28 SMBG: no, Compliance(ok), Hypoglycemia(+) at afternoon
+Angina(+) at resting -> arrange EKG and perfusion scan -> refer to CV 
+Objective 
+BH: 167cm, BW: 69kg -> 65.7kg
+BMI=24.7
+BP: 118/69 -> 121/73mmHg
+PR: 80/min
+Sclera: anicteric
+
+【20150502】HbA1c: 6.5   %, GLU AC: 118   mg/dL, GLU 2hr PC: 247   mg/dL
+【20150502】ALT: 22   U/L, CRE: 0.9   mg/dL, UA: 6.0   mg/dL
+【20150502】LDL-C: 75 mg/dL, HDL-C: 40 mg/dL, TG: 230 mg/dL, T-C: 135 mg/dL
+【20150502】Microalbumin/CRE(U): 0.004
+【20150807】HbA1c: 6.1   %, GLU AC: 95   mg/dL, GLU 2hr PC: 212   mg/dL
+【20150807】TG: 208 mg/dL, T-C: 120 mg/dL, HDL-C: 39 mg/dL, LDL-C: 66 mg/dL
+【20151005】GLU AC: 97   mg/dL, TG: 142   mg/dL, T-CHO: 120   mg/dL
+【20160112】HbA1c: 6.5   %, GLU AC: 121   mg/dL, GLU 2hr PC: 221   mg/dL
+【20160406】HbA1c: 6.3   %, GLU AC: 102   mg/dL, GLU 2hr PC: 125   mg/dL
+【20160406】TG: 85 mg/dL, T-CHO: 91 mg/dL, HDL-C: 32 mg/dL, LDL-C: 51 mg/dL
+【20160406】CRE: 0.8   mg/dL, ALT: 47   U/L, Microalbumin/CRE(U): <0.004   *
+【20160618】HbA1c: 6.3   %, GLU AC: 81   mg/dL, GLU 2hr PC: 127   mg/dL
+【20160618】AST: 24   U/L, ALT: 42   U/L, T-BIL: 2.01   mg/dL
+【20160725】Abdomen Echo Ultrasound :Fatty liver, Moderate
+
+【20160921】HbA1c: 6.0   %, GLU AC: 79   mg/dL, GLU 2hr PC: 153   mg/dL
+【20160921】LDL-C: 59   mg/dL
+【20160921】HB: 15.5   g/dL 
+Assessment 
+1. T2DM (糖尿病共照網)
+2. Dyslipidemia
+3. Vertigo (ENT)
+4. Abnormal liver function tests
+5. Angina pectoris 
+Plan 
+1. decrease Amaryl 1# bid -> qd, 
+Lipitor # -> 0.5# hs, add Herbesser 1# bid
+2. Lab: A1c, AC, PC, U/A
+3. Educate of diet and exercise control, hypoglycemia management
+4. Encourage SMBG and BP record.
+5. Suggest weight reduction. 
+6. RTC 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+O R42 Vertigo 慢  
+O R94.5 Abnormal liver function test  
+O I20.9 Angina pectoris 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Herbesser 30 mg/tab 1 tab BID PO 21 42 tab 健保  2016/09/28 已確認 已批 吳婉禎  
+Lipitor 20 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/09/28 已確認 已批 吳婉禎  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/09/28 已確認 已批 吳婉禎  
+Amaryl 2 mg/tab 1 tab QDAC PO 28 28 tab 健保 3 2016/09/28 已確認 已批 吳婉禎  
+Loditon 500 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/09/28 已確認 已批 吳婉禎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/09/23 執行、已批 Specimen:UR1
+完成：2016/12/13
+ 吳婉禎 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/09/23 執行、已批 Specimen:UR1
+完成：2016/12/13
+ 吳婉禎 
+檢驗 09005CZP Glucose (AC) 1  N 2016/09/23 執行、已批 Specimen:BLO
+完成：2016/12/13
+ 吳婉禎 
+檢驗 09006C0P HbA1c 1  N 2016/09/23 執行、已批 Specimen:BLO
+完成：2016/12/13
+ 吳婉禎 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/09/28 執行、已批 Specimen:BLO
+完成：2016/12/13
+ 吳婉禎 
+檢驗 18001C0P ECG routine 1  N 2016/09/28 執行、已批 Specimen:ECG
+完成：2016/09/28
+ 吳婉禎 
+核醫 000TP135 Dipyridamole & Resting 1  N 2016/09/28 執行、已批 完成：2016/10/11
+ 吳婉禎 
+治療 P1408C00 糖尿病第一階段追蹤管理照護費 1  N 2016/09/23 執行、已批 完成：2016/09/28
+ 吳婉禎 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2016/09/28 執行、已批 完成：2016/10/11
+ 吳婉禎 
+行政費用 000O1001 掛號費 1 自費 N 2016/09/28 已批 完成：2016/09/28  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/09/28 已批 完成：2016/09/28  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/09/28 已批 完成：2016/09/28 
+ 
+
+Subjective 
+DOE recently
+angina/
+exercise(+) jogging, 10min, tolerated well
+Thallium(-)
+DM(+) HTN(-)
+smoking(+)
+
+=>
+risk factor control
+consider CCTA or TxT if symptom persists 
+Objective 
+【20161011】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) no significant stress-induced ischemia was noted, (2) fair LV systolic function. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest Pain 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/25 已批 完成：2016/10/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1 自費 N 2016/10/25 已批 完成：2016/10/25 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+O R42 Vertigo 慢  
+O R94.5 Abnormal liver function test  
+O I20.9 Angina pectoris 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipitor 20 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/11/16 已確認 已批 謝欣妤  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/11/16 已確認 已批 謝欣妤  
+Amaryl 2 mg/tab 1 tab QDAC PO 28 28 tab 健保 3 2016/11/16 已確認 已批 謝欣妤  
+Loditon 500 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/11/16 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上)  1  N 2016/11/16 已批 完成：2016/11/16 
+
+Subjective 
+HBV, HCV history (-), insomnia(+), fatiuge(+)
+
+
+abnormal liver function noted since 20160406
+Alcohol-/drug-/toxin-/shock- 
+taking lipitor
+20160729 for liver function checkup
+20160812 indirect hyperbilirubinemia, favor NASH
+20161125 ALT: 37, Gilbert's syndrome trait, well explantation 
+Objective 
+【20160406】ALT: 47   U/L
+
+【20160618】AST: 24   U/L
+【20160618】ALT: 42   U/L
+【20160618】T-BIL: 2.01   mg/dL
+
+【20160725】Abdomen Echo Ultrasound :Fatty liver, Moderate
+
+【20160729】Smooth Muscle Antibody: 1:10(-)   1:N
+【20160729】Mitochondrial Antibody: 1:10(-)   1:N
+【20160729】LKM: 1:10(-)   1:N
+【20160729】Anti-HCV Ab: Negative   *
+【20160729】Anti-Nuclear Antibody: 1:40(-)   1:N
+【20160729】Ceruloplasmin: 25.6   mg/dL
+【20160729】Ferritin: 229   ng/mL
+【20160729】IgG: 1080.00   mg/dL
+【20160729】Anti-HCV Ab: Negative (0.05)  *
+【20160729】Anti-HBc: Negative (0.89)  *
+【20160729】Anti-HBs: Positive(65.93)   mIU/mL
+【20160729】HBsAg: Negative(0.03)   IU/mL
+【20160729】Alpha-Fetoprotein: 2.32   ng/mL
+【20160729】AST: 27   U/L
+【20160729】ALT: 44   U/L
+【20160729】T-BIL: 2.13   mg/dL
+【20160729】D-BIL: 0.39   mg/dL
+【20160729】GGT: 39   U/L
+【20160729】Alb: 4.4   g/dL
+
+【20161116】Alpha-Fetoprotein: 2.45   ng/mL
+【20161116】AST: 24   U/L
+【20161116】ALT: 37   U/L
+【20161116】T-BIL: 1.59   mg/dL
+【20161116】D-BIL: 0.29   mg/dL
+【20161116】GGT: 40   U/L 
+Assessment 
+NC, anti-HBs pos
+【20161116】UGT1A1*28 polymorphism analysis: Single allele positive *
+【20161116】UGT1A1*28 polymorphism analysis: *1/*28 (TA6/TA7) * 
+Plan 
+exercise and diet control, keep FU 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K76.0 Fatty liver 慢  
+O E78.5 Hyperlipidemia 慢  
+O R42 Vertigo 慢  
+O R94.5 Abnormal liver function test  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2016/11/24 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09026CZP ALT(GPT) 1  N 2016/11/24 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/11/24 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09029CZP BIL T 1  N 2016/11/24 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09030CZP BIL D 1  N 2016/11/24 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09027CZP ALP 1  N 2016/11/24 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2016/11/24 刪除、刪除、未看完 Specimen:BLO
+ 蘇東弘 
+行政費用 000O1001 掛號費 1 自費 N 2016/11/25 已批 完成：2016/11/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1 自費 N 2016/11/25 已批 完成：2016/11/25 
+ 
+
+Subjective 
+for smoking cessation: 2016/12/06
+smoking for 38 years, 15 CPD, FTND: 3/10
+PH: DM with treatment, heart dz(-), mental dz(-), sleep well
+Quit histyory: never use gum to quit, but dizziness
+patient preferred champix, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/12/06 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/12/06 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重復原因:病人因素(補給天數并延後回診)
+尚有余藥7天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2017/03/09 執行、已批、未看完 完成：2017/03/09
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/06/08 執行、已批、未看完 完成：2017/06/08
+ 王維典 
+行政費用 000O1001 掛號費 1 自費 N 2016/12/06 已批 完成：2016/12/06  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/12/06 已批 完成：2016/12/06  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/12/06 已批 完成：2016/12/06 
+ 
+
+ 
+
+
+
+
+

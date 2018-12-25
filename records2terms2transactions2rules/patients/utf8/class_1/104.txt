@@ -1,0 +1,1097 @@
+﻿
+Subjective 
+BP around 120-130/80, HR 80-90/min
+stable recently 
+Objective 
+【20140801】TG: 238   mg/dL
+【20140801】T-CHO: 196   mg/dL
+【20140801】HDL-C: 51   mg/dL
+【20140801】K: 4.3   mmol/L
+【20141023】TG: 212   mg/dL
+【20141023】T-CHO: 175   mg/dL 
+Plan 
+keep same drugs
+increase diet control and exercise for higher TG
+TG, cho, UA
+cash HDL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2014/10/29 已確認 已批 黃瑞雄 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2014/10/29 已確認 已批 黃瑞雄  
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2014/10/29 已確認 已批 黃瑞雄  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09013CZP Uric acid 1  N 2014/10/29 執行、已批 Specimen:BLO
+完成：2015/01/16
+ 黃瑞雄 
+檢驗 09001CZP Cholesterol, Total 1  N 2014/10/29 執行、已批 Specimen:BLO
+完成：2015/01/16
+ 黃瑞雄 
+檢驗 09004CZP Triglyceride, TG 1  N 2014/10/29 執行、已批 Specimen:BLO
+完成：2015/01/16
+ 黃瑞雄 
+檢驗 09043C0P HDL 1 自費 N 2014/10/29 執行、已批 Specimen:BLO
+完成：2015/01/16
+ 黃瑞雄 
+行政費用 000O1001 掛號費 1 自費 N 2014/10/29 已批 完成：2014/10/29  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2014/10/29 已批 完成：2014/10/29  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/10/29 已批 完成：2014/10/29 
+ 
+
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: 3 cigarette/day
+friction keratosis, 34 35 area
+
+White lesion found on left buccal mucosa, posterior > CR
+White lesion found on lower right ridge
+ 
+Assessment 
+friction keratosis, 34 35 area
+ 
+Plan 
+Follow up, 3 months later
+Quit smoking was suggested.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia, oral  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2014/12/12 執行、已批 完成：2014/12/12
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/12 已批 完成：2014/12/12  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2014/12/12 已批 完成：2014/12/12 
+ 
+
+Subjective 
+BP around 120-130/75-90, HR 80+/min
+stable recently 
+Objective 
+【20140801】TG: 238   mg/dL
+【20140801】T-CHO: 196   mg/dL
+【20140801】HDL-C: 51   mg/dL
+【20140801】K: 4.3   mmol/L
+【20141023】TG: 212   mg/dL
+【20141023】T-CHO: 175   mg/dL
+
+【20150116】UA: 5.7   mg/dL
+【20150116】TG: 221   mg/dL
+【20150116】T-CHO: 178   mg/dL
+【20150116】HDL-C: 53   mg/dL 
+Plan 
+keep same drugs
+increase diet control and exercise 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2015/01/21 已確認 已批 黃瑞雄 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2015/01/21 已確認 已批 黃瑞雄  
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2015/01/21 已確認 已批 黃瑞雄  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/21 已批 完成：2015/01/21  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/01/21 已批 完成：2015/01/21  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/01/21 已批 完成：2015/01/21 
+ 
+
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2015/01/21 已確認 已批 黃瑞雄 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2015/01/21 已確認 已批 黃瑞雄  
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2015/01/21 已確認 已批 黃瑞雄  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/21 已批 完成：2015/01/21  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/01/21 已批 完成：2015/01/21  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/01/21 已批 完成：2015/01/21 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2015/03/19 已確認 已批 謝欣妤 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2015/03/19 已確認 已批 謝欣妤  
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2015/03/19 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/19 已批 完成：2015/03/19  
+ 
+
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: 6 cigarette/day
+friction keratosis, 34 35 area
+
+White lesion found on left buccal mucosa, posterior > CR
+White lesion found on lower right ridge 
+
+denture irritant at lower right ridge.
+ 
+Assessment 
+friction keratosis, 34 35 area
+ 
+Plan 
+Follow up, 3 months later
+Quit smoking was suggested.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia, oral  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/04/10 刪除、刪除、未看完 完成：2015/04/10
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/10 已批 完成：2015/04/10  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/04/10 已批 完成：2015/04/10  
+ 
+
+Subjective 
+stable recently
+BP around 120-130/75-85, HR around 80/min 
+Objective 
+【20140801】TG: 238   mg/dL
+【20140801】T-CHO: 196   mg/dL
+【20140801】HDL-C: 51   mg/dL
+【20140801】K: 4.3   mmol/L
+【20141023】TG: 212   mg/dL
+【20141023】T-CHO: 175   mg/dL
+
+【20150116】UA: 5.7   mg/dL
+【20150116】TG: 221   mg/dL
+【20150116】T-CHO: 178   mg/dL
+【20150116】HDL-C: 53   mg/dL 
+Plan 
+keep same drugs
+keep diet control and exercise
+tg, cho, ac, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2015/04/15 已確認 已批 張清惠 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+重復原因:補給天數 (至下次預約門診日)
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2015/04/15 已確認 已批 張清惠 重復原因:補給天數 (至下次預約門診日)
+ 
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2015/04/15 已確認 已批 張清惠 重復原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/04/15 執行、已批 Specimen:BLO
+完成：2015/07/10
+ 黃瑞雄 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/04/15 執行、已批 Specimen:BLO
+完成：2015/07/10
+ 黃瑞雄 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/04/15 執行、已批 Specimen:BLO
+完成：2015/07/10
+ 黃瑞雄 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/15 已批 完成：2015/04/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/04/15 已批 完成：2015/04/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/15 已批 完成：2015/04/15 
+ 
+
+
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: 2-3 cigarette/day
+friction keratosis, 34 35 area
+
+White lesion found on left buccal mucosa, posterior > CR
+White lesion found on lower right ridge 
+
+denture irritant at lower right ridge.
+ 
+Assessment 
+friction keratosis, 34 35 area
+ 
+Plan 
+Quit smoking was suggested.
+On cryotherapy at lower left edentulous ridge.
+Follow up 1 month.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/07/03 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/07/03 執行、已批、未看完 完成：2015/07/03
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/03 已批 完成：2015/07/03  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/07/03 已批 完成：2015/07/03  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/07/03 已批 完成：2015/07/03 
+ 
+
+Subjective 
+BP around 120-135/75-85, HR around 80-90/min
+feel stable recently 
+Objective 
+【20140801】TG: 238   mg/dL
+【20140801】T-CHO: 196   mg/dL
+【20140801】HDL-C: 51   mg/dL
+
+【20150116】UA: 5.7   mg/dL
+【20150116】TG: 221   mg/dL
+【20150116】T-CHO: 178   mg/dL
+【20150116】HDL-C: 53   mg/dL
+
+【20150710】T-CHO: 186   mg/dL
+【20150710】TG: 163   mg/dL
+【20150710】GLU AC: 102   mg/dL 
+Plan 
+keep same drugs
+keep diet control and exercise 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2015/07/15 已確認 已批 張清惠 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2015/07/15 已確認 已批 張清惠  
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2015/07/15 已確認 已批 張清惠  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/15 已批 完成：2015/07/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/07/15 已批 完成：2015/07/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/15 已批 完成：2015/07/15 
+ 
+
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: 2-3 cigarette/day
+friction keratosis, 34 35 area
+
+White lesion found on 34.35.44 ridge gingival 
+
+denture irritant at lower right ridge.
+ 
+Assessment 
+friction keratosis, 34 35 area
+ 
+Plan 
+Quit smoking was suggested.
+On cryotherapy at lower left edentulous ridge.
+Follow up 1 month.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/08/07 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/08/07 刪除、刪除、未看完 完成：2015/08/07
+ 陳信銘 
+治療 37002B00 冷凍治療－－每次 1  N 2015/08/07 執行、已批 完成：2015/08/07
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/07 已批 完成：2015/08/07  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/08/07 已批 完成：2015/08/07  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/08/07 已批 完成：2015/08/07 
+ 
+
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: -
+friction keratosis, 34 35 area
+
+White lesion found on 34.35.44 ridge gingival 
+
+denture irritant at lower right ridge.
+
+Leukoplakia, left buccal mucosa, near mouth angle.
+ 
+Assessment 
+friction keratosis, 34 35 area
+Leukoplkia, left mouth angle
+ 
+Plan 
+On cryotherapy at left buccal mucosa, near mouth angle.
+Next appointment: 1 month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/09/11 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/09/11 執行、已批 完成：2015/09/11
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/11 已批 完成：2015/09/11  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/09/11 已批 完成：2015/09/11  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/09/11 已批 完成：2015/09/11 
+ 
+
+Subjective 
+BP stable , around 120-130/75-85, HR around 80-88/min
+ask for same drugs 
+Objective 
+【20140801】TG: 238   mg/dL
+【20140801】T-CHO: 196   mg/dL
+【20140801】HDL-C: 51   mg/dL
+
+【20150116】UA: 5.7   mg/dL
+【20150116】TG: 221   mg/dL
+【20150116】T-CHO: 178   mg/dL
+【20150116】HDL-C: 53   mg/dL
+
+【20150710】T-CHO: 186   mg/dL
+【20150710】TG: 163   mg/dL
+【20150710】GLU AC: 102   mg/dL 
+Plan 
+keep same drugs
+keep diet control and exercise
+tg, cho, HDL, AC 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2015/10/28 已確認 已批 張清惠 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2015/10/28 已確認 已批 張清惠  
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2015/10/28 已確認 已批 張清惠 用藥原因:TG: 163 (2015/07/10)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 黃瑞雄 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 黃瑞雄 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 黃瑞雄 
+檢驗 09043C0P HDL 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 黃瑞雄 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/28 已批 完成：2015/10/28  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/10/28 已批 完成：2015/10/28  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/28 已批 完成：2015/10/28 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M V70.7 Healthy Volunteer  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 08013CZP WBC differential count 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 11001C0P ABO Typing 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 11003CYP Rh Typing 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09005CZP Glucose (AC) 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09005CYP Glucose (PC 2h) 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 000PP204 B.C.S. 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09031CZP Gamma-GT, GGT 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09032CZP Creatine Kinase, CK 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09017CZP Amylase 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09043C0P HDL 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09044C0P LDL 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 14051C0P Anti-HCV Ab 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09022CZP Potassium, K 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09021CZP Sodium, Na 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09023CZP Chloride, Cl 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 12001C0P Syphilis (VDRL) 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 12081B0P PSA 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 06012CZP 尿一般檢查 1 內含 Y 2015/11/16 執行、已批 檢體： UR1
+完成：2015/11/16
+ 吳明賢 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 Y 2015/11/16 執行、已批 檢體： UR1
+完成：2015/11/16
+ 吳明賢 
+檢驗 09134CZP 糞便潛血免疫分析 1 內含 Y 2015/11/16 執行、已批 檢體： STO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09006C0P HbA1c 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 14032C0P HBsAg (EIA) 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 14033CZP Anti-HBs Ab quantification 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 12015CWP Ｃ反應性蛋白試驗（生化室） 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 27055B0T CA19-9 (RIA) 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 27050BZT CEA (RIA) (Serum) 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09106C0P Free T4 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+檢驗 09112B0P hsTSH 1 內含 Y 2015/11/16 執行、已批 檢體： BLO
+完成：2015/11/16
+ 吳明賢 
+影醫 32001CXM Chest : PA View (Standing) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+影醫 32001CVM Chest : Lateral Left 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+影醫 32011CZM L Spine (Lateral View) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+影醫 32006C0M Abdomen:KUB 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000036TH EKG(Electrocardiography) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000017TH SCREENING SPIROMETRY 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000029TH BODY COMPOSITION ANALYSIS 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000012TH CONSULTATION 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000003TH CONSULTATION 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000037TH Uroflow 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000E0404 Best corrected visual acuity 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000E0407 Autorefraction 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 23401C00 Slit lamp exam 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 23501C00 Funduscopic exam 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 23305CZ0 氣壓式眼壓測定 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000032TH AUDIOMETRY(PURE TONE) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000020TH SONOGRAPHY: ABDOMEN 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000033TH UPPER G. I. PANENDOSCOPY 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000035TH COLONOSCOPY 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000001TH NUTRITIONAL CONSULTANT(GROUP) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000002TH NUTRITIONAL CONSULTANT(INDIVIDUAL) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000013TH REPORT(1) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000014TH CONSULTATION 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 00022265 Health check lunch 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+治療 000048TH Anesthesia, for endoscopy(Gastroscope+Colonscope) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 吳明賢 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 211.3 Colon polyp 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/11/16 已確認 已批B 廖淑芬  
+內含 Niflec Powder 137.155 g/pack 檢查附帶用藥 1 pack AS ORDER PO 1 1 pack 內含  2015/11/16 已確認 已批 邱瀚模  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W 病理切片 2  N 2015/11/16 執行、已批 每瓶(包)之檢體數量:(A0=1,(B)=1
+Operation findings:(A) Tubular adenoma,IIa+dep,Transverse colon,0.5cm,S/p EMR (B) Tubular adenoma,IIa,Descending colon,0.8cm,S/p EMR
+術式名稱:(A) (B) EMR
+組織來源:(A) Transverse colon(B) Descending colon
+診斷名稱:(A) Tubular adenoma(B) Tubular adenoma
+完成：2015/11/16
+ 廖淑芬 
+檢查 28017CTH Colon fiberoscopy ( HMC only) 1 內含 Y 2015/11/16 執行、已批 完成：2015/11/16
+ 邱瀚模 
+治療 49027C00 polypectomy 1  N 2015/11/16 執行、已批 完成：2015/11/16
+ 廖淑芬 
+醫材 20255204 INJECTION NEEDLE 1 自費 N 2015/11/16 執行、已批 完成：2015/11/16
+ 廖淑芬 
+醫材 20432405 息肉割除環網 1 自費 N 2015/11/16 執行、已批 完成：2015/11/16
+ 廖淑芬 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/16 已批 完成：2015/11/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/11/16 已批 完成：2015/11/16  
+ 
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: -
+friction keratosis, 34 35 area
+
+White lesion found on 34.35.44 ridge gingival 
+
+denture irritant at lower right ridge.
+
+Leukoplakia, left buccal mucosa, near mouth angle: partial response
+ 
+Assessment 
+friction keratosis, 34 35 area
+Leukoplkia, left mouth angle
+ 
+Plan 
+On cryotherapy at left buccal mucosa, near mouth angle.
+Next appointment: 1 month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/11/20 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/11/20 執行、已批 完成：2015/11/20
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/20 已批 完成：2015/11/20  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/11/20 已批 完成：2015/11/20  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/11/20 已批 完成：2015/11/20 
+ 
+
+Subjective 
+Symptom: nil
+Smoking: 1PPD for 4 yrs
+Family history for lung cancer: 
+Objective 
+【20140219】Pulmonary Function Test : Normal Screening Spirometry
+【20151116】Pulmonary Function Test : Mild Obstructive Ventilatory Defect
+【20151116】RIA:CEA (Serum): 6.95   ng/ml
+【20151116】GT_ES :Health check-up
+ Endoscopic Diagnosis :
+   Esophagus
+     Reflux esophagitis,LA Gr. A,Esophagogastric junction
+   Stomach
+     Negative
+   Duodenum
+     Negative
+【20151116】CF_ES :Indication :
+ Endoscopic diagnosis :
+   Tubular adenoma,IIa+dep,Transverse colon,0.5cm,S/p EMR (Endoscopic mucosal 
+   resection),(A)
+   Tubular adenoma,IIa,Descending colon,0.8cm,S/p EMR (Endoscopic mucosal 
+   resection),(B)
+   External hemorrhoids
+【20151116】Chest : PA View (Standing) :未發現異常 
+Plan 
+encourage smoking cessation
+Chest CT without contrast
+RTC after CT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 790.6 Abnormal Carcinoembryonal Antigen 糖  
+O 491.20 Obstructive chronic bronchitis 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2015/12/09 執行、已批 Indication:Follow up
+小部位:Lung and mediastinum, from sternum to diaphragm,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/01/14
+ 錢穎群 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/09 已批 完成：2015/12/09  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/09 已批 完成：2015/12/09 
+ 
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: -
+friction keratosis, 34 35 area
+
+White lesion found on 34.35.44 ridge gingival 
+
+denture irritant at lower right ridge.
+
+Leukoplakia, left buccal mucosa, near mouth angle: partial response and edentulous ridge of 34, 35
+ 
+Assessment 
+friction keratosis, 34 35 area
+Leukoplkia, left mouth angle
+ 
+Plan 
+On cryotherapy at left buccal mucosa, near mouth angle and edentulous ridge of 34, 35.
+Next appointment: 1 month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.6 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/12/18 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/12/18 執行、已批 完成：2015/12/18
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/18 已批 完成：2015/12/18  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/12/18 已批 完成：2015/12/18  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/12/18 已批 完成：2015/12/18 
+ 
+
+Subjective 
+BP stable around 120-140/70-85, PR 75-90/min
+ask for same drugs 
+Objective 
+【20140801】TG: 238   mg/dL
+【20140801】T-CHO: 196   mg/dL
+【20140801】HDL-C: 51   mg/dL
+
+【20150710】T-CHO: 186   mg/dL
+【20150710】TG: 163   mg/dL
+【20150710】GLU AC: 102   mg/dL
+
+【20160112】T-CHO: 190   mg/dL
+【20160112】TG: 157   mg/dL
+【20160112】GLU AC: 90   mg/dL
+【20160112】HDL-C: 62   mg/dL
+自費健檢 abnormal :
+【20151116】Protein(C): 20 ( +/- )   mg/dL
+【20151116】Mono.: 8.8   %
+【20151116】PLT: 381   k/μL 
+Plan 
+keep same drugs
+keep diet control and exercise
+tg, cho, cash CEA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 3 2016/01/20 已確認 已批 張清惠 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 3 2016/01/20 已確認 已批 張清惠  
+脂 Crestor 10 mg/tab 0.5 tab TIW PO 28 6 tab 健保 3 2016/01/20 已確認 已批 張清惠  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/07
+ 黃瑞雄 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/07
+ 黃瑞雄 
+檢驗 12021C0P CEA 1 自費 N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/07
+ 黃瑞雄 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/20 已批 完成：2016/01/20  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/01/20 已批 完成：2016/01/20  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/20 已批 完成：2016/01/20 
+ 
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: -
+friction keratosis, 34 35 area
+
+White lesion found on 34.35.44 ridge gingival 
+
+denture irritant at lower right ridge.
+
+Leukoplakia, left buccal mucosa, near mouth angle: partial response and edentulous ridge of 34, 35
+ 
+Assessment 
+friction keratosis, 34 35 area
+Leukoplkia, left mouth angle
+ 
+Plan 
+On cryotherapy at left buccal mucosa, near mouth angle and edentulous ridge of 34, 35.
+Next appointment: 1 month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K13.21 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2016/01/22 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2016/01/22 執行、已批 完成：2016/01/22
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/22 已批 完成：2016/01/22  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/01/22 已批 完成：2016/01/22  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/01/22 已批 完成：2016/01/22 
+ 
+
+Subjective 
+Symptom: nil
+Smoking: 1PPD for 4 yrs, now 0.5PPD
+Family history for lung cancer: 
+Objective 
+【20140219】Pulmonary Function Test : Normal Screening Spirometry
+【20151116】Pulmonary Function Test : Mild Obstructive Ventilatory Defect
+【20151116】RIA:CEA (Serum): 6.95   ng/ml
+【20151116】GT_ES :Health check-up
+ Endoscopic Diagnosis :
+   Esophagus
+     Reflux esophagitis,LA Gr. A,Esophagogastric junction
+   Stomach
+     Negative
+   Duodenum
+     Negative
+【20151116】CF_ES :Indication :
+ Endoscopic diagnosis :
+   Tubular adenoma,IIa+dep,Transverse colon,0.5cm,S/p EMR (Endoscopic mucosal 
+   resection),(A)
+   Tubular adenoma,IIa,Descending colon,0.8cm,S/p EMR (Endoscopic mucosal 
+   resection),(B)
+   External hemorrhoids
+【20160114】CT Without Contrast-Chest :1. a small solid nodule at the RUL, probably nonspecific but suggest follow up. Nonspecific tiny calcifications at the RLL. 
+2. bronchiectasis with mild bronchial wall thickening and peripheral ground glass opacities at the LLL. 
+Assessment 
+CEA follow-up other OPD 
+Plan 
+Chest CT without contrast 6m
+RTC after CT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R97.0 Abnormal Carcinoembryonal Antigen  
+O J44.9 Obstructive chronic bronchitis 慢 職  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2016/01/27 執行、已批 Indication:Follow up
+小部位:Lung and mediastinum, from sternum to diaphragm,
+完成：2016/08/02
+ 錢穎群 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/27 已批 完成：2016/01/27  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/01/27 已批 完成：2016/01/27 
+ 
+Subjective 
+For follow up of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+cigarette smoking: -
+friction keratosis, 34 35 area
+
+White lesion found on 34.35.44 ridge gingival 
+
+denture irritant at lower right ridge.
+
+Leukoplakia, left buccal mucosa, near mouth angle: partial response and edentulous ridge of 34, 35
+Thick homogenous leukoplakia found at right buccal mucosa.
+ 
+Assessment 
+friction keratosis, 34 35 area
+Leukoplkia, left mouth angle
+ 
+Plan 
+On cryotherapy at right buccal mucosa,
+Next appointment: 1 month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K13.21 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2016/03/18 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2016/03/18 執行、已批 完成：2016/03/18
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/18 已批 完成：2016/03/18  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/03/18 已批 完成：2016/03/18  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/03/18 已批 完成：2016/03/18 
+ 
+Subjective 
+BP around 115-140/70-85, PR 75-90/min
+ask for same drugs
+
+【20160407】CEA: 8.04 ng/mL
+refer to oncology 
+Objective 
+【20140801】TG: 238   mg/dL
+【20140801】T-CHO: 196   mg/dL
+【20140801】HDL-C: 51   mg/dL
+
+【20160112】T-CHO: 190   mg/dL
+【20160112】TG: 157   mg/dL
+【20160112】GLU AC: 90   mg/dL
+【20160112】HDL-C: 62   mg/dL
+自費健檢 abnormal :
+【20151116】Protein(C): 20 ( +/- )   mg/dL
+【20151116】Mono.: 8.8   %
+【20151116】PLT: 381   k/μL
+
+【20160407】T-CHO: 167   mg/dL
+【20160407】TG: 137   mg/dL
+【20160407】CEA: 8.04   ng/mL 
+Plan 
+stop crestor, keep other same drugs
+increase diet control and exercise
+cho, LDL, UA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab AS ORDER PO 28 42 tab 健保 2 2016/04/13 已確認 已批 黃瑞雄 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後0.5 錠. 
+ 
+SR Isoptin SR 240 mg/tab 0.5 tab BIDPC PO 28 28 tab 健保 2 2016/04/13 已確認 已批 黃瑞雄  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09013CZP Uric acid 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/05/28
+ 黃瑞雄 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/05/28
+ 黃瑞雄 
+檢驗 09044C0P LDL 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/05/28
+ 黃瑞雄 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/13 已批 完成：2016/04/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/04/13 已批 完成：2016/04/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/13 已批 完成：2016/04/13 
+ 
+
+Subjective 
+Asymptomatic CEA elevation
+已預約戒菸門診 
+Objective 
+ECOG 0 
+Not pale, not icteric
+Breath sound coarse 
+Chest CT (Jan 2016)
+1. a small solid nodule at the RUL, probably nonspecific but suggest follow up. Nonspecific tiny calcifications at the RLL. 
+2. bronchiectasis with mild bronchial wall thickening and peripheral ground glass opacities at the LLL.
+【20160407】CEA: 8.04   ng/mL
+【20151116】Alpha-Fetoprotein: 5.10   ng/mL
+【20151116】Serum PSA: 0.353   ng/mL
+【20151116】HBsAg: Negative(0.01)   IU/mL
+【20151116】Anti-HCV Ab: Negative   *
+【20151116】RIA:CEA (Serum): 6.95   ng/ml 
+Plan 
+Close observation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R97.0 Abnormal Carcinoembryonal Antigen  
+O I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+O J44.9 Obstructive chronic bronchitis 慢 職  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2016/05/05 執行、已批 Specimen:BLO
+完成：2016/07/21
+ 許駿 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/05 已批 完成：2016/05/05  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/05 已批 完成：2016/05/05 
+ 
+
+Subjective 
+for smoking cessation: 2016/05/16
+smoking for 41 years, 1 PPD, FTND:6/10 
+PH: HTN with MX, heart dz(-), mental dz(-), sleep well
+quit history: last for only 3 days, never use medication to quit
+patient preferred champix, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/05/16 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重復原因:病人因素(補給天數并延後回診)
+ 
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/05/16 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/08/23 執行、已批、未看完 完成：2016/08/23
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/11/11 刪除、刪除、未看完 完成：2016/11/11
+ 張皓翔 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/11/11 執行、已批、未看完 完成：2016/11/11
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/16 已批 完成：2016/05/16  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/05/16 已批 完成：2016/05/16  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/05/16 已批 完成：2016/05/16 
+ 
+
+
+
+
+
+

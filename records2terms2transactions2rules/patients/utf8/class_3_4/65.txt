@@ -1,0 +1,304 @@
+﻿
+Subjective 
+c.c. FM periodontitis and LL dental caries
+
+P.I. This 46 y/o male received periodontal phase I and phase II treatment 2 or 3 yrs ago at LDC in 桃園. He found his gingival inflammation recurring recently, and came for periodontal treatment. Also, 35 dental caries and food impaction was found.
+
+PMH:
+Denied all major systemic diseases
+No known food /drug allergy
+smoking 2 PPD for 20+ yrs
+ 
+Objective 
+1)dentition
+  54(3XX | XX3)4567
+8   4321 | 1234(5X7)
+
+2)PFM crown and bridge: 13XXXX23, 25,35X37
+
+3)
+dental caries: 12,13,23,24
+retained roots 35
+
+4)Generalized plaque and calcu;lus deposition and igngival inflammation
+probing>=5mm:  FM, except 44
+
+5)Mobility: Generalized GrI
+
+6)42-41-31 resin splintting
+
+7)multiple overhang restoration
+
+8)anterior open bite, occlusal contact only at left side
+ 
+Assessment 
+chronic periodontitis
+missing teeth
+dental caries
+ 
+Plan 
+Tx:take FM periapical x ray
+Generalized horizontal bony destruction
+
+Tx plan:
+consult Perio dept for FM periodontal treatment
+
+R2蔡宜諠/VS林芬惠
+
+periodontal department consultion with Dr. Liu
+1. #48  42-31 extraction is indicated 
+2. 26 27 prognosis : qestionable to  holpless 
+3. full mouth phase I therapy
+4. smoking consultation
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 01272C00 年度初診X光檢查 1  N 2015/12/14 執行、已批 完成：2015/12/14
+ 林芬惠 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/14 已批 完成：2015/12/14 
+ 
+
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.full mouth charting and photo records were taken, 
+2.plaque control(術前) was done with application of disclosing agent, 
+3.oral hygiene instruction was done, 
+4.explained treatment plan to the patient
+
+Tx plan:
+1. Full mouth periodontal phase I Tx+OHI
+2. Quit smoking
+3. 48 42-31 2627 extraction suggestion
+4. Prostho consultation back to VS 林芬惠 after phase I Tx
+
+G1 黃振邦/VS 劉謙美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/12/22 執行、已批 齒位1:FM
+完成：2015/12/22
+ 張博鈞 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/22 已批 完成：2015/12/22  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/12/22 已批 完成：2015/12/22 
+ 
+
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+L.F:
+13 probing depths:
+ D834
+ P1083
+14 probing depths:
+ D535
+ P538
+15 probing depths:
+ D225
+ P335
+43 probing depths:
+ L535
+ D533
+44 probing depths:
+ L335
+ D335
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at 131415 4344.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local  anesthesia of 131415 4344.
+4.Medication:
+Amoxicillin 250mg 1# Q8H PO for 3 days
+Paramal 500mg 1# TID PO for 3 days
+
+G1 黃振邦/VS 劉謙美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/01/27 已確認 已批 劉謙美  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2016/01/27 已確認 已批 劉謙美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91008C00 SUBGINGIVAL CURETTAGE:LOCALIZED (<=3 TEETH) 1  N 2016/01/27 執行、已批 齒位1:43
+齒位2:44
+完成：2016/01/27
+ 劉謙美 
+治療 91008C00 SUBGINGIVAL CURETTAGE:LOCALIZED (<=3 TEETH) 1  N 2016/01/27 執行、已批 齒位1:13
+齒位2:14
+齒位3:15
+完成：2016/01/27
+ 劉謙美 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/27 已批 完成：2016/01/27  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/01/27 已批 完成：2016/01/27  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/01/27 已批 完成：2016/01/27 
+ 
+
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+L.F:
+23 probing depths:
+ M536
+ P636
+24 probing depths:
+ M635
+ P635
+25 probing depths:
+ M539
+ P535
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at 23 24 25.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local  anesthesia of 23 24 25.
+4.Medication:
+Amoxicillin 250mg 1# Q8H PO for 3 days
+Paramal 500mg 1# TID PO for 3 days
+
+G1 黃振邦/VS 劉謙美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/02/17 已確認 已批 陳漪紋  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2016/02/17 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91008C00 SUBGINGIVAL CURETTAGE:LOCALIZED (<=3 TEETH) 1  N 2016/02/17 執行、已批 齒位1:UL
+完成：2016/02/17
+ 陳漪紋 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/17 已批 完成：2016/02/17  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/17 已批 完成：2016/02/17  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/02/17 已批 完成：2016/02/17 
+ 
+
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+L.F:
+33 probing depths:
+ M998
+ B838
+34 probing depths:
+ M533
+ B523
+35 probing depths:
+ M676
+ B623
+37 probing depths:
+ M755
+ B755
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at 33 34 35 37.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local  anesthesia of 33 34 35 37.
+4.Medication:
+Amoxicillin 250mg 1# Q8H PO for 3 days
+Paramal 500mg 1# TID PO for 3 days
+
+G1 黃振邦/VS 劉謙美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/02/25 已確認 已批 劉謙美  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2016/02/25 已確認 已批 劉謙美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91007C00 SUBGINGIVAL CURETTAGE:1/2 ARCH 1  N 2016/02/25 執行、已批 齒位1:LL
+完成：2016/02/25
+ 劉謙美 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/25 已批 完成：2016/02/25  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/25 已批 完成：2016/02/25  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/02/25 已批 完成：2016/02/25 
+ 
+Subjective 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+Oral hygiene: Poor
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  
+2.Full mouth scaling+OHI
+
+G1 黃振邦 /VS 劉謙美
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab AS ORDER PO 7 7 tab 健保  2016/03/16 已確認 已批 劉謙美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/16 已批 完成：2016/03/16  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/03/16 已批 完成：2016/03/16  
+行政費用 E1019A00 醫學中心調劑（開立一周戒菸治療服務藥物） 1  N 2016/03/16 已批 完成：2016/03/16 
+ 

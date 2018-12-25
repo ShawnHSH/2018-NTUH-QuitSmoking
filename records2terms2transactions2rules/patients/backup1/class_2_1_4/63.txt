@@ -1,0 +1,258 @@
+
+Subjective 
+Insomnia, weight 63 kg; skin itching for 6- 7 years. Menopause 3-4 years. 
+Objective 
+【20160411】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 1.39   ng/dL
+
+【20160225】Stool O.B.(EIA): Negative(<50)   ng/mL
+【20160225】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 44.5   %  Anti-TPO Ab.(AMA): > 2000.00   IU/mL  Anti-Thyroglobulin Ab(TA): 170.28   IU/mL
+【20160223】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 1.63   ng/dL
+【20160223】LDL-C: 136   mg/dL  HDL-C: 66   mg/dL
+【20160223】HbA1c: 6.0   %  GLU AC: 81   mg/dL  GLU 2hr PC: 112   mg/dL
+【20160223】Microalbumin/CRE(U): 0.008   *  Microalbumin: 5.8   mg/L  CRE(U): 77   mg/dL
+
+Goiter grade 1b
+BP 103/63 mmHg; PR 96/min 
+Plan 
+RTC 2 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/04/15 已確認 已批 呂金盈  
+(管4) Lexotan 3 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/04/15 已確認 已批 呂金盈  
+舊 Procil 50 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/04/15 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/02
+ 呂金盈 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/04/15 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/06/02
+ 呂金盈 
+ 
+
+Subjective 
+Insomnia, weight 63 kg; skin itching for 6- 7 years. Menopause 3-4 years. 
+Objective 
+【20160225】Stool O.B.(EIA): Negative(<50)   ng/mL
+【20160225】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 44.5   %  Anti-TPO Ab.(AMA): > 2000.00   IU/mL  Anti-Thyroglobulin Ab(TA): 170.28   IU/mL
+【20160223】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 1.63   ng/dL
+【20160223】LDL-C: 136   mg/dL  HDL-C: 66   mg/dL
+【20160223】HbA1c: 6.0   %  GLU AC: 81   mg/dL  GLU 2hr PC: 112   mg/dL
+【20160223】Microalbumin/CRE(U): 0.008   *  Microalbumin: 5.8   mg/L  CRE(U): 77   mg/dL
+
+Goiter grade 1b 
+Plan 
+RTC 3 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab HS PO 21 21 tab 健保  2016/03/25 已確認 已批 呂金盈  
+(管4) Lexotan 3 mg/tab 1 tab HS PO 21 21 tab 健保  2016/03/25 已確認 已批 呂金盈  
+舊 Procil 50 mg/tab 1 tab BID PO 21 42 tab 健保  2016/03/25 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09112B0P *Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/03/25 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/04/11
+ 呂金盈 
+檢驗 09106C0P *Free T4 1  N 2016/03/25 執行、已批 Specimen:BLO
+完成：2016/04/11
+ 呂金盈 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M Z00.01 Encounter for general adult medical examination with abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 08013CZP WBC differential count 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 11001C0P ABO Typing 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 11003CYP Rh Typing 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09005CZP Glucose (AC) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09005CYP Glucose (PC 2h) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 000PP204 B.C.S. 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09031CZP Gamma-GT, GGT 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09032CZP Creatine Kinase, CK 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09017CZP Amylase 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09043C0P HDL 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09044C0P LDL 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 14051C0P Anti-HCV Ab 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09022CZP Potassium, K 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09021CZP Sodium, Na 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09023CZP Chloride, Cl 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 12001C0P Syphilis (VDRL) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 12077B0P CA-125 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 06012CZP 尿一般檢查 1 內含 Y 2016/02/23 執行、已批 檢體： UR1
+完成：2016/02/23
+ 吳明賢 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 Y 2016/02/23 執行、已批 檢體： UR1
+完成：2016/02/23
+ 吳明賢 
+檢驗 09134CZP 糞便潛血免疫分析 1 內含 Y 2016/02/23 執行、已批 檢體： STO
+完成：2016/02/25
+ 吳明賢 
+檢驗 09006C0P HbA1c 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 14032C0P HBsAg (EIA) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 14033CZP Anti-HBs Ab quantification 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 27055B0T CA19-9 (RIA) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 27050BZT CEA (RIA) (Serum) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09106C0P Free T4 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 09112B0P hsTSH 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 12078B0P CA15-3 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 12015CZP C-Reactive Protein,CRP 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 000028TH C-13 UREASE BREATH TEST 1 內含 Y 2016/02/23 執行、已批 檢體： GAS
+完成：2016/02/23
+ 吳明賢 
+檢驗 000PP211 Microalbumin/cre(u) 1 內含 Y 2016/02/23 執行、已批 檢體： UR1
+完成：2016/02/23
+ 吳明賢 
+檢驗 12134B0P Anti-Thyroid Pperoxidase Antibody(Anti-TPO Ab) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 12068BZP Anti-Thyroglobulin antibody(TA) 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+檢驗 27069BZA Thyrotropin-binding inhibiting immunoglobulin,TBII 1 內含 Y 2016/02/23 執行、已批 檢體： BLO
+完成：2016/02/23
+ 吳明賢 
+影醫 32011CZM L Spine (Lateral View) 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+影醫 32006C0M Abdomen:KUB 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+影醫 000027TH Mammography 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+影醫 000M4A02 Low dose lung cancer screening CT 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+病理 000W0379 Cervical smear 1 內含 Y 2016/02/23 執行、已批 診斷名稱:.
+組織來源:.
+術式名稱:.
+完成：2016/02/24
+ 吳明賢 
+治療 000036TH EKG(Electrocardiography) 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000017TH SCREENING SPIROMETRY 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000029TH BODY COMPOSITION ANALYSIS 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000012TH CONSULTATION 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000005TH CONSULTATION 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000004TH CONSULTATION 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000E0404 Best corrected visual acuity 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000E0407 Autorefraction 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 23401C00 Slit lamp exam 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 23501C00 Funduscopic exam 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 23305CZ0 氣壓式眼壓測定 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000032TH AUDIOMETRY(PURE TONE) 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000020TH SONOGRAPHY: ABDOMEN 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000033TH UPPER G. I. PANENDOSCOPY 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000035TH COLONOSCOPY 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000001TH NUTRITIONAL CONSULTANT(GROUP) 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000002TH NUTRITIONAL CONSULTANT(INDIVIDUAL) 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000013TH REPORT(1) 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000014TH CONSULTATION 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 00022265 Health check lunch 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000023TH SONOGRAPHY: THYROID 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+治療 000048TH Anesthesia, for endoscopy(Gastroscope+Colonscope) 1 內含 Y 2016/02/23 執行、已批 完成：2016/02/23
+ 吳明賢 
+ 
+

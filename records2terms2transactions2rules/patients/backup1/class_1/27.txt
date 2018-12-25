@@ -1,0 +1,170 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+60 y/o male
+Progressive jaundice for 2-3 wks
+
+
+現病史：
+He was found to have progressive jaundice for 2-3 wks
+BW loss for 7 Kg within 6 m
+Epigastralgia (-)
+DM (+) 
+No skin itching 
+GOT 201
+PH of HBV or HCV infection: unknown 
+
+
+過去病史：
+HTN (-)
+DM (+) 
+
+過敏史：
+藥物過敏：無 
+藥物過敏：無 
+食物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：O
+
+目前用藥：
+No 
+
+最近三個月內旅遊史：無
+
+家族病史：癌症、高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+110/86
+
+BH:170 cm   BW:60.5 kg
+
+PE: icteric and yellowish skin
+Hepatolmegaly (+)
+No spider  
+Leg edema (-) 
+Assessment 
+Progressive jaundice, r/o peri-ampullary tumor
+BW loss 
+Plan 
+Adm to 14A for exam and mx
+R 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 782.4 Jaundice  
+O 300.00 Anxiety state (F41.9) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Uroso 100 mg/tab 1 tab TID PO 14 42 tab 自費  2015/12/28 已確認 已批 高嘉宏  
+(管4) Lexotan 3 mg/tab 1 tab BID PO 14 28 tab 健保  2015/12/28 已確認 已批 高嘉宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 14051C0P Anti-HCV Ab 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 14032C0P HBsAg (EIA) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 08013CZP WBC Classification 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09025CZP AST(GOT) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09030CZP Bilirubin, direct 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09029CZP Bilirubin, total 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09002CZP UN(Blood) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 08026CZP PT 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 08036BZP PTT 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09027CZP ALP 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 高嘉宏 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2015/12/28 執行、已批 Reason for abodominal echo:judince
+完成：2015/12/28
+ 高嘉宏 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2015/12/28 刪除、刪除、未看完 Reason for abodominal echo:jundicy
+ 高嘉宏 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/28 已批 完成：2015/12/28  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/28 已批 完成：2015/12/28  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/12/28 已批 完成：2015/12/28 
+ 
+
+Subjective 
+for cigarette smoking cessation, no attemp cigarette smoking before. 1PPD for decases. 
+no hisotyr of CVA or heart attack, 
+NKDA
+alcohol sober for 2 years
+2013 DM 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 14 28 tab 健保  2016/01/15 已確認 已批 王維典  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/01/15 已確認 已批 王維典 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:原治療未達預期療效
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/04/18 執行、已批、未看完 完成：2016/04/18
+ 王維典 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/07/18 執行、已批、未看完 完成：2016/07/18
+ 王維典 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/15 已批 完成：2016/01/15  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/01/15 已批 完成：2016/01/15  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/01/15 已批 完成：2016/01/15  
+ 

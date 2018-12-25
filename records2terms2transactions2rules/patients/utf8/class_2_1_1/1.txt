@@ -1,0 +1,200 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/12/24 執行、已批 完成：2015/12/24
+ 章浩 
+ 
+
+Subjective 
+dizziness sensation for 2 days,nausea(-), left hand(finger tip numbness), sore throat(-), cough (+),
+
+ PH:
+1. nasal stuff(+), rhinorrhea(+) for one year,
+2. left chest wall pain for 0.5 year, 
+Objective 
+local tenderness over left chest wall,
+
+BP132/82 PR66
+BS: scandy exp. wheezing 
+Assessment 
+father: CVA
+mother: HTN, 
+Plan 
+arrange 戒菸 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 780.4 Dizziness  
+O 922.1 Chest wall contusion 外  
+O 461.9 Acute sinusitis  
+O 786.2 Cough  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2015/12/24 已確認 已批 劉翊民  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 7 14 tab 健保  2015/12/24 已確認 已批 劉翊民  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 7 14 tab 健保  2015/12/24 已確認 已批 劉翊民  
+Seudorin 30 mg/tab 1 tab BID PO 7 14 tab 健保  2015/12/24 已確認 已批 劉翊民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/24 執行、已批 Specimen:BLO
+完成：2015/12/24
+ 劉翊民 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/24 執行、已批 Specimen:BLO
+完成：2015/12/24
+ 劉翊民 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/24 執行、已批 Specimen:BLO
+完成：2015/12/24
+ 劉翊民 
+檢驗 09013CZP Uric acid 1  N 2015/12/24 執行、已批 Specimen:BLO
+完成：2015/12/24
+ 劉翊民 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/24 執行、已批 Specimen:BLO
+完成：2015/12/24
+ 劉翊民 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/24 執行、已批 Specimen:BLO
+完成：2015/12/24
+ 劉翊民 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/12/24 執行、已批 Specimen:BLO
+完成：2015/12/24
+ 劉翊民 
+
+
+Subjective 
+Frequency 2-3hr, Nocturia: 3-4/N not small amount of urine
+For one year, visited CGMH, normal flow 
+Smooth voiding
+Especially in winter and cold weather 
+Objective 
+【20151224】CRE: 0.7   mg/dL
+【20151224】UA: 3.9   mg/dL
+【20151224】HB: 15.2   g/dL
+
+DRE: 
+hen-egg in size, no hard nodule (40-50ml) 
+Assessment 
+OAB (nocturia) 
+Plan 
+U/A, PSA, TRUSP, cytology*1
+RTC 5W and 2M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N32.81 Overactive bladder  
+O R35.0 Frequency of micturition 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/01/11 已確認 已批 戴逸昇  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/01/11 執行、已批 Specimen:UR1
+完成：2016/01/11
+ 戴逸昇 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/01/11 執行、已批 Specimen:UR1
+完成：2016/01/11
+ 戴逸昇 
+檢驗 12081B0P PSA 1  N 2016/01/11 執行、已批 Specimen:BLO
+完成：2016/01/11
+ 戴逸昇 
+檢驗 15001CHP Urine cytology 1  N 2016/01/11 執行、已批 SITE:.
+Specimen:UR1
+完成：2016/01/11
+ 戴逸昇 
+檢查 000TRS01 TRUSP-經直腸前列腺超音波檢查 1  N 2016/01/11 執行、已批 完成：2016/02/15
+ 戴逸昇 
+治療 19005BY0 TRUSP前列腺超音波 1  N 2016/01/11 執行、已批 完成：2016/02/15
+ 戴逸昇 
+ 
+
+
+Subjective 
+NO long time > 10 yr 
+ND+
+sneezing + morning 
+Plan 
+2 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J34.2 Deviated nasal septum 慢  
+O J30.9 Allergic rhinitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Avamys Nasal Spray 27.5 mcg/1 dose 120 doses/btl 1 spra QD IN 14 1 btl 健保  2016/01/18 已確認 已批 林哲儀  
+Xyzal 5 mg/tab 1 tab HS PO 14 14 tab 健保  2016/01/18 已確認 已批 林哲儀  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32009C7M Skull: WATERS VIEW 1  N 2016/01/18 執行、已批 完成：2016/01/18
+ 林哲儀 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M N32.81 Overactive bladder  
+O R35.0 Frequency of micturition 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/02/01 已確認 已批 劉雅芳 
+ 
+
+
+Subjective 
+Frequency 2-3hr, Nocturia: 3-4/N not small amount of urine
+For one year, visited CGMH, normal flow 
+Smooth voiding
+Especially in winter and cold weather
+
+20160215
+Less frequency, nocturia: 2/N, urgency +
+No AE 
+Objective 
+【20151224】CRE: 0.7   mg/dL
+【20151224】UA: 3.9   mg/dL
+【20151224】HB: 15.2   g/dL
+
+DRE: 
+hen-egg in size, no hard nodule (40-50ml)
+
+【20160111】Urine Cytology: Negative for malignant cells   *
+【20160111】Serum PSA: 0.426   ng/mL
+【20160111】WBC (S): 0-2   /HPF
+【20160111】RBC (S): 0-2   /HPF
+
+20160215
+1. Prostate/adenoma size: 21.2 / 7.94 ml
+2. DRE: no hard nodule, elastic consistency, smooth surface
+【20160111】WBC (S): 0-2   /HPF
+【20160111】RBC (S): 0-2   /HPF 
+Assessment 
+OAB (nocturia) 
+Plan 
+Education
+RTC 03/07 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N32.81 Overactive bladder  
+O R35.0 Frequency of micturition 
+ 
+
+
+ 
+
+ 

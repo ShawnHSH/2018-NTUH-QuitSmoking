@@ -1,0 +1,82 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+For tooth loss and further implantation reconstruction
+
+現病史：
+This 48-year-old male had upper left prosthesis broken & tooth loss about 2 months ago. Lower left tooth mobility was also noted. The dentist informed him of full mouth periodontal problem and suggested him to come to our dept for further evaluation and treatment. He asked for implantation for further reconstruction.
+
+過去病史：
+1. Lund diseases under medication control
+2. Presonal habit
+- Alcohol(+): socially, for 5 years
+- Betel quid(+): 20顆/month, for 2 months, quit for 4~5 years
+- Cigarette(+): 0.5pack/day(previous:2pack/day) for 28 years
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：A
+
+目前用藥：
+THOIN for lung disease
+
+最近三個月內旅游史：無
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+LF.
+1. Present dentition
+    654321│12 4 67
+  8xx54321│1234567
+2. Tooth mobility 
+3. Probing depth >=5mm: generalized 
+4. Retained dental root: 24
+5. Generalized subgingival calculus deposition with gingival inflammation
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx.
+Check full mouth periapical film, bite-wing and panoramic X-ray, findings:
+- Missing tooth: 17,18,23,25,28,38,46,47
+- Generalized moderate to severe horizontal bony destruction
+- 36 status post RCT(filling quality: questionable) with crown, circumferential bony destruction to root apex
+- 12,11,21 status post RCT,post&crown fabrication, 11,21 apical radiolucency(+)
+- 24 retained root with canal filling, severe bony destruction with apical lesion
+- Bilateral intact condyle head
+- No other obvious pathological bony lesion
+
+Tx plan.
+- Suggest Phase I therapy & OHI
+- Suggest 24,36 extraction
+-> Arrange R3陳圣泓 for further evaluation and treatment
+R3陳圣泓/VS王振穎 2016/06/22 12:46
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/06/22 執行、已批 齒位1:FM
+完成：2016/06/22
+ 王振穎 
+治療 01271C00 環口全景X光初診診察 1  N 2016/06/22 執行、已批 完成：2016/06/22
+ 王振穎 
+ 

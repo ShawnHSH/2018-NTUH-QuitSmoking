@@ -1,0 +1,2203 @@
+
+Subjective 
+HBV carrier. smoking (+), FOBT (-) in this year. Fx of GI cancer (-). Prior abd surgery (-). 
+PH: renal stone, rt, s/p ESWL and operation> 10 years ago. Analgesics (-).
+No complaint. 
+Objective 
+【20160314】iFOBT: Negative(<50)   ng/mL
+【20160225】CRE: 0.9   mg/dL
+【20160302】CT With/Without Contrast-Abdomen :Several nonspecific hypervascular hepatic nodules around 1cm without definite wash-out in the PV/delayed phases, suspect AP shunts, suggest follow up.
+【20151214】Follow up Abdomen Echo :Parenchymal liver disease
+       Hepatic lesion(S6), probably hemangioma
+       Hepatic lesion(S2-4), r/o hemangioma
+       Renal cyst, left
+      檢查者:                                   /                              /  董建志主治醫師 
+Plan 
+1. F/U AST, ALT, AFP
+2. RTC 3m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.0 Liver tumor  
+O R10.9 Abdominal pain 慢  
+O K21.0 Reflux esophagitis 慢  
+O Z22.51 Viral hepatitis B carrier  
+O K26.9 Duodenal ulcer 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/17
+ 翁贏雪 
+檢驗 09025CZP AST(GOT) 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/17
+ 翁贏雪 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/17
+ 翁贏雪 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2016/04/07 執行、已批 Reason for abodominal echo:Hepatitis B, Hepatic tumor follow up
+完成：2016/04/18
+ 翁贏雪 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/07 已確認 已批 林威良  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/07 已確認 已批 林威良  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/04/07 已確認 已批 林威良 
+ 
+
+
+Subjective 
+Asking for lower denture follow up
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+4.Lower RPD:
+stability: good
+retension: good
+left lingual posterior area border over-extened
+ 
+Assessment 
+Missing tooth
+16 17 dental caries
+ 
+Plan 
+1.OHI
+2.Adjust the over-extened border, finishing and polishing
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+O K08.109 Missing tooth 
+ 
+
+
+Subjective 
+For treatment of oral problem.
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at right side of tongue lateral border and right mouth angle 
+
+
+personal habit:
+C: -
+
+systemic disease: DM without control
+
+dislocation TMJ usually
+ 
+tongue: right, lateral border, complete remission
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA;
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+retained root status post complicated extraction
+ 
+Plan 
+Follow up one month later.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K13.6 Buccal hyperplasia  
+O K08.3 Retained dental root  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2016/03/14 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2016/03/14 執行、已批 完成：2016/03/14
+ 陳信銘 
+
+
+Subjective 
+Asking for lower denture and 16, 17 OD follow up
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+4.Dental caries: 16 (B,M,P) 17(P)
+5.Lower RPD:
+stability: good
+retension: good
+ 
+Assessment 
+Missing tooth
+16 17 dental caries
+ 
+Plan 
+1.Local cleaning over tooth 16,17
+2.OHI
+
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+O K08.109 Missing tooth 
+ 
+
+Subjective 
+Asking for evaluation of lower denture follow up
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+4.Dental caries: 16 (B,M,P) 17(P)
+5.Left posterior over retromolar pad was overextend
+ 
+Assessment 
+Missing tooth
+16 17 dental caries
+ 
+Plan 
+Adjust lower RPD over left retromolar pad area. Finishing and polishing.
+16, 17 GIC filling
+(1)remove caries and soft dentin with cavity preperation
+(2)matrix and wedge application
+(3)GI cement filling
+(4)condensing, contouring,vaseline application
+(5)occlusal adjustment
+(6)finishing and polishing 
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+O K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89011C00 GI CEMENT FILLING 2  N 2016/03/07 執行、已批 齒位1:16
+齒位2:17
+完成：2016/03/07
+ 胡家源 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/07 已確認 已批 林小琴  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/07 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/03/07 已確認 已批 
+ 
+
+
+Subjective 
+Asking for evaluation of lower denture follow up
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+4.Dental caries: 16 (B,M,P) 17(P)
+5.Left posterior over retromolar pad was overextend
+ 
+Assessment 
+Missing tooth
+16 17 dental caries
+ 
+Plan 
+Adjust lower RPD over left retromolar pad area. Finishing and polishing.
+16, 17 GIC filling
+(1)remove caries and soft dentin with cavity preperation
+(2)matrix and wedge application
+(3)GI cement filling
+(4)condensing, contouring,vaseline application
+(5)occlusal adjustment
+(6)finishing and polishing 
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+O K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89011C00 GI CEMENT FILLING 2  N 2016/03/07 執行、已批 齒位1:16
+齒位2:17
+完成：2016/03/07
+ 胡家源 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/03/07 執行、已批 Specimen:STO
+完成：2016/03/14
+ 張皓翔 
+ 
+
+
+Objective 
+BL157cmBW55,BP120/73
+【20160201】LDL-C: 87   mg/dL  HDL-C: 43   mg/dL  HbA1c: 7.0   %  GLU AC: 117   mg/dL  GLU 2hr PC: 167   mg/dL  TG: 78   mg/dL  T-CHO: 136   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/19 已確認 已批 曾慶孝  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/19 已確認 已批 曾慶孝  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/02/19 已確認 已批 曾慶孝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09002CZP BUN 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09025CZP AST(GOT) 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09011CZP Calcium, Ca 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09046BZP Magnesium, Mg 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09012CZP Phosphate, P 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09038CZP Albumin(Blood) 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09006C0P HbA1c 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09044C0P LDL 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09043C0P HDL 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09013CZP Uric acid 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/19 報到、已批 Specimen:BLO
+ 曾慶孝 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/02/19 報到、已批 Specimen:BLO
+ 曾慶孝 
+檢驗 09006C0P HbA1c 1  N 2016/02/19 報到、已批 Specimen:BLO
+ 曾慶孝 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+30 Nicotinell TTS 1.75 mg/1 cm2 30 cm2/pce 1 pce QD D 28 28 pce 健保  2016/02/19 已確認 已批 王維典  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 28 100 tab 健保  2016/02/19 已確認 已批 王維典 
+ 
+
+Subjective 
+For treatment of oral problem.
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at right side of tongue lateral border and right mouth angle 
+
+
+personal habit:
+C: -
+
+systemic disease: DM without control
+
+dislocation TMJ usually
+ 
+tongue: right, lateral border, complete remission
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+ 
+Plan 
+Follow up one month later.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K13.6 Buccal hyperplasia  
+O K08.3 Retained dental root  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2016/02/01 已確認 已批 陳信銘 
+ 
+
+Subjective 
+Asking for evaluation of lower denture fabrication
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+ 
+Assessment 
+Missing tooth
+ 
+Plan 
+Lower RPD deliver.
+Check tissue surface, occlusion. Finishing and polishing.
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth  
+O K02.9 Dental caries 
+
+
+Subjective 
+Asking for evaluation of lower denture fabrication
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+ 
+Assessment 
+Missing tooth
+ 
+Plan 
+Metal framework try-in.
+Take bite and impression tissue surface (alter cast)
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O K02.9 Dental caries  
+M K08.109 Missing tooth 
+ 
+
+Subjective 
+For arranged dental treatment
+ 
+Objective 
+14 (MBD), 15(MFD) dental caries
+ 
+Assessment 
+14,15 dental caries
+ 
+Plan 
+14 (MBD), 15(MFD) CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)wedge and matrix application
+(4)acid etching, DBA application, polymerization
+(5)composite resin filling
+(6)condensing, contouring, polymerization
+(7)occlusal adjustment
+(8)finishing and polishing 
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89010C00 COM. RESIN, POST., 3 -SURFACE 2  N 2016/01/25 執行、已批 齒位1:14
+齒位2:15
+完成：2016/01/25
+ 林欣宜 
+
+
+Subjective 
+For arranged dental treatment
+ 
+Objective 
+12 (MBD), 11(MFDP), 21(F), 22(M) dental caries
+ 
+Assessment 
+12,11,21,22,dental caries
+ 
+Plan 
+12 (MBD), 11(MFDP), 21(F), 22(M) CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)wedge and matrix application
+(4)acid etching, DBA application, polymerization
+(5)composite resin filling
+(6)condensing, contouring, polymerization
+(7)occlusal adjustment
+(8)finishing and polishing 
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89004C00 COM. RESIN, ANT., 1 -SURFACE 1  N 2016/01/23 執行、已批 齒位1:22
+完成：2016/01/23
+ 陳韻之 
+治療 89012C00 COM. RESIN, ANT., 3 -SURFACE 2  N 2016/01/23 執行、已批 齒位1:11
+齒位2:12
+完成：2016/01/23
+ 陳韻之 
+
+
+Subjective 
+Asking for evaluation of lower denture fabrication
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+ 
+Assessment 
+Missing tooth
+ 
+Plan 
+1.Final impression for lower RPD
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth  
+O K02.9 Dental caries  
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/19 已確認 已批 謝欣妤  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/19 已確認 已批 謝欣妤  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/01/19 已確認 已批 謝欣妤 
+ 
+
+ 
+Subjective 
+Asking for evaluation of lower denture fabrication
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2.Lower missing teeth: 35,36,37,45,46,47
+3.Lower edentulous ridge resorption was obvious.
+ 
+Assessment 
+Missing tooth
+ 
+Plan 
+1.Guiding plane preparation and 34,33,44 rest.
+2.Check and adjust individual tray.
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O K02.9 Dental caries  
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0510 *Bilat Co-Cr RPD 1 自費 N 2016/01/14 執行、已批 齒位1:LB
+技工所:10
+完成：2016/01/14
+ 徐幼群 
+ 
+
+
+Subjective 
+For tooth 23 all-ceramic crown fabrication
+ 
+Objective 
+1. Tooth 23
+Percussion pain (-)
+Palpation pain (-)
+Probing depth: WNL
+2.Periapical X ray:
+Compared with the film on 20151008, the lesion had improved patency.
+ 
+Assessment 
+Pulpless tooth 23
+ 
+Plan 
+Crown 23 deliver
+Check contact point, margin. Finishing and polishing.
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+ 
+
+Subjective 
+LUQ pain, vague, for 10 or more days. Black stool (-), abd fullness, smooth defecation. HBV carrier. EKG, plain abd X ray : negative yesterday. Fever (-). Alc (-), smoking (+), FOBT (-) in this year. Fx of GI cancer (-). Prior abd surgery (-). PH: renal stone, rt, s/p ESWL and operation> 10 years ago. Analgesics (-).
+No complaint. 
+Objective 
+【20150506】AST: 40   U/L
+【20150506】ALT: 57   U/L
+Abd: soft, no tenderness.
+【20150810】Alpha-Fetoprotein: 4.27   ng/mL
+【20150810】ALT: 33   U/L
+【20150810】AST: 27   U/L
+【20150817】Abdomen Echo Ultrasound :Parenchymal liver disease
+      Fatty liver, mild
+      Liver tumor, small, nature to be determined (S3)
+      Liver tumor, small, probably hemangioma (S6)
+【20150827】兒科胃鏡檢查 :PUD
+ Course and Endoscopic Findings :
+    Esophagus :    Complete RIS, loosening distal LES with two or so 0.3 cm mucosal 
+                   breaks at SCJ.
+       Stomach :   Grade III flap valve. Several hyperemic raised or depressed 
+                   erosive patches over antrum, s/p random biopsy x 2 for Hp.
+    Duodenum :
+                   A 0.8 cm A1 ulcer at AW and a 1.0 cm A1 ulcer at PW of bulb.
+ Endoscopic Diagnosis :
+    Esophagus :    Hiatal hernia
+                   Reflux esophagitis, lower esophagus, LA grade A
+       Stomach :   Gastric erosion, multiple, antrum, s/p biopsy
+    Duodenum :     Duodenal ulcer, multiple, AW and PW of bulb
+ Specimens :      x 2 stomach
+【20150827】. :Stomach,antrum,endoscopic biopsy,chronic active gastritis with Helicobacter infection,
+【20151126】碳13 尿素呼氣檢查: Negative   
+【20151126】ALT: 51   U/L
+【20151126】AST: 36   U/L
+【20151214】Follow up Abdomen Echo :Parenchymal liver disease
+       Hepatic lesion(S6), probably hemangioma, 0.7 cm
+       Hepatic lesion(S2-4), r/o hemangioma, 0.9 cm
+       Renal cyst, left 
+Assessment 
+Suggest F/U abd US 3 months later or abd CT scan as soon as possible. Pt wants to F/U abd US. 
+Plan 
+Abd CT scan: HBV carrier with liver tumor (with and without contrast), 2015.11.26 CRE 1.0
+RTC after CT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.0 Liver tumor  
+O K26.9 Duodenal ulcer 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+O Z22.51 Viral hepatitis B carrier  
+O R10.9 Abdominal pain 慢  
+O K21.0 Reflux esophagitis 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/01/07 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 林伯儒 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2016/01/07 執行、已批 Indication:Follow up HBV carrier with liver tumor
+小部位:From diaphragm to kidney lower pole,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/03/02
+ 林伯儒 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/03/02 執行、已批 完成：2016/03/02
+ 吳姵儀 
+ 
+
+Subjective 
+For tooth 23 all-ceramic crown fabrication
+ 
+Objective 
+1. Tooth 23
+Percussion pain (-)
+Palpation pain (-)
+Probing depth: WNL
+2.Periapical X ray:
+Compared with the film on 20151008, the lesion had improved patency.
+ 
+Assessment 
+Pulpless tooth 23
+ 
+Plan 
+Tooth 23
+Re-final impression for tooth 23 crown fabrication.
+Color seletion: Incisal edge: 3R1.5(2/3)->3M2(1/3)->3M3
+R2潘珮瑜
+ 
+
+Subjective 
+For tooth 23 all-ceramic crown fabrication
+ 
+Objective 
+1. Tooth 23
+Percussion pain (-)
+Palpation pain (-)
+Probing depth: WNL
+2.Periapical X ray:
+Compared with the film on 20151008, the lesion had improved patency.
+ 
+Assessment 
+Pulpless tooth 23
+ 
+Plan 
+Tooth 23
+Final impression for tooth 23 crown fabrication.
+Color seletion: Incisal edge: 4M1->4L1.5->4M2->4M3
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 521.0 Dental caries  
+O 522.9 Pulpless tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0560 全瓷冠B 1 自費 N 2015/12/15 刪除、刪除 齒位1:23
+技工所:1
+完成：2015/12/15
+ 陳韻之 
+治療 000L0560 全瓷冠B 1 自費 N 2016/02/02 執行、已批 齒位1:23
+技工所:10
+完成：2015/12/15
+ 陳韻之 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/15 已確認 已批 沈玉琴  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/15 已確認 已批 沈玉琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/12/15 已確認 已批 沈玉琴 
+ 
+
+Subjective 
+For treatment of oral problem.
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at right side of tongue lateral border and right mouth angle 
+
+
+personal habit:
+C: 2 pack/day
+
+systemic disease: DM without control
+
+dislocation TMJ usually
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+ 
+Plan 
+On cryotherapy at  right side of tongue lateral border and right mouth angle.  
+Follow up one month later.
+Quit smoking
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+O 525.3 Retained dental root  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/12/14 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/12/14 執行、已批 完成：2015/12/14
+ 陳信銘 
+ 
+
+Subjective 
+For tooth 23 post and crown fabrication
+ 
+Objective 
+1. Tooth 23
+Percussion pain (-)
+Palpation pain (-)
+Probing depth: WNL
+2.Periapical X ray:
+Compared with the film on 20151008, the lesion had improved patency.
+ 
+Assessment 
+Pulpless tooth 23
+ 
+Plan 
+Tooth 23
+23 post and core fabrication:
+1. post space creation with fiberpost drill 
+2. post length:16.5 mm
+4.  fiberpost and core cementation with U200
+5. tooth preparation
+6. provsional crown reline
+7. cementation with temppack
+8. chairside OHI 
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 522.9 Pulpless tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0549 *Prosthetic Tx Addition 1 自費 N 2015/12/08 執行、已批 齒位1:23
+技工所:1
+完成：2015/12/08 
+ 
+
+Subjective 
+LUQ pain, vague, for 10 or more days. Black stool (-), abd fullness, smooth defecation. HBV carrier. EKG, plain abd X ray : negative yesterday. Fever (-). Alc (-), smoking (+), FOBT (-) in this year. Fx of GI cancer (-). Prior abd surgery (-). PH: renal stone, rt, s/p ESWL and operation> 10 years ago. Analgesics (-).
+No complaint. 
+Objective 
+【20150506】AST: 40   U/L
+【20150506】ALT: 57   U/L
+Abd: soft, no tenderness.
+【20150810】Alpha-Fetoprotein: 4.27   ng/mL
+【20150810】ALT: 33   U/L
+【20150810】AST: 27   U/L
+【20150817】Abdomen Echo Ultrasound :Parenchymal liver disease
+      Fatty liver, mild
+      Liver tumor, small, nature to be determined (S3)
+      Liver tumor, small, probably hemangioma (S6)
+【20150827】兒科胃鏡檢查 :PUD
+ Course and Endoscopic Findings :
+    Esophagus :    Complete RIS, loosening distal LES with two or so 0.3 cm mucosal 
+                   breaks at SCJ.
+       Stomach :   Grade III flap valve. Several hyperemic raised or depressed 
+                   erosive patches over antrum, s/p random biopsy x 2 for Hp.
+    Duodenum :
+                   A 0.8 cm A1 ulcer at AW and a 1.0 cm A1 ulcer at PW of bulb.
+ Endoscopic Diagnosis :
+    Esophagus :    Hiatal hernia
+                   Reflux esophagitis, lower esophagus, LA grade A
+       Stomach :   Gastric erosion, multiple, antrum, s/p biopsy
+    Duodenum :     Duodenal ulcer, multiple, AW and PW of bulb
+ Specimens :      x 2 stomach
+【20150827】. :Stomach,antrum,endoscopic biopsy,chronic active gastritis with Helicobacter infection,
+【20151126】碳13 尿素呼氣檢查: Negative   
+【20151126】ALT: 51   U/L
+【20151126】AST: 36   U/L 
+Assessment 
+Suggest F/U abd US 3 months later or abd CT scan as soon as possible. Pt wants to F/U abd US. 
+Plan 
+Abd US: HBV carrier with liver tumor
+RTC after US 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 532.90 Duodenal ulcer 慢  
+O 239.0 Liver tumor  
+O 530.11 Reflux esophagitis 慢  
+O 789.00 Abdominal pain  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2015/12/03 執行、已批 Reason for abodominal echo:HBV carrier with liver tumor
+完成：2015/12/14
+ 林伯儒 
+
+
+ 
+
+Subjective 
+For tooth 23 post and crown fabrication
+ 
+Objective 
+1. Tooth 23
+Percussion pain (-)
+Palpation pain (-)
+Probing depth: WNL
+2.Periapical X ray:
+Compared with the film on 20151008, the lesion had improved patency.
+ 
+Assessment 
+Pulpless tooth 23
+ 
+Plan 
+Tooth 23 provisional crown fabrication
+1. tooth preparation
+2. provisional crown fabrication
+3. check proximal contact,margin fitness,occlusion
+4. provisional crown cementation with temp pack
+5. chairside OHI 
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 522.9 Pulpless tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0534 *Temporary crown 1 自費 N 2015/12/02 執行、已批 齒位1:23
+技工所:1
+完成：2015/12/02
+ 楊宗傑 
+ 
+
+Subjective 
+For 23 tooth endo follow up (RCF on 20151008.)
+ 
+Objective 
+1. Tooth 23
+Percussion pain (-)
+Palpation pain (-)
+Probing depth: WNL
+2. Full mouth calculus and plaques deposition.
+ 
+Assessment 
+Pulpless tooth 23
+ 
+Plan 
+1.Check periapical X ray:
+Findings: 
+Compared with the film on 20151008, the lesion had improved patency.
+2.Full mouth scaling and OHI.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 522.9 Pulpless tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/11/27 執行、已批 齒位1:FM
+完成：2015/11/27
+ 潘珮瑜 
+治療 34001C0L Periapical X-Ray (each) 1  N 2015/11/27 執行、已批 齒位1:23
+完成：2015/11/27
+ 林思洸 
+
+
+Objective 
+【20151116】HbA1c: 8.4   %【20151114】GLU AC: 84   mg/dL  GLU 2hr PC: 156   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/27 已確認 已批 曾慶孝  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/27 已確認 已批 曾慶孝  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/11/27 已確認 已批 曾慶孝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/01
+ 曾慶孝 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/01
+ 曾慶孝 
+檢驗 09006C0P HbA1c 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/01
+ 曾慶孝 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/01
+ 曾慶孝 
+檢驗 09044C0P LDL 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/01
+ 曾慶孝 
+檢驗 09043C0P HDL 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/01
+ 曾慶孝 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/01
+ 曾慶孝 
+ 
+
+Objective 
+【20151116】HbA1c: 8.4   %【20151114】GLU AC: 84   mg/dL  GLU 2hr PC: 156   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 7 14 tab 健保  2015/11/20 已確認 已批 曾慶孝  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 7 14 tab 健保  2015/11/20 已確認 已批 曾慶孝 特殊醫囑:天數小於21天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09006C0P *HbA1c 1  N 2015/11/20 刪除、刪除、未看完 Specimen:BLO
+ 曾慶孝 
+檢驗 08011CZP CBC & platelet 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09002CZP BUN 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09025CZP AST(GOT) 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09026CZP ALT(GPT) 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09011CZP Calcium, Ca 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09046BZP Magnesium, Mg 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09012CZP Phosphate, P 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+ 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09044C0P LDL 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09043C0P HDL 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+檢驗 09013CZP Uric acid 1  N 2015/11/20 執行、已批 Specimen:BLO
+完成：2015/11/26
+ 曾慶孝 
+
+
+Subjective 
+For treatment of oral problem.
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at right side of tongue lateral border and right mouth angle 
+
+
+personal habit:
+C: 1.5 pack/day
+
+systemic disease: DM without control
+
+dislocation TMJ usually
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+ 
+Plan 
+On cryotherapy at  right side of tongue lateral border and right mouth angle.  
+Follow up one month later.
+Quit smoking
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+O 525.3 Retained dental root  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/11/20 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/11/20 執行、已批 完成：2015/11/20
+ 陳信銘 
+ 
+
+
+Subjective 
+LUQ pain, vague, for 10 or more days. Black stool (-), abd fullness, smooth defecation. HBV carrier. EKG, plain abd X ray : negative yesterday. Fever (-). Alc (-), smoking (+), FOBT (-) in this year. Fx of GI cancer (-). Prior abd surgery (-). PH: renal stone, rt, s/p ESWL and operation> 10 years ago. Analgesics (-). 
+Objective 
+【20150506】AST: 40   U/L
+【20150506】ALT: 57   U/L
+Abd: soft, no tenderness.
+【20150810】Alpha-Fetoprotein: 4.27   ng/mL
+【20150810】ALT: 33   U/L
+【20150810】AST: 27   U/L
+【20150817】Abdomen Echo Ultrasound :Parenchymal liver disease
+      Fatty liver, mild
+      Liver tumor, small, nature to be determined (S3)
+      Liver tumor, small, probably hemangioma (S6)
+【20150827】兒科胃鏡檢查 :PUD
+ Course and Endoscopic Findings :
+    Esophagus :    Complete RIS, loosenening distal LES with two or so 0.3 cm mucosal 
+                   breaks at SCJ.
+       Stomach :   Grade III flap valve. Several hyperemic raised or depressed 
+                   erosive patches over antrum, s/p random biopsy x 2 for Hp.
+    Duodenum :
+                   A 0.8 cm A1 ulcer at AW and a 1.0 cm A1 ulcer at PW of bulb.
+ Endoscopic Diagnosis :
+    Esophagus :    Hiatal hernia
+                   Reflux esophagitis, lower esophagus, LA grade A
+       Stomach :   Gastric erosion, multiple, antrum, s/p biopsy
+    Duodenum :     Duodenal ulcer, multiple, AW and PW of bulb
+ Specimens :      x 2 stomach
+【20150827】. :Stomach,antrum,endoscopic biopsy,chronic active gastritis with Helicobacter infection, 
+Assessment 
+Suggest F/U abd US 3 months later or abd CT scan as soon as possible. Pt wants to F/U abd US. 
+Plan 
+C13 UBT 5 w later
+RTC 1 w after UBT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 239.0 Liver tumor  
+O 530.11 Reflux esophagitis 慢  
+M 532.90 Duodenal ulcer 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O V02.61 Viral hepatitis B carrier  
+O 789.00 Abdominal pain  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 4 cap BIDPC PO 7 56 cap 健保  2015/10/22 已確認 已批 林伯儒  
+Flagyl 250 mg/tab 2 tab BIDPC PO 7 28 tab 健保  2015/10/22 已確認 已批 林伯儒  
+Takepron OD 30 mg/tab 1 tab BIDAC LZ 7 14 tab 健保  2015/10/22 已確認 已批 林伯儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 30512C0P 碳13 尿素呼氣檢查 1  N 2015/10/22 執行、已批 Specimen:GAS
+完成：2015/11/26
+ 林伯儒 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/10/16 已確認 已批 謝欣妤  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/10/16 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+For treatment of oral problem.
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at right side of tongue lateral border 
+
+
+personal habit:
+C: one pack/day
+
+systemic disease: DM without control
+
+dislocation TMJ usually
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+ 
+Plan 
+On cryotherapy at  right side of tongue lateral border.  
+Follow up one month later.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+O 525.3 Retained dental root  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/10/16 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/10/16 執行、已批 完成：2015/10/16
+ 陳信銘 
+ 
+
+Subjective 
+Patient was late for the appointment 1-1.5 hr
+For treatment of 23 endo
+Personal habit:
+Smoking: one pack/day
+
+PMH:
+1.systemic disease: DM without control
+2.Dislocation TMJ usually
+C.C. Asking for tooth 23 endodontic treatment
+ 
+Objective 
+1. 疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+Present dentition:
+  7654321|12345
+     4321|1234
+2.white lesion found at left side of tongue lateral border in size about 1*2mm: complete remission
+3.Tooth 23 mesial side extended caries
+ - percussion pain(-), palpation pain(-), mobility
+ 
+Assessment 
+1.Tooth 23 dental caries
+2.Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+3.26 retained root status post complicated extraction
+ 
+Plan 
+1.Tooth 23
+2.Rubber dam application(III)
+3.Access opening
+4.Canal enlargement & debridement
+5.Check WL: 27 mm IAF:#10, MAF: #25
+6.Irrigation with 2.5% NaOCl
+7.RCF with GP & sealer by lateral compaction technique(1 canal)
+8.23 GIC filling
+(1)remove caries and soft dentin with cavity preperation
+(2)matrix and wedge application
+(3)GI cement filling
+(4)condensing, contouring,vaseline application
+(5)occlusal adjustment
+(6)finishing and polishing
+N/v: Arrange 1 month follow up
+Operator:R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 521.0 Dental caries  
+O 528.7 Buccal hyperplasia 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 532.90 Duodenal ulcer 慢  
+O 239.0 Liver tumor  
+O 530.11 Reflux esophagitis 慢  
+O 789.00 Abdominal pain  
+O 250.00 Diabetes mellitus 慢 糖  
+O V02.61 Viral hepatitis B carrier  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Takepron OD 30 mg/tab 1 tab QDAC LZ 28 28 tab 健保 2 2015/09/22 已確認 已批 林小琴 
+ 
+
+
+
+Objective 
+BP118/84 BW51
+【20150910】HbA1c: 7.4   %  GLU AC: 118   mg/dL  GLU 2hr PC: 205   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/09/22 已確認 已批 曾慶孝  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/09/22 已確認 已批 曾慶孝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/11/14
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/11/14
+ 曾慶孝 
+檢驗 09006C0P *HbA1c 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2015/11/14
+ 曾慶孝 
+ 
+
+Subjective 
+For treatment of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at left side of tongue lateral border in size about 1*2mm: complete remission
+
+
+personal habit:
+C: one pack/day
+
+systemic disease: DM without control
+
+dislocation TMJ usually
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+ 
+Plan 
+Follow up one month later
+OHI, encourage using floss and interdental brush
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+O 525.3 Retained dental root 
+ 
+
+Subjective 
+C.C. Asking for tooth 23 endodontic treatment
+ 
+Objective 
+1.Tooth 23 mesial side extended caries
+ - percussion pain(-), palpation pain(-), mobility
+ - EPT:19/80 ref 24:34/80
+ - Cold test (+) without lingering pain
+
+2.Alveolar gingiva swelling over upper anterior teeth area
+redness (+)
+tenderness (+)
+ 
+Assessment 
+Dx. tooth 23 dental caries
+ 
+Plan 
+Tx.
+Tooth 23
+1.Removed all restoration, subgingival caries and soft dentin
+2.Identified 1 orifice, orifice protection with cotton & caviton(GP)
+3.local anesthesia with 2% lidoncaine + 1:80000 epinephrine 1.7 ml
+4.Distal wall built-up with GI under matrix and wedge application or banding and cementation with composite resin
+5.Rubber dam application(I)
+6.Access opening
+7.Canal enlargement & debridement
+8.Check WL: 27 mm IAF:#10
+9.Irrigation with 2.5% NaOCl
+10.Dressing with Ca(OH)2
+11.Dry cotton & Caviton temporary sealing
+
+N.V check gingival swelling
+Operator:R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 521.0 Dental caries 
+
+治療 90015C00 CANAL ENLARGE & DEBRIDEMENT 1  N 2015/09/03 執行、已批 齒位1:23
+完成：2015/09/03
+ 楊湘 
+治療 90012C00 RUBBER DAM APPLICATION 1  N 2015/10/01 執行、已批 齒位1:23
+完成：2015/10/01
+ 鄭景暉 
+治療 90012C00 RUBBER DAM APPLICATION 1  N 2015/10/08 執行、已批 齒位1:23
+完成：2015/10/08
+ 鄭景暉 
+治療 90001C00 ENDODONTIC TX FOR SINGLE CANAL 1  N 2015/10/08 執行、已批 齒位1:23
+完成：2015/10/08
+ 鄭景暉 
+治療 89011C00 GI CEMENT FILLING 1  N 2015/10/08 執行、已批 齒位1:23
+完成：2015/10/08
+ 鄭景暉 
+
+
+
+Subjective 
+LUQ pain, vague, for 10 or more days. Black stool (-), abd fullness, smooth defecation. HBV carrier. EKG, plain abd X ray : negative yesterday. Fever (-). Alc (-), smoking (+), FOBT (-) in this year. Fx of GI cancer (-). Prior abd surgery (-). PH: renal stone, rt, s/p ESWL and operation> 10 years ago. Analgesics (-). 
+Objective 
+【20150506】AST: 40   U/L
+【20150506】ALT: 57   U/L
+Abd: soft, no tenderness.
+【20150810】Alpha-Fetoprotein: 4.27   ng/mL
+【20150810】ALT: 33   U/L
+【20150810】AST: 27   U/L
+【20150817】Abdomen Echo Ultrasound :Parenchymal liver disease
+      Fatty liver, mild
+      Liver tumor, small, nature to be determined (S3)
+      Liver tumor, small, probably hemangioma (S6)
+【20150827】兒科胃鏡檢查 :PUD
+ Course and Endoscopic Findings :
+    Esophagus :    Complete RIS, loosenening distal LES with two or so 0.3 cm mucosal 
+                   breaks at SCJ.
+       Stomach :   Grade III flap valve. Several hyperemic raised or depressed 
+                   erosive patches over antrum, s/p random biopsy x 2 for Hp.
+    Duodenum :
+                   A 0.8 cm A1 ulcer at AW and a 1.0 cm A1 ulcer at PW of bulb.
+ Endoscopic Diagnosis :
+    Esophagus :    Hiatal hernia
+                   Reflux esophagitis, lower esophagus, LA grade A
+       Stomach :   Gastric erosion, multiple, antrum, s/p biopsy
+    Duodenum :     Duodenal ulcer, multiple, AW and PW of bulb
+ Specimens :      x 2 stomach 
+Assessment 
+Suggest F/U abd US 3 months later or abd CT scan as soon as possible. Pt wants to F/U abd US. 
+Plan 
+RTC 2 m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 532.90 Duodenal ulcer 慢  
+O 239.0 Liver tumor  
+O 530.11 Reflux esophagitis 慢  
+O 789.00 Abdominal pain  
+O 250.00 Diabetes mellitus 慢 糖  
+O V02.61 Viral hepatitis B carrier  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Takepron OD 30 mg/tab 1 tab QDAC LZ 28 28 tab 健保 2 2015/08/27 已確認 已批 林伯儒 
+ 
+
+Subjective 
+For treatment of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at left side of tongue lateral border in size about 1*2mm
+
+
+personal habit:
+C: one pack/day
+
+systemic disease:
+DM without control
+
+dislocation TMJ usually
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+ 
+Plan 
+Follow up one month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+O 525.3 Retained dental root 
+ 
+
+
+Subjective 
+For arranged dental treatment
+ 
+Objective 
+1. generalized mild plaque and calculus deposition, gingival inflammation
+2. oral hygiene: fair
+3. tooth 44 , BOP(+)
+probing depth:
+MB 385
+ML 333
+mobility: Gr.I 
+4. tooth 23 24 25  large caries B/M/D
+ 23 mesial side extended caries
+ - percussion pain(-), palpation pain(-), mobility
+ - EPT:19/80 ref 24:34/80
+ - Cold test (+) without lingering pain
+4. 24 servere cervical abraion with extended caries
+ - percussion pain(-), palpation pain(-), mobility: Gr.I
+ - EPT: 34/80 ref 23:29/80
+ - Cold test (+) without lingering pain
+25 servere cervical abraion with extended caries
+ - percussion pain(-), palpation pain(-), mobility: Gr.I
+ - EPT: 44/80 ref 23:29/80
+ - Cold test (+) without lingering pain
+5. tooth 21 dental caries B/M
+ 
+Assessment 
+1. generalized chronic periodontitis
+2. tooth 21 23 24 25 caries
+ 
+Plan 
+21 24 25 CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)Ca(OH)2 lining
+(4)base build-up with GIC
+(5)wedge and matrix application
+(6)acid etching, DBA application, polymerization
+(7)composite resin filling
+(8)condensing, contouring, polymerization
+(9)occlusal adjustment
+(10)finishing and polishing
+N.V.23 OD and impression for study cast
+R2潘珮瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 521.0 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89010C00 COM. RESIN, POST., 3 -SURFACE 2  N 2015/08/10 執行、已批 齒位1:24
+齒位2:25
+完成：2015/08/10
+ 姜昱至 
+治療 89005C00 COM. RESIN, ANT., 2 -SURFACE 1  N 2015/08/10 執行、已批 齒位1:21
+完成：2015/08/10
+ 姜昱至 
+ 
+
+Subjective 
+LUQ pain, vague, for 10 or more days. Black stool (-), abd fullness, smooth defecation. HBV carrier. EKG, plain abd X ray : negative yesterday. Fever (-). Alc (-), smoking (+), FOBT (-) in this year. Fx of GI cancer (-). Prior abd surgery (-). PH: renal stone, rt, s/p ESWL and operation> 10 years ago. 
+Objective 
+【20150506】AST: 40   U/L
+【20150506】ALT: 57   U/L
+Abd: soft, no tenderness. 
+Plan 
+1. GOT GPT AFP 
+2. Abd US: HBV carrier, abdominal pain
+3. PES: 9 am Children's Hospital (n<=4)
+4. RTC after abd Us and PES 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 789.00 Abdominal pain  
+O V02.61 Viral hepatitis B carrier  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dobecon 100 mg/tab 1 tab TIDAC PO 7 21 tab 健保  2015/08/10 已確認 已批 林伯儒  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/08/10 執行、已批 Specimen:BLO
+完成：2015/08/10
+ 林伯儒 
+檢驗 09026CZP ALT(GPT) 1  N 2015/08/10 執行、已批 Specimen:BLO
+完成：2015/08/10
+ 林伯儒 
+檢驗 09025CZP AST(GOT) 1  N 2015/08/10 執行、已批 Specimen:BLO
+完成：2015/08/10
+ 林伯儒 
+病理 25004C0W Surgical pathology Level IV 1  N 2015/08/27 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/08/27
+ 李慧娟 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2015/08/10 執行、已批 Reason for abodominal echo:HBV carrier, abdominal pain
+完成：2015/08/17
+ 林伯儒 
+檢查 28016CYS 兒科胃鏡檢查 1  N 2015/08/10 執行、已批 完成：2015/08/27
+ 林伯儒 
+治療 28030C0D ENDOSCOPIC BIOPSY 1  N 2015/08/27 執行、已批 完成：2015/08/27
+ 李慧娟 
+醫材 20430821 BIOPSY FORCEPS 1 內含 N 2015/08/27 執行、已批 完成：2015/08/27
+ 李慧娟 
+
+
+Subjective 
+for periodontal follow up
+ 
+Objective 
+1. generalized mild plaque and calculus deposition, gingival inflammation
+2. oral hygiene: fair
+3. tooth 44 PPD>5 mm, BOP(+)
+4. tooth 23 large caries
+ 
+Assessment 
+1. generalized chronic periodontitis
+2. tooth 23 caries
+ 
+Plan 
+1. full mouth scaling and OHI(no charge)
+
+
+TR3王志堯/VS張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+
+Subjective 
+For treatment of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at left side of tongue lateral border in size about 1*2mm
+
+
+personal habit:
+C: one pack/day
+
+systemic disease:
+DM without control
+
+dislocation TMJ usually
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+26 retained root status post complicated extraction
+ 
+Plan 
+#26 complicated extraction.
+
+Pre-OP Dx: #26 retained root 
+Post-OP Dx: #26 retained root status post operation 
+OP method: #26 complicated extraction.
+OP findings: #26 retained root  
+OP procedures: 
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual 
+2.Local anesthesia was done with 3.4 mL 2% xylocaine (with 1:80000 epinephrine) 
+3.Complicated extraction of #26 was done with  elevator and forcep 
+4.Gauze packing for 1 hour 
+5.Post-OP wound care instruction was given Prophylaxis for pain control 
+Specimen for pathology: Nil 
+Operator:G2 葉梓賢
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+O 525.3 Retained dental root  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2015/07/17 已確認 已批 
+ 
+治療 92014C00 COMPLICATED EXTRACTION 1  N 2015/07/17 執行、已批、未看完 齒位1:26
+完成：2015/07/17
+ 陳信銘 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/07/17 已確認 已批 林小琴 重複原因:補給天數 (至下次預約門診日)
+ 
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/07/17 已確認 已批 林小琴 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+Subjective 
+For treatment of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at left side of tongue lateral border in size about 1*2mm
+
+
+personal habit:
+C: one pack/day
+
+systemic disease:
+DM without control
+
+dislocation TMJ usually
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+ 
+Plan 
+On cryotherapy over left tongue
+follow up one month later
+Arrange extraction of uppper left retained root on 20150717
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/07/06 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/07/03 執行、已批 完成：2015/07/06
+ 陳信銘 
+ 
+
+Objective 
+BW52.5,BP106/93
+【20150618】HbA1c: 7.3   %  GLU AC: 83   mg/dL  GLU 2hr PC: 175   mg/dL 
+Plan 
+APP 8/28 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/06/23 已確認 已批 曾慶孝 重複原因:補給天數 (至下次預約門診日)
+ 
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/06/23 已確認 已批 曾慶孝 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/06/23 執行、已批 Specimen:BLO
+完成：2015/09/10
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/06/23 執行、已批 Specimen:BLO
+完成：2015/09/10
+ 曾慶孝 
+檢驗 09006C0P *HbA1c 1  N 2015/06/23 執行、已批 Specimen:BLO
+完成：2015/09/10
+ 曾慶孝 
+ 
+
+Subjective 
+Asking for evaluation of interim denture fabrication
+
+PMH: 
+DM(+)under medical control, HbA1c-- 7.9 %(20150401)
+Right buccal mucosa mild dysplasia, left tongue border leukoplakia under cryotherapy 
+HBV(+)
+Denied other major systemic diseases
+No known food and drug allergy
+ 
+Objective 
+1. Present dentition:
+  7654321|12345
+     4321|1234
+2. 26 retained root,
+  - percussion pain(+), paplation pain(-), mobility(+)
+3. 23 mesial side extended caries
+ - percussion pain(-), palpation pain(-), mobility(+)
+ - EPT:19/80 ref 24:34/80
+ - Cold test (+) without lingering pain
+4. 24 servere cervical abraion with extended caries
+ - percussion pain(-), palpation pain(-), mobility(+)
+ - EPT: 34/80 ref 23:29/80
+ - Cold test (+) without lingering pain
+5. 25 servere cervical abraion with extended caries
+ - percussion pain(-), palpation pain(-), mobility(+)
+ - EPT: 44/80 ref 23:29/80
+ - Cold test (+) without lingering pain
+ 
+Assessment 
+Retained root
+Dental caries
+ 
+Plan 
+1. Suggest 26 extraction in OMS department, 23, 24, 25 dental caries OD treatment, and then upper class II, lower class I final RPD fabrication. Arrange to R1 for further tretment.
+3. 23, 24, 25 caviton temporary filling.
+
+R1游元亨/VS徐幼群
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 521.0 Dental caries 
+ 
+Subjective 
+For treatment of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at left side of tongue lateral border in size about 1*2mm
+
+
+personal habit:
+C: one pack/day
+
+systemic disease:
+DM without control
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+ 
+Plan 
+On cryotherapy over left tongue
+follow up one month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/06/05 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/06/05 執行、已批 完成：2015/06/05
+ 陳信銘 
+ 
+
+Objective 
+BW52.6,BP124/80
+【20150506】ALT: 57   U/L  AST: 40   U/L  CRE: 0.8   mg/dL  GLU AC: 103   mg/dL  GLU 2hr PC: 288   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/05/12 已確認 已批 曾慶孝  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/05/12 已確認 已批 曾慶孝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/05/12 執行、已批 Specimen:BLO
+完成：2015/06/18
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/05/12 執行、已批 Specimen:BLO
+完成：2015/06/18
+ 曾慶孝 
+檢驗 09006C0P *HbA1c 1  N 2015/05/12 執行、已批 Specimen:BLO
+完成：2015/06/18
+ 曾慶孝 
+ 
+
+
+Subjective 
+Asking for full mouth examination and periodontal treatment
+ 
+Objective 
+1. mild gingival inflammation, and generalized plaque and calculus deposition
+2.probing >5mm:#17 16 15 14 24 33 32 44 
+3.#24,25 buccal side dental caries
+4.#26 retained root
+5.root exposure:17 32 44
+6.#23 distal side dental caries
+ 
+Assessment 
+Generalized chronic periodontitis
+dental caries
+ 
+Plan 
+take panoramic x-ray and FM periapical x-ray film,findings:
+1.present dentition:
+765421  123456
+  4321   1234
+2.Oral hygiene instruction 
+3.Full mouth scaling was performed
+4.consult prostho dept. for upper and lower interim fabrication
+5.suggest #26 retained root extraction
+
+N.V:arrange FM Scaling and plaque control assign to Ri陳宗賢
+ when plaque control < 20% , refer back to VS張博鈞 for further treatment 
+Ri陳宗賢/VS張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/04/24 執行、已批 齒位1:FM
+完成：2015/04/24
+ 張博鈞 
+ 
+Subjective 
+For treatment of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at left side of tongue lateral border in size about 1*2mm
+
+
+personal habit:
+C: one pack/day
+
+systemic disease:
+DM without control
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+ 
+Plan 
+On cryotherapy over left buccal cheek and tongue
+follow up one month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/04/13 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/04/13 執行、已批 完成：2015/04/13
+ 陳信銘 
+ 
+
+Objective 
+BW53.8,BP99/87【20150401】HbA1c: 7.9   %  GLU AC: 126   mg/dL  GLU 2hr PC: 241   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/04/07 已確認 已批 曾慶孝  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2015/04/07 已確認 已批 曾慶孝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/05/06
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/05/06
+ 曾慶孝 
+檢驗 09006C0P *HbA1c 1  N 2015/04/07 刪除、刪除、未看完 Specimen:BLO
+ 曾慶孝 
+檢驗 09015CZP *Creatinine(Blood) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/05/06
+ 曾慶孝 
+檢驗 09026CZP ALT(GPT) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/05/06
+ 曾慶孝 
+檢驗 09025CZP AST(GOT) 1  N 2015/04/07 執行、已批 Specimen:BLO
+完成：2015/05/06
+ 曾慶孝 
+
+Objective 
+【20150302】GLU AC: 124   mg/dL  GLU 2hr PC: 278   mg/dL 
+Plan 
+INCREASE GLIBEN 1 BID
+APP 4/7 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/03/06 已確認 已批 曾慶孝 重複原因:補給天數 (至下次預約門診日)
+ 
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2015/03/06 已確認 已批 曾慶孝 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/03/06 執行、已批 Specimen:BLO
+完成：2015/04/01
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/03/06 執行、已批 Specimen:BLO
+完成：2015/04/01
+ 曾慶孝 
+檢驗 09006C0P *HbA1c 1  N 2015/03/06 執行、已批 Specimen:BLO
+完成：2015/04/01
+ 曾慶孝 
+ 
+Subjective 
+For treatment of oral problem
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+
+white lesion found at left side of tongue lateral border in size about 1*2mm
+
+
+personal habit:
+C: one and half a pack/day
+
+systemic disease:
+DM without control
+ 
+Assessment 
+Mild dysplasia, right buccal mucosa 
+leukoplakia, left, tongue border
+ 
+Plan 
+On cryotherapy over left buccal cheek and tongue
+follow up one month later
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.7 Buccal hyperplasia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Mundisal Gel 8.7% 10 g/tube 1 XX BID OR 7 1 tube 健保  2015/03/02 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 37002B00 冷凍治療－－每次 1  N 2015/03/02 執行、已批 完成：2015/03/02
+ 陳信銘 
+ 
+
+Objective 
+BW52
+【20150130】GLU AC: 173   mg/dL  GLU 2hr PC: 221   mg/dL 
+Plan 
+INCREASE GLIBEN 1 BID
+APP 3/6 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Gliben 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/02/10 已確認 已批 曾慶孝  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2015/02/10 已確認 已批 曾慶孝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/02/10 執行、已批 Specimen:BLO
+完成：2015/03/02
+ 曾慶孝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/02/10 執行、已批 Specimen:BLO
+完成：2015/03/02
+ 曾慶孝 
+ 
+
+
+ 
+

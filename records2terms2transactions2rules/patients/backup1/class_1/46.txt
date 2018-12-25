@@ -1,0 +1,248 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+Referred from local dental clinic for periodontal evaluation.
+
+現病史：
+This 40-year-old man was referred from local dental clinic for periodontal evaluatio
+
+過去病史：
+All major systemic diseases were denied.
+No known food or drug allergy.
+Cigarette smoking 1 pack/day for more than 15 years. (想戒)
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：O
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+1. Present dentition:
+7654321|1234567
+7654321|1234567
+
+2. FPD: 26 27 splinted crown
+3. PD >= 5mm:
+7654321|  34567
+765    |    567
+4. 15 mobility Gr III
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+初始治療計劃：
+Check FM periapical, bitewing and panp:
+1. Generalized horizontal bony destruction
+2. 15 severe bone loss
+
+Tx plan:
+Arrange R3李佶翰 for FM phase I therapy and OHI.
+Suggest quit smoking.
+
+R3李佶翰/R4杜哲彰/VS郭彥彬
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/01/19 執行、已批 齒位1:FM
+完成：2016/01/19
+ 郭彥彬 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/19 已批 完成：2016/01/19  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/01/19 已批 完成：2016/01/19 
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. full mouth charting and photo records were taken 
+2.plaque control(術前) was done with application of disclosing agent 
+3.oral hygiene instruction was done, 
+4.explained treatment plan to the patient 
+5.signed consent 
+
+Operator: R3李佶翰 
+Recorder: R3李佶翰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/03/28 已確認 已批 郭彥彬  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/02/05 已確認 已批 郭彥彬  
+Naposin 250 mg/tab 1 tab BIDPC PO 7 14 tab 健保  2016/03/16 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2016/02/01 執行、已批 完成：2016/02/01
+ 郭彥彬 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2016/03/10 執行、已批 完成：2016/03/10
+ 郭彥彬 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2016/04/11 執行、已批 完成：2016/04/11
+ 郭彥彬 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/01 已批 完成：2016/02/01  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/01 已批 完成：2016/02/01  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/02/05 已批 完成：2016/02/05  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/03/16 已批 完成：2016/03/16  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/03/28 已批 完成：2016/03/28 
+ 
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+Oral hygiene: poor
+Plaque accumulation at FM
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Plaque control with disclosing agent 
+2. OHI 
+
+Operator: R3李佶翰
+Recorder: R3李佶翰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis 
+ 
+
+Subjective 
+Asking for tooth extraction
+ 
+Objective 
+Tooth 15 16 severe bone loss with Gr III mobility
+ 
+Assessment 
+15 16 Chronic periodontitis
+ 
+Plan 
+15 16 simple extraction under local anesthesia 
+< OP note > 
+Pre-OP diagnosis: 15 16 chronic periodontitis
+Post-OP diagnosis: 15 16 chronic periodontitis status post tooth extraction 
+OP method: 15 16 simple extraction under local anesthesia OP procedure: 
+1. Disinfection with 0.12% CHX and local anesthesia of UR area with 3.4ml 2% Lidocaine(1:80000 epinephrine) 
+2. 15 16 was extracted with elevator and forcep. 
+3. socket curettage, gauze packing for one hour. 
+4.post OP instructions were given 
+OP findings: 15 16 chronic periodontitis
+Specimens for pathology:Nil 
+
+Paramol for prevention of post-op pain
+
+Operator:R3李佶翰
+Recorder:R3李佶翰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/02/18 已確認 已批 郭彥彬  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2016/02/18 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92013C00 SIMPLE EXTRACTION 2  N 2016/02/18 執行、已批 齒位1:15
+齒位2:16
+完成：2016/02/18
+ 郭彥彬 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/18 已批 完成：2016/02/18  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/18 已批 完成：2016/02/18  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/02/18 已批 完成：2016/02/18 
+ 
+
+Subjective 
+Referred from local dental clinic for periodontal evaluation. and smoking cessation
+ 
+Objective 
+Referred from local dental clinic for periodontal evaluation.
+
+現病史：
+This 40-year-old man was referred from local dental clinic for periodontal evaluatio
+
+過去病史：
+All major systemic diseases were denied.
+No known food or drug allergy.
+Cigarette smoking 1 pack/day for more than 15 years. (想戒)
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+smoking cessation consultation and instruction
+Rx champix (1 mg/tab) x 7 for one week
+ 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab AS ORDER PO 7 7 tab 健保  2016/02/26 已確認 已批 劉謙美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1022C00 戒菸衛教暨個案管理費 1  N 2016/03/07 刪除、刪除 完成：2016/03/07
+ 劉謙美 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/26 已批 完成：2016/02/26  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/26 刪除已退 完成：2016/02/26  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/02/26 刪除已退 完成：2016/02/26  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/03/08 已批 完成：2016/02/26  
+行政費用 E1019A00 醫學中心調劑（開立一周戒菸治療服務藥物） 1  N 2016/03/08 已批 完成：2016/02/26 
+ 
+

@@ -1,0 +1,835 @@
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+C.C:Asking for evaluation of full mouth gingival recession
+
+現病史：
+The 33 y/o male came to our department for evaluation of full mouth gingival recession.He was received full mouth scaling at LDC
+
+過去病史：
+Smoking:1 pack/day
+
+過敏史：
+藥物過敏：無 
+食物過敏：( 有殼海鮮 ) 
+其他過敏：( 奇異果,木瓜 )
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+L.F:
+1.Present dentition:18~27 38~48
+  38 48 mesial tilting;impaction(+)
+  24 PFM crown
+2.Full mouth calculus and stain deposition;gingival inflammation
+3.Probing depths>5 mm:1817 3738 4748
+4.Oral hygiene:poor
+ 
+Assessment 
+D.X:
+1.Generalized chronic periodontitis
+2.38 48 impacted teeth
+ 
+Plan 
+T.X:
+1.Take Pano and full mouth PA film;X-ray findings:
+ (1).Present dentition:18~27 38~48
+ (2).Crown and bridge:24
+ (3).Endo Tx:24
+ (4).OD Tx:14 2627 3537 4647 
+ (5).Caries:22 35 37
+ (6).Impaction:38 48
+ (7).Supernumerary teeth:Nil
+ (8).Perio status:full mouth gingival inflammation
+ (9).Generalized horizontal bony destruction
+2.Tx plan:
+ (1).
+ (2).18 38 48 extraction
+
+G1 黃振邦/VS 劉謙美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+O K01.1 Impacted tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/01/25 執行、已批 齒位1:FM
+完成：2016/01/25
+ 劉謙美 
+治療 91004C00 SCALING:FULL-MOUTH 1  N 2016/01/25 執行、已批 齒位1:FM
+完成：2016/01/25
+ 劉謙美 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/25 已批 完成：2016/01/25  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/01/25 已批 完成：2016/01/25 
+ 
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+  Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+  Cigarrette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+4. Present dentition:18~27 38~48
+   38 48 mesial tilting,partially eruption
+   18 fully eruption with large dental decay over buccal side
+   24 PFM crown
+5. Full mouth calculus and stain deposition;gingival inflammation
+6. Oral hygiene:poor
+7.             Tooth 36        37
+  EPT            23/80        20/80
+  cold test     normal       normal
+  serious attrition over tooth 36 occlusal side
+ 
+Assessment 
+Generalized chronic periodontitis
+Impaceted tooth:tooth 38,48
+ 
+Plan 
+Tx
+1.full mouth charting and photo records were taken
+2.plaque control(術前) was done with application of disclosing agent
+3.oral hygiene instruction was done
+4.explained treatment plan to the patient
+5.signed consent
+6.Review of pano and full mouth PA film;X-ray findings:
+ (1)Present dentition:
+    87654321|1234567
+    87654321|12345678
+ (2)Crown and bridge:24
+ (3)s/p endo treatment :24
+ (4)OD treatmenta:14,26,27,35,37,46,47 
+ (5)Caries:22,35,37,18
+ (6)Impaction:38,48 and mesial tilting
+ (7)Generalized horizontal bony destruction
+Tx plan:
+Consultation to OMS department for tooth 18,38,48 extraction 
+
+Ri陳姿蓉/VS劉謙美
+
+< OMS dept >
+Arrange 2/25, 3/3 for tooth 18, 38, 48 extraction
+R2李方瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2016/01/30 已確認 已批 劉謙美 重複原因:短期或需要時使用
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2016/01/29 執行、已批 完成：2016/01/29
+ 劉謙美 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2016/02/01 執行、已批 完成：2016/02/01
+ 劉謙美 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2016/03/02 執行、已批 完成：2016/03/02
+ 劉謙美 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/29 已批 完成：2016/01/29  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/01/29 已批 完成：2016/01/29  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/01/30 已批 完成：2016/01/30 
+ 
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized/Localized deep pocket and increased mobility of teeth. 
+3. Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at UL and LL.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local and block anesthesia of UL and LL.
+4.Medication:
+Paramal 500mg 1# TID PO for 3 days
+
+Ri陳姿蓉/VS劉謙美
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+1. Generalizedplaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  
+2. subgingical root planing and smoothening root surface at UR and LR.  
+3. subgingival plaque and calculus, soft diseased cementum, removed under local and block anesthesia of UR and LR
+ 
+ 
+ 
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+  Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+  Cigarrette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Present dentition:18~27 38~48
+   38 48 mesial tilting,partially eruption
+   18 fully eruption with large dental decay over buccal side
+   24 PFM crown
+3. Full mouth calculus and stain deposition;gingival inflammation
+4. Dental caries:22(distal palatal),35(distal),36(distal),37(mesial and distal lingual )
+5. Cervical abrasion:tooth 33
+ 
+Assessment 
+Generalized chronic periodontitis
+Dental caries:22(distal palatal),35(distal),36(distal),37(mesial and distal lingual )
+ 
+Plan 
+Tx
+6.Review of pano and full mouth PA film;X-ray findings:
+ (1)Present dentition:
+    87654321|1234567
+    87654321|12345678
+ (2)Crown and bridge:24
+ (3)s/p endo treatment :24
+ (4)OD treatmenta:14,26,27,35,37,46,47 
+ (5)Caries:22,35,37,18
+ (6)Impaction:38,48 and mesial tilting
+ (7)Generalized horizontal bony destruction
+Tx plan:
+Consultation to OMS department for tooth 18,38,48 extraction
+Consultation to OD department for tooth 22(distal palatal),35(distal),36(distal),37(mesial and distal lingual), 33(cervical abrasion) OD treatment
+   
+
+Ri陳姿蓉/VS劉謙美
+ 
+
+Subjective 
+For arranged dental treatment
+
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+  Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+  Cigarette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1. Present dentition:18~27 38~48
+   38 48 mesial tilting,partially eruption
+   18 fully eruption with large dental decay over buccal side
+   24 PFM crown
+2. Dental caries:22(distal palatal),35(distal),36(distal),37(mesial and distal lingual )
+3. Cervical abrasion:tooth 33
+ 
+Assessment 
+Dental caries:22(distal palatal),35(distal),36(distal),37(mesial and distal lingual ) 
+Cervical abrasion:tooth 33
+ 
+Plan 
+Tx:
+1.tooth 22 CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)wedge and matrix application
+(4)acid etching, DBA application, polymerization
+(5)composite resin filling
+(6)condensing, contouring, polymerization
+(7)occlusal adjustment
+(8)finishing and polishing
+
+Ri尤俐文
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89005C00 COM. RESIN, ANT., 2 -SURFACE 1  N 2016/02/20 執行、已批 齒位1:22
+完成：2016/02/20
+ 李伯訓 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/20 已批 完成：2016/02/20  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/20 已批 完成：2016/02/20 
+ 
+Subjective 
+For arranged dental treatment
+
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+Cigarette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1. tooth 35,36,37 dental caries
+2. tooth 33 cervical abrasion
+ 
+Assessment 
+1. tooth 35,36,37 dental caries
+2. tooth 33 cervical abrasion
+ 
+Plan 
+Tx:
+1. tooth 33(B) CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)acid etching, DBA application, polymerization
+(4)composite resin filling
+(5)condensing, contouring, polymerization
+(6)finishing and polishing
+
+2. tooth 35(DO),36(DO, buccal) CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)Ca(OH)2 lining, only used over tooth 35
+(4)wedge and matrix application
+(5)acid etching, DBA application, polymerization
+(6)composite resin filling
+(7)condensing, contouring, polymerization
+(8)occlusal adjustment
+(9)finishing and polishing
+
+Ri尤俐文
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89004C00 COM. RESIN, ANT., 1 -SURFACE 1  N 2016/02/22 執行、已批 齒位1:33
+完成：2016/02/22
+ 陳敏慧 
+治療 89009C00 COM. RESIN, POST., 2 -SURFACE 1  N 2016/02/22 執行、已批 齒位1:35
+完成：2016/02/22
+ 陳敏慧 
+治療 89010C00 COM. RESIN, POST., 3 -SURFACE 1  N 2016/02/23 執行、已批 齒位1:36
+完成：2016/02/23
+ 陳敏慧 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/22 已批 完成：2016/02/22  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/22 已批 完成：2016/02/22 
+ 
+
+Subjective 
+For arranged dental treatment and complaint of tooth 36 buccal side severe sensitivity
+
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+Cigarette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1. tooth 26(0),27(0), 21(D), 37(DL) dental caries
+2. tooth 36 distal buccal sensitivity and a gap was noted
+ 
+Assessment 
+tooth 26,27,21,37 dental caries
+ 
+Plan 
+Tx:
+1. tooth 26(O),27(O) CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)acid etching, DBA application, polymerization
+(4)composite resin filling
+(5)condensing, contouring, polymerization
+(6)occlusal adjustment
+(7)finishing and polishing
+
+2. tooth 36 re-OD, and keep F/U
+3. OHI
+
+Nv: tooth 21(D), 37(DL) OD treatment (等拔完tooth 38後至少兩周再做)
+
+Ri尤俐文
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89008C00 COM. RESIN, POST.,1 -SURFACE 2  N 2016/02/23 執行、已批 齒位1:26
+齒位2:27
+完成：2016/02/23
+ 陳敏慧 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/23 已批 完成：2016/02/23  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/23 已批 完成：2016/02/23  
+ 
+
+Subjective 
+For tooth 38 extraction
+ 
+Objective 
+tooth 38 impacted tooth
+ 
+Assessment 
+tooth 38 impacted tooth
+ 
+Plan 
+Pre-OP Dx: Tooth 38 impacted tooth
+Post-OP Dx: Tooth 38 impacted tooth status post operation
+OP method: Tooth 38 simple odontectomy 
+OP findings: Tooth 38 impacted tooth with bone and soft tissue coverage
+OP procedures:
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual
+2.Local anesthesia was done with 4.0 mL 2% xylocaine (1:80000 epinephrine) within 5 minutes
+3.Incision and flap reflection was done with No.15 blade
+4.The tooth was removed with elevators and high speed, simple odontectomy of Tooth 38 was done.
+5.Socket curettage to remove granulation tissue and normal saline irrigation
+6.Suture with of 3-0 silk, 3 stitches
+7.Gauze packing for 1 hour
+8.Post-OP wound care instruction was given
+
+Specimen for pathology: Nil
+Estimated blood loss:minimal
+
+Rx.
+
+Amoxicillin 250mg/cap 1cap*Q8H*3 days PO and
+Naposin 250mg/cap 1 tab*TID*5days PO
+for infection prophylaxis and pain control
+
+N.v.:For suture removal  
+
+Operator: R1劉冠亨
+Recorder: Ri鄭至為
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K01.1 Impacted tooth  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/02/25 已確認 已批 章浩宏  
+Naposin 250 mg/tab 1 tab TIDPC PO 5 15 tab 健保  2016/02/25 已確認 已批 章浩宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92015C00 ODONTECTOMY,SIMPLE 1  N 2016/02/25 執行、已批 齒位1:38
+完成：2016/02/25
+ 章浩宏 
+治療 92005C00 REMOVAL OF STITCHES,EACH TIME 1  N 2016/03/03 執行、已批 齒位1:38
+完成：2016/03/03
+ 章浩宏 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/25 已批 完成：2016/02/25  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/25 已批 完成：2016/02/25  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/02/25 已批 完成：2016/02/25 
+ 
+Subjective 
+Asking for periodontal treatment(牙周統合照護計畫同次療程)
+P.M.H:Hepatitis B
+ 
+Objective 
+Deep pocket as recorded in charting data attached.  (見上傳再評估charting data)
+Residual pocket:Teeth 17,37,47,48
+Suture stiches over tooth 38 extraction site
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Full mouth charting and photo records were taken
+2.Plaque control(術後) was done with application of disclosing agent
+3.Oral hygiene instruction was done
+4.Explained treatment plan(Dr.謝怡婷) after phase I to the patient
+-Suggest tooth 24 crown refabrication==>the patient refused
+-Evaluation of teeth 17,47 1M after teeth 18,48 extraction(Extraction was arragned on 2016/03/03)
+-Arranged 1M f/u
+
+Ri陳姿蓉
+ 
+
+Subjective 
+For 18,48 extraction
+ 
+Objective 
+Impacted tooth 48 
+Chronic periodontitis 18
+
+38 impacted tooth s/p OP
+ 
+Assessment 
+Impacted tooth 48 
+Chronic periodontitis 18
+38 impacted tooth s/p OP
+ 
+Plan 
+Pre-OP Dx: Tooth 48 impacted tooth, 18 chronic periodontitis
+Post-OP Dx: Tooth 48 impacted tooth, 18 chronic periodontitis status post operation
+OP method: Tooth 48 simple odontectomy, 18 complicated extraction 
+OP findings: Tooth 48 impacted tooth with soft tissue coverage, 18 chronic periodontitis tooth 
+OP procedures:
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual
+2.Local anesthesia was done with 5.1 mL 2% xylocaine (1:80000 epinephrine) within 5 minutes
+3.Incision and flap reflection was done with No.15 blade
+4.The tooth 48 was removed with elevators and high speed, complicated odontectomy of Tooth 48 was done.
+5.The tooth 18 was removed with elevators
+6.Socket curettage to remove granulation tissue and normal saline irrigation
+7.Suture with of 3-0 silk, 1 stich
+8.Gauze packing for 1 hour
+9.Post-OP wound care instruction was given
+
+Specimen for pathology: Nil
+Estimated blood loss:minimal
+
+Rx.
+Amoxicillin 250mg/cap 1cap*Q8H*3 days PO and
+Naposin 250mg/cap 1 tab*TID*5days PO
+for infection prophylaxis and pain control
+
+N.v.:For suture removal  
+
+Lower left suture were removed, 3 stitches
+
+Operator: R1劉冠亨
+Recorder: R1劉冠亨
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K01.1 Impacted tooth  
+O K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/03/03 已確認 已批 章浩宏  
+Naposin 250 mg/tab 1 tab TIDPC PO 5 15 tab 健保  2016/03/03 已確認 已批 章浩宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92014C00 COMPLICATED EXTRACTION 1  N 2016/03/03 執行、已批 齒位1:18
+完成：2016/03/03
+ 章浩宏 
+治療 92015C00 ODONTECTOMY,SIMPLE 1  N 2016/03/03 執行、已批 齒位1:48
+完成：2016/03/03
+ 章浩宏 
+治療 92005C00 REMOVAL OF STITCHES,EACH TIME 1  N 2016/03/10 執行、已批 齒位1:48
+完成：2016/03/10
+ 章浩宏 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/03 已批 完成：2016/03/03  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/03/03 已批 完成：2016/03/03  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2016/03/03 已批 完成：2016/03/03 
+Subjective 
+CC: asking for post-OP f/u
+ 
+Objective 
+pain score: 0
+LF: Tooth 18 48  s/p extraction, wound healing: fair
+    -wound healing: fair
+    -dehicency (-)
+    -pus discharge (-)
+    1 stitch of 3-0 silk was found over tooth 48 extraction wound
+ 
+Assessment 
+Dx: Tooth 18 48 s/p OP
+ 
+Plan 
+Tx: suture removal 1 stitch
+    chair side OHI
+
+Operator : Ri劉曉暘/R1王思涵
+Recorder : Ri劉曉暘
+ 
+ 
+Subjective 
+Arranged for dental treatment
+
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+Cigarette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1. tooth 37 distal lingual dental caries, near gingiva area
+2. tooth 21 22 proximal dental caries
+ 
+Assessment 
+tooth 21 22 37 dental caries
+ 
+Plan 
+Tx: #37(distal lingual) OD 
+1.Remove caries and soft dentin
+2.Cavity preparation, 
+3.GIC Fuji IX application
+4.Vaseline application
+5.Condensing,contouring
+6.Finishing and polishing
+
+
+Ri楊詩妤/R3張棠皓/VS曾琬瑜
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89011C00 GI CEMENT FILLING 1  N 2016/03/18 執行、已批 齒位1:37
+完成：2016/03/18
+ 曾琬瑜 
+治療 89008C00 COM. RESIN, POST.,1 -SURFACE 1  N 2016/03/18 刪除、刪除 齒位1:37
+完成：2016/03/18
+ 曾琬瑜 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/18 已批 完成：2016/03/18  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/03/18 已批 完成：2016/03/18 
+ 
+
+Subjective 
+Arranged for dental treatment
+
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+Cigarette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1.Tooth 21 22 proximal dental caries 
+2.Tooth 11 12 proximal dental caries
+3.suspect tooth 21 mesial dental caries
+4.full mouth plaque and stain deposition
+ 
+Assessment 
+Assessment 
+tooth 21 22 11 12 dental caries
+ 
+Plan 
+Tx: #21(D) 22(M) OD 
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)wedge and matrix application
+(4)acid etching, DBA application, polymerization
+(5)composite resin filling
+(6)condensing, contouring, polymerization
+(7)occlusal adjustment
+(8)finishing and polishing
+
+
+Ri楊詩妤/R2蔡孟芸/VS陳敏慧 2016/03/28 AM
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89005C00 COM. RESIN, ANT., 2 -SURFACE 1  N 2016/03/28 執行、已批 齒位1:21
+完成：2016/03/28
+ 陳敏慧 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/28 已批 完成：2016/03/28  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/03/28 已批 完成：2016/03/28 
+ 
+
+Subjective 
+Arranged for dental treatment
+
+P.M.H:
+1.Hepatitis B
+2.Alcohol consuption:rare
+Betal nut:(+) lasted for 10 years,1 pack/day, quitted for 1 month
+Cigarette(+) lasted for 10+ years, 1 pack/day
+3.Allergy to kiwi fruit, peach and shrimp. No known drug allergy
+ 
+Objective 
+1.Tooth 11 12 proximal dental caries
+2.full mouth plaque and stain deposition 
+3.sensative sensation over tooth 35 36 cervical area, cervical abrasion was noted
+ 
+Assessment 
+tooth 11 12 dental caries 
+tooth 35 36 cervical abrasion
+ 
+Plan 
+Due to the patient complained about severe sensativity of tooth 35 36 area, thus we had tooth 35 36 treatment first
+
+Tx: Tooth 35 36 cervical abrasion OD
+1.Cavity preparation, 
+2.Acid etching, bonding agent application, polymerization
+3.CRF(post-1-surface)
+4.Condensing,contouring,polymerization
+5.Finishing and polishing
+6.Applied a thin layer of bonding agent to reduce sensativity
+
+Ri楊詩妤/VS 詹益典
+
+22016/04/06 12:43
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/06 已批 完成：2016/04/06  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/04/06 已批 完成：2016/04/06 
+ 
+
+Subjective 
+Asking for periodontal treatment and follow up 
+(post phase I therapy 2016/01/29~2016/03/02,18,48 s/p ext on 2016/03/03, 38 s/p ext on 2016/02/25)
+P.M.H:Hepatitis B
+cigarette 1 pack/day for 10years
+betel nut:quit (lasted for 10 years )
+ 
+Objective 
+L.F:
+-18,48 s/p ext on 2016/03/03 38 s/p ext on 2016/02/25
+wound hearing:fair, with soft tissue full coverage of socket
+-probing depth >5mm:17,47 
+17
+DB433MB
+DP533MP
+47
+DL833ML
+DB254MB
+47 distal buccal cervical decalcification ws noted
+-Full mouth mild plaque deposition and gingiva inflammation
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+TX:
+-Oral hygiene instruction was done, reinforece 17,47,37 distal side brushing stroke
+-Explained treatment plan after phase I to the patient 
+
+TX plan:
+Arrange 3 month follow up for evaluation of 17,47 perio status, phase II may be indicated
+Encourage p't for 戒菸門診  
+R1莊雅淳/VS劉謙美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/11 已批 完成：2016/04/11  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/04/11 已批 完成：2016/04/11 
+ 
+
+Subjective 
+For arranged dental treatment
+ 
+Objective 
+Tooth 11(DP) 12(MP) dental caries,
+ 
+Assessment 
+Tooth 11(DP) 12(MP) dental caries,
+ 
+Plan 
+Tooth 11(DP) 12(MP) dental caries,  CRF
+(1)remove caries, soft dentin
+(2)cavity preparation
+(3)wedge and matrix application
+(4)acid etching, DBA application, polymerization
+(5)composite resin filling
+(6)condensing, contouring, polymerization
+(7)occlusal adjustment
+(8)finishing and polishing
+
+Ri鄭至為/VS姜昱至
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K02.9 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 89004C00 COM. RESIN, ANT., 1 -SURFACE 2  N 2016/04/19 執行、已批 齒位1:11
+齒位2:12
+完成：2016/04/19
+ 姜昱至 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/19 已批 完成：2016/04/19  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/04/19 已批 完成：2016/04/19 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab AS ORDER PO 14 14 tab 健保  2016/07/04 已確認 已批 劉謙美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/04 已批 完成：2016/07/04  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短��詢＋個案追蹤管理）（自行調劑 1  N 2016/07/04 已批 完成：2016/07/04  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/07/04 已批 完成：2016/07/04 
+ 
+
+

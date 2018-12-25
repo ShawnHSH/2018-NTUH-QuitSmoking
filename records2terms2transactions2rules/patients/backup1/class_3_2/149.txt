@@ -1,0 +1,1192 @@
+
+Subjective 
+hypopharyngeal cancer follow up 
+Objective 
+※Clinical follow up：No evidence of recurrence or metastasis
+
+MRI (3/17) 
+Plan 
+next 3/31 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+
+[R/T summary] 
+  Dose: 66 Gy/33 fx   
+  Date: 2014/02/24 ~ 2014/04/11  
+   8m s/p R/T
+
+[Exam]
+@ CXR (2014.07.28): lung mets(-)
+@ CXR (2014.09.24):lung mets(-)
+@ MRI (2014.06.30): NER
+
+
+[PE]:
+  Oral cavity & Oropharynx: (-)
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+1. Hypopharyngeal SCC, cTxN2, at least stage IVa, s/p induction PF(II), with residual neck mass, metastatic squamous cell carcinoma, status post left neck radical neck dissection, close margin. 2. Pulmonary TB 
+Plan 
+RTC:3m after MRI 
+Neck MRI 
+Cr. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 7 7 tab 健保  2014/12/30 已確認 已批 王駿瑋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33085B0M MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2014/12/30 執行、已批 Indication:Neoplasm
+小部位:For tumor staging, from skull base to lower neck,
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+其他：※不清楚病人是否對顯影劑過敏
+完成：2015/03/17
+ 王駿瑋 
+ 
+
+Subjective 
+for further f/u
+no specific complaint 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.56kg (2014/10/20) => 61kg (1/12)
+
+【20141230】WBC: 3.92   k/μL
+【20141230】PLT: 209   k/μL
+【20141230】HB: 15.1   g/dL
+【20141230】LDH: 170   U/L
+【20141230】T-BIL: 0.56   mg/dL
+【20141230】ALP: 56   U/L
+【20141230】ALT: 13   U/L
+【20141230】Na: 139   mmol/L
+【20141230】CRE: 1.0   mg/dL
+【20141230】Ca: 2.33   mmol/L
+
+【20141230】Chest : PA View (Standing) :normal heart size. Port-A insertion. fibrotic change, patches at right lung. increased interstitial infiltrations at bilateral lungs. tenting of right hemidiaphragm. 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB 
+Plan 
+1.Symptomatic treatment
+2.RTC 3 months
+3.Port-A flush x3
+4.Consider to remove port-A after neck MRI (3/17) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 08011CZP CBC & platelet 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 09026CZP ALT(GPT) 1  N 2015/01/12 報到、已批 Specimen:BLO
+ 黃懷正 
+檢驗 09029CZP BIL T 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 09027CZP ALP 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 09033CZP LDH 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 09021CZP Sodium, Na 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 09011CZP Calcium, Ca 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+檢驗 09022CZP Potassium, K 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/04/15
+ 黃懷正 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/01/12 執行、已批 完成：2015/04/15
+ 黃懷正 
+治療 48010C00 門診Port-A護理（Heparinized saline 1000U/10mL沖洗） 1  N 2015/01/12 執行、已批 完成：2015/03/31
+ 黃懷正 
+治療 48010C00 門診Port-A護理（Heparinized saline 1000U/10mL沖洗） 1  N 2015/01/12 執行、已批 完成：2015/03/02
+ 黃懷正 
+醫材 20000994 安全性注射針(port-A)20Gx0.75(Y) 1  N 2015/01/12 執行、已批 完成：2015/01/12
+ 黃懷正 
+醫材 20000994 安全性注射針(port-A)20Gx0.75(Y) 1  N 2015/01/12 執行、已批 完成：2015/01/12
+ 黃懷正 
+ 
+
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+
+
+[R/T summary] 
+  Dose: 66 Gy/33 fx   
+  Date: 2014/02/24 ~ 2014/04/11  
+   11m s/p R/T
+
+[Exam]
+@ CXR (2014.07.28): lung mets(-)
+@ CXR (2014.09.24):lung mets(-)
+@ CXR (2014.12.30):lung mets(-) Rt lung patch stationary
+@ MRI (2014.06.30): NER
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+
+
+[PE]:
+  Oral cavity & Oropharynx: (-)
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+1. Hypopharyngeal SCC, cTxN2, at least stage IVa, s/p induction PF(II), with residual neck mass, metastatic squamous cell carcinoma, status post left neck radical neck dissection, close margin. 2. Pulmonary TB 
+Plan 
+RTC:3m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+hypopharyngeal cancer follow up 
+Objective 
+※Clinical follow up：No evidence of recurrence or metastasis
+
+【20150317】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Post-operative and post-RT change without recurrent tumor or enlarged lymph nodes. 
+Plan 
+next 6/30 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+for further f/u
+no specific complaint 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.56kg (2014/10/20) => 61kg (2015/1/12) => 61kg (4/20)
+
+【20150415】Chest : PA View (Standing) :Chest radiograph: Normal cardiac size. Fibrotic change and interstitial infiltration over bilateral lung fields. Placement of left portacath. Mild degenerative spondylosis.
+
+【20150415】WBC: 5.63   k/μL
+【20150415】PLT: 256   k/μL
+【20150415】HCT: 43.5   %
+【20150415】HB: 15.0   g/dL
+【20150415】LDH: 160   U/L
+【20150415】T-BIL: 0.51   mg/dL
+【20150415】ALP: 51   U/L
+【20150415】ALT: 14   U/L
+【20150415】K: 4.1   mmol/L
+【20150415】Na: 137   mmol/L
+【20150415】CRE: 1.0   mg/dL
+【20150415】Ca: 2.29   mmol/L
+
+【20150317】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Post-operative and post-RT change without recurrent tumor or enlarged lymph nodes. 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB 
+Plan 
+1.Symptomatic treatment
+2.RTC on 4/30
+3.Port-A flush x 1
+4.Arrange abd echo for f/u (4/27) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2015/04/20 執行、已批 Reason for abodominal echo:Other
+完成：2015/04/27
+ 黃懷正 
+治療 48010C00 門診Port-A護理（Heparinized saline 1000U/10mL沖洗） 1  N 2015/04/20 執行、已批 完成：2015/04/30
+ 黃懷正 
+醫材 20000994 安全性注射針(port-A)20Gx0.75(Y) 1  N 2015/04/20 執行、已批 完成：2015/04/20
+ 黃懷正 
+ 
+
+Subjective 
+for further f/u
+no specific complaint 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.56kg (2014/10/20) => 61kg (2015/01/12) => 61kg (4/20)
+
+【20150415】Chest : PA View (Standing) :
+Chest radiograph: Normal cardiac size. Fibrotic change and interstitial infiltration over bilateral lung fields. Placement of left portacath. Mild degenerative spondylosis.
+
+【20150415】WBC: 5.63   k/μL
+【20150415】PLT: 256   k/μL
+【20150415】HCT: 43.5   %
+【20150415】HB: 15.0   g/dL
+【20150415】LDH: 160   U/L
+【20150415】T-BIL: 0.51   mg/dL
+【20150415】ALP: 51   U/L
+【20150415】ALT: 14   U/L
+【20150415】K: 4.1   mmol/L
+【20150415】Na: 137   mmol/L
+【20150415】CRE: 1.0   mg/dL
+【20150415】Ca: 2.29   mmol/L
+
+【20150317】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Post-operative and post-RT change without recurrent tumor or enlarged lymph nodes.
+
+【20150427】Abdomen Echo Ultrasound :
+Fatty liver, mild
+檢查者:       /       / 江宗賢主治醫師 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB 
+Plan 
+1.Keep OPD f/u, CXR, lab data
+2.RTC on 3 mlnths
+3.Refer for port-A removal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09026CZP ALT(GPT) 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09029CZP BIL T 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09027CZP ALP 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09033CZP LDH 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09002CZP BUN 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09021CZP Sodium, Na 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09022CZP Potassium, K 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+檢驗 09011CZP Calcium, Ca 1  N 2015/04/30 執行、已批 Specimen:BLO
+完成：2015/07/16
+ 黃懷正 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/04/30 執行、已批 完成：2015/07/16
+ 黃懷正 
+ 
+
+Subjective 
+for port a catheter removal evaluation 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.56kg (2014/10/20) => 61kg (2015/01/12) => 61kg (4/20)
+
+【20150415】WBC: 5.63   k/μL
+【20150415】PLT: 256   k/μL
+【20150415】HCT: 43.5   %
+【20150415】HB: 15.0   g/dL
+
+left port a inserted for 1.5+ yrs
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB 
+Plan 
+5/19 left port a removal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 1 4 tab 健保  2015/05/04 已確認 已批 林文瑛 特殊醫囑:手術後才服用  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+醫材 20007001 美容膠帶 1 自費 N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20006802 外科刀片 1 內含 N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20000910 塑膠注射器帶針#1CC(直叉) 1 內含 N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20000913 塑膠注射器帶針#10CC 1 內含 N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20000907 塑膠注射器帶針#10CC 1 內含 N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20005205 塑膠針頭 25Ｇ 1 內含 N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20450405 電刀迴路板 1  N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20300235 縫合線3.0 1  N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20301650 單股縫合線５–０ 1  N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+醫材 20009801 人工薄膜(大) 1  N 2015/05/19 執行、已批 完成：2015/05/19
+ 古慧質 
+手術 62009C00 皮下肌肉或深部異物取出術 1  N 2015/05/19 執行、已批 刀別：1
+分側：左側
+完成：2015/05/19
+ 林文瑛 
+ 
+
+Subjective 
+for port a wound 
+Objective 
+well healed, clear, no pus, 
+疼痛評估：
+疼痛指數： 1分; 疼痛部位： wound; 
+Plan 
+remove stitches 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48011C00 小換藥小於10CM 1  N 2015/06/15 執行、已批 完成：2015/06/15
+ 林文瑛 
+治療 48025C00 拆線小於10CM 1  N 2015/06/15 執行、已批 完成：2015/06/15
+ 林文瑛 
+治療 000Z3043 中文診斷書 1 自費 N 2015/06/15 執行、已批 完成：2015/06/15
+ 林文瑛 
+ 
+
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+
+
+[R/T summary] 
+  Dose: 66 Gy/33 fx   
+  Date: 2014/02/24 ~ 2014/04/11  
+   1y2m s/p R/T
+
+[Exam]
+@ CXR (2014.07.28): lung mets(-)
+@ CXR (2014.09.24):lung mets(-)
+@ CXR (2014.12.30):lung mets(-) Rt lung patch stationary
+@ CXR (2015.04.15):lung mets(-)
+@ MRI (2014.06.30): NER
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+@ Abd.sono (2015.04.27):Fatty liver, mild
+
+
+
+[PE]:
+  Oral cavity & Oropharynx: (-)
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+1. Hypopharyngeal SCC, cTxN2, at least stage IVa, s/p induction PF(II), with residual neck mass, metastatic squamous cell carcinoma, status post left neck radical neck dissection, close margin. 2. Pulmonary TB 
+Plan 
+RTC:3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+hypopharyngeal cancer follow up 
+Objective 
+※Clinical follow up：No evidence of recurrence or metastasis 
+Plan 
+next 9/29 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+for further f/u
+no specific complaint
+no dysphagia 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.6kg(2014/10/20)=>61kg(2015/01/12)
+=> 61kg(2015/04/20)=> 60.5kg (7/23)
+
+【20150317】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Post-operative and post-RT change without recurrent tumor or enlarged lymph nodes.
+
+【20150427】Abdomen Echo Ultrasound :
+Fatty liver, mild
+檢查者:       /       / 江宗賢主治醫師
+
+【20150716】Alb: 4.4   g/dL
+【20150716】LDH: 175   U/L
+【20150716】T-BIL: 0.93   mg/dL
+【20150716】ALP: 44   U/L
+【20150716】ALT: 17   U/L
+【20150716】K: 4.0   mmol/L
+【20150716】Na: 138   mmol/L
+【20150716】CRE: 0.9   mg/dL
+【20150716】Ca: 2.32   mmol/L
+【20150716】UN: 8.5   mg/dL
+
+【20150716】Chest : PA View (Standing) :
+1. hazy density noted in the both lungs. The apical caps are thickening.
+2. the heart size is normal.
+3. thoracic cage is intact. 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB 
+Plan 
+1.Keep OPD f/u, CXR, lab data
+2.RTC on 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09029CZP BIL T 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09027CZP ALP 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09033CZP LDH 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09043C0P HDL 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+檢驗 09044C0P LDL 1  N 2015/07/23 執行、已批 Specimen:BLO
+完成：2015/10/08
+ 黃懷正 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/07/23 執行、已批 完成：2015/10/08
+ 黃懷正 
+ 
+
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+
+
+[R/T summary] 
+  Dose: 66 Gy/33 fx   
+  Date: 2014/02/24 ~ 2014/04/11  
+   1y5m s/p R/T
+
+[Exam]
+@ CXR (2014.07.28): lung mets(-)
+@ CXR (2014.09.24):lung mets(-)
+@ CXR (2014.12.30):lung mets(-) Rt lung patch stationary
+@ CXR (2015.04.15):lung mets(-)
+@ CXR (2015.07.16):lung mets(-)
+@ MRI (2014.06.30): NER
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+@ Abd.sono (2015.04.27):Fatty liver, mild
+
+
+
+[PE]:
+  Oral cavity & Oropharynx: (-)
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+1. Hypopharyngeal SCC, cTxN2, at least stage IVa, s/p induction PF(II), with residual neck mass, metastatic squamous cell carcinoma, status post left neck radical neck dissection, close margin. 2. Pulmonary TB 
+Plan 
+RTC:3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+hypopharyngeal cancer follow up 
+Objective 
+※Clinical follow up：No evidence of recurrence or metastasis 
+Plan 
+next 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+for further f/u
+no specific complaint
+no dysphagia 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.6kg(2014/10/20)=>61kg(2015/01/12)
+=> 61kg(2015/04/20)=> 60.5kg (7/23)
+=> 61.5kg (10/15)
+
+【20151008】LDL-C: 187   mg/dL
+【20151008】HDL-C: 48   mg/dL
+【20151008】LDH: 180   U/L
+【20151008】T-BIL: 0.69   mg/dL
+【20151008】ALP: 52   U/L
+【20151008】ALT: 14   U/L
+【20151008】CRE: 1.1   mg/dL
+【20151008】TG: 84   mg/dL
+【20151008】T-CHO: 255   mg/dL
+
+【20151008】Chest : PA View (Standing) :
+chest X ray shows: normal heart size. fibrotic changes with patchy consolidation and nodules of both lungs. sharp bilateral costophrenic angles. 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB
+3.Hyperlipidemia 
+Plan 
+1. arrange chest CT for lung nodules (10/21)
+2. RTC on 10/29 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/10/15 執行、已批 Indication:Neoplasm
+小部位:Lung and mediastinum, from sternum to diaphragm,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2015/10/21
+ 黃懷正 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/10/21 執行、已批 完成：2015/10/21
+ 吳寬展 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2015/10/21 執行、已批 完成：2015/10/21
+ 吳寬展 
+ 
+
+Subjective 
+for further f/u
+no specific complaint
+no dysphagia 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.6kg(2014/10/20)=>61kg(2015/01/12)
+=> 61kg(2015/04/20)=> 60.5kg (7/23)
+=> 61.5kg (10/15)
+
+【20151008】LDL-C: 187   mg/dL
+【20151008】HDL-C: 48   mg/dL
+【20151008】LDH: 180   U/L
+【20151008】T-BIL: 0.69   mg/dL
+【20151008】ALP: 52   U/L
+【20151008】ALT: 14   U/L
+【20151008】CRE: 1.1   mg/dL
+【20151008】TG: 84   mg/dL
+【20151008】T-CHO: 255   mg/dL
+
+【20151008】Chest : PA View (Standing) :
+chest X ray shows: normal heart size. fibrotic changes with patchy consolidation and nodules of both lungs. sharp bilateral costophrenic angles.
+
+【20151021】CT With/Without Contrast-Chest :Fibrotic change at both lungs. 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB
+3.Hyperlipidemia 
+Plan 
+1. Keep OPD f/u, f/u lab data
+2. RTC 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/11/09 執行、已批 Specimen:BLO
+完成：2016/01/25
+ 黃懷正 
+檢驗 09026CZP ALT(GPT) 1  N 2015/11/09 執行、已批 Specimen:BLO
+完成：2016/01/25
+ 黃懷正 
+檢驗 09027CZP ALP 1  N 2015/11/09 執行、已批 Specimen:BLO
+完成：2016/01/25
+ 黃懷正 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/11/09 執行、已批 Specimen:BLO
+完成：2016/01/25
+ 黃懷正 
+檢驗 09021CZP Sodium, Na 1  N 2015/11/09 執行、已批 Specimen:BLO
+完成：2016/01/25
+ 黃懷正 
+檢驗 09022CZP Potassium, K 1  N 2015/11/09 執行、已批 Specimen:BLO
+完成：2016/01/25
+ 黃懷正 
+檢驗 09011CZP Calcium, Ca 1  N 2015/11/09 執行、已批 Specimen:BLO
+完成：2016/01/25
+ 黃懷正 
+ 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/11/09 執行、已批 完成：2016/01/25
+ 黃懷正 
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+
+
+[R/T summary] 
+  Dose: 66 Gy/33 fx   
+  Date: 2014/02/24 ~ 2014/04/11  
+   1y8m s/p R/T
+
+[Exam]
+@ CXR (2014.07.28): lung mets(-)
+@ CXR (2014.09.24):lung mets(-)
+@ CXR (2014.12.30):lung mets(-) Rt lung patch stationary
+@ CXR (2015.04.15):lung mets(-)
+@ CXR (2015.07.16):lung mets(-)
+@ CXR (2015.10.08):lung mets(-)
+@ MRI (2014.06.30): NER
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+@ Abd.sono (2015.04.27):Fatty liver, mild
+@ Chest CT (2015.10.21):negative
+
+
+
+[PE]:
+  Oral cavity & Oropharynx: (-)
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+1. Hypopharyngeal SCC, cTxN2, at least stage IVa, s/p induction PF(II), with residual neck mass, metastatic squamous cell carcinoma, status post left neck radical neck dissection, close margin. 2. Pulmonary TB 
+Plan 
+RTC:3 months after MRI 
+Neck MRI 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 148.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33085B0M MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2015/12/15 執行、已批 Indication:Neoplasm
+小部位:Neck, from mandible to sternum,
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+完成：2016/02/23
+ 王駿瑋 
+ 
+
+Subjective 
+hypopharyngeal cancer follow up 
+Objective 
+※Clinical follow up：No evidence of recurrence or metastasis 
+Plan 
+next 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C13.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+Subjective 
+for further f/u
+no specific complaint
+no dysphagia 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.6kg(2014/10/20)=>61.0kg(2015/01/12) => 60.5kg(2015/07/23)=>61.5kg(2015/10/15) => 62kg(2016/2/1)
+
+【20160125】WBC: 5.66   k/μL
+【20160125】HB: 16.2   g/dL
+【20160125】PLT: 236   k/μL
+【20160125】ALP: 50   U/L
+【20160125】ALT: 16   U/L
+【20160125】K: 4.0   mmol/L
+【20160125】Na: 144   mmol/L
+【20160125】CRE: 1.0   mg/dL
+【20160125】Ca: 2.36   mmol/L
+
+【20160125】Chest : PA View (Standing) :
+Chest PA shows normal heart size. fibrotic change and bronchiectasis of bilateral lungs. bilateral sharp costophrenic angles. mild degenerative change of the T and L spine. 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB
+3.Hyperlipidemia 
+Plan 
+1. Keep OPD f/u, f/u lab data
+2. RTC 3 months
+3. Neck MRI arranged on 2016/02/23 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C13.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09043C0P HDL 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09044C0P LDL 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09025CZP AST(GOT) 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09029CZP BIL T 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09027CZP ALP 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09002CZP BUN 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09021CZP Sodium, Na 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09022CZP Potassium, K 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+檢驗 09011CZP Calcium, Ca 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/04/27
+ 黃懷正 
+ 
+
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+
+
+[R/T summary] 
+  Dose: 66 Gy/33 fx   
+  Date: 2014/02/24 ~ 2014/04/11  
+   1y11m s/p R/T
+
+[Exam]
+@ CXR (2014.07.28): lung mets(-)
+@ CXR (2014.09.24):lung mets(-)
+@ CXR (2014.12.30):lung mets(-) Rt lung patch stationary
+@ CXR (2015.04.15):lung mets(-)
+@ CXR (2015.07.16):lung mets(-)
+@ CXR (2015.10.08):lung mets(-)
+@ CXR (2016.01.25):lung mets(-)
+@ MRI (2014.06.30): NER
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+@ MRI (2016.02.23):NER
+@ Abd.sono (2015.04.27):Fatty liver, mild
+@ Chest CT (2015.10.21):negative
+
+
+
+[PE]:
+  Oral cavity & Oropharynx: (-)
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+1. Hypopharyngeal SCC, cTxN2, at least stage IVa, s/p induction PF(II), with residual neck mass, metastatic squamous cell carcinoma, status post left neck radical neck dissection, close margin. 2. Pulmonary TB
+***smoking*** 
+Plan 
+RTC:4 months
+ENT-TNE 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C13.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 28015C0S [總院]ENT TRANSNASAL ESOPHAGOSCOPY 1  N 2016/03/08 執行、已批 完成：2016/05/26
+ 王駿瑋 
+ 
+
+Subjective 
+hypopharyngeal cancer follow up
+
+sore throat and cough 
+Objective 
+※Clinical follow up：No evidence of recurrence or metastasis
+
+【20160223】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :No evidence of recurrence
+
+acute pharyngitis 
+Plan 
+next 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C13.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 7 28 tab 健保  2016/04/12 已確認 已批 婁培人  
+甘草 200 (DC)Compound Glycyrrhiza Mixture 200 mL/btl 5 mL QID PO 7 1 btl 健保  2016/04/12 已確認 已批 婁培人 
+ 
+
+Subjective 
+for further f/u
+no specific complaint
+no dysphagia 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 60.6kg(2014/10/20)=>61.0kg(2015/01/12) => 60.5kg(2015/07/23)=>61.5kg(2015/10/15) => 62kg(2016/2/1) =>61kg (2016/5/2) 
+
+【20160427】LDL-C: 136   mg/dL
+【20160427】HDL-C: 48   mg/dL
+【20160427】ALP: 44   U/L
+【20160427】T-BIL: 0.72   mg/dL
+【20160427】AST: 20   U/L
+【20160427】K: 4.1   mmol/L
+【20160427】Na: 142   mmol/L
+【20160427】CRE: 1.0   mg/dL
+【20160427】Ca: 2.26   mmol/L
+【20160427】GLU AC: 84   mg/dL
+【20160427】TG: 141   mg/dL
+【20160427】UN: 15.1   mg/dL
+【20160427】T-CHO: 209   mg/dL
+
+【20160223】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :No evidence of recurrence 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB
+3.Hyperlipidemia 
+Plan 
+1. Keep OPD f/u, f/u lab data
+2. RTC on 6/2
+3. Wait TNE on 2016/5/26
+4. f/u thyroid function
+5. arrange abd echo (5/17) for f/u 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C13.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2016/05/02 執行、已批 Reason for abodominal echo:Hypopharyngeal cancer
+完成：2016/05/17
+ 黃懷正 
+ 
+
+Subjective 
+for further f/u
+no specific complaint
+no dysphagia 
+Objective 
+clear cons, ECOG PS 0
+no palpable neck LAPs
+
+BW 62kg 
+
+【20160223】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :No evidence of recurrence
+
+【20160526】[總院]ENT TRANSNASAL ESOPHAGOSCOPY :Hypopharyngeal cancer, CCRT 2-3 YEARS
+ Indication :   For screening of esophageal cancer
+ Instrument :   GIF-XP 260N                        .2
+ Pre-medication :    Gascon
+ Anesthesia :    Xylocaine Bosmin topical anesthesia
+ Medicine history :  Nil
+ Endoscopic Findings
+   Esophagus :
+     White-light did not reveal obvious lesions
+   Nasopharynx :
+     There is no nasopharyngeal tumor
+   Oropharynx :
+     There is no oropharyngeal tumor
+   Larynx :
+     There is no laryngeal tumor
+   Hypopharynx :
+     There is no hypopharyngeal tumor
+ Endoscopic Diagnosis 
+   Esophagus :
+     Negative
+   Head and Neck :
+     Hypopharyngeal cancer, CCRT
+ Complication :
+   Negative
+
+【20160517】Follow up Abdomen Echo :Fatty liver, mild
+      Renal cyst, left
+
+【20160602】癌症治療效果追蹤評估 Disease Status:
+No evidence of recurrence or metastases 
+【20160602】癌症治療效果追蹤評估 Disease Status:
+No evidence of recurrence or metastases 
+Assessment 
+1.Hypopharyngeal SqCC, cTxN2M0, at least stage IVA, s/p induction PF(2) with good response, s/p radical neck dissection, left, level II-V, margin close (less than 1 mm), PNI(-), s/p adjuvant weekly cisplatin(6) CCRT(66Gy/33fr), completed on 2014/4/11
+2.Pulmonary TB
+3.Hyperlipidemia 
+Plan 
+1. Keep OPD f/u, f/u lab data
+2. RTC 4 months
+3. f/u thyroid function, CXR 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C13.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/06/02 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/09/14
+ 黃懷正 
+檢驗 09106C0P Free T4 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+檢驗 08011CZP CBC & platelet 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+檢驗 08013CZP WBC classification 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+檢驗 09026CZP ALT(GPT) 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+檢驗 09029CZP BIL T 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+檢驗 09027CZP ALP 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+檢驗 09011CZP Calcium, Ca 1  N 2016/06/02 執行、已批 Specimen:BLO
+完成：2016/09/14
+ 黃懷正 
+ 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/06/02 執行、已批 完成：2016/09/14
+ 黃懷正 
+
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+
+
+[R/T summary] 
+  Dose: 66 Gy/33 fx   
+  Date: 2014/02/24 ~ 2014/04/11  
+   2y3m s/p R/T
+
+[Exam]
+@ CXR (2014.07.28): lung mets(-)
+@ CXR (2014.09.24):lung mets(-)
+@ CXR (2014.12.30):lung mets(-) Rt lung patch stationary
+@ CXR (2015.04.15):lung mets(-)
+@ CXR (2015.07.16):lung mets(-)
+@ CXR (2015.10.08):lung mets(-)
+@ CXR (2016.01.25):lung mets(-)
+@ CXR (2016.04.27):lung mets(-)
+@ MRI (2014.06.30): NER
+@ MRI (2015.03.17): NER, diffuse hypopharyngeal swelling, favor post-RT change -> f/u
+@ MRI (2016.02.23):NER
+@ Abd.sono (2015.04.27):Fatty liver, mild.
+@ Abd.sono (2016.05.17):Fatty liver, mild.  Renal cyst, left
+@ Chest CT (2015.10.21):negative.
+@ TNE (2016.05.26): Negative
+
+
+
+[PE]:
+  Oral cavity & Oropharynx: (-)
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+1. Hypopharyngeal SCC, cTxN2, at least stage IVa, s/p induction PF(II), with residual neck mass, metastatic squamous cell carcinoma, status post left neck radical neck dissection, close margin. 2. Pulmonary TB
+***smoking*** 
+Plan 
+RTC:4 months
+乙診x1(103/09) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C13.9 Hypopharyngeal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z3043 中文診斷書 1 自費 N 2016/07/05 執行、已批 完成：2016/07/05
+ 王駿瑋 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2016/07/05 執行、已批 完成：2016/07/05
+ 王駿瑋 
+ 

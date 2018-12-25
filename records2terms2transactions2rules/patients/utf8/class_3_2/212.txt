@@ -1,0 +1,294 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/07/13 執行、已批 完成：2016/07/13
+ 鄭世榮 
+ 
+
+個人病史 
+個人病史 高血壓     
+是否長期服藥 有     
+長期服藥原因 高血壓     
+家族病史      
+健康行為 
+最近半年，【吸菸】情形？ 平均一天一包煙以上     
+最近半年，【飲酒】情形？ 偶爾喝酒     
+最近半年，【嚼檳榔】情形？ 不嚼檳榔     
+最近兩周，【運動】習慣？ 有，但未達每周150分鐘以上(2.5小時)     
+您是否出現咳嗽超過二周的情形？ 沒有     
+憂郁檢測 
+1. 最近兩周，你是否感覺情緒低落、沮喪或沒有希望？ 否 2. 最近兩周，你是否感覺做事情失去興趣或樂趣？ 否   
+身體檢查 
+身高 159.5 公分 體重 69.8 公斤 收縮壓 136 毫米汞柱 
+舒張壓 84 毫米汞柱 脈搏 91 次/分鐘 腰圍 93 公分 
+右眼裸視視力 0.7  左眼裸視視力 0.6  右眼矯正視力  
+左眼矯正視力      
+耳鼻喉及口腔 牙結石或牙周病     
+頸部淋巴腺腫大 無     
+甲狀腺腫大 無     
+胸部 無明顯異常     
+心臟聽診 無明顯異常     
+腹部 無明顯異常     
+四肢 無明顯異常     
+呼吸聽診 無明顯異常     
+其他      
+健康諮詢 
+健康諮詢 規律運動,健康飲食     
+檢查結果說明 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 N 2016/07/13 執行、已批 Specimen:UR1
+完成：2016/07/13
+ 姚建安 
+檢驗 06012CZP MULTISTIX (Routine) 1 內含 N 2016/07/13 執行、已批 Specimen:UR1
+完成：2016/07/13
+ 姚建安 
+檢驗 09001CZP Cholesterol, Total 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+檢驗 09004CZP Triglyceride, TG 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+檢驗 09005CZP Glucose (AC) 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+檢驗 09025CZP AST(GOT) 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+檢驗 09026CZP ALT(GPT) 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+檢驗 09043C0P HDL 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+檢驗 09044C0P LDL 1 內含 N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 姚建安 
+治療 000021R0 成人預防保健（４０－６５歲第一階段） 1  N 2016/07/13 執行、已批 完成：2016/07/13
+ 姚建安 
+治療 000I0005 體檢證明書費 1 內含 N 2016/07/13 執行、已批 完成：2016/07/13
+ 姚建安 
+治療 000I0010 體檢診察費（一般理學檢查） 1 內含 N 2016/07/13 執行、已批 完成：2016/07/13
+ 姚建安 
+治療 000I0211 體檢判讀費 1 內含 N 2016/07/13 執行、已批 完成：2016/07/13
+ 姚建安 
+ 
+
+Subjective 
+Epigastric discomfort intermittently for months
+(not related with food intake)
+last for 10-20 minutes, improved spontaneously
+Past history: fatty liver, Gout, dyslipidemia & hypertension without medical control
+Family history: father: Hypertension, CVA
+Smoking (+)
+Alchohol (-)
+Exercise (-)
+Acid reflux, nausea : denied 
+Objective 
+BP: 158/92 mmHg
+Chest: 
+BS: no rales
+HS: RHB
+Abdomen: soft
+L/E: pitting edema (-) 
+Assessment 
+allergy history: Ponstan, Allopurinol 
+Plan 
+educate, suggest record daily BP
+suggest quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+O R07.9 Chest Pain 慢  
+O R10.9 Abdominal pain 慢  
+O M10.9 Gout 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 0.5 tab QD PO 7 4 tab 健保  2016/07/13 已確認 已批 潘恒嘉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0P ECG routine 1  N 2016/07/13 執行、已批 Specimen:ECG
+完成：2016/07/13
+ 潘恒嘉 
+檢驗 09013CZP Uric acid 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/13
+ 潘恒嘉 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/07/13 執行、已批 完成：2016/07/13
+ 潘恒嘉 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.01 Encounter for general adult medical examination with abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000023R0 第二階段之檢驗結果判讀（４０–６５歲） 1  N 2016/07/20 執行、已批 完成：2016/07/20
+ 姚建安 
+ 
+
+Subjective 
+Epigastric discomfort improved
+when BP well controlled
+Home sBP: AM140-150 mmHg
+ PM130-140 mmHg
+Past history: fatty liver, Gout, dyslipidemia & hypertension without medical control
+Family history: father: Hypertension, CVA
+Smoking (+)
+Alchohol (-)
+Exercise (-)
+Acid reflux, nausea : denied 
+Objective 
+BP: 136/84 mmHg
+Chest: 
+BS: no rales
+HS: RHB
+Abdomen: soft
+L/E: pitting edema (-)
+
+【20160713】O.B.(C): +/-   *
+【20160713】LDL-C: 120   mg/dL
+【20160713】ALT: 21   U/L
+【20160713】AST: 15   U/L
+【20160713】CRE: 1.0   mg/dL
+【20160713】UA: 6.0   mg/dL
+【20160713】TG: 388   mg/dL
+20160713 ECG: normal sinus rhythm
+【20160713】Chest : PA View (Standing) :cardiomegaly. aortic wall calcification. no definite lung lesion.
+【20160713】HDL-C: 31   mg/dL 
+Assessment 
+allergy history: Ponstan, Allopurinol 
+Plan 
+education, follow-up
+suggest quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O R10.9 Abdominal pain 慢  
+O M10.9 Gout 慢  
+O E78.5 Hyperlipidemia 慢  
+O R07.9 Chest Pain 慢  
+O R31.9 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/20 已確認 已批 潘恒嘉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/07/20 執行、已批 Specimen:BLO
+完成：2016/10/11
+ 潘恒嘉 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/07/20 執行、已批 Specimen:BLO
+完成：2016/10/11
+ 潘恒嘉 
+ 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/07/20 執行、已批 Specimen:UR1
+完成：2016/10/11
+ 潘恒嘉 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/07/20 執行、已批 Specimen:UR1
+完成：2016/10/11
+ 潘恒嘉 
+檢驗 09043C0P HDL 1  N 2016/07/20 執行、已批 Specimen:BLO
+完成：2016/10/11
+ 潘恒嘉 
+
+Subjective 
+1.Hypertension
+
+10/13
+For HTN follow-up, diagnosed in 2016/07
+Home SBP: AM120 mmHg
+Past history: 
+fatty liver, Gout, dyslipidemia & hypertension without medical control
+Family history: father: Hypertension, CVA
+Smoking (+) 1PPD, ~50yrs
+Alchohol (+) social drinking, 12dinks/time( 一次半瓶高粱)
+Exercise (-)
+Diet: high fat diet 
+Objective 
+BP: 134/79 mmHg HR 80/min
+Chest: 
+BS: no rales
+HS: RHB
+Abdomen: soft
+L/E: pitting edema (-)
+
+【20160713】O.B.(C): +/-   *
+【20160713】LDL-C: 120   mg/dL
+【20160713】ALT: 21   U/L
+【20160713】AST: 15   U/L
+【20160713】CRE: 1.0   mg/dL
+【20160713】UA: 6.0   mg/dL
+【20160713】TG: 388   mg/dL
+20160713 ECG: normal sinus rhythm
+【20160713】Chest : PA View (Standing) :cardiomegaly. aortic wall calcification. no definite lung lesion.
+【20160713】HDL-C: 31   mg/dL
+【20161011】O.B.(C): 1+   *
+【20161011】T-CHO: 179   mg/dL
+【20161011】TG: 337   mg/dL
+【20161011】HDL-C: 26   mg/dL 
+Assessment 
+allergy history: Ponstan, Allopurinol 
+Plan 
+1. keep norvasc
+2. add lipanthyl
+3. suggest quit smoking, ->refer to 11/05 w6 OPD(VS張皓翔醫師) 
+4. U/A 內研 for hematuria
+5. Decrease alcohol 
+6. TCHO TG 3months later
+
+R3 張凱評/VS李宇芬 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O R07.9 Chest Pain 慢  
+O R31.9 Hematuria  
+O E78.5 Hyperlipidemia 慢  
+O R10.9 Abdominal pain 慢  
+O M10.9 Gout 慢  
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/10/13 已確認 已批 張凱評  
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/10/13 已確認 已批 張凱評  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/10/13 報到、已批 Specimen:BLO
+ 張凱評 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/10/13 報到、已批 Specimen:BLO
+ 張凱評 
+ 
+檢驗 06012CYA Urine analysis(Sediments) 1  N 2016/10/13 執行、已批 Specimen:UR1
+完成：2016/11/02
+ 張凱評 
+檢驗 06012CZA Urine analysis(Biochemistry exam) 1  N 2016/10/13 執行、已批 Specimen:UR1
+完成：2016/11/02
+ 張凱評 

@@ -1,0 +1,1402 @@
+﻿
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.
+3.Other stable for medication. 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2014/10/08 已確認 已批 劉文俊  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/10/08 已確認 已批 劉文俊  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/10/08 已確認 已批 劉文俊  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/10/08 已確認 已批 劉文俊  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/10/08 已確認 已批 劉文俊 用藥原因:LDL-C: 76 (2014/07/04)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/10/08 已確認 已批 劉文俊  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2014/10/08 執行、已批 Specimen:BLO
+完成：2014/12/03
+ 劉文俊 
+檢驗 09004CZP Triglyceride, TG 1  N 2014/10/08 執行、已批 Specimen:BLO
+完成：2014/12/03
+ 劉文俊 
+檢驗 09044C0P LDL 1  N 2014/10/08 執行、已批 Specimen:BLO
+完成：2014/12/03
+ 劉文俊 
+行政費用 000O1001 掛號費 1 自費 N 2014/10/08 已批 完成：2014/10/08  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2014/10/08 已批 完成：2014/10/08  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/10/08 已批 完成：2014/10/08 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2014/11/05 已確認 已批 謝欣妤  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/11/05 已確認 已批 謝欣妤  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/05 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/11/05 已確認 已批 謝欣妤  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/11/05 已確認 已批 謝欣妤 用藥原因:LDL-C: 76 (2014/07/04)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/05 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/11/05 已批 完成：2014/11/05 
+ 
+
+注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2014/12/03 已確認 已批 謝欣妤  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/12/03 已確認 已批 謝欣妤  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/12/03 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/12/03 已確認 已批 謝欣妤  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/12/03 已確認 已批 謝欣妤 用藥原因:LDL-C: 76 (2014/07/04)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/12/03 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/12/03 已批 完成：2014/12/03 
+ 
+
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Other stable for medication. 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL 
+Plan 
+Keep present medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2014/12/31 已確認 已批 劉文俊  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/12/31 已確認 已批 劉文俊  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/12/31 已確認 已批 劉文俊  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/12/31 已確認 已批 劉文俊  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/12/31 已確認 已批 劉文俊  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/12/31 已確認 已批 劉文俊  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/31 已批 完成：2014/12/31  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2014/12/31 已批 完成：2014/12/31  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/12/31 已批 完成：2014/12/31 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/01/31 已確認 已批 廖世令  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/01/31 已確認 已批 廖世令  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/31 已確認 已批 廖世令  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/01/31 已確認 已批 廖世令  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/01/31 已確認 已批 廖世令  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/01/31 已確認 已批 廖世令  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/01/31 已批 完成：2015/01/31 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/02/25 已確認 已批 沈玉琴  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/02/25 已確認 已批 沈玉琴  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/25 已確認 已批 沈玉琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/25 已確認 已批 沈玉琴  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/02/25 已確認 已批 沈玉琴  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/25 已確認 已批 沈玉琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/02/25 已批 完成：2015/02/25 
+ 
+Subjective 
+Fibrosarcomatous dermatofibrosarcoma, righ tabdomen, status post wide excision and split-thickness skin graft on 2010/04
+
+stationary 
+Objective 
+no signs of local recurrence
+no palpable lymphadenopathy on the inguinal and axillary area.
+
+【20140910】CT With/Without Contrast-Chest Abdomen :no definite metastatic lesions in abdomen and pelvis.
+No significant lung lesion. 
+
+
+【20141203】LDL-C: 161   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】T-CHO: 226   mg/dL 
+Plan 
+RTC 6 months
+CXR next visit 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 171.4 Malignant neoplasm of connective and other soft tissue of thorax 重 慢 癌  
+O 173.9 Dermatofibrosarcoma protuberans 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/02/26 執行、已批 完成：2015/07/14
+ 陳昭旭 
+治療 000Z3034 重大傷病診斷書 1 自費 N 2015/02/26 執行、已批 完成：2015/02/26
+ 陳昭旭 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/26 已批 完成：2015/02/26  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/02/26 已批 完成：2015/02/26  
+ 
+ 
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Other stable for medication. 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+BP 124/70 mmhg on 2015/3/25
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL 
+Plan 
+Keep present medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/03/25 已確認 已批 劉文俊  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/03/25 已確認 已批 劉文俊  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/25 已確認 已批 劉文俊  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/03/25 已確認 已批 劉文俊  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/03/25 已確認 已批 劉文俊 用藥原因:LDL-C: 161 (2014/12/03)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/03/25 已確認 已批 劉文俊  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/03/25 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 劉文俊 
+檢驗 09005CZP Glucose (AC) 1  N 2015/03/25 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 劉文俊 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/03/25 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 劉文俊 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/03/25 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 劉文俊 
+檢驗 09044C0P LDL 1  N 2015/03/25 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 劉文俊 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/03/25 執行、已批 Specimen:UR1
+完成：2015/06/09
+ 劉文俊 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/03/25 執行、已批 Specimen:UR1
+完成：2015/06/09
+ 劉文俊 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/25 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 劉文俊 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/25 已批 完成：2015/03/25  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/03/25 已批 完成：2015/03/25  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/25 已批 完成：2015/03/25 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/04/20 已確認 已批 林偉翔  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/04/20 已確認 已批 林偉翔  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/20 已確認 已批 林偉翔  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/04/20 已確認 已批 林偉翔  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/04/20 已確認 已批 林偉翔 用藥原因:LDL-C: 161 (2014/12/03)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/04/20 已確認 已批 林偉翔  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/20 已批 完成：2015/04/20 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/05/21 已確認 已批 沈玉琴  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/05/21 已確認 已批 沈玉琴  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/21 已確認 已批 沈玉琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/05/21 已確認 已批 沈玉琴  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/05/21 已確認 已批 沈玉琴 用藥原因:LDL-C: 161 (2014/12/03)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/05/21 已確認 已批 沈玉琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/05/21 已批 完成：2015/05/21 
+ 
+
+
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Other stable for medication. 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+BP 124/70 mmhg on 2015/3/25
+BP 116/70 mmhg on 2015/6/17
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL
+【20150609】T-CHO: 149   mg/dL
+【20150609】TG: 131   mg/dL
+【20150609】LDL-C: 89   mg/dL
+【20150609】GLU AC: 91   mg/dL
+【20150609】CRE: 1.1   mg/dL
+【20150609】ALT: 25   U/L
+【20150609】Protein(C): -   mg/dL
+【20150609】O.B.(C): -   mg/dL
+【20150609】WBC (S): 0-2   /HPF
+【20150609】RBC (S): 0-2   /HPF 
+Plan 
+Keep present medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/06/17 已確認 已批 劉文俊 重復原因:補給天數 (至下次預約門診日)
+ 
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/06/17 已確認 已批 劉文俊 重復原因:補給天數 (至下次預約門診日)
+ 
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/17 已確認 已批 劉文俊 重復原因:補給天數 (至下次預約門診日)
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/06/17 已確認 已批 劉文俊 重復原因:補給天數 (至下次預約門診日)
+ 
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/06/17 已確認 已批 劉文俊 重復原因:補給天數 (至下次預約門診日)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/06/17 已確認 已批 劉文俊 重復原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/17 已批 完成：2015/06/17  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/06/17 已批 完成：2015/06/17  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/17 已批 完成：2015/06/17 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/07/14 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日)
+ 
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/07/14 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日)
+ 
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/14 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日)
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/07/14 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日)
+ 
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/07/14 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/07/14 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/14 已批 完成：2015/07/14 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/08/11 已確認 已批 林沛珍 重復原因:補給天數 (至下次預約門診日)
+ 
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/08/11 已確認 已批 林沛珍 重復原因:補給天數 (至下次預約門診日)
+ 
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/11 已確認 已批 林沛珍 重復原因:補給天數 (至下次預約門診日)
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/11 已確認 已批 林沛珍 重復原因:補給天數 (至下次預約門診日)
+ 
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/08/11 已確認 已批 林沛珍 重復原因:補給天數 (至下次預約門診日)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/11 已確認 已批 林沛珍 重復原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/08/11 已批 完成：2015/08/11 
+ 
+Subjective 
+Fibrosarcomatous dermatofibrosarcoma, righ tabdomen, status post wide excision and split-thickness skin graft on 2010/04
+
+stationary 
+Objective 
+no signs of local recurrence
+no palpable lymphadenopathy on the inguinal and axillary area.
+
+
+【20140910】CT With/Without Contrast-Chest Abdomen :no definite metastatic lesions in abdomen and pelvis.
+No significant lung lesion.
+
+<2015/7/14 CXR>
+normal heart size. tortuous aorta. subsegmental atelectasis at LLL. Suggest clinical correlation and follow-up. sclerotic change at left lower rib. 
+Plan 
+RTC 6 months
+CT in 2016 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 171.4 Malignant neoplasm of connective and other soft tissue of thorax 重 慢 癌  
+O 173.9 Dermatofibrosarcoma protuberans 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/13 已批 完成：2015/08/13  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/08/13 已批 完成：2015/08/13 
+ 
+
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Other stable for medication. 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+BP 124/70 mmhg on 2015/3/25
+BP 116/70 mmhg on 2015/6/17
+BP 120/70 mmhg on 2015/9/9【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL
+【20150609】T-CHO: 149   mg/dL
+【20150609】TG: 131   mg/dL
+【20150609】LDL-C: 89   mg/dL
+【20150609】GLU AC: 91   mg/dL
+【20150609】CRE: 1.1   mg/dL
+【20150609】ALT: 25   U/L
+【20150609】Protein(C): -   mg/dL
+【20150609】O.B.(C): -   mg/dL
+【20150609】WBC (S): 0-2   /HPF
+【20150609】RBC (S): 0-2   /HPF 
+Plan 
+Keep present medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/09/09 已確認 已批 劉文俊  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/09/09 已確認 已批 劉文俊  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/09 已確認 已批 劉文俊  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/09/09 已確認 已批 劉文俊  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/09/09 已確認 已批 劉文俊 用藥原因:LDL-C: 89 (2015/06/09)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/09 已確認 已批 劉文俊  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/09/09 執行、已批 Specimen:BLO
+完成：2015/11/25
+ 劉文俊 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/09/09 執行、已批 Specimen:BLO
+完成：2015/11/25
+ 劉文俊 
+檢驗 09044C0P LDL 1  N 2015/09/09 執行、已批 Specimen:BLO
+完成：2015/11/25
+ 劉文俊 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/09 已批 完成：2015/09/09  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/09/09 已批 完成：2015/09/09  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/09 已批 完成：2015/09/09 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/10/06 已確認 已批 林威良  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/10/06 已確認 已批 林威良  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/06 已確認 已批 林威良  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/06 已確認 已批 林威良  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/10/06 已確認 已批 林威良 用藥原因:LDL-C: 89 (2015/06/09)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/06 已確認 已批 林威良  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/06 已批 完成：2015/10/06 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia non-organic 慢  
+O 401.1 Benign essential hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/11/03 已確認 已批 賴婉玲  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/11/03 已確認 已批 賴婉玲  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/03 已確認 已批 賴婉玲  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/11/03 已確認 已批 賴婉玲  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/11/03 已確認 已批 賴婉玲 用藥原因:LDL-C: 89 (2015/06/09)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/11/03 已確認 已批 賴婉玲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/11/03 已批 完成：2015/11/03 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 高中(職) 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌癥? 有 檢驗定量試劑 Eiken 
+請問您有無腸道不適癥狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 有     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2015/11/25 執行、已批 Specimen:STO
+完成：2015/11/25
+ 蔡詩力 
+ 
+
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Other stable for medication. 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+BP 124/70 mmhg on 2015/3/25
+BP 116/70 mmhg on 2015/6/17
+BP 120/70 mmhg on 2015/9/9
+BP 120/70 mmhg on 2015/12/2
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL
+【20150609】T-CHO: 149   mg/dL
+【20150609】TG: 131   mg/dL
+【20150609】LDL-C: 89   mg/dL
+【20150609】GLU AC: 91   mg/dL
+【20150609】CRE: 1.1   mg/dL
+【20150609】ALT: 25   U/L
+【20150609】Protein(C): -   mg/dL
+【20150609】O.B.(C): -   mg/dL
+【20150609】WBC (S): 0-2   /HPF
+【20150609】RBC (S): 0-2   /HPF
+【20151125】T-CHO: 141   mg/dL
+【20151125】TG: 88   mg/dL
+【20151125】LDL-C: 83   mg/dL
+【20151125】iFOBT: Negative(<50)   ng/mL 
+Plan 
+Keep present medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/12/02 已確認 已批 劉文俊  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/12/02 已確認 已批 劉文俊  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/02 已確認 已批 劉文俊  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/02 已確認 已批 劉文俊  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/12/02 已確認 已批 劉文俊  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/02 已確認 已批 劉文俊  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/02 已批 完成：2015/12/02  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/12/02 已批 完成：2015/12/02  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/02 已批 完成：2015/12/02 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2015/12/25 已確認 已批 林威良  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/12/25 已確認 已批 林威良  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/25 已確認 已批 林威良  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/25 已確認 已批 林威良  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/12/25 已確認 已批 林威良  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/25 已確認 已批 林威良  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/25 已批 完成：2015/12/25 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 401.1 Benign essential hypertension 慢  
+O 307.41 Insomnia non-organic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/01/28 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/28 已批 完成：2016/01/28 
+ 
+
+
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Other stable for medication. 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+BP 124/70 mmhg on 2015/3/25
+BP 116/70 mmhg on 2015/6/17
+BP 120/70 mmhg on 2015/9/9
+BP 120/70 mmhg on 2015/12/2
+BP 110/70 mmhg on 2016/2/24
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL
+【20150609】T-CHO: 149   mg/dL
+【20150609】TG: 131   mg/dL
+【20150609】LDL-C: 89   mg/dL
+【20150609】GLU AC: 91   mg/dL
+【20150609】CRE: 1.1   mg/dL
+【20150609】ALT: 25   U/L
+【20150609】Protein(C): -   mg/dL
+【20150609】O.B.(C): -   mg/dL
+【20150609】WBC (S): 0-2   /HPF
+【20150609】RBC (S): 0-2   /HPF
+【20151125】T-CHO: 141   mg/dL
+【20151125】TG: 88   mg/dL
+【20151125】LDL-C: 83   mg/dL
+【20151125】iFOBT: Negative(<50)   ng/mL 
+Plan 
+Keep present medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O F51.01 Insomnia, nonorganic 慢  
+O I10 Essential (primary) hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2016/02/24 已確認 已批 劉文俊 重復原因:病人因素(補給天數并延後回診)
+ 
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/02/24 已確認 已批 劉文俊 重復原因:病人因素(補給天數并延後回診)
+ 
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/24 已確認 已批 劉文俊 重復原因:病人因素(補給天數并延後回診)
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/02/24 已確認 已批 劉文俊 重復原因:病人因素(補給天數并延後回診)
+ 
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/02/24 已確認 已批 劉文俊 重復原因:病人因素(補給天數并延後回診)
+用藥原因:LDL-C: 83 (2015/11/25)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/24 已確認 已批 劉文俊 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/02/24 執行、已批 Specimen:UR1
+完成：2016/05/10
+ 劉文俊 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/02/24 執行、已批 Specimen:UR1
+完成：2016/05/10
+ 劉文俊 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 劉文俊 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 劉文俊 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 劉文俊 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 劉文俊 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 劉文俊 
+檢驗 09044C0P LDL 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 劉文俊 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/24 已批 完成：2016/02/24  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/02/24 已批 完成：2016/02/24  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/24 已批 完成：2016/02/24 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O F51.01 Insomnia, nonorganic 慢  
+O I10 Essential (primary) hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2016/03/15 已確認 已批 林威良  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/03/15 已確認 已批 林威良  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/15 已確認 已批 林威良  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/03/15 已確認 已批 林威良  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/03/15 已確認 已批 林威良 用藥原因:LDL-C: 83 (2015/11/25)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/15 已確認 已批 林威良  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/15 已批 完成：2016/03/15 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O F51.01 Insomnia, nonorganic 慢  
+O I10 Essential (primary) hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fluitran 2 mg/tab 0.5 tab QDPC PO 28 14 tab 健保 3 2016/04/12 已確認 已批 謝欣妤  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/04/12 已確認 已批 謝欣妤  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/12 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/04/12 已確認 已批 謝欣妤  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/04/12 已確認 已批 謝欣妤 用藥原因:LDL-C: 83 (2015/11/25)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/04/12 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/12 已批 完成：2016/04/12 
+ 
+
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Proteinuria for f/u 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+BP 124/70 mmhg on 2015/3/25
+BP 116/70 mmhg on 2015/6/17
+BP 120/70 mmhg on 2015/9/9
+BP 120/70 mmhg on 2015/12/2
+BP 110/70 mmhg on 2016/2/24
+BP 114/74 mmhg on 2016/5/18
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL
+【20150609】T-CHO: 149   mg/dL
+【20150609】TG: 131   mg/dL
+【20150609】LDL-C: 89   mg/dL
+【20150609】GLU AC: 91   mg/dL
+【20150609】CRE: 1.1   mg/dL
+【20150609】ALT: 25   U/L
+【20150609】Protein(C): -   mg/dL
+【20150609】O.B.(C): -   mg/dL
+【20150609】WBC (S): 0-2   /HPF
+【20150609】RBC (S): 0-2   /HPF
+【20151125】T-CHO: 141   mg/dL
+【20151125】TG: 88   mg/dL
+【20151125】LDL-C: 83   mg/dL
+【20151125】iFOBT: Negative(<50)   ng/mL
+【20160510】T-CHO: 163   mg/dL
+【20160510】TG: 205   mg/dL
+【20160510】LDL-C: 96   mg/dL
+【20160510】GLU AC: 97   mg/dL
+【20160510】CRE: 1.1   mg/dL
+【20160510】ALT: 29   U/L
+【20160510】Protein(C): 30 ( 1+ )   mg/dL
+【20160510】O.B.(C): -   *
+【20160510】WBC (S): 0-2   /HPF
+【20160510】RBC (S): 0-2   /HPF 
+Plan 
+DC fluitran 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O I10 Essential (primary) hypertension 慢  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/05/18 已確認 已批 劉文俊  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/18 已確認 已批 劉文俊  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/05/18 已確認 已批 劉文俊  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/05/18 已確認 已批 劉文俊  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/05/18 已確認 已批 劉文俊  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/05/18 執行、已批 Specimen:UR1
+完成：2016/07/29
+ 劉文俊 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/05/18 執行、已批 Specimen:UR1
+完成：2016/07/29
+ 劉文俊 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/18 已批 完成：2016/05/18  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/05/18 已批 完成：2016/05/18  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/05/18 已批 完成：2016/05/18 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O I10 Essential (primary) hypertension 慢  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/06/07 已確認 已批 林小琴  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/07 已確認 已批 林小琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/06/07 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/06/07 已確認 已批 林小琴  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/07 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/07 已批 完成：2016/06/07 
+ 
+
+ 
+     
+江文貴(M,1951/02/23,67y8m) 4267127 已結帳 2016/07/05 總院區 家-NA 16T04962218  
+S O A P       
+  
+ 
+   
+
+ 自動印單 讀卡     
+  該帳號是使用慢性病連處第二三次領藥，診間同仁只能察看內容不能作修改處理  
+
+ 
+  
+  
+ 
+
+
+本次就診內容: 全部顯示  SOAP   診斷  處方  處置  掛號  排程  身分  就診記錄  帳務  PDF  健保藥歷  云端病歷  他院病歷  轉診平臺  溝通平臺  跨院重復   
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O I10 Essential (primary) hypertension 慢  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/07/05 已確認 已批 杜婉綺  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/05 已確認 已批 杜婉綺  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/07/05 已確認 已批 杜婉綺  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/07/05 已確認 已批 杜婉綺  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/07/05 已確認 已批 杜婉綺  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/05 已批 完成：2016/07/05 
+ 
+ 
+Subjective 
+Fibrosarcomatous dermatofibrosarcoma, righ tabdomen, status post wide excision and split-thickness skin graft on 2010/04 (margin free)
+
+stationary 
+Objective 
+no signs of local recurrence
+no palpable lymphadenopathy on the inguinal and axillary area.
+
+
+【20140910】CT With/Without Contrast-Chest Abdomen :no definite metastatic lesions in abdomen and pelvis.
+No significant lung lesion.
+
+<2015/7/14 CXR>
+normal heart size. tortuous aorta. subsegmental atelectasis at LLL. Suggest clinical correlation and follow-up. sclerotic change at left lower rib.
+
+20160713
+no LAP, no clinically apparent tumor recurrence 
+Plan 
+RTC 6 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M C44.90 Skin cancer 重 慢 職 癌  
+O C49.3 Thorax connective tissue malignant neoplasm 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/14 已批 完成：2016/07/14  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/07/14 已批 完成：2016/07/14 
+ 
+
+Subjective 
+1.HT, Hyperlipidemia with regular medication.
+Drug compliance: 有照處方吃、偶而忘記吃
+Diet compliance: 不太注意
+Physical activity: 很少 due to busy
+2.Poor sleep improved by imovane.沒吃就睡不著
+3.Proteinuria for f/u 
+Objective 
+BP 116/74 mmhg on 2013/2/27
+BP 130/80 mmhg on 5/22
+BP 120/74 mmhg on 8/14
+BP 122/80 mmhg on 11/6
+BP 126/70 mmhg on 2014/1/29
+BP 144/80 mmhg on 2014/4/16
+BP 120/80 mmhg on 2014/7/16
+BP 144/80 mmhg on 2014/10/8
+BP 130/80 mmhg on 2014/12/31
+BP 124/70 mmhg on 2015/3/25
+BP 116/70 mmhg on 2015/6/17
+BP 120/70 mmhg on 2015/9/9
+BP 120/70 mmhg on 2015/12/2
+BP 110/70 mmhg on 2016/2/24
+BP 114/74 mmhg on 2016/5/18
+BP 130/70 mmhg on 2016/8/10
+【20120905】T-CHO: 180   mg/dL
+【20120905】TG: 181   mg/dL
+【20120905】LDL-C: 119   mg/dL
+【20121130】T-CHO: 180   mg/dL
+【20121130】TG: 126   mg/dL
+【20121130】LDL-C: 112   mg/dL
+【20130221】AST: 27   U/L
+【20130221】ALT: 44   U/L
+【20130124】T-CHO: 197   mg/dL
+【20130124】TG: 167   mg/dL
+【20130124】LDL-C: 130   mg/dL
+【20130424】GLU AC: 102   mg/dL
+【20130424】CRE: 1.1   mg/dL
+【20130424】LDL-C: 143   mg/dL
+【20130716】T-CHO: 158   mg/dL
+【20130716】TG: 147   mg/dL
+【20130716】LDL-C: 103   mg/dL
+【20140102】T-CHO: 157   mg/dL
+【20140102】TG: 131   mg/dL
+【20140102】LDL-C: 93   mg/dL
+【20140704】T-CHO: 137   mg/dL
+【20140704】TG: 97   mg/dL
+【20140704】LDL-C: 76   mg/dL
+【20140704】GLU AC: 98   mg/dL
+【20140704】CRE: 1.2   mg/dL
+【20140704】ALT: 35   U/L
+【20140704】Protein(C): -   mg/dL
+【20140704】O.B.(C): -   mg/dL
+【20140704】WBC (S): 0-2   /HPF
+【20140704】RBC (S): 0-2   /HPF
+【20141203】T-CHO: 226   mg/dL
+【20141203】TG: 136   mg/dL
+【20141203】LDL-C: 161   mg/dL
+【20150609】T-CHO: 149   mg/dL
+【20150609】TG: 131   mg/dL
+【20150609】LDL-C: 89   mg/dL
+【20150609】GLU AC: 91   mg/dL
+【20150609】CRE: 1.1   mg/dL
+【20150609】ALT: 25   U/L
+【20150609】Protein(C): -   mg/dL
+【20150609】O.B.(C): -   mg/dL
+【20150609】WBC (S): 0-2   /HPF
+【20150609】RBC (S): 0-2   /HPF
+【20151125】T-CHO: 141   mg/dL
+【20151125】TG: 88   mg/dL
+【20151125】LDL-C: 83   mg/dL
+【20151125】iFOBT: Negative(<50)   ng/mL
+【20160510】T-CHO: 163   mg/dL
+【20160510】TG: 205   mg/dL
+【20160510】LDL-C: 96   mg/dL
+【20160510】GLU AC: 97   mg/dL
+【20160510】CRE: 1.1   mg/dL
+【20160510】ALT: 29   U/L
+【20160510】Protein(C): 30 ( 1+ )   mg/dL
+【20160510】O.B.(C): -   *
+【20160510】WBC (S): 0-2   /HPF
+【20160510】RBC (S): 0-2   /HPF
+【20160729】Protein(C): 20 ( +/- )   mg/dL
+【20160729】O.B.(C): -   *
+【20160729】WBC (S): 0-2   /HPF
+【20160729】RBC (S): 0-2   /HPF 
+Plan 
+Refer to somking cessation. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O F51.01 Insomnia, nonorganic 慢  
+O I10 Essential (primary) hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/08/10 已確認 已批 劉文俊  
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/08/10 已確認 已批 劉文俊  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/08/10 已確認 已批 劉文俊  
+Lescol XL Film-Coated 80 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/08/10 已確認 已批 劉文俊 用藥原因:LDL-C: 96 (2016/05/10)
+ 
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/08/10 已確認 已批 劉文俊  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/10 已批 完成：2016/08/10  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/08/10 已批 完成：2016/08/10  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/08/10 已批 完成：2016/08/10 
+ 
+
+Subjective 
+for smoking cessation: 2016/08/22
+smoking for 40 years, 2 PPD, FTND: 8/10
+PH: HTN, H/L with treatment, heart dz(-), mental dz(-), poor sleep with hypnotics
+quit history: denied, never use medication to quit
+patient preferred champix. inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/08/22 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/08/22 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重復原因:病人因素(補給天數并延後回診)
+尚有余藥7天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/11/22 執行、已批、未看完 完成：2016/11/22
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/02/23 執行、已批、未看完 完成：2017/02/23
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/22 已批 完成：2016/08/22  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/08/22 已批 完成：2016/08/22  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/08/22 已批 完成：2016/08/22 
+ 

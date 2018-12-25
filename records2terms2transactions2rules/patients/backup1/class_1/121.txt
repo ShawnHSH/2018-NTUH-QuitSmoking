@@ -1,0 +1,30 @@
+﻿
+Subjective 
+for smoking cessation: 2016/06/07
+smoking for 25 years, 1 PPD, FTND: 1/10
+PH: heart dz(-), mental dz(-)
+作業務，有人請才抽菸
+Quit histyory: decrease amount to 3 CPD, ever use patch to quit
+feel patch + gum is effective
+preferred NRT 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+20 Nicotinell TTS 1.75 mg/1 cm2 20 cm2/pce 1 pce QD D 14 14 pce 健保  2016/06/07 已確認 已批 郭斐然  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 14 90 tab 健保  2016/06/07 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/09/13 執行、已批、未看完 完成：2016/09/13
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/12/02 執行、已批、未看完 完成：2016/12/02
+ 郭斐然 
+ 

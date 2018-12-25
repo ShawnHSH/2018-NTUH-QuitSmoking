@@ -1,0 +1,1160 @@
+﻿
+Subjective 
+"癢無法承受""之前吃Neotigason完全沒效"
+"住新莊"
+"會去大陸工作"
+主要病史來源：病人
+主訴：
+progressed severe excoriated itching skin lesions on whole body for 1 year
+現病史：
+This is a 58-year-old male have some small excoriated itching reddish skin lesion on bilateral buttock , thigh and sole for 10 years.
+Because the patient work in上海, the psoriasis was treated in上海華山醫院 with some unknown medical cream for a long time. However, the symptoms were not improved, even progressed some times. Last year, the patient came to 長庚 hospital where psoriasis was diagnosed and topical steroid was prescribed as treatment but the symptoms were still not improved.
+The symptoms progressed during this year. Large amounts of skin lesion appears on the scalp, extremities, finger nails, trunks, with the severe itching feelings. The new skin lesion appears after scratching and bleeding when scratching on the old lesion. As a result, the patient came to our OPD for further treatment.
+back, palm, fingner nail, trunk, small leg, scalp, face
+
+
+過去病史：
+denied any systemic diseas
+
+過敏史：
+
+
+目前用藥：
+denied
+
+最近三個月內旅游史：上海 日期：2015/7/26
+
+家族病史：高血壓、糖尿病
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+Cutaneous findings:
+1. Large amount of well-defined, excoriated, reddish, patches and plaques on scalp, all extremities, and trunk
+2. nail plate crumbling, subungual hyperkeratosis, nail plate thichening, whitish discoloration
+
+Auspitz sign(+)
+Koebner phenomenon(+)
+Joint pain (-)
+Nail psoriasis (+) 
+Assessment 
+Psoriasis vulgaris, chronic plaque type 
+Plan 
+初始治療計劃：
+1. AST/ALT, creatinine, CBC
+2. MTX 2# PO QW x1
+3. Folic acid 1# PO QW x1
+4. Xyzal 1# PO QD x7d
+5. Daivobet ointment D QD x1
+6. Topsym Lotion D BID x1
+7. Fuyou 2# PO BID x7d (cash)
+8. UVB311 x6
+一周 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fuyou 125 mg/tab 2 tab BIDPC PO 7 28 tab 自費  2015/07/28 已確認 已批 詹智杰  
+Methotrexate 2.5 mg/tab 2 tab 1XWK PO 7 2 tab 健保  2015/07/28 已確認 已批 詹智杰  
+Folic Acid 5 mg/tab 1 tab 1XWK PO 7 1 tab 健保  2015/07/28 已確認 已批 詹智杰  
+Xyzal 5 mg/tab 1 tab QD PO 7 7 tab 健保  2015/07/28 已確認 已批 詹智杰  
+Topsym Lotion 0.05% 10 g/btl 1 XX BID D 7 1 btl 健保  2015/07/28 已確認 已批 詹智杰  
+Daivobet Oint 30 g/tube 1 XX QD D 7 1 tube 健保  2015/07/28 已確認 已批 詹智杰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/07/28 刪除、刪除、未看完 Specimen:BLO
+ 詹智杰 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/07/28 刪除、刪除、未看完 Specimen:BLO
+ 詹智杰 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/07/28 報到、已批 Specimen:BLO
+ 詹智杰 
+檢驗 08011CZP CBC & platelet 1  N 2015/07/28 執行、已批 Specimen:BLO
+完成：2015/08/01
+ 詹智杰 
+檢驗 09025CZP AST(GOT) 1  N 2015/07/28 執行、已批 Specimen:BLO
+完成：2015/08/01
+ 詹智杰 
+檢驗 09026CZP ALT(GPT) 1  N 2015/07/28 執行、已批 Specimen:BLO
+完成：2015/08/01
+ 詹智杰 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/07/28 執行、已批 Specimen:BLO
+完成：2015/08/01
+ 詹智杰 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1 內含 N 2015/07/28 執行、已批 完成：2015/07/28
+ 詹智杰 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/08/01 執行、已批 療程次數：01
+完成：2015/08/01
+ 辛啟在 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/08/03 執行、已批 療程次數：02
+完成：2015/08/03
+ 陳凱隆 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/08/05 執行、已批 療程次數：03
+完成：2015/08/05
+ 許紹軒 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/08/07 執行、已批 療程次數：04
+完成：2015/08/07
+ 曾奕騰 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/08/10 執行、已批 療程次數：05
+完成：2015/08/10
+ 陳凱隆 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/08/12 執行、已批 療程次數：06
+完成：2015/08/12
+ 廖書翎 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/28 已批 完成：2015/07/28  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/07/28 已批 完成：2015/07/28  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/07/28 已批 完成：2015/07/28 
+ 
+
+Subjective 
+"癢無法承受"
+"之前吃Neotigason完全沒效"
+"住新莊"
+"會去大陸工作"
+"吃了MTX癢感有進步"
+主訴：
+progressed severe excoriated itching skin lesions on whole body for 1 year
+現病史：
+This is a 58-year-old male have some small excoriated itching reddish skin lesion on bilateral buttock , thigh and sole for 10 years.
+Because the patient work in上海, the psoriasis was treated in上海華山醫院 with some unknown medical cream for a long time. However, the symptoms were not improved, even progressed some times. Last year, the patient came to 長庚 hospital where psoriasis was diagnosed and topical steroid was prescribed as treatment but the symptoms were still not improved.
+The symptoms progressed during this year. Large amounts of skin lesion appears on the scalp, extremities, finger nails, trunks, with the severe itching feelings. The new skin lesion appears after scratching and bleeding when scratching on the old lesion. As a result, the patient came to our OPD for further treatment.
+back, palm, fingner nail, trunk, small leg, scalp, face 
+Objective 
+身體檢查：
+Cutaneous findings:
+1. Large amount of well-defined, excoriated, reddish, patches and plaques on scalp, all extremities, and trunk
+2. nail plate crumbling, subungual hyperkeratosis, nail plate thichening, whitish discoloration
+
+Auspitz sign(+)
+Koebner phenomenon(+)
+Joint pain (-)
+Nail psoriasis (+)
+
+Psoriasis vulgaris, chronic plaque type, responsive to current management.
+【20150801】WBC: 9.30   k/μL
+【20150801】HB: 15.4   g/dL
+【20150801】ALT: 28   U/L
+【20150801】AST: 21   U/L
+【20150801】CRE: 0.9   mg/dL 
+Plan 
+1. CBC
+2. MTX 3# PO QW x1
+3. Folic acid 1# PO QW x1
+4. Xyzal 1# PO QD x7d
+5. Daivobet ointment D QD x1
+6. Topsym Lotion D BID x1
+7. UVB311還有
+8. Fuyou 2# PO BID x7d (cash)
+一周 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Fuyou 125 mg/tab 2 tab BIDPC PO 7 28 tab 自費  2015/08/04 已確認 已批 詹智杰  
+Methotrexate 2.5 mg/tab 3 tab 1XWK PO 7 3 tab 健保  2015/08/04 已確認 已批 詹智杰  
+Folic Acid 5 mg/tab 1 tab 1XWK PO 7 1 tab 健保  2015/08/04 已確認 已批 詹智杰  
+Xyzal 5 mg/tab 1 tab QD PO 7 7 tab 健保  2015/08/04 已確認 已批 詹智杰  
+Topsym Lotion 0.05% 10 g/btl 1 XX BID D 7 1 btl 健保  2015/08/04 已確認 已批 詹智杰  
+Daivobet Oint 30 g/tube 1 XX QD D 7 1 tube 健保  2015/08/04 已確認 已批 詹智杰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/08/04 執行、已批 Specimen:BLO
+完成：2015/08/04
+ 詹智杰 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/04 已批 完成：2015/08/04  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/08/04 已批 完成：2015/08/04  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/08/04 已批 完成：2015/08/04 
+ 
+
+Subjective 
+"癢無法承受"
+"之前吃Neotigason完全沒效"
+"住新莊"
+"會去大陸工作"
+"吃了MTX癢感有進步，擦的藥物有效果不過很快擦完特別是頭皮"
+"晚上還是好癢"
+主訴：
+progressed severe excoriated itching skin lesions on whole body for 1 year
+現病史：
+This is a 58-year-old male have some small excoriated itching reddish skin lesion on bilateral buttock , thigh and sole for 10 years.
+Because the patient work in上海, the psoriasis was treated in上海華山醫院 with some unknown medical cream for a long time. However, the symptoms were not improved, even progressed some times. Last year, the patient came to 長庚 hospital where psoriasis was diagnosed and topical steroid was prescribed as treatment but the symptoms were still not improved.
+The symptoms progressed during this year. Large amounts of skin lesion appears on the scalp, extremities, finger nails, trunks, with the severe itching feelings. The new skin lesion appears after scratching and bleeding when scratching on the old lesion. As a result, the patient came to our OPD for further treatment.
+back, palm, fingner nail, trunk, small leg, scalp, face 
+Objective 
+身體檢查：
+Cutaneous findings:
+1. Large amount of well-defined, excoriated, reddish, patches and plaques on scalp, all extremities, and trunk
+2. nail plate crumbling, subungual hyperkeratosis, nail plate thichening, whitish discoloration
+
+Auspitz sign(+)
+Koebner phenomenon(+)
+Joint pain (-)
+Nail psoriasis (+)
+
+Psoriasis vulgaris, chronic plaque type, responsive to current management.
+【20150801】WBC: 9.30   k/μL
+【20150801】HB: 15.4   g/dL
+【20150801】ALT: 28   U/L
+【20150801】AST: 21   U/L
+【20150801】CRE: 0.9   mg/dL
+【20150804】HB: 14.9   g/dL
+【20150804】WBC: 8.40   k/μL 
+Plan 
+1. CBC
+2. MTX 4# PO QW x21d
+3. Folic acid 1# PO QW x21d
+4. Xyzal 1# PO QD x21d
+5. Daivobet ointment D QD x2
+6. Topsym Lotion D BID x3
+7. UVB311 x6
+8. Lonzumin 1# PO HS x21d
+三周 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methotrexate 2.5 mg/tab 4 tab 1XWK PO 21 12 tab 健保  2015/08/11 已確認 已批 詹智杰  
+Folic Acid 5 mg/tab 1 tab 1XWK PO 21 3 tab 健保  2015/08/11 已確認 已批 詹智杰  
+Lonzumin 25 mg/tab 1 tab HS PO 21 21 tab 健保  2015/08/11 已確認 已批 詹智杰  
+Xyzal 5 mg/tab 1 tab QD PO 21 21 tab 健保  2015/08/11 已確認 已批 詹智杰  
+Topsym Lotion 0.05% 10 g/btl 1 XX BID D 21 3 btl 健保  2015/08/11 已確認 已批 詹智杰  
+Daivobet Oint 30 g/tube 1 XX QD D 21 2 tube 健保  2015/08/11 已確認 已批 詹智杰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/08/11 執行、已批 Specimen:BLO
+完成：2015/08/11
+ 詹智杰 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1 內含 N 2015/08/11 執行、已批 完成：2015/08/11
+ 詹智杰 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/09/01 執行、已批 療程次數：01
+完成：2015/09/01
+ 曾奕騰 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/09/04 執行、已批 療程次數：02
+完成：2015/09/04
+ 陳凱隆 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/09/07 執行、已批 療程次數：03
+完成：2015/09/07
+ 辛啟在 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/09/09 執行、已批 療程次數：04
+完成：2015/09/09
+ 辛啟在 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/09/14 執行、已批 療程次數：05
+完成：2015/09/12
+ 楊哲文 
+治療 51019B00 光線治療（包括太陽光，紫外線，紅外線）一天 1  N 2015/09/14 執行、已批 療程次數：06
+完成：2015/09/14
+ 楊哲文 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/11 已批 完成：2015/08/11  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/08/11 已批 完成：2015/08/11  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/08/11 已批 完成：2015/08/11 
+ 
+
+Subjective 
+"癢無法承受"
+"之前吃Neotigason完全沒效"
+"住新莊"
+"會去大陸工作"
+"吃了MTX癢感有進步，擦的藥物有效果不過很快擦完特別是頭皮""吃藥物之後明顯有在進步中"
+"晚上還是好癢"
+主訴：
+progressed severe excoriated itching skin lesions on whole body for 1 year
+現病史：
+This is a 58-year-old male have some small excoriated itching reddish skin lesion on bilateral buttock , thigh and sole for 10 years.
+Because the patient work in上海, the psoriasis was treated in上海華山醫院 with some unknown medical cream for a long time. However, the symptoms were not improved, even progressed some times. Last year, the patient came to 長庚 hospital where psoriasis was diagnosed and topical steroid was prescribed as treatment but the symptoms were still not improved.
+The symptoms progressed during this year. Large amounts of skin lesion appears on the scalp, extremities, finger nails, trunks, with the severe itching feelings. The new skin lesion appears after scratching and bleeding when scratching on the old lesion. As a result, the patient came to our OPD for further treatment.
+back, palm, fingner nail, trunk, small leg, scalp, face 
+Objective 
+身體檢查：
+Cutaneous findings:
+1. Large amount of well-defined, excoriated, reddish, patches and plaques on scalp, all extremities, and trunk
+2. nail plate crumbling, subungual hyperkeratosis, nail plate thichening, whitish discoloration
+
+Auspitz sign(+)
+Koebner phenomenon(+)
+Joint pain (-)
+Nail psoriasis (+)
+Psoriasis vulgaris, chronic plaque type, responsive to current management.
+【20150801】WBC: 9.30   k/μL
+【20150801】HB: 15.4   g/dL
+【20150801】ALT: 28   U/L
+【20150801】AST: 21   U/L
+【20150801】CRE: 0.9   mg/dL
+【20150804】HB: 14.9   g/dL
+【20150804】WBC: 8.40   k/μL
+【20150811】WBC: 7.97   k/μL
+【20150811】HB: 15.6   g/dL
+Increase MTX to 15mg/week due to limited effects on the palms and soles. 
+Assessment 
+[MTX since 2015/07/28] 
+Plan 
+1. UVB311 還有
+2. MTX 6# PO QW x14d
+3. Folic acid 1# PO QW x14d
+4. Xyzal 1# PO QD x14d
+5. Daivobet ointment D QD x2
+6. Topsym Lotion D BID x3
+7. Lonzumin 1# PO HS x14d
+兩周 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methotrexate 2.5 mg/tab 6 tab QW PO 14 12 tab 健保  2015/09/01 已確認 已批 詹智杰  
+Folic Acid 5 mg/tab 1 tab QW PO 14 2 tab 健保  2015/09/01 已確認 已批 詹智杰  
+Lonzumin 25 mg/tab 1 tab HS PO 14 14 tab 健保  2015/09/01 已確認 已批 詹智杰  
+Xyzal 5 mg/tab 1 tab QD PO 14 14 tab 健保  2015/09/01 已確認 已批 詹智杰  
+Topsym Lotion 0.05% 10 g/btl 1 XX BID D 21 3 btl 健保  2015/09/01 已確認 已批 詹智杰  
+Daivobet Oint 30 g/tube 1 XX QD D 21 2 tube 健保  2015/09/01 已確認 已批 詹智杰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/01 已批 完成：2015/09/01  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/09/01 已批 完成：2015/09/01  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/09/01 已批 完成：2015/09/01 
+ 
+
+Subjective 
+abdominal fullness for 2-3 years, especially after meal
+Flatulance frequently 
+Objective 
+stool passage: 1-2 times/day, loose
+Past history: psoriasis
+Abdomen: soft, distended, normoactive bowel sounds, no tenderness or rebound tenderness
+
+【20150811】HB: 15.6   g/dL
+【20150811】WBC: 7.97   k/μL
+【20150811】PLT: 308   k/μL 
+Plan 
+1. Arrange EGD on 9/4
+2. Give antiacid and symptomatic treatment first
+3. RTC after EGD 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 535.50 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/09/04 已確認 已批B 郭憶妮  
+(DC)Gaster D 20 mg/tab 1 tab BID LZ 7 14 tab 健保  2015/09/02 已確認 已批 翁贏雪  
+(DC)Gascon 40 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2015/09/02 已確認 已批 翁贏雪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 28016CZS [總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查 1  N 2015/09/02 執行、已批 完成：2015/09/04
+ 翁贏雪 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/02 已批 完成：2015/09/02  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/09/02 已批 完成：2015/09/02  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/09/02 已批 完成：2015/09/02 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 368.13 Eye strain  
+O 372.10 Chronic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Sinomin Oph Soln 4% 15 mL/btl 1 gtt QID OU 7 1 btl 健保  2015/09/09 已確認 已批 孫仁彬  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt QID OU 7 1 btl 健保  2015/09/09 已確認 已批 孫仁彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/09/09 執行、已批 完成：2015/09/09
+ 孫仁彬 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/09 已批 完成：2015/09/09  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/09/09 已批 完成：2015/09/09  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/09/09 已批 完成：2015/09/09 
+ 
+
+Subjective 
+abdominal fullness for 2-3 years, especially after meal
+Flatulance frequently 
+Objective 
+【20150904】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :Abdominal fullness
+ Indication :   Epigastralgia and/or abdominal fullness
+ Instrument :   GIF-Q260    .12
+ Pre-medication :  Buscopan
+ Anesthesia :      Nil
+ Medicine history : Nil
+ Endoscopic Findings
+   Esophagus :
+     Mucosal breaks of greater than 5mm were noted at lower esophagus. One small 
+     polypoid lesion was noted at EG junction.
+   Stomach :
+     There were no ulcers nor tumors in the stomach.
+   Duodenum :
+     There were no ulcers nor scars in the bulb and second portion.
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade B.
+     Suspect inflammatory polyp, EG junction.
+   Stomach :
+     Negative
+   Duodenum :
+     Negative
+ HP Test :
+   Not done
+ Complication :
+   Nil
+stool passage: 1-2 times/day, loose
+Past history: psoriasis
+Abdomen: soft, distended, normoactive bowel sounds, no tenderness or rebound tenderness
+
+【20150811】HB: 15.6   g/dL
+【20150811】WBC: 7.97   k/μL
+【20150811】PLT: 308   k/μL 
+Assessment 
+explain to patient the need of CFS, but patient refuse due to waiting time, hope to do stool OB first 
+Plan 
+check stool OB and RTC after exam 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 535.50 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Takepron OD 30 mg/tab 1 tab QDAC LZ 7 7 tab 健保  2015/09/09 已確認 已批 吳偉愷  
+(DC)Gascon 40 mg/tab 2 tab TID PO 7 42 tab 健保  2015/09/09 已確認 已批 吳偉愷  
+Mopride FC 5 mg/tab 1 tab TID PO 7 21 tab 健保  2015/09/09 已確認 已批 吳偉愷  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09134CZP Stool: occult blood (IA定量法) 1  N 2015/09/09 執行、已批 Specimen:STO
+完成：2015/09/09
+ 吳偉愷 
+檢查 28017CPS [總院]COLONOSCOPY-大腸鏡檢查(自費藥Niflec) 1  N 2015/09/09 刪除、刪除、未看完 Symptom:abdominal fullness
+DURATION:2 years
+是否為國健局癌篩個案:n
+有無使用抗凝血藥物:n
+有無使用抗排斥藥物:n
+ 吳偉愷 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/09 已批 完成：2015/09/09  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/09/09 已批 完成：2015/09/09  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/09/09 已批 完成：2015/09/09 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methotrexate 2.5 mg/tab 6 tab QW PO 28 24 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Folic Acid 5 mg/tab 1 tab QW PO 28 4 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Lonzumin 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Daivonex Oint 0.005% 30 g/tube 1 XX QD D 28 2 tube 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Topsym Lotion 0.05% 10 g/btl 1 XX BID D 21 3 btl 健保 3 2015/09/15 已確認 已批 王鈺婷 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/15 已批 完成：2015/09/15 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methotrexate 2.5 mg/tab 6 tab QW PO 28 24 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Folic Acid 5 mg/tab 1 tab QW PO 28 4 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Lonzumin 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Daivonex Oint 0.005% 30 g/tube 1 XX QD D 28 2 tube 健保 3 2015/09/15 已確認 已批 王鈺婷  
+Topsym Lotion 0.05% 10 g/btl 1 XX BID D 21 3 btl 健保 3 2015/09/15 已確認 已批 王鈺婷 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/15 已批 完成：2015/09/15  
+ 
+
+Subjective 
+"癢無法承受"
+"之前吃Neotigason完全沒效"
+"住新莊"
+"會去大陸工作"
+"吃了MTX癢感有進步，擦的藥物有效果不過很快擦完特別是頭皮""吃藥物之後明顯有在進步中"
+"晚上還是好癢，目前吃藥後有進步"
+主訴：
+progressed severe excoriated itching skin lesions on whole body for 1 year
+現病史：
+This is a 58-year-old male have some small excoriated itching reddish skin lesion on bilateral buttock , thigh and sole for 10 years.
+Because the patient work in上海, the psoriasis was treated in上海華山醫院 with some unknown medical cream for a long time. However, the symptoms were not improved, even progressed some times. Last year, the patient came to 長庚 hospital where psoriasis was diagnosed and topical steroid was prescribed as treatment but the symptoms were still not improved.
+The symptoms progressed during this year. Large amounts of skin lesion appears on the scalp, extremities, finger nails, trunks, with the severe itching feelings. The new skin lesion appears after scratching and bleeding when scratching on the old lesion. As a result, the patient came to our OPD for further treatment.
+back, palm, fingner nail, trunk, small leg, scalp, face 
+Objective 
+Cutaneous findings:
+1. Large amount of well-defined, excoriated, reddish, patches and plaques on scalp, all extremities, and trunk
+2. nail plate crumbling, subungual hyperkeratosis, nail plate thichening, whitish discoloration
+Auspitz sign(+)
+Koebner phenomenon(+)
+Joint pain (-)
+Nail psoriasis (+)
+Psoriasis vulgaris, chronic plaque type, responsive to current management.
+【20150801】WBC: 9.30   k/μL
+【20150801】HB: 15.4   g/dL
+【20150801】ALT: 28   U/L
+【20150801】AST: 21   U/L
+【20150801】CRE: 0.9   mg/dL
+【20150804】HB: 14.9   g/dL
+【20150804】WBC: 8.40   k/μL
+【20150811】WBC: 7.97   k/μL
+【20150811】HB: 15.6   g/dL
+Increase MTX to 15mg/week due to limited effects on the palms and soles.
+Responsive to current management. 
+Assessment 
+[MTX since 2015/07/28] 
+Plan 
+1. UVB311還有
+2. MTX 6# PO QW x28d
+3. Folic acid 1# PO QW x28d
+4. Xyzal 1# PO QD x28d
+5. Daivonex ointment D QD x2
+6. Topsym Lotion D BID x3
+7. Lonzumin 1# PO HS x28d
+(2-7連三月約12周) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methotrexate 2.5 mg/tab 6 tab QW PO 28 24 tab 健保 3 2015/09/15 已確認 已批 詹智杰  
+Folic Acid 5 mg/tab 1 tab QW PO 28 4 tab 健保 3 2015/09/15 已確認 已批 詹智杰  
+Lonzumin 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/15 已確認 已批 詹智杰  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/15 已確認 已批 詹智杰  
+Daivonex Oint 0.005% 30 g/tube 1 XX QD D 28 2 tube 健保 3 2015/09/15 已確認 已批 詹智杰  
+Topsym Lotion 0.05% 10 g/btl 1 XX BID D 21 3 btl 健保 3 2015/09/15 已確認 已批 詹智杰 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/15 已批 完成：2015/09/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/09/15 已批 完成：2015/09/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/15 已批 完成：2015/09/15 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 789.00 Abdominal pain  
+M 535.50 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+MgO 250 mg/tab 2 tab TID PO 28 168 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+Sennapur 12.5 mg/tab 2 tab HS PO 28 56 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+(DC)Gascon 40 mg/tab 2 tab TIDPC PO 28 168 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/16 已批 完成：2015/09/16 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 789.00 Abdominal pain  
+M 535.50 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+MgO 250 mg/tab 2 tab TID PO 28 168 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+Sennapur 12.5 mg/tab 2 tab HS PO 28 56 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+(DC)Gascon 40 mg/tab 2 tab TIDPC PO 28 168 tab 健保 3 2015/09/16 已確認 已批 鄭瑋婷  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/16 已批 完成：2015/09/16  
+ 
+
+Subjective 
+abdominal fullness for 2-3 years, especially after meal
+Flatulance frequently
+
+stool OB+ 
+Objective 
+【20150904】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :Abdominal fullness
+ Indication :   Epigastralgia and/or abdominal fullness
+ Instrument :   GIF-Q260    .12
+ Pre-medication :  Buscopan
+ Anesthesia :      Nil
+ Medicine history : Nil
+ Endoscopic Findings
+   Esophagus :
+     Mucosal breaks of greater than 5mm were noted at lower esophagus. One small 
+     polypoid lesion was noted at EG junction.
+   Stomach :
+     There were no ulcers nor tumors in the stomach.
+   Duodenum :
+     There were no ulcers nor scars in the bulb and second portion.
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade B.
+     Suspect inflammatory polyp, EG junction.
+   Stomach :
+     Negative
+   Duodenum :
+     Negative
+ HP Test :
+   Not done
+ Complication :
+   Nil
+stool passage: 1-2 times/day, loose
+Past history: psoriasis
+Abdomen: soft, distended, normoactive bowel sounds, no tenderness or rebound tenderness
+
+【20150811】HB: 15.6   g/dL
+【20150811】WBC: 7.97   k/μL
+【20150811】PLT: 308   k/μL 
+Assessment 
+stool OB + 
+Plan 
+arrange CFS
+RTC after examination 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 789.00 Abdominal pain  
+M 535.50 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/12/04 已確認 已批B 陳怡伶  
+MgO 250 mg/tab 2 tab TID PO 28 168 tab 健保 3 2015/09/16 已確認 已批 吳偉愷  
+自費 Niflec Powder 137.155 g/pack 1 pack AS ORDER PO 1 1 pack 自費  2015/09/16 已確認 已批 吳偉愷  
+Sennapur 12.5 mg/tab 2 tab HS PO 28 56 tab 健保 3 2015/09/16 已確認 已批 吳偉愷  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/09/16 已確認 已批 吳偉愷  
+(DC)Gascon 40 mg/tab 2 tab TIDPC PO 28 168 tab 健保 3 2015/09/16 已確認 已批 吳偉愷  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W Surgical pathology Level IV 1  N 2015/12/04 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/12/04
+ 陳怡伶 
+檢查 28017CRS [總院]大腸鏡檢查(麻醉)-(內視鏡科)(自費藥Niflec) 1  N 2015/09/16 開立、已批 Symptom:stool OB+
+DURATION:n
+是否為國健局癌篩個案:n
+有無使用抗凝血藥物:n
+有無使用抗排斥藥物:n
+ 吳偉愷 
+檢查 28017CPS [總院]COLONOSCOPY-大腸鏡檢查(自費藥Niflec) 1 內含 N 2015/09/16 執行、已批 Symptom:stool OB+
+DURATION:n
+是否為國健局癌篩個案:n
+有無使用抗凝血藥物:n
+有無使用抗排斥藥物:n
+完成：2015/12/04
+ 吳偉愷 
+治療 49014CZS POLYPECTOMY 1  N 2015/12/04 執行、已批 完成：2015/12/04
+ 陳怡伶 
+醫材 20435204 腸胃道止血處置夾釘 1 自費 N 2015/12/04 執行、已批 完成：2015/12/04
+ 陳怡伶 
+醫材 20432309 ROTATABLE CLIP FIXING DEVICE 1 自費 N 2015/12/04 執行、已批 完成：2015/12/04
+ 陳怡伶 
+醫材 20255205 INJECTION NEEDLE 1 自費 N 2015/12/04 執行、已批 完成：2015/12/04
+ 陳怡伶 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/16 已批 完成：2015/09/16  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/09/16 已批 完成：2015/09/16  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/16 已批 完成：2015/09/16 
+ 
+
+Subjective 
+snoring for over 20 years
+observed sleep apnea(+)
+daytime sleepiness(-) poor concentration or memory(-)
+dry mouth (-) N-O(-)
+
+
+Hx:nil
+operation:nil
+A(-) B(-) C(+) 
+Objective 
+bilateral tongue border and left buccal leukoplakia
+bilateral grade I tonsil
+
+
+
+【20150909】Stool O.B.(EIA): Positive(392)   ng/mL
+【20151204】[總院]COLONOSCOPY-大腸鏡檢查(自費藥Niflec) :stool OB positive
+ Indication :
+   stool OB positive
+ Colon preparation :
+   Niflec
+ Condition :
+   Good
+ Instrument :
+   CF-Q260AL .16
+ Insertion level :
+   Cecum
+ Pre-medication :
+   Buscopan
+ Anesthesia :
+   Nil
+ Cleansing time :
+   Morning
+ Medication history :
+   Nil
+ Colonoscopic Findings :
+   Up to cecum, few fecal materials and juice were found. A 0.5cm 0-Is polyp was 
+   noted at rectum, and polypectomy with removal and hemoclipping x1 was done. 
+   Internal hemorrhoid was noted.
+ Endoscopic Diagnosis :
+   Tubular adenoma, 0-Is, rectum, s/p polypectomy with removal and hemoclipping 
+   x1. 
+   Internal hemorrhoid.
+ Complication :
+   Negative
+
+
+【20150904】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :Abdominal fullness
+ Indication :   Epigastralgia and/or abdominal fullness
+ Instrument :   GIF-Q260    .12
+ Pre-medication :  Buscopan
+ Anesthesia :      Nil
+ Medicine history : Nil
+ Endoscopic Findings
+   Esophagus :
+     Mucosal breaks of greater than 5mm were noted at lower esophagus. One small 
+     polypoid lesion was noted at EG junction.
+   Stomach :
+     There were no ulcers nor tumors in the stomach.
+   Duodenum :
+     There were no ulcers nor scars in the bulb and second portion.
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade B.
+     Suspect inflammatory polyp, EG junction.
+   Stomach :
+     Negative
+   Duodenum :
+     Negative
+ HP Test :
+   Not done
+ Complication :
+   Nil
+疼痛評估：疼痛指數： 0分; 
+Assessment 
+Snoring, r/o OSAS
+oral leukoplakia 
+Plan 
+incisional or excisional biopsy(bilateral tongue border) LA
+PSG
+follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 786.09 Snoring  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 17008B99 Polysomnography-睡眠生理多項功能檢查 1  N 2015/12/05 開立、已批 Indication:obstructive sleep apnea
+連絡電話:.
+有無氣切:無
+有無居家使用呼吸器:無
+是否愿意被立刻通知前往檢查:是
+ 謝敦理 
+治療 17008B0A Polysomnography 1  N 2015/12/05 執行、已批  謝敦理 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/05 已批 完成：2015/12/05  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/05 已批 完成：2015/12/05 
+ 
+
+Subjective 
+"癢無法承受"
+"之前吃Neotigason完全沒效"
+"住新莊"
+"會去大陸工作"
+"吃了MTX癢感有進步，擦的藥物有效果不過很快擦完特別是頭皮""吃藥物之後明顯有在進步中"
+"晚上還是好癢，目前吃藥後有進步"
+主訴：
+progressed severe excoriated itching skin lesions on whole body for 1 year
+現病史：
+This is a 58-year-old male have some small excoriated itching reddish skin lesion on bilateral buttock , thigh and sole for 10 years.
+Because the patient work in上海, the psoriasis was treated in上海華山醫院 with some unknown medical cream for a long time. However, the symptoms were not improved, even progressed some times. Last year, the patient came to 長庚 hospital where psoriasis was diagnosed and topical steroid was prescribed as treatment but the symptoms were still not improved.
+The symptoms progressed during this year. Large amounts of skin lesion appears on the scalp, extremities, finger nails, trunks, with the severe itching feelings. The new skin lesion appears after scratching and bleeding when scratching on the old lesion. As a result, the patient came to our OPD for further treatment.
+back, palm, fingner nail, trunk, small leg, scalp, face 
+Objective 
+1. Nail plate crumbling, subungual hyperkeratosis, nail plate thichening, whitish discoloration
+Auspitz sign(+)
+Koebner phenomenon(+)
+Joint pain (-)
+Nail psoriasis (+)
+[PE]: Large amount of well-defined, excoriated, reddish, patches and plaques on scalp, all extremities, and trunk
+Psoriasis vulgaris, chronic plaque type, responsive to current management.
+【20150801】ALT: 28   U/L
+【20150801】AST: 21   U/L
+【20150801】CRE: 0.9   mg/dL
+Increase MTX to 15mg/week due to limited effects on the palms and soles.
+Responsive to current management.
+2. Seborrheic dermatitis, face, ears and scalp 
+Assessment 
+[MTX since 2015/07/28]
+Suggest biologics/DMS/Physiogel 
+Plan 
+1. UVB311還有
+2. MTX 6# PO QW x28d
+3. Folic acid 1# PO QW x28d
+4. Xyzal 1# PO QD x28d
+5. Daivonex ointment D 還有
+6. Topsym Lotion D 還有
+7. Lonzumin 1# PO HS x28d
+(2347連三月約12周)
+8. Cutivate cream D BID x3 (28d)
+9. GOT/GPT, creatinine 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+O 690.10 Seborrheic dermatitis, unspecified  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methotrexate 2.5 mg/tab 6 tab QW PO 28 24 tab 健保 3 2015/12/08 已確認 已批 詹智杰 用藥原因:非初次使用 methotrexate 的病人，已定期監測腎功能，經評估此次無須監測腎功能。
+ 
+Folic Acid 5 mg/tab 1 tab QW PO 28 4 tab 健保 3 2015/12/08 已確認 已批 詹智杰  
+Lonzumin 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/08 已確認 已批 詹智杰  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/08 已確認 已批 詹智杰  
+(DC)Cutivate Cream 0.05% 5 g/tube 1 XX BID D 28 3 tube 健保  2015/12/08 已確認 已批 詹智杰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2015/12/08 執行、已批 Specimen:BLO
+完成：2016/01/29
+ 詹智杰 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/08 執行、已批 Specimen:BLO
+完成：2016/01/29
+ 詹智杰 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/08 執行、已批 Specimen:BLO
+完成：2016/01/29
+ 詹智杰 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/08 已批 完成：2015/12/08  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/12/08 已批 完成：2015/12/08  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/08 已批 完成：2015/12/08 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 696.1 Other psoriasis 慢  
+O 690.10 Seborrheic dermatitis, unspecified  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methotrexate 2.5 mg/tab 6 tab QW PO 28 24 tab 健保 3 2015/12/08 已確認 已批 鄭瑋婷 用藥原因:非初次使用 methotrexate 的病人，已定期監測腎功能，經評估此次無須監測腎功能。
+ 
+Folic Acid 5 mg/tab 1 tab QW PO 28 4 tab 健保 3 2015/12/08 已確認 已批 鄭瑋婷  
+Lonzumin 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/08 已確認 已批 鄭瑋婷  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/08 已確認 已批 鄭瑋婷  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/08 已批 完成：2015/12/08 
+ 
+
+Subjective 
+abdominal fullness
+enlarged AG
+loose stool
+poor response to previous medication 
+Objective 
+【20150904】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :Abdominal fullness
+Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade B.
+     Suspect inflammatory polyp, EG junction.
+   
+【20151204】[總院]COLONOSCOPY-大腸鏡檢查(自費藥Niflec) :stool OB positive
+ Endoscopic Diagnosis :
+   Tubular adenoma, 0-Is, rectum, s/p polypectomy with removal and hemoclipping 
+   x1. 
+   Internal hemorrhoid. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 530.11 Reflux esophagitis 慢  
+M 535.50 Gastritis 慢  
+O 789.00 Abdominal pain  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dexilant delayed release 60 mg/cap 1 cap QD PO 7 7 cap 健保  2015/12/09 已確認 已批 蔡兆勳  
+(DC)Gascon 40 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2015/12/09 已確認 已批 蔡兆勳  
+Dogmatyl 50 mg/tab 1 tab BID PO 7 14 tab 健保  2015/12/09 已確認 已批 蔡兆勳  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2015/12/09 執行、已批 Reason for abodominal echo:Abdomen pain
+完成：2015/12/14
+ 蔡兆勳 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/09 已批 完成：2015/12/09  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/09 已批 完成：2015/12/09  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/12/09 已批 完成：2015/12/09 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 239.0 Oral tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cephalexin 250 mg/cap 1 cap QID PO 1 4 cap 健保  2015/12/11 已確認 已批 張薈倫  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2015/12/11 已確認 已批 張薈倫  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX AS ORDER OR 7 1 tube 健保  2015/12/11 已確認 已批 張薈倫  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25003C0W Surgical pathology Level III 1  N 2015/12/10 刪除、刪除 每瓶(包)之檢體數量:2
+Operation findings:bilateral tongue border leukoplakia
+術式名稱:incisional biopsy of leukoplakia at bilateral tongue border
+組織來源:bilateral tongue border leukoplakia
+診斷名稱:bilateral tongue border leukoplakia
+完成：2015/12/12
+ 張薈倫 
+病理 25004C0W Surgical pathology Level IV 1  N 2015/12/12 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/12/12
+ 鄧立生 
+病理 25004C0W Surgical pathology Level IV 1  N 2015/12/12 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/12/12
+ 鄧立生 
+治療 71011C00 Biopsy of oral mucosa 1  N 2015/12/10 執行、已批 主副刀:1
+手術起時:2015/12/11 00:00
+手術迄時:2015/12/11 00:00
+完成：2015/12/11
+ 張薈倫 
+醫材 20006802 外科刀片 1  N 2015/12/11 執行、已批 完成：2015/12/11
+ 古慧質 
+醫材 20000912 塑膠注射器帶針#5CC 1  N 2015/12/11 執行、已批 完成：2015/12/11
+ 古慧質 
+醫材 20005205 塑膠針頭 25Ｇ 1  N 2015/12/11 執行、已批 完成：2015/12/11
+ 古慧質 
+醫材 20450405 電刀回路板 1  N 2015/12/11 執行、已批 完成：2015/12/11
+ 古慧質 
+醫材 20300831 縫合線　３／０ 1  N 2015/12/11 執行、已批 完成：2015/12/11
+ 古慧質 
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/11 已批 完成：2015/12/11  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/12/11 已批 完成：2015/12/11 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 535.50 Gastritis 慢  
+O 789.00 Abdominal pain  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Gascon 40 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/12/16 已確認 已批 劉秋蘭  
+Dogmatyl 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/12/16 已確認 已批 劉秋蘭  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/16 已批 完成：2015/12/16 
+ 
+
+Subjective 
+Tongue leukoplakia, bilateral, post-biopsy, for follow up
+pain 
+Objective 
+Oral cavity, tongue, lateral border, left, incisional biopsy, squamous cell carcinoma
+Oral cavity, tongue, lateral border, right, incisional biopsy, dysplasia, mild, focal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 145.9 Oral cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/12/16 執行、已批 Specimen:BLO
+完成：2015/12/16
+ 譚慶鼎 
+影醫 33085B0M MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2015/12/16 執行、已批 Indication:Neoplasm
+小部位:For tumor staging, from skull base to lower neck,
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+其他：Tongue cancer
+完成：2016/02/02
+ 譚慶鼎 
+治療 000Z3034 重大傷病診斷書 1 自費 N 2015/12/16 執行、已批 完成：2015/12/16
+ 譚慶鼎 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/16 已批 完成：2015/12/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/16 已批 完成：2015/12/16 
+ 
+
+Subjective 
+Tongue leukoplakia, bilateral, post-biopsy, for follow up
+pain 
+Objective 
+Oral cavity, tongue, lateral border, left, incisional biopsy, squamous cell carcinoma
+Oral cavity, tongue, lateral border, right, incisional biopsy, dysplasia, mild, focal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 145.9 Oral cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/12/16 執行、已批 Specimen:BLO
+完成：2015/12/16
+ 譚慶鼎 
+影醫 33085B0M MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2015/12/16 執行、已批 Indication:Neoplasm
+小部位:For tumor staging, from skull base to lower neck,
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+其他：Tongue cancer
+完成：2016/02/02
+ 譚慶鼎 
+治療 000Z3034 重大傷病診斷書 1 自費 N 2015/12/16 執行、已批 完成：2015/12/16
+ 譚慶鼎 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/16 已批 完成：2015/12/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/16 已批 完成：2015/12/16 
+ 
+
+Subjective 
+abdominal fullness
+enlarged AG
+loose stool
+poor response to previous medication 
+Objective 
+【20150904】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :Abdominal fullness
+Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade B.
+     Suspect inflammatory polyp, EG junction.
+   
+【20151204】[總院]COLONOSCOPY-大腸鏡檢查(自費藥Niflec) :stool OB positive
+ Endoscopic Diagnosis :
+   Tubular adenoma, 0-Is, rectum, s/p polypectomy with removal and hemoclipping 
+   x1. 
+   Internal hemorrhoid.
+【20151214】Abdomen Echo Ultrasound :Fatty liver, moderate
+       Fatty infiltration of pancreas
+       Renal cyst, right 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 535.50 Gastritis 慢  
+O 789.00 Abdominal pain  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Gascon 40 mg/tab 1 tab TIDPC PO 28 84 tab 健保 3 2015/12/16 已確認 已批 蔡兆勳  
+Dogmatyl 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/12/16 已確認 已批 蔡兆勳 
+ 
+
+Subjective 
+Tongue leukoplakia, bilateral, post-biopsy, for follow up
+pain 
+Assessment 
+sono
+
+wide excision of tongue cance, bil + ND, left (GA) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 141.9 Malignant neoplasm of tongue 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33085B0M MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2015/12/29 執行、已批 Indication:Neoplasm
+小部位:For tumor staging, from skull base to lower neck,
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+完成：2015/12/31
+ 楊宗霖 
+治療 19005BZH 門診耳鼻喉部超音波 1  N 2015/12/29 執行、已批 完成：2015/12/29
+ 楊宗霖 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/29 已批 完成：2015/12/29  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/29 已批 完成：2015/12/29 
+ 
+
+Subjective 
+for smoking cessation: 2016/01/04
+smoking for 30 years, 1 PPD, FTND: 7/10
+PH: tongue CA prepare for operation. heart dz(-), mental dz(-)
+job: 貿易
+quit history: denied, never use medication to quit
+patient preferred champix, ask for 3 weeks of medication, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 14 28 tab 健保  2016/01/04 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/01/04 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/04/14 執行、已批、未看完 完成：2016/04/07
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/07/04 執行、已批、未看完 完成：2016/07/04
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/04 已批 完成：2016/01/04  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/01/04 已批 完成：2016/01/04  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/01/04 已批 完成：2016/01/04 
+ 

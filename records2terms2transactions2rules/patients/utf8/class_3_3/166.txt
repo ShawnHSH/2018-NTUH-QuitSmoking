@@ -1,0 +1,266 @@
+﻿
+Subjective 
+Frequency
+Hesistency
+Nocturia 4-5/night 
+Objective 
+Pain score: 0 
+Plan 
+TRUSP
+U/A, BUN/creatinine, PSA, URINE CYTOLOGY 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Hypertrophy (benign) of prostate 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 28 tab 健保  2015/07/13 已確認 已批 姜宜妮  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP BUN 1  N 2015/07/13 執行、已批 Specimen:BLO
+完成：2015/07/31
+ 姜宜妮 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/07/13 執行、已批 Specimen:BLO
+完成：2015/07/31
+ 姜宜妮 
+檢驗 12081B0P PSA 1  N 2015/07/13 執行、已批 Specimen:BLO
+完成：2015/07/31
+ 姜宜妮 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/07/13 執行、已批 Specimen:UR1
+完成：2015/07/31
+ 姜宜妮 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/07/13 執行、已批 Specimen:UR1
+完成：2015/07/31
+ 姜宜妮 
+檢驗 15001CHP Urine cytology 1  N 2015/07/13 執行、已批 Specimen:UR1
+完成：2015/07/31
+ 姜宜妮 
+檢查 000TRS01 TRUSP-經直腸前列腺超音波檢查 1  N 2015/07/13 執行、已批 完成：2015/07/31
+ 姜宜妮 
+治療 19005BY0 TRUSP前列腺超音波 1  N 2015/07/13 執行、已批 完成：2015/07/31
+ 姜宜妮 
+ 
+
+Subjective 
+Frequency
+Hesistency
+Nocturia 4-5/night 
+Objective 
+Pain score: 0
+【20150731】Urine Cytology: Negative for malignant cells   *
+【20150731】Serum PSA: 1.212   ng/mL
+【20150731】WBC (S): 0-2   /HPF
+【20150731】RBC (S): 0-2   /HPF
+【20150731】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 34.5 / 12.1 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+  檢查者:                         /董圣雍住院醫師          /陳忠信主治醫師 
+Plan 
+RTC 3M
+testosterone, AC sugar, TG, cholesterol 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Hypertrophy (benign) of prostate 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab BID LZ 28 56 tab 健保 3 2015/08/10 已確認 已批 姜宜妮  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 84 168 tab 自費  2015/08/10 已確認 已批 姜宜妮  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/08/10 執行、已批 Specimen:BLO
+完成：2015/10/26
+ 姜宜妮 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/08/10 執行、已批 Specimen:BLO
+完成：2015/10/26
+ 姜宜妮 
+檢驗 09005CZP Glucose (AC) 1  N 2015/08/10 執行、已批 Specimen:BLO
+完成：2015/10/26
+ 姜宜妮 
+檢驗 09121B0P Testosterone 1  N 2015/08/10 執行、已批 Specimen:BLO
+完成：2015/10/26
+ 姜宜妮 
+ 
+
+Subjective 
+Frequency
+Hesistency
+Nocturia 4-5/night 
+Objective 
+Pain score: 0
+【20150731】Urine Cytology: Negative for malignant cells   *
+【20150731】Serum PSA: 1.212   ng/mL
+【20150731】WBC (S): 0-2   /HPF
+【20150731】RBC (S): 0-2   /HPF
+【20150731】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 34.5 / 12.1 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+  檢查者:                         /董圣雍住院醫師          /陳忠信主治醫師
+【20151026】Testosterone: 7.72   ng/mL
+【20151026】GLU AC: 93   mg/dL
+【20151026】TG: 85   mg/dL
+【20151026】T-CHO: 160   mg/dL 
+Plan 
+RTC 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 600.0 Hypertrophy (benign) of prostate 慢 男  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab BID LZ 28 56 tab 健保 3 2015/11/02 已確認 已批 姜宜妮  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 84 168 tab 自費  2015/11/02 已確認 已批 姜宜妮  
+Cialis 5 mg/tab 1 tab QD PO 14 14 tab 自費  2015/11/02 已確認 已批 姜宜妮  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/02 已批 完成：2015/11/02 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 國(初)中 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌癥? 無 請問您有無腸道不適癥狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2015/11/02 執行、已批 Specimen:STO
+完成：2015/11/20
+ 張皓翔 
+ 
+
+
+Subjective 
+Frequency
+Hesistency
+Nocturia 4-5/night 
+Objective 
+Pain score: 0
+【20150731】Urine Cytology: Negative for malignant cells   *
+【20150731】Serum PSA: 1.212   ng/mL
+【20150731】WBC (S): 0-2   /HPF
+【20150731】RBC (S): 0-2   /HPF
+【20150731】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 34.5 / 12.1 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+  檢查者:                         /董圣雍住院醫師          /陳忠信主治醫師
+【20151026】Testosterone: 7.72   ng/mL
+【20151026】GLU AC: 93   mg/dL
+【20151026】TG: 85   mg/dL
+【20151026】T-CHO: 160   mg/dL
+
+【20151026】GLU AC: 93   mg/dL 
+Plan 
+RTC 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O N52.9 Impotence of organic origin 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab BID LZ 28 56 tab 健保 3 2016/01/25 已確認 已批 姜宜妮  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 84 168 tab 自費  2016/01/25 已確認 已批 姜宜妮 
+ 
+
+Subjective 
+66M, productive cough for 2 wks, yellowish sputum
+Occupation: 噴漆
+Hx: BPH
+Smoking: 1 PPD for > 40 yrs 
+Plan 
+Arrange PFT (screen)
+RTC 2 wks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J40 Bronchitis 慢  
+O J44.9 Chronic obstructive pulmonary disease 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zithromax 250 mg/tab 2 tab QD PO 3 6 tab 健保  2016/06/21 已確認 已批 楊景堯  
+Phyllocontin Continus 225 mg/tab 1 tab QD PO 14 14 tab 健保  2016/06/21 已確認 已批 楊景堯  
+Regrow SR 60 mg/tab 1 tab BID PO 14 28 tab 健保  2016/06/21 已確認 已批 楊景堯  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/06/21 執行、已批 完成：2016/06/21
+ 楊景堯 
+檢查 17003C0S Screening (Flow-volume curve)-一般肺量測定 1  N 2016/06/21 執行、已批 完成：2016/07/01
+ 楊景堯 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 國(初)中 嚼檳榔 無 
+吸菸 >10年，每天>=20支 自覺口腔黏膜有無異常癥狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/07/05 執行、已批 完成：2016/07/05
+ 陳俊男 
+ 
+
+Subjective 
+66M, productive cough for 2 wks, yellowish sputum
+Occupation: 噴漆
+Hx: BPH
+Smoking: 1 PPD for > 40 yrs 
+Objective 
+【20160701】Pulmonary Function Test : * Spirometry by JAEGER MS-PFT
+
+* Inadequate tracing for spirometry 
+Plan 
+Well explain 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J40 Bronchitis 慢  
+O J44.9 Chronic obstructive pulmonary disease 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab QD PO 28 28 tab 健保  2016/07/05 已確認 已批 楊景堯  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/05 已批 完成：2016/07/05  
+ 

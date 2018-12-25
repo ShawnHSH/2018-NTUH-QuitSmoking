@@ -1,0 +1,281 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/03/31 執行、已批 完成：2016/03/31
+ 章浩宏 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/03/31 報到、已批 Specimen:STO
+ 陳恒順 
+ 
+
+Subjective 
+69 y/o man,
+COPD with exacerbation and secondary infection
+Hospitalized 2016/3/17-3/26
+mild cough and sputum
+minimal dyspnea
+no SABA rescue needed.
+BPH symptoms (+) not deteriorated after Spiriva
+smoking for 40 years, 1 PPD, quit recently 
+Objective 
+Chest: some inspiratory rhonchi 
+Plan 
+Keep Spiriva
+Berotec for rescue
+Spirometry for COPD severity evaluation
+monitor urination symptoms 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 14 28 tab 健保  2016/03/31 已確認 已批 郭律成  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 17003C0S Screening (Flow-volume curve)-一般肺量測定 1  N 2016/03/31 執行、已批 完成：2016/04/07
+ 郭律成 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/31 已批 完成：2016/03/31  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/03/31 已批 完成：2016/03/31  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2016/03/31 已批 完成：2016/03/31 
+ 
+
+Subjective 
+69 y/o man,
+COPD with exacerbation and secondary infection
+Hospitalized 2016/3/17-3/26
+mild cough and sputum
+minimal dyspnea
+no SABA rescue needed.
+BPH symptoms (+) not deteriorated after Spiriva
+smoking for 40 years, 1 PPD, quit recently
+-----------------
+exacerbation once, triggered by environmental dirt
+nearly subsided now.
+no URI symptoms 
+Objective 
+Chest: clear BS
+【20160407】Pulmonary Function Test :
+C(L)  2.9  2.96  97.9    
+FEV1(L)  1.78  2.32  76.8    
+FEV1/FVC(%)  61.4  77.4   
+* Mild obstructive ventilatory defect 
+Plan 
+Keep Spiriva
+Berotec for rescue
+Spirometry for COPD severity evaluation
+monitor urination symptoms 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 3 2016/04/14 已確認 已批 郭律成  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff PRN IH 28 1 btl 健保  2016/04/14 已確認 已批 郭律成  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2016/04/14 已確認 已批 郭律成 
+ 
+
+Subjective 
+69 y/o man,
+COPD with exacerbation and secondary infection
+Hospitalized 2016/3/17-3/26
+mild cough and sputum
+minimal dyspnea
+no SABA rescue needed.
+BPH symptoms (+) not deteriorated after Spiriva
+smoking for 40 years, 1 PPD, still smoking recently
+-----------------
+quit medication for several months.
+exacerbation with hospitalization 2016/10/13-10/22
+admitted to ICU. respiratory failure
+extubated then
+mild cough and dyspnea
+intermittent chest tingling pain (related to CAD?)
+one episode of dyspnea attack. responsive to SABA rescue. 
+Objective 
+Chest: clear BS
+【20160407】Pulmonary Function Test :
+C(L)  2.9  2.96  97.9    
+FEV1(L)  1.78  2.32  76.8    
+FEV1/FVC(%)  61.4  77.4   
+* Mild obstructive ventilatory defect 
+Assessment 
+COPD, group D 
+Plan 
+COPD treatment: triple therapy
+Berotec for rescue
+monitor urination symptoms 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 3 2016/11/17 已確認 已批 郭律成  
+Relvar Ellipta Inh Powder 30 dose/box (遞送劑量92/22mcg) 1 dose QD IH 28 1 box 健保 3 2016/11/17 已確認 已批 郭律成  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2016/11/17 已確認 已批 郭律成  
+Medicon 15 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/11/17 已確認 已批 郭律成 
+ 
+
+Subjective 
+69 y/o man,
+COPD with exacerbation and secondary infection
+Hospitalized 2016/3/17-3/26
+mild cough and sputum
+minimal dyspnea
+no SABA rescue needed.
+BPH symptoms (+) not deteriorated after Spiriva
+smoking for 40 years, 1 PPD, still smoking recently
+-----------------
+quit medication for several months.
+exacerbation with hospitalization 2016/10/13-10/22
+admitted to ICU. respiratory failure
+extubated then
+mild cough and dyspnea
+intermittent chest tingling pain (related to CAD?)
+one episode of dyspnea attack. responsive to SABA rescue. 
+Objective 
+Chest: clear BS
+【20160407】Pulmonary Function Test :
+C(L)  2.9  2.96  97.9    
+FEV1(L)  1.78  2.32  76.8    
+FEV1/FVC(%)  61.4  77.4   
+* Mild obstructive ventilatory defect 
+Assessment 
+COPD, group D 
+Plan 
+COPD treatment: triple therapy
+Berotec for rescue
+monitor urination symptoms 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 3 2016/11/17 已確認 已批 郭律成  
+Relvar Ellipta Inh Powder 30 dose/box (遞送劑量92/22mcg) 1 dose QD IH 28 1 box 健保 3 2016/11/17 已確認 已批 郭律成  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2016/11/17 已確認 已批 郭律成  
+Medicon 15 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/11/17 已確認 已批 郭律成 
+ 
+
+Subjective 
+69 y/o man,
+COPD with exacerbation and secondary infection
+Hospitalized 2016/3/17-3/26
+mild cough and sputum
+minimal dyspnea
+no SABA rescue needed.
+BPH symptoms (+) not deteriorated after Spiriva
+smoking for 40 years, 1 PPD, still smoking recently
+-----------------
+quit medication for several months.
+exacerbation with hospitalization 2016/10/13-10/22
+admitted to ICU. respiratory failure
+extubated then
+mild cough and dyspnea
+intermittent chest tingling pain (related to CAD?)
+one episode of dyspnea attack. responsive to SABA rescue. 
+Objective 
+Chest: clear BS
+【20160407】Pulmonary Function Test :
+C(L)  2.9  2.96  97.9    
+FEV1(L)  1.78  2.32  76.8    
+FEV1/FVC(%)  61.4  77.4   
+* Mild obstructive ventilatory defect 
+Assessment 
+COPD, group D 
+Plan 
+COPD treatment: triple therapy
+Berotec for rescue
+monitor urination symptoms 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 3 2016/11/17 已確認 已批 郭律成  
+Relvar Ellipta Inh Powder 30 dose/box (遞送劑量92/22mcg) 1 dose QD IH 28 1 box 健保 3 2016/11/17 已確認 已批 郭律成  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2016/11/17 已確認 已批 郭律成  
+Medicon 15 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/11/17 已確認 已批 郭律成 
+ 
+
+Subjective 
+69 y/o man,
+COPD with exacerbation and secondary infection
+Hospitalized 2016/3/17-3/26
+mild cough and sputum
+minimal dyspnea
+no SABA rescue needed.
+BPH symptoms (+) not deteriorated after Spiriva
+smoking for 40 years, 1 PPD, still smoking recently
+-----------------
+quit medication for several months.
+exacerbation with hospitalization 2016/10/13-10/22
+admitted to ICU. respiratory failure
+extubated then
+----------------
+visited ER on 11/21 because of dyspnea attack
+improving. but stiil marked sneezing and rhinorrhea 
+Objective 
+Chest: expiratory rhonchi
+【20160407】Pulmonary Function Test :
+C(L)  2.9  2.96  97.9    
+FEV1(L)  1.78  2.32  76.8    
+FEV1/FVC(%)  61.4  77.4   
+* Mild obstructive ventilatory defect 
+Assessment 
+COPD, group D 
+Plan 
+COPD treatment: triple therapy
+Berotec for rescue
+monitor urination symptoms 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 2 tab BID PO 5 20 tab 健保  2016/11/28 已確認 已批 郭律成  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff PRN IH 7 1 btl 健保  2016/11/28 已確認 已批 郭律成  
+Medicon 15 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/11/28 已確認 已批 郭律成  
+Allegra 60 mg/tab 1 tab BID PO 7 14 tab 健保  2016/11/28 已確認 已批 郭律成 
+ 

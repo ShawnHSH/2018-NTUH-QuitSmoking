@@ -1,0 +1,592 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+Hyperthyroidism s/p medication 2+ years, DC medication since 2015/4. Weakness occasionally. High blood glucose. No HBV and HCV. 
+
+現病史：
+NA
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+Pretibial myxedema, nodular type. 
+EOM limitation
+
+BP 171/76 mmHg; PR 93/min 
+Plan 
+Admission 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Kerlone 20 mg/tab 1 tab QD PO 7 7 tab 健保  2015/12/25 已確認 已批 呂金盈  
+Newmazole 10 mg/tab 1 tab BID PO 7 14 tab 健保  2015/12/25 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09112B0P *Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/12/25 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/12/26
+ 呂金盈 
+檢驗 09106C0P *Free T4 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 12134B0P Anti-TPO Ab 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 27069BZA Thyrotropin-binding inhibiting immunoglobulin,TBII 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 12068BZP TA (Thyroglobulin antibody) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 08013CZP WBC classification 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 呂金盈 
+檢驗 14032C0P HBsAg (EIA) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2015/12/26
+ 陳逸軒 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/25 已批 完成：2015/12/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/25 已批 完成：2015/12/25  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/12/25 已批 完成：2015/12/25 
+ 
+
+Subjective 
+Hyperthyroidism s/p medication 2+ years, DC medication since 2015/4. Weakness occasionally. High blood glucose. No HBV and HCV. 
+Objective 
+【20160111】Plasma renin activity: 0.02   ng/ml/hr  Aldosterone(Plasma): 9.42   ng/dl
+【20151231】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 93.7   %
+【20151231】HB: 10.9   g/dL  MCV: 61.3   fL
+【20151231】ACTH: 14.4   pg/mL  ACTH: 5.42   pg/mL  T3: 84.2   ng/dL  Cortisol DL: 2.02   μg/dL  Cortisol DL: 1.44   μg/dL
+【20151228】Anti-TPO Ab.(AMA): 579.18   IU/mL  Anti-Thyroglobulin Ab(TA): 4.02   IU/mL
+【20151228】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 3.82   ng/dL  HbA1c: 5.1   %
+【20151226】GLU AC: 94   mg/dL
+【20151226】ALT: 41   U/L  CRE: 0.3   mg/dL
+
+Pretibial myxedema, nodular type. 
+EOM limitation at upward gaze
+
+BP 171/76 -> 155/78 mmHg; PR 93 -> 102/min 
+Plan 
+Admission 1/23 (W6) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PLAQUENIL 200 mg/tab 1 tab BID PO 14 28 tab 健保  2016/01/13 已確認 已批 呂金盈  
+5康肯 Concor 5 mg/tab 1 tab QD PO 14 14 tab 健保  2016/01/13 已確認 已批 呂金盈  
+DOXABEN XL 4 mg/tab 1 tab BID PO 14 28 tab 健保  2016/01/13 已確認 已批 呂金盈  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 14 28 tab 自費  2016/01/13 已確認 已批 呂金盈  
+舊 Procil 50 mg/tab 2 tab TID PO 14 84 tab 健保  2016/01/13 已確認 已批 呂金盈  
+(DC)Cutivate Cream 0.05% 5 g/tube 1 XX BID D 14 2 tube 健保  2016/01/13 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/13 已批 完成：2016/01/13  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/01/13 已批 完成：2016/01/13  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2016/01/13 已批 完成：2016/01/13 
+ 
+
+Subjective 
+主要病史來源：病人, 家屬
+
+主訴：
+Deep colored hard swollen lesions on both legs and feet for 7-8 years
+
+(History taken by JC邱晨瑞)
+
+現病史：
+The patient was a 41-year-old male with Graves' disease. According to the patient, his both legs were a little bit darker than normal skin 5 years ago. He went to local clinic for help, but no abnormality was found. After he took the medication for Graves' disease 3 years ago, the lesions became darker and more swollen with some nodules under the skin. Itchiness was sometimes noted, but pain was denied. On 12/27,2015, he came to NTUH for recieving the steroid pulse therapy and the biopsy for the skin lesions. Due to the patient, he felt more comfortable after the steroid injected. This time, he came to our ward not only for removing stitiches, but also for the result of the biopsy.
+
+scheduled pulse therpy once every month in Dr. 呂金盈's clinic
+pathology report c/w myxedema
+
+過去病史：
+Graves' disease
+
+過敏史：
+藥物過敏：不清楚 
+食物過敏：不清楚 
+
+
+目前用藥：
+propylthiouracil
+
+最近三個月內旅遊史：無
+
+家族病史：癌症、糖尿病
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+There are extensive deep colored hard swollen thickened plaques with papillomatous nodules on both legs and feet. espcially on the shins and dorsum of the feet
+
+pathology report
+Skin, shin, right, biopsy, intradermal mucin deposition, c/w pretibial myxedema
+Skin, shoulder, right, biopsy, none made (see description)
+
+
+      The specimens are submitted in two separate bottles labeled as A: right shin and B: right shoulder, respectively, fixed in formalin.
+
+      The specimen labeled as A consists of one skin tissue fragment measuring 1.0 x 0.3 x 0.3 cm in size.  Grossly, it is gray and elastic.
+
+      The specimen labeled as B consists of one skin tissue fragment measuring 0.8 x 0.2 x 0.2 cm in size.  Grossly, it is gray and elastic.
+
+
+      All for sections and labeled as:                                Jar 0
+      A: right shin
+      B: right shoulder
+
+      Microscopically, section A shows a band of mucin deposition (highlighted by Alcian blue stain) in the reticular dermis in association with hyperkeratosis, acanthosis and mild papillomatosis, in context compatible with pretibial myxedema. 
+      Section B shows superficial perivascular lymphocytic infiltration, telangiectasia and focal dermal mucin deposition (highlighted by Alcian blue stain).  The dermis is somewhat thickened.  Although the picture may be compatible with scleredema, typical dermal swollen collagen bundles with fenestration are not evident.  No definite diagnosis is made.  Clinicopathological correlation is needed. 
+
+
+Ref: nil 
+Assessment 
+pretibial myxedema 
+Plan 
+patient education, may need surgery in the future
+treatment and followed up as Dr.呂金盈's plans 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+O R60.9 Edema, unspecified  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)傷口在10CM以下 1  N 2016/01/13 執行、已批 完成：2016/01/13
+ 邱顯清 
+治療 48025C00 拆線(次)傷口在10CM以下 1  N 2016/01/13 執行、已批 完成：2016/01/13
+ 邱顯清 
+治療 000Z3043 中文診斷書 1 自費 N 2016/01/13 執行、已批 完成：2016/01/13
+ 邱顯清 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/13 已批 完成：2016/01/13  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 
+ 
+
+Subjective 
+Hyperthyroidism s/p medication 2+ years, DC medication since 2015/4. Weakness occasionally. High blood glucose. No HBV and HCV. Pretibial myxedema, much improved after intralesional injection of steroid. 
+Objective 
+【20160202】hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 2.32   ng/dL
+【20160201】GLU: 147   mg/dL  Sugar(One touch): 145   *
+
+【20160111】Plasma renin activity: 0.02   ng/ml/hr  Aldosterone(Plasma): 9.42   ng/dl
+【20151231】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 93.7   %
+【20151231】HB: 10.9   g/dL  MCV: 61.3   fL
+【20151231】ACTH: 14.4   pg/mL  ACTH: 5.42   pg/mL  T3: 84.2   ng/dL  Cortisol DL: 2.02   μg/dL  Cortisol DL: 1.44   μg/dL
+【20151228】Anti-TPO Ab.(AMA): 579.18   IU/mL  Anti-Thyroglobulin Ab(TA): 4.02   IU/mL
+【20151228】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 3.82   ng/dL  HbA1c: 5.1   %
+【20151226】GLU AC: 94   mg/dL
+【20151226】ALT: 41   U/L  CRE: 0.3   mg/dL
+
+Pretibial myxedema, nodular type. 
+EOM limitation at upward gaze
+
+BP 171/76 -> 155/78 -> 134/85 mmHg; PR 93 -> 102 -> 96/min 
+Plan 
+RTC 2 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O I89.0 Lymphedema, not elsewhere classified  
+O L98.9 Dermatoses 慢  
+M E05.00 Graves disease 慢  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PLAQUENIL 200 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/02/17 已確認 已批 呂金盈  
+5康肯 Concor 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/02/17 已確認 已批 呂金盈  
+DOXABEN XL 4 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/02/17 已確認 已批 呂金盈  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 56 112 tab 自費  2016/02/17 已確認 已批 呂金盈  
+Triamcinolone Susp inj 10 mg/1 mL /amp 40 mg QD IL 1 4 amp 健保  2016/02/17 已確認 已批 呂金盈  
+Newmazole 10 mg/tab 2 tab BIDPC PO 28 112 tab 健保 2 2016/02/17 已確認 已批 呂金盈  
+(DC)Fucidin Cream 2% 5 g/tube 1 XX BID D 28 2 tube 健保  2016/02/17 已確認 已批 呂金盈  
+(DC)Cutivate Cream 0.05% 5 g/tube 1 XX BID D 28 2 tube 健保  2016/02/17 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09106C0P Free T4 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/02/17 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/04/13
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 09043C0P HDL 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 12134B0P Anti-TPO Ab 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 27069BZA Thyrotropin-binding inhibiting immunoglobulin,TBII 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+檢驗 12068BZP TA (Thyroglobulin antibody) 1  N 2016/02/17 執行、已批 Specimen:BLO
+完成：2016/04/13
+ 呂金盈 
+醫材 20000905 塑膠注射器，帶針3CC (螺旋，23G*1+1/4"") 4  N 2016/02/17 執行、已批 完成：2016/02/17
+ 呂金盈 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/17 已批 完成：2016/02/17  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/02/17 已批 完成：2016/02/17  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/17 已批 完成：2016/02/17 
+ 
+
+Subjective 
+Hyperthyroidism s/p medication 2+ years, DC medication since 2015/4. Weakness occasionally. High blood glucose. No HBV and HCV. Pretibial myxedema, much improved after intralesional injection of steroid. 
+Objective 
+【20160202】hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 2.32   ng/dL
+【20160201】GLU: 147   mg/dL  Sugar(One touch): 145   *
+
+【20160111】Plasma renin activity: 0.02   ng/ml/hr  Aldosterone(Plasma): 9.42   ng/dl
+【20151231】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 93.7   %
+【20151231】HB: 10.9   g/dL  MCV: 61.3   fL
+【20151231】ACTH: 14.4   pg/mL  ACTH: 5.42   pg/mL  T3: 84.2   ng/dL  Cortisol DL: 2.02   μg/dL  Cortisol DL: 1.44   μg/dL
+【20151228】Anti-TPO Ab.(AMA): 579.18   IU/mL  Anti-Thyroglobulin Ab(TA): 4.02   IU/mL
+【20151228】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 3.82   ng/dL  HbA1c: 5.1   %
+【20151226】GLU AC: 94   mg/dL
+【20151226】ALT: 41   U/L  CRE: 0.3   mg/dL
+
+Pretibial myxedema, nodular type. 
+EOM limitation at upward gaze
+
+BP 171/76 -> 155/78 -> 134/85 -> 154/87 mmHg; PR 93 -> 102 -> 96 -> 106/min 
+Plan 
+RTC one month 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+O I10 Hypertension 慢  
+O I89.0 Lymphedema, not elsewhere classified  
+O L98.9 Dermatoses 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PLAQUENIL 200 mg/tab 1 tab BID PO 28 56 tab 健保  2016/04/13 已確認 已批 呂金盈  
+5康肯 Concor 5 mg/tab 1 tab BID PO 28 56 tab 健保  2016/04/13 已確認 已批 呂金盈  
+DOXABEN XL 4 mg/tab 1 tab BID PO 28 56 tab 健保  2016/04/13 已確認 已批 呂金盈  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 自費  2016/04/13 已確認 已批 呂金盈  
+Triamcinolone Susp inj 10 mg/1 mL /amp 40 mg QD IL 1 4 amp 健保  2016/04/13 已確認 已批 呂金盈 特殊醫囑:With Titration 
+ 
+Newmazole 10 mg/tab 2 tab BIDPC PO 28 112 tab 健保  2016/04/13 已確認 已批 呂金盈  
+(DC)Fucidin Cream 2% 5 g/tube 1 XX BID D 28 2 tube 健保  2016/04/13 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09112B0P *Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/04/13 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/06/08
+ 呂金盈 
+檢驗 09106C0P *Free T4 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 呂金盈 
+醫材 20000905 塑膠注射器，帶針3CC (螺旋，23G*1+1/4"") 4  N 2016/04/13 執行、已批 完成：2016/04/13
+ 呂金盈 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/13 已批 完成：2016/04/13  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/04/13 已批 完成：2016/04/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/13 已批 完成：2016/04/13 
+ 
+
+Subjective 
+Hyperthyroidism s/p medication 2+ years, DC medication since 2015/4. Weakness occasionally. High blood glucose. No HBV and HCV. Pretibial myxedema, much improved after intralesional injection of steroid. 
+Objective 
+【20160414】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 86.9   %
+【20160413】Anti-TPO Ab.(AMA): 269.95   IU/mL  Anti-Thyroglobulin Ab(TA): <3.00   IU/mL  hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 3.61   ng/dL  LDL-C: 66   mg/dL  HDL-C: 31   mg/dL  ALT: 31   U/L  CRE: 0.6   mg/dL  HbA1c: 5.2   %  GLU AC: 108   mg/dL  GLU 2hr PC: 133   mg/dL  TG: 67   mg/dL  T-CHO: 102   mg/dL
+
+【20160202】hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 2.32   ng/dL
+【20160201】GLU: 147   mg/dL  Sugar(One touch): 145   *
+
+【20160111】Plasma renin activity: 0.02   ng/ml/hr  Aldosterone(Plasma): 9.42   ng/dl
+【20151231】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 93.7   %
+【20151231】HB: 10.9   g/dL  MCV: 61.3   fL
+【20151231】ACTH: 14.4   pg/mL  ACTH: 5.42   pg/mL  T3: 84.2   ng/dL  Cortisol DL: 2.02   μg/dL  Cortisol DL: 1.44   μg/dL
+【20151228】Anti-TPO Ab.(AMA): 579.18   IU/mL  Anti-Thyroglobulin Ab(TA): 4.02   IU/mL
+【20151228】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 3.82   ng/dL  HbA1c: 5.1   %
+【20151226】GLU AC: 94   mg/dL
+【20151226】ALT: 41   U/L  CRE: 0.3   mg/dL
+
+Pretibial myxedema, nodular type. 
+EOM limitation at upward gaze
+
+BP 171/76 -> 155/78 -> 134/85 -> 154/87 -> 133/74 mmHg; PR 93 -> 102 -> 96 -> 106 >88/min 
+Plan 
+RTC one month (W6-W1住院打針) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+O L98.9 Dermatoses 慢  
+O I89.0 Lymphedema, not elsewhere classified  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PLAQUENIL 200 mg/tab 1 tab BID PO 28 56 tab 健保  2016/05/11 已確認 已批 呂金盈  
+5康肯 Concor 5 mg/tab 1 tab BID PO 28 56 tab 健保  2016/05/11 已確認 已批 呂金盈  
+DOXABEN XL 4 mg/tab 1 tab BID PO 28 56 tab 健保  2016/05/11 已確認 已批 呂金盈  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 自費  2016/05/11 已確認 已批 呂金盈  
+Newmazole 10 mg/tab 2 tab BIDPC PO 28 112 tab 健保  2016/05/11 已確認 已批 呂金盈  
+SBS Oint 30 g/box 1 XX BID D 28 1 box 健保  2016/05/11 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 呂金盈 
+檢驗 09025CZP AST(GOT) 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/08
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2016/05/16 報到、已批 Specimen:BLO
+ 呂金盈 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/11 已批 完成：2016/05/11  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/11 已批 完成：2016/05/11  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/05/11 已批 完成：2016/05/11 
+ 
+
+Subjective 
+Hyperthyroidism s/p medication 2+ years, DC medication since 2015/4. Weakness occasionally. High blood glucose. No HBV and HCV. Pretibial myxedema, much improved after intralesional injection of steroid. 
+Objective 
+【20160516】Sugar(One touch): 149   *
+【20160515】Sugar(One touch): 281   *
+【20160514】Sugar(One touch): 109   *
+【20160414】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 86.9   %
+【20160413】Anti-TPO Ab.(AMA): 269.95   IU/mL  Anti-Thyroglobulin Ab(TA): < 3.00   IU/mL  hsTSH(CIA): < 0.004   μIU/mL  Free T4(CIA): 3.61   ng/dL  LDL-C: 66   mg/dL  HDL-C: 31   mg/dL  ALT: 31   U/L  CRE: 0.6   mg/dL  HbA1c: 5.2   %  GLU AC: 108   mg/dL  GLU 2hr PC: 133   mg/dL  TG: 67   mg/dL  T-CHO: 102   mg/dL
+
+【20160202】hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 2.32   ng/dL
+【20160201】GLU: 147   mg/dL  Sugar(One touch): 145   *
+
+【20160111】Plasma renin activity: 0.02   ng/ml/hr  Aldosterone(Plasma): 9.42   ng/dl
+【20151231】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 93.7   %
+【20151231】HB: 10.9   g/dL  MCV: 61.3   fL
+【20151231】ACTH: 14.4   pg/mL  ACTH: 5.42   pg/mL  T3: 84.2   ng/dL  Cortisol DL: 2.02   μg/dL  Cortisol DL: 1.44   μg/dL
+【20151228】Anti-TPO Ab.(AMA): 579.18   IU/mL  Anti-Thyroglobulin Ab(TA): 4.02   IU/mL
+【20151228】hsTSH(CIA): < 0.004   μIU/mL  Free T4(CIA): 3.82   ng/dL  HbA1c: 5.1   %
+【20151226】GLU AC: 94   mg/dL
+【20151226】ALT: 41   U/L  CRE: 0.3   mg/dL
+
+Pretibial myxedema, nodular type. 
+EOM limitation at upward gaze
+
+BP 171/76 -> 155/78 -> 134/85 -> 154/87 -> 133/74 -> 150/76  mmHg; PR 93 -> 102 -> 96 -> 106 >88/min 
+Plan 
+RTC 2weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+O I10 Hypertension 慢  
+O I89.0 Lymphedema, not elsewhere classified  
+O L98.9 Dermatoses 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 14 28 tab 健保  2016/06/08 已確認 已批 呂金盈  
+PLAQUENIL 200 mg/tab 1 tab BID PO 14 28 tab 健保  2016/06/08 已確認 已批 呂金盈  
+5康肯 Concor 5 mg/tab 1 tab BID PO 14 28 tab 健保  2016/06/08 已確認 已批 呂金盈  
+DOXABEN XL 4 mg/tab 1 tab BID PO 14 28 tab 健保  2016/06/08 已確認 已批 呂金盈  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 14 28 tab 自費  2016/06/08 已確認 已批 呂金盈  
+Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 14 42 pack 自費  2016/06/08 已確認 已批 呂金盈  
+Newmazole 10 mg/tab 2 tab BIDPC PO 14 56 tab 健保  2016/06/08 已確認 已批 呂金盈  
+眼 Tetracycline Oph Oint 10 mg/1 g 1% 5 g/tube 1 XX AS ORDER D 14 1 tube 健保  2016/06/08 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/08 已批 完成：2016/06/08  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/06/08 已批 完成：2016/06/08  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2016/06/08 已批 完成：2016/06/08 
+ 
+
+Subjective 
+Hyperthyroidism s/p medication 2+ years, DC medication since 2015/4. Weakness occasionally. High blood glucose. No HBV and HCV. Pretibial myxedema, much improved after intralesional injection of steroid. 
+Objective 
+【20160608】hsTSH(CIA): <0.004   μIU/mL  Free T4(CIA): 2.31   ng/dL  ALT: 33   U/L  AST: 25   U/L
+
+【20160414】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 86.9   %
+【20160413】Anti-TPO Ab.(AMA): 269.95   IU/mL  Anti-Thyroglobulin Ab(TA): < 3.00   IU/mL  hsTSH(CIA): < 0.004   μIU/mL  Free T4(CIA): 3.61   ng/dL  LDL-C: 66   mg/dL  HDL-C: 31   mg/dL  ALT: 31   U/L  CRE: 0.6   mg/dL  HbA1c: 5.2   %  GLU AC: 108   mg/dL  GLU 2hr PC: 133   mg/dL  TG: 67   mg/dL  T-CHO: 102   mg/dL
+
+【20160202】hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 2.32   ng/dL
+【20160201】GLU: 147   mg/dL  Sugar(One touch): 145   *
+
+【20160111】Plasma renin activity: 0.02   ng/ml/hr  Aldosterone(Plasma): 9.42   ng/dl
+【20151231】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 93.7   %
+【20151231】HB: 10.9   g/dL  MCV: 61.3   fL
+【20151231】ACTH: 14.4   pg/mL  ACTH: 5.42   pg/mL  T3: 84.2   ng/dL  Cortisol DL: 2.02   μg/dL  Cortisol DL: 1.44   μg/dL
+【20151228】Anti-TPO Ab.(AMA): 579.18   IU/mL  Anti-Thyroglobulin Ab(TA): 4.02   IU/mL
+【20151228】hsTSH(CIA): < 0.004   μIU/mL  Free T4(CIA): 3.82   ng/dL  HbA1c: 5.1   %
+【20151226】GLU AC: 94   mg/dL
+【20151226】ALT: 41   U/L  CRE: 0.3   mg/dL
+
+Pretibial myxedema, nodular type. 
+EOM limitation at upward gaze
+
+BP 171/76 -> 155/78 -> 134/85 -> 154/87 -> 133/74 -> 150/76 -> 171/84 mmHg; PR 93 -> 102 -> 96 -> 106 >88 -> 98/min
+Goiter grade 
+Plan 
+RTC 4 weeks; I-131 20 mCi 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves disease 慢  
+O L98.9 Dermatoses 慢  
+O I89.0 Lymphedema, not elsewhere classified  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PLAQUENIL 200 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/22 已確認 已批 呂金盈  
+5康肯 Concor 5 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/22 已確認 已批 呂金盈  
+DOXABEN XL 4 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/22 已確認 已批 呂金盈  
+Plendil 5 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/22 已確認 已批 呂金盈  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 自費  2016/06/22 已確認 已批 呂金盈  
+Nacid 500 mg/tab 1 tab QD PO 7 7 tab 自費  2016/06/22 已確認 已批 呂金盈  
+Lidin 300 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/06/22 已確認 已批 呂金盈  
+Dorison 4 mg/tab 1 tab QDPC PO 7 7 tab 健保  2016/06/22 已確認 已批 呂金盈  
+Newmazole 10 mg/tab 2 tab BIDPC PO 28 112 tab 健保  2016/06/22 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2016/06/21 執行、已批 Specimen:BLO
+完成：2016/07/12
+ 呂金盈 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/06/21 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/07/12
+ 呂金盈 
+核醫 000TP911 I-131 _______ mCi (478/1 mCi) 20  N 2016/06/21 報到、已批 完成：2016/07/12
+ 呂金盈 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2016/06/21 執行、已批 完成：2016/07/12
+ 呂金盈 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/22 已批 完成：2016/06/22  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/06/22 已批 完成：2016/06/22  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/22 已批 完成：2016/06/22 
+ 
+
+Subjective 
+6/22
+cigarette smoking program
+PMHP: normal BP before
+ has been on med for hyperthyroidism
+skin problem bil llower legs
+no acute dsistress
+work indoors 黑手 
+Objective 
+6/22
+BP 179/75  P 107
+CV RRR no murmur【20160608】
+AST: 25   U/L
+【20160608】ALT: 33   U/L
+【20160608】Free T4(CIA): 2.31   ng/dL  H
+【20160608】hsTSH(CIA): < 0.004   μIU/mL L 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 21 42 tab 健保  2016/06/22 已確認 已批 王維典 重複原因:長效與短效搭配加強療效或彈性調節
+ 
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/06/22 已確認 已批 王維典 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/09/23 執行、已批、未看完 完成：2016/09/23
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/12/27 執行、已批、未看完 完成：2016/12/27
+ 王維典 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/22 已批 完成：2016/06/22  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/06/22 已批 完成：2016/06/22  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/06/22 已批 完成：2016/06/22 
+ 

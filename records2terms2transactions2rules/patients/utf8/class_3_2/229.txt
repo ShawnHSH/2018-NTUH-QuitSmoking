@@ -1,0 +1,35 @@
+﻿
+Subjective 
+Abnormal tumor marker was noticed on health exam 
+Objective 
+【20110105】Right hand :Skin,hand, right,shave biopsy,verruca vulgaris 
+Plan 
+Low dose chest CT (CASH) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z71.9 Consultation 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000M4A02 CT Without Contrast for low dose lung cancer screening 1 自費 N 2016/11/15 執行、已批 Indication:Consultation
+小部位:自費 Low dose chest CT screening,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/11/23
+ 廖唯昱 
+ 
+
+Subjective 
+Chest CT showed no obvious lung lesion 
+Objective 
+【20161123】CT Without Contrast for low dose lung cancer screening :no definite abnormality of pulmonary parenchyma in the screening chest CT study. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z71.9 Consultation 慢  
+ 

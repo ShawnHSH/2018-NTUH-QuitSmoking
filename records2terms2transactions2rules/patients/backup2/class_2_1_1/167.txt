@@ -1,0 +1,2269 @@
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/10/15 已確認 已批 賴婉玲  
+MgO 250 mg/tab 2 tab BID PO 28 112 tab 健保 3 2014/10/15 已確認 已批 賴婉玲  
+(管4) Lexotan 3 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/10/15 已確認 已批 賴婉玲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/10/15 已確認 已批 賴婉玲  
+SeroQuel 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/10/15 已確認 已批 賴婉玲  
+針 Risperdal Consta Susp Inj 25 mg/vial 25 mg Q2W IM 28 2 vial 健保 3 2014/10/15 已確認 已批 賴婉玲  
+舊 (DC)Bipiden 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/10/15 已確認 已批 賴婉玲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/10/15 已批 完成：2014/10/15 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/12 已確認 已批 謝欣妤  
+MgO 250 mg/tab 2 tab BID PO 28 112 tab 健保 3 2014/11/12 已確認 已批 謝欣妤  
+(管4) Lexotan 3 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/12 已確認 已批 謝欣妤  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/12 已確認 已批 謝欣妤  
+SeroQuel 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/12 已確認 已批 謝欣妤  
+針 Risperdal Consta Susp Inj 25 mg/vial 25 mg Q2W IM 28 2 vial 健保 3 2014/11/12 已確認 已批 謝欣妤  
+舊 (DC)Bipiden 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/12 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/11/12 已批 完成：2014/11/12 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+good response to seroquel 50mg
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+]]]□■□■減藥DC Bipedin Lexotan MgO
+-----+++@@@Appointment預約三個月後複診，今日處方種類\ 4 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/12/11 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/12/11 已確認 已批 謝明憲  
+SeroQuel 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/12/11 已確認 已批 謝明憲  
+針 Risperdal Consta Susp Inj 25 mg/vial 25 mg Q2W IM 28 2 vial 健保 3 2014/12/11 已確認 已批 謝明憲 特殊醫囑:12/11,12/25,1/8,1/22,2/5,2/17(因2/19過年,提早兩天) 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/11 已批 完成：2014/12/11  
+行政費用 00181B00 精神科門診診察費－２次以上慢性病連續處方，每次２８天，本院調劑 1  N 2014/12/11 已批 完成：2014/12/11  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/12/11 已批 完成：2014/12 
+ 
+
+Subjective 
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.79 Malaise, fatigue  
+O 272.4 Hyperlipidemia 慢  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2014/12/30 執行、已批 Specimen:UR1
+完成：2015/03/17
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2014/12/30 執行、已批 Specimen:UR1
+完成：2015/03/17
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2014/12/30 執行、已批 Specimen:ECG
+完成：2015/03/17
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2014/12/30 執行、已批 Specimen:BLO
+完成：2015/03/17
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/30 已批 完成：2014/12/30  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/12/30 已批 完成：2014/12/30 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/01/08 已確認 已批 謝欣妤  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/01/08 已確認 已批 謝欣妤  
+SeroQuel 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/01/08 已確認 已批 謝欣妤  
+針 Risperdal Consta Susp Inj 25 mg/vial 25 mg Q2W IM 28 2 vial 健保 3 2015/01/08 已確認 已批 謝欣妤 特殊醫囑:12/11,12/25,1/8,1/22,2/5,2/17(因2/19過年,提早兩天) 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/01/08 已批 完成：2015/01/08  
+ 
+ 
+
+Subjective 
+good response to seroquel 50mg
+smoking 1PPD
+
+Previous condition:
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+1/10 psychotic symptoms: 開始聞到異香
+Recent stressor: 太太娘家妹妹病況不穩，太太最近晚上都會回娘家睡
+病人1/9來急診說心情不穩，labile mood
+僅要求想住院，但住院是為了可以「自己照顧自己」
+無法澄清住院目標 
+Objective 
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Plan 
+Inderal 1# BID
+Ativan 1# BID
+Seroquel(50) 1# HS
+supportive psychotherapy
+bridge back to Dr.謝's OPD 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 6 12 tab 健保  2015/01/10 已確認 已批 潘欣平 重複原因:原治療未達預期療效
+ 
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 6 12 tab 健保  2015/01/10 已確認 已批 潘欣平  
+長效 50 Seroquel XR 50 mg/tab 1 tab HS PO 6 6 tab 健保  2015/01/10 已確認 已批 潘欣平  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/10 已批 完成：2015/01/10  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2015/01/10 已批 完成：2015/01/10  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/01/10 已批 完成：2015/01/10 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/02 已確認 已批 沈玉琴  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/02 已確認 已批 沈玉琴  
+SeroQuel 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/02 已確認 已批 沈玉琴  
+針 Risperdal Consta Susp Inj 25 mg/vial 25 mg Q2W IM 28 2 vial 健保 3 2015/02/02 已確認 已批 沈玉琴 特殊醫囑:12/11,12/25,1/8,1/22,2/5,2/17(因2/19過年,提早兩天) 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/02/02 已批 完成：2015/02/02 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+內湖科學園區科技大樓當警衛
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+☆將針劑CONSTA 25mg/q2week★改為Sustenna 100mg q3至q4week 
+-----+++@@@Appointment預約三星期後複診，今日處方種類\ 5
+[[[□■□■加藥/ Lexotan# 與Inderal for 高度焦慮症狀
+[[[□■□■/換藥 Seroquel# Mesyrel 
+Plan 
+===下次門診3/26:評估本次調藥之效果 
+sustenna換藥○●本院自2015一月之後無☆CONSTA★
+☆將針劑CONSTA 25mg q2week★改為Sustenna 100mg q3至q4week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 21 63 tab 健保  2015/03/05 已確認 已批 謝明憲  
+(管4) Lexotan 3 mg/tab 1 tab TID PO 21 63 tab 健保  2015/03/05 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 21 21 tab 健保  2015/03/05 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q3W IM 21 1 syrg 健保  2015/03/05 已確認 已批 謝明憲  
+Mesyrel 50 mg/tab 1 tab HS PO 21 21 tab 健保  2015/03/05 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/05 已批 完成：2015/03/05  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2015/03/05 已批 完成：2015/03/05  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/03/05 已批 完成：2015/03/05 
+ 
+
+Subjective 
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 790.6 Hyperuricemia 糖  
+M 780.79 Malaise, fatigue  
+O 785.1 Palpitations  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/03/24 已確認 已批 蔡詩力  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/03/24 已確認 已批 蔡詩力 用藥原因:a1c 7.7
+ 
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/24 已確認 已批 蔡詩力 用藥原因:a1c 7.7
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/03/24 執行、已批 Specimen:UR1
+完成：2015/06/09
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/03/24 執行、已批 Specimen:UR1
+完成：2015/06/09
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2015/03/24 執行、已批 Specimen:ECG
+完成：2015/06/09
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2015/03/24 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/24 已批 完成：2015/03/24  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/03/24 已批 完成：2015/03/24  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/24 已批 完成：2015/03/24 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+內湖科學園區科技大樓當警衛
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+☆將針劑CONSTA 25mg/q2week★改為Sustenna 100mg q4week 
+建議手麻腳麻：轉介神內蘇醫師
+
+-----+++@@@Appointment預約4星期後複診，今日處方種類\ 5 
+Plan 
+===下次門診:評估本次調藥之效果 
+sustenna換藥○●本院自2015一月之後無☆CONSTA★
+☆將針劑CONSTA 25mg q2week★改為Sustenna 100mg q3至q4week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保  2015/03/26 已確認 已批 謝明憲  
+(管4) Lexotan 3 mg/tab 1 tab TID PO 28 84 tab 健保  2015/03/26 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保  2015/03/26 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保  2015/03/26 已確認 已批 謝明憲 特殊醫囑:3/26 
+ 
+Mesyrel 50 mg/tab 1 tab HS PO 28 28 tab 健保  2015/03/26 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/26 已批 完成：2015/03/26  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2015/03/26 已批 完成：2015/03/26  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/26 已批 完成：2015/03/26 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 790.6 Hyperuricemia 糖  
+M 780.79 Malaise, fatigue  
+O 785.1 Palpitations  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/04/14 已確認 已批 林偉翔  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/04/14 已確認 已批 林偉翔 用藥原因:a1c 7.7
+ 
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/14 已確認 已批 林偉翔 用藥原因:a1c 7.7
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/14 已批 完成：2015/04/14 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+[[[□■□■/換藥Lexotan #Secorin 
+[[[□■□■換藥Mesytrl to /Rivotril 1# hs
+-----+++@@@Appointment預約4星期後複診，今日處方種類\ 5 
+Plan 
+===下次門診:評估本次調藥之效果 for Sleep 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保  2015/04/23 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保  2015/04/23 已確認 已批 謝明憲  
+(管4) Secorin 10 mg/tab 1 tab TID PO 28 84 tab 健保  2015/04/23 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保  2015/04/23 已確認 已批 謝明憲  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保  2015/04/23 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/23 已批 完成：2015/04/23  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2015/04/23 已批 完成：2015/04/23  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/23 已批 完成：2015/04/23 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+]]]□■□■減藥 Taper Secorin # 
+-----+++@@@Appointment預約4星期後複診，今日處方種類\ 5 
+Plan 
+===下次門診:評估本次調藥之效果 for Sleep 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保  2015/05/21 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保  2015/05/21 已確認 已批 謝明憲  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保  2015/05/21 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保  2015/05/21 已確認 已批 謝明憲 特殊醫囑:5/21 
+ 
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保  2015/05/21 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/21 已批 完成：2015/05/21  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2015/05/21 已批 完成：2015/05/21  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/05/21 已批 完成：2015/05/21 
+ 
+
+Subjective 
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Bil upper arm numbness and pain for 3 months
+Neck ever whiplash injury due to bus sudden break two years ago 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+M 780.79 Malaise, fatigue  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 790.6 Hyperuricemia 糖  
+O 785.1 Palpitations  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/06/16 已確認 已批 蔡詩力  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/06/16 已確認 已批 蔡詩力  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/06/16 已確認 已批 蔡詩力  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/06/16 已確認 已批 蔡詩力  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/16 已確認 已批 蔡詩力  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/06/16 執行、已批 Specimen:UR1
+完成：2015/08/31
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/06/16 執行、已批 Specimen:UR1
+完成：2015/08/31
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2015/06/16 執行、已批 Specimen:ECG
+完成：2015/08/31
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2015/06/16 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/16 已批 完成：2015/06/16  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/06/16 已批 完成：2015/06/16  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/16 已批 完成：2015/06/16 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+-----+++@@@Appointment預約4星期後複診，今日處方種類\ 5 
+Plan 
+===下次門診:評估本次調藥之效果 for Sleep 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保  2015/06/18 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保  2015/06/18 已確認 已批 謝明憲  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保  2015/06/18 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保  2015/06/18 已確認 已批 謝明憲 特殊醫囑:6/18 
+ 
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保  2015/06/18 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/18 已批 完成：2015/06/18  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2015/06/18 已批 完成：2015/06/18  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/18 已批 完成：2015/06/18 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+M 780.79 Malaise, fatigue  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 790.6 Hyperuricemia 糖  
+O 785.1 Palpitations  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/07/07 已確認 已批 王瑞芬  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/07/07 已確認 已批 王瑞芬  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/07/07 已確認 已批 王瑞芬  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/07/07 已確認 已批 王瑞芬  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/07 已確認 已批 王瑞芬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/07 已批 完成：2015/07/07 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+-----+++@@@Appointment預約4星期後複診，今日處方種類\ 5
+建議戒煙 看家醫科黃教授門診（目前有在加醫科看DM） 
+Plan 
+===下次門診:評估本次調藥之效果 for Sleep 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保  2015/07/16 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保  2015/07/16 已確認 已批 謝明憲  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保  2015/07/16 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保  2015/07/16 已確認 已批 謝明憲 特殊醫囑:7/16 
+ 
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保  2015/07/16 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/16 已批 完成：2015/07/16  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2015/07/16 已批 完成：2015/07/16  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/16 已批 完成：2015/07/16 
+ 
+主/次 診斷碼 診斷名稱 註記 
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+M 780.79 Malaise, fatigue  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 790.6 Hyperuricemia 糖  
+O 785.1 Palpitations  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/08/04 已確認 已批 林沛珍  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/04 已確認 已批 林沛珍  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/04 已確認 已批 林沛珍  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/08/04 已確認 已批 林沛珍  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/04 已確認 已批 林沛珍  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/08/04 已批 完成：2015/08/04 
+ 
+
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+-----+++@@@Appointment預約8星期後複診，今日處方種類\ 6
+[[[□■□■加藥/BHL 1# 
+建議戒煙 看家醫科黃教授門診（目前有在家醫科看DM血脂肪） 
+Plan 
+===下次門診:評估本次調藥之效果□■□■加藥/BHL 1# 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2015/08/13 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/08/13 已確認 已批 謝明憲  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/08/13 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2015/08/13 已確認 已批 謝明憲 特殊醫囑:8/13. 9/10 
+ 
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/08/13 已確認 已批 謝明憲  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/08/13 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/13 已批 完成：2015/08/13  
+行政費用 00181B00 精神科門診診察費－２次以上慢性病連續處方，每次２８天，本院調劑 1  N 2015/08/13 已批 完成：2015/08/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/08/13 已批 完成：2015/08/13 
+
+Subjective 
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+anxiety
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Bil upper arm numbness and pain for 3 months
+Neck ever whiplash injury due to bus sudden break two years ago 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.79 Malaise, fatigue  
+O 250.00 Diabetes mellitus 慢 糖  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/09/08 已確認 已批 蔡詩力  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/08 已確認 已批 蔡詩力  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/08 已確認 已批 蔡詩力  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/09/08 已確認 已批 蔡詩力  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/08 已確認 已批 蔡詩力  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/09/08 執行、已批 Specimen:UR1
+完成：2015/11/24
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/09/08 執行、已批 Specimen:UR1
+完成：2015/11/24
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2015/09/08 執行、已批 Specimen:ECG
+完成：2015/11/24
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2015/09/08 執行、已批 Specimen:BLO
+完成：2015/11/24
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/08 已批 完成：2015/09/08  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/09/08 已批 完成：2015/09/08  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/08 已批 完成：2015/09/08 
+ 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2015/09/09 已確認 已批 謝欣妤  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/09/09 已確認 已批 謝欣妤  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/09/09 已確認 已批 謝欣妤  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2015/09/09 已確認 已批 謝欣妤 特殊醫囑:8/13. 9/10 
+ 
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/09/09 已確認 已批 謝欣妤  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/09/09 已確認 已批 謝欣妤  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/09 已批 完成：2015/09/09 
+ 
+
+Subjective 
+S:
+DM under OHA for 10+yrs, Psychosis Schizophrenia
+運動：1次/2週
+點心：檸檬水(0.5~1顆)+純喫茶(無糖)1瓶/拿鐵(全脂牛奶300cc)
+排便狀況：3次以上/天或3天一次
+《飲食紀錄》
+1.早午餐：【在家】1.5匙湯瓢燕麥+1/2湯匙黑芝麻粉+1/2茶匙糖
+2.午點：土司4片/奶酥麵包1個/蚵仔麵線1碗/蔬菜餅乾16片
+3.晚餐：【外食】便當1個+水果1碗
+4.宵夜：泡麵1碗/米麩2瓢/補體素1茶匙
+
+O:
+Lab 2015/08/31
+身高=165.0cm, 體重=57.8Kg, BMI=21.2 , 飯前血糖=227mg/dL, 糖化血色素=9.7%
+A:
+DM diet concept : poor
+calorie need: 1800kcal
+
+P:
+本人/太太
+1.醣類計算原則,簡易基本代換
+2.減少精緻糖類攝取,增加膳食纖維量
+3.增加運動
+4.體重維持 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V65.3 Dietary surveillance and counseling  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00026002 營養衛教追蹤（門診） 1 自費 N 2015/09/09 執行、已批 完成：2015/09/09
+ 賴聖如 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/09 已批 完成：2015/09/09 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.79 Malaise, fatigue  
+O 250.00 Diabetes mellitus 慢 糖  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/09/30 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/30 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/30 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/09/30 已確認 已批 林小琴  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/30 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/30 已批 完成：2015/09/30  
+ 
+ 
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+-----+++@@@Appointment預約8星期後複診，今日處方種類\ 6
+]]]]==Try先按照前次處方，但是請個案try taper □■加藥/BHL 1# 
+建議戒煙 看家醫科黃教授門診（目前有在家醫科看DM血脂肪） 
+Plan 
+===下次門診:評估本次調藥之效果□■□■加藥/BHL 1# 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2015/10/08 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/10/08 已確認 已批 謝明憲  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/10/08 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2015/10/08 已確認 已批 謝明憲 特殊醫囑:10/08. 11/05. 
+ 
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/10/08 已確認 已批 謝明憲  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/10/08 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/08 已批 完成：2015/10/08  
+行政費用 00181B00 精神科門診診察費－２次以上慢性病連續處方，每次２８天，本院調劑 1  N 2015/10/08 已批 完成：2015/10/08  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/08 已批 完成：2015/10/08 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.79 Malaise, fatigue  
+O 250.00 Diabetes mellitus 慢 糖  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/10/27 已確認 已批 林威良  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/27 已確認 已批 林威良  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/27 已確認 已批 林威良  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/10/27 已確認 已批 林威良  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/27 已確認 已批 林威良  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/27 已批 完成：2015/10/27  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2015/11/04 已確認 已批 鄭瑋婷  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/11/04 已確認 已批 鄭瑋婷  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/11/04 已確認 已批 鄭瑋婷  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2015/11/04 已確認 已批 鄭瑋婷 特殊醫囑:10/08. 11/05. 
+ 
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/11/04 已確認 已批 鄭瑋婷  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/11/04 已確認 已批 鄭瑋婷  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/11/04 已批 完成：2015/11/04  
+ 
+
+Subjective 
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+anxiety
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Bil upper arm numbness and pain for 3 months
+Neck ever whiplash injury due to bus sudden break two years ago 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+O 272.4 Hyperlipidemia 慢  
+M 250.00 Diabetes mellitus 慢 糖  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/12/01 已確認 已批 蔡詩力  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/01 已確認 已批 蔡詩力  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/01 已確認 已批 蔡詩力  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/12/01 已確認 已批 蔡詩力  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/01 已確認 已批 蔡詩力  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/12/01 執行、已批 Specimen:UR1
+完成：2016/02/16
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/12/01 執行、已批 Specimen:UR1
+完成：2016/02/16
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2015/12/01 執行、已批 Specimen:ECG
+完成：2016/02/16
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2015/12/01 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/01 已批 完成：2015/12/01  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/12/01 已批 完成：2015/12/01  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/01 已批 完成：2015/12/01 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+O 272.4 Hyperlipidemia 慢  
+M 250.00 Diabetes mellitus 慢 糖  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/12/22 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/22 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/22 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/12/22 已確認 已批 林小琴  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/22 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/22 已批 完成：2015/12/22 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2015/12/30 已確認 已批 林威良  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/12/30 已確認 已批 林威良  
+(管4) Secorin 10 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/12/30 已確認 已批 林威良  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2015/12/30 已確認 已批 林威良 特殊醫囑:12/3 12/31 
+ 
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/12/30 已確認 已批 林威良  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/30 已批 完成：2015/12/30 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 355.9 Neuropathy  
+O 721.3 Lumbar spondylosis 慢  
+O 272.4 Hyperlipidemia 慢  
+M 250.00 Diabetes mellitus 慢 糖  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/01/20 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/20 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/20 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/01/20 已確認 已批 林小琴  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/20 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/20 已批 完成：2016/01/20 
+ 
+
+Subjective 
+Hyperuricemia Diabetes mellitus Hyperlipidemia Lumbar spondylosis 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+-----+++@@@Appointment預約8星期後複診，今日處方種類\ 4
+]]]□■□■DC Secorin
+]]]□■□■本次(自備)故不處方DC用藥\\ Lexotan
+建議戒煙 看家醫科黃教授門診（目前有在家醫科看DM血脂肪） 
+Plan 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/01/28 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/01/28 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2016/01/28 已確認 已批 謝明憲 特殊醫囑:1/28 2/25 
+ 
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/01/28 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/28 已批 完成：2016/01/28  
+行政費用 00181B00 精神科門診診察費－２次以上慢性病連續處方，每次２８天，本院調劑 1  N 2016/01/28 已批 完成：2016/01/28  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/28 已批 完成：2016/01/28 
+
+
+Subjective 
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+anxiety
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Bil upper arm numbness and pain for 3 months
+Neck ever whiplash injury due to bus sudden break two years ago
+cough for 4 days
+rhinorrhea and nasal congestion for 3 days
+symptoms bothering sleep and work 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+Pain scale: 4/10
+112/78 mmHg
+HEENT:injected throat and 
+post-nasal drip
+chest: coarse BS
+Heart:RHB
+Abdomen:soft & flat,B/S: hypoactive
+no tenderness,no rebound tenderness
+low leg pitting edema(+/-) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O J06.9 Upper respiratory infection 呼  
+M E11.9 Diabetes mellitus 慢 糖  
+O E79.0 Hyperuricemia 慢 糖  
+O R00.2 Palpitations 慢  
+O G62.9 Neuropathy 慢 傳  
+O M47.816 Lumbar spondylosis 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/02/23 已確認 已批 蔡詩力  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/23 已確認 已批 蔡詩力  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/23 已確認 已批 蔡詩力  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/02/23 已確認 已批 蔡詩力  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/23 已確認 已批 蔡詩力  
+Regrow SR 60 mg/tab 1 tab BID PO 5 10 tab 健保  2016/02/23 已確認 已批 蔡詩力  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 5 10 tab 健保  2016/02/23 已確認 已批 蔡詩力  
+Allegra 60 mg/tab 1 tab BID PO 5 10 tab 健保  2016/02/23 已確認 已批 蔡詩力  
+Rinderon-V Cream 0.06% 5 g/tube 1 XX PRN D 28 1 tube 健保  2016/02/23 已確認 已批 蔡詩力  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/02/23 執行、已批 Specimen:UR1
+完成：2016/05/10
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/02/23 執行、已批 Specimen:UR1
+完成：2016/05/10
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2016/02/23 執行、已批 Specimen:ECG
+完成：2016/05/10
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2016/02/23 執行、已批 Specimen:BLO
+完成：2016/05/10
+ 蔡詩力 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2016/02/23 執行、已批 完成：2016/04/28
+ 蔡詩力 
+檢查 18019BXS 24-HRS Holter E.C.G.-２４小時連續記錄心電 1  N 2016/02/23 執行、已批 完成：2016/04/27
+ 蔡詩力 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2016/02/23 執行、已批 完成：2016/04/28
+ 蔡詩力 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2016/02/23 執行、已批 完成：2016/04/28
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/23 已批 完成：2016/02/23  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/02/23 已批 完成：2016/02/23  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/23 已批 完成：2016/02/23 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/02/24 已確認 已批 林小琴  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/02/24 已確認 已批 林小琴  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2016/02/24 已確認 已批 林小琴 特殊醫囑:1/28 2/25 
+ 
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/02/24 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/24 已批 完成：2016/02/24 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O J06.9 Upper respiratory infection 呼  
+M E11.9 Diabetes mellitus 慢 糖  
+O E79.0 Hyperuricemia 慢 糖  
+O R00.2 Palpitations 慢  
+O G62.9 Neuropathy 慢 傳  
+O M47.816 Lumbar spondylosis 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/03/15 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/15 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/15 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/03/15 已確認 已批 林小琴  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/15 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/15 已批 完成：2016/03/15 
+ 
+
+Subjective 
+Hyperuricemia Diabetes mellitus Hyperlipidemia Lumbar spondylosis 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+++@@@Appointment預約8星期後複診，今日處方種類\ 4
+
+建議戒煙 （目前有在家醫科看DM血脂肪） 
+Plan 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/03/24 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/03/24 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2016/03/24 已確認 已批 謝明憲 特殊醫囑:3/24 4/21 
+ 
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/03/24 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/24 已批 完成：2016/03/24  
+行政費用 00181B00 精神科門診診察費－２次以上慢性病連續處方，每次２８天，本院調劑 1  N 2016/03/24 已批 完成：2016/03/24  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/24 已批 完成：2016/03/24 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O J06.9 Upper respiratory infection 呼  
+M E11.9 Diabetes mellitus 慢 糖  
+O E79.0 Hyperuricemia 慢 糖  
+O R00.2 Palpitations 慢  
+O G62.9 Neuropathy 慢 傳  
+O M47.816 Lumbar spondylosis 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/04/14 已確認 已批 林威良  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/04/14 已確認 已批 林威良  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/14 已確認 已批 林威良  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/04/14 已確認 已批 林威良  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 林威良  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/14 已批 完成：2016/04/14 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/04/20 已確認 已批 林淑珍  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/04/20 已確認 已批 林淑珍  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2016/04/20 已確認 已批 林淑珍 特殊醫囑:3/24 4/21 
+ 
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/04/20 已確認 已批 林淑珍  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/20 已批 完成：2016/04/20 
+ 
+
+Subjective 
+right arm getting thinner
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+anxiety
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Bil upper arm numbness and pain for 3 months
+Neck ever whiplash injury due to bus sudden break two years ago
+cough for 4 days
+rhinorrhea and nasal congestion for 3 days
+symptoms bothering sleep and work 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+Pain scale: 4/10
+112/78 mmHg
+HEENT:injected throat and 
+post-nasal drip
+chest: coarse BS
+Heart:RHB
+Abdomen:soft & flat,B/S: hypoactive
+no tenderness,no rebound tenderness
+low leg pitting edema(+/-) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O G62.9 Neuropathy 慢 傳  
+O M47.816 Lumbar spondylosis 慢  
+O E78.5 Hyperlipidemia 慢  
+O J06.9 Upper respiratory infection 呼  
+O E79.0 Hyperuricemia 慢 糖  
+O R00.2 Palpitations 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/05/17 已確認 已批 蔡詩力  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/05/17 已確認 已批 蔡詩力  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/05/17 已確認 已批 蔡詩力  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/05/17 已確認 已批 蔡詩力  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/17 已確認 已批 蔡詩力  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09043C0P HDL 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09038CZP Albumin(Blood) 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2016/05/17 執行、已批 Specimen:UR1
+完成：2016/07/15
+ 蔡詩力 
+檢驗 27065B0P Microalbumin (urine) 1  N 2016/05/17 執行、已批 Specimen:UR1
+完成：2016/07/15
+ 蔡詩力 
+檢驗 09016CZP Creatinine (Urine) 1  N 2016/05/17 執行、已批 Specimen:UR1
+採檢時機:.
+完成：2016/07/15
+ 蔡詩力 
+檢驗 08011CZP CBC & platelet 1  N 2016/05/17 執行、已批 Specimen:BLO
+完成：2016/07/15
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/17 已批 完成：2016/05/17  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/05/17 已批 完成：2016/05/17  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/05/17 已批 完成：2016/05/17 
+ 
+
+Subjective 
+Hyperuricemia Diabetes mellitus Hyperlipidemia Lumbar spondylosis 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+手麻腳麻：改善
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+++@@@Appointment預約8星期後複診，今日處方種類\ 4
+
+建議戒煙 （目前有在家醫科看DM血脂肪） 
+Plan 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+★改為Sustenna 100mg q4week
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/05/19 已確認 已批 謝明憲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/05/19 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2016/05/19 已確認 已批 謝明憲 特殊醫囑:5/19 6/16 
+ 
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/05/19 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2016/05/19 刪除、刪除、未看完 完成：2016/05/19
+ 謝明憲 
+治療 45010C00 支持性心理治療 1  N 2016/05/19 執行、已批 完成：2016/05/19
+ 謝明憲 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/19 已批 完成：2016/05/19  
+行政費用 00181B00 精神科門診診察費－２次以上慢性病連續處方，每次２８天，本院調劑 1  N 2016/05/19 已批 完成：2016/05/19  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/05/19 已批 完成：2016/05/19 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O G62.9 Neuropathy 慢 傳  
+O M47.816 Lumbar spondylosis 慢  
+O E78.5 Hyperlipidemia 慢  
+O J06.9 Upper respiratory infection 呼  
+O E79.0 Hyperuricemia 慢 糖  
+O R00.2 Palpitations 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/06/06 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/06 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/06/06 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/06/06 已確認 已批 林小琴  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/06 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/06 已批 完成：2016/06/06 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/06/15 已確認 已批 林小琴  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/06/15 已確認 已批 林小琴  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保 2 2016/06/15 已確認 已批 林小琴 特殊醫囑:5/19 6/16 
+ 
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/06/15 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/15 已批 完成：2016/06/15 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O G62.9 Neuropathy 慢 傳  
+O M47.816 Lumbar spondylosis 慢  
+O E78.5 Hyperlipidemia 慢  
+O J06.9 Upper respiratory infection 呼  
+O E79.0 Hyperuricemia 慢 糖  
+O R00.2 Palpitations 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/07/04 已確認 已批 林小琴  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/07/04 已確認 已批 林小琴  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/07/04 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/07/04 已確認 已批 林小琴  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/04 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/04 已批 完成：2016/07/04  
+ 
+ 
+Subjective 
+Hyperuricemia Diabetes mellitus Hyperlipidemia Lumbar spondylosis 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事與資源回收！
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+不好睡覺
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+++@@@Appointment預約4星期後複診，今日處方種類\ 4
+[[[□■□■換藥 Lendoermin # Imovane
+建議戒煙 （目前有在家醫科看DM血脂肪） 
+Plan 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+===下次門診:評估本次調藥之效果 for sleep
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保  2016/07/14 已確認 已批 謝明憲  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保  2016/07/14 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保  2016/07/14 已確認 已批 謝明憲  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保  2016/07/14 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/14 已批 完成：2016/07/14  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2016/07/14 已批 完成：2016/07/14  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/14 已批 完成：2016/07/14 
+ 
+
+Subjective 
+right arm getting thinner
+Januvia 1 qd lescol 1 qod amaryl 1 bid f/u at 新北三重 for 10+years
+anxiety
+MOM DM CVA gone colon cancer
+DAD CVA gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Bil upper arm numbness and pain for 3 months
+Neck ever whiplash injury due to bus sudden break two years ago
+cough for 4 days
+rhinorrhea and nasal congestion for 3 days
+symptoms bothering sleep and work 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+DTR: Upper Limb: R/L:  +/+
+        Lower Limb: R/L:++/++
+MP: Upper Limb: R/L: 1-2/1-2
+      Lower Limb: R/L:2-3/2-3
+Both arm paresthesia over C5-6 area
+Pain scale: 4/10
+112/78 mmHg
+HEENT:injected throat and 
+post-nasal drip
+chest: coarse BS
+Heart:RHB
+Abdomen:soft & flat,B/S: hypoactive
+no tenderness,no rebound tenderness
+low leg pitting edema(+/-) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O J06.9 Upper respiratory infection 呼  
+O E79.0 Hyperuricemia 慢 糖  
+O R00.2 Palpitations 慢  
+O G62.9 Neuropathy 慢 傳  
+O M47.816 Lumbar spondylosis 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/08/09 已確認 已批 蔡詩力  
+Lescol XL Film-Coated 80 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/08/09 已確認 已批 蔡詩力  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/08/09 已確認 已批 蔡詩力  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/08/09 已確認 已批 蔡詩力  
+Onglyza F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/08/09 已確認 已批 蔡詩力  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/25
+ 蔡詩力 
+檢驗 09006C0P HbA1c 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/25
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/25
+ 蔡詩力 
+檢驗 09043C0P HDL 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/25
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/25
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/25
+ 蔡詩力 
+檢驗 08011CZP CBC & platelet 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/25
+ 蔡詩力 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/09 已批 完成：2016/08/09  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/08/09 已批 完成：2016/08/09  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/08/09 已批 完成：2016/08/09 
+ 
+
+Subjective 
+Hyperuricemia Diabetes mellitus Hyperlipidemia Lumbar spondylosis 
+[健保局思覺失調症固定就醫個案收案評估]
+已口頭告知病人加入健保局思覺失調症醫療品質改善方案，給予衛教單張，提醒病患及其家屬規則返診，固定就醫的重要性。並教導病人及家屬如何監測早期復發的病況，若有早期復發或生活危機，可以及早回門診就醫，避免急診就醫及急性病房住院。
+病人評估: CGI-S: □3.輕度 
+（無業）目前白天沒事，做家事與資源回收！
+smoking 1PPD
+
+Stable
+白天 規律生活重心，規則服藥下狀況穩定無明顯症狀
+一減藥就不行 
+
+Recent stressor老丈人(松德)身體不佳 造成其壓力 
+Objective 
+不好睡覺
+
+GAD s/s  高度焦慮症狀
+☆浮躁、不能靜止
+★疲累
+☆☆肌肉緊張
+★睡眠障礙 
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+++@@@Appointment預約4星期後複診，今日處方種類\ 5
+[[[□■□■加藥 Rivotril
+建議戒煙 （目前有在家醫科看DM血脂肪） 
+Plan 
+///對個案之(非藥物)治療說法[白天生活重心 ] 
+===下次門診:評估本次調藥之效果 for sleep
+
+NTUH-REC No.: 201406078RIN
+Study Title: 佐沛眠引發之類夢遊行為的藥物基因體學研究計畫
+The subject 林井政 has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the informed consent form on 2015/05/21 by Principle Investigator. 
+The subject had enough time to consider and ask all questions regarding the study.The subject had signed informed consent form on2015/05/21 A copy of the signed informed consent form was provided to the subject.
+Principle Investigator\Co-Investigator：黃宗正 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 28 84 tab 健保  2016/08/11 已確認 已批 謝明憲  
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 28 tab 健保  2016/08/11 已確認 已批 謝明憲  
+針100 Invega Sustenna PR Susp for IM (based on Paliperidone content) Inj 100 mg/syrg 100 mg Q4W IM 28 1 syrg 健保  2016/08/11 已確認 已批 謝明憲  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保  2016/08/11 已確認 已批 謝明憲  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保  2016/08/11 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/11 已批 完成：2016/08/11  
+行政費用 01019B00 精神科門診診察費－每醫師每日門診量４５人以下 1  N 2016/08/11 已批 完成：2016/08/11  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/08/11 已批 完成：2016/08/11 
+ 
+
+Subjective 
+for smoking cessation: 2016/08/15
+smoking for 35 years, 1.5 PPD, FTND: 10/10 
+PH: DM with medication, heart dz(-), mental dz(+, schizophrenia for 30+ years, denied depression)
+quit history: ever use champix to quit, but feel depressed mood and suicide idea
+suggest C-NRT 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+30 Nicotinell TTS 1.75 mg/1 cm2 30 cm2/pce 1 pce QD D 14 14 pce 健保  2016/08/15 已確認 已批 郭斐然  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 14 150 tab 健保  2016/08/15 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/11/22 執行、已批、未看完 完成：2016/11/22
+ 郭斐然 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2017/02/13 刪除、刪除、未看完 完成：2017/02/13
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/02/13 執行、已批、未看完 完成：2017/02/13
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/15 已批 完成：2016/08/15  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短��詢＋個案追蹤管理）（自行調劑 1  N 2016/08/15 已批 完成：2016/08/15  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 
+ 
+

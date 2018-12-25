@@ -1,0 +1,933 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M 496 Chronic obstructive pulmonary disease (COPD) 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/10/29 已確認 已批 陸坤泰  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2014/10/29 已確認 已批 陸坤泰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2014/10/29 已批 完成：2014/10/29  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2014/10/29 已批 完成：2014/10/29  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/10/29 已批 完成：2014/10/29 
+ 
+
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+==>failed HBV vaccination again 
+==>start statin this time
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)
+
+Glu:102(9/26)->83(12/12)
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20121105】Abdominal Sonography :Fatty liver, mild
+  Fatty infiltration of pancreas
+  Renal stone, right
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 794.8 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/12/16 已確認 已批 張立群 重復原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2014/12/15 執行、已批 Specimen:BLO
+完成：2015/03/03
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2014/12/15 執行、已批 Specimen:BLO
+完成：2015/03/03
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2014/12/15 執行、已批 Specimen:BLO
+完成：2015/03/03
+ 張立群 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/16 已批 完成：2014/12/16  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2014/12/16 已批 完成：2014/12/16  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/12/16 已批 完成：2014/12/16 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 496 Chronic obstructive pulmonary disease (COPD) 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/01/21 已確認 已批 陸坤泰  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/01/21 已確認 已批 陸坤泰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/21 已批 完成：2015/01/21  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/01/21 已批 完成：2015/01/21  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/01/21 已批 完成：2015/01/21 
+ 
+
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+==>failed HBV vaccination again 
+==>start statin this time
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)->13(3/3)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)->216/162(3/3)
+
+Glu:102(9/26)->83(12/12)
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20121105】Abdominal Sonography :Fatty liver, mild
+  Fatty infiltration of pancreas
+  Renal stone, right
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl
+3.will have sono in May 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 794.8 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/03/13 已確認 已批 張立群  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/12 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/03/12 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/03/12 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 張立群 
+檢查 19001CGA [北護]Abdominal Sonography -腹部超音波 1  N 2015/03/12 刪除、刪除、未看完  張立群 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/13 已批 完成：2015/03/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2015/03/13 已批 完成：2015/03/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/13 已批 完成：2015/03/13 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 496 Chronic obstructive pulmonary disease (COPD) 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/04/22 已確認 已批 陸坤泰  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/04/22 已確認 已批 陸坤泰  
+自費十三 Prevenar 13 Pneumococcal Vaccine 0.5 mL/syrg 肺炎疫苗 1 syrg STAT IM 1 1 syrg 自費  2015/04/22 已確認 已批 陸坤泰 劑別:第一劑
+批號:J23969
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/04/22 執行、已批 完成：2015/07/09
+ 陸坤泰 
+治療 000Z3098 流感疫苗或破傷風類毒素注射費 1 自費 N 2015/04/22 執行、已批 完成：2015/04/22
+ 陸坤泰 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/22 已批 完成：2015/04/22  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/04/22 已批 完成：2015/04/22  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/22 已批 完成：2015/04/22 
+ 
+
+個人病史 
+個人病史 牙周病、消化性潰瘍     
+是否長期服藥 無     
+長期服藥原因      
+家族病史 無     
+簡式老年憂郁量表(GDS-15) 
+GDS得分:      
+1.基本上，您對您的生活滿意嗎?      
+2.您是否減少很多的活動和興趣的事?      
+3.您是否覺得您的生活很空虛?      
+4.您是否常常感到厭煩?      
+5.您是否大部分時間精神都很好?      
+6.您是否會常常害怕將有不幸的事情發生在您身上嗎?      
+7.您是否大部分的時間都感到快樂?      
+8.您是否常常感到無論做什麼事，都沒有用?      
+9.您是否比較喜歡待在家里而較不喜歡外出及不喜歡做新的事?      
+10.您是否覺得現在有記憶力不好的困擾?      
+11.您是否覺得「現在還能活著」是很好的事?      
+12.您是否覺得您現在活得很沒有價值?      
+13.您是否覺得精力很充沛?      
+14.您是否感覺您現在的情況是沒有希望的?      
+15.您是否覺得大部分的人都比您更幸福?      
+醫師評估(GDS-15)      
+極早期失智癥篩檢量表（AD8） 
+AD8得分:      
+1.判斷力上的困難 無改變     
+2.對活動和嗜好的興趣降低 無改變     
+3.重復相同問題、故事和陳述 無改變     
+4.在學習如何使用工具、設備和小器具上有困難 無改變     
+5.忘記正確的月份和年份 無改變     
+6.處理復雜的財物上有困難 無改變     
+7.記住約會的時間有困難 無改變     
+8.有持續的思考和記憶方面的問題 無改變     
+評估結果(AD8) 得分＜2分     
+健康行為 
+最近半年，【吸菸】情形？ 平均一天一包煙以上     
+最近半年，【飲酒】情形？ 偶爾喝酒     
+最近半年，【嚼檳榔】情形？ 不嚼檳榔     
+最近兩周，【運動】習慣？ 有，且每周達150分鐘以上(2.5小時)     
+您是否出現咳嗽超過二周的情形？ 沒有     
+憂郁檢測 
+1. 最近兩周，你是否感覺情緒低落、沮喪或沒有希望？ 否 2. 最近兩周，你是否感覺做事情失去興趣或樂趣？ 否   
+身體檢查 
+身高 161 公分 體重 63 公斤 收縮壓 131 毫米汞柱 
+舒張壓 68 毫米汞柱 脈搏 72 次/分鐘 腰圍 86 公分 
+右眼裸視視力  左眼裸視視力  右眼矯正視力 0.9  
+左眼矯正視力 0.9      
+耳鼻喉及口腔 放棄檢查     
+頸部 放棄檢查     
+胸部 放棄檢查     
+心臟聽診 放棄檢查     
+呼吸聽診      
+腹部 放棄檢查     
+背部 放棄檢查     
+四肢 放棄檢查     
+其它      
+健康諮詢 
+健康諮詢 戒菸,節酒,規律運動,維持正常體重,健康飲食     
+檢查結果說明 
+腹部超音波 脂肪肝,胰臟脂肪浸潤,肝臟異常，疑局部脂肪缺乏所致     
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 000PP103 Albumin-Globulin Ratio(Alb/Glo) 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 06012CPP SEDIMENT 1 內含 N 2015/05/29 執行、已批 Specimen:UR1
+完成：2015/05/29
+ 黎家銘 
+檢驗 06012CQP MULTISTIX 1 內含 N 2015/05/29 執行、已批 Specimen:UR1
+完成：2015/05/29
+ 黎家銘 
+檢驗 08011CZP CBC & platelet 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09001CZP Cholesterol, Total 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09002CZP UN(Blood) 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09004CZP Triglyceride, TG 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09005CZP Glucose (AC) 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09013CZP Uric acid 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09025CZP AST(GOT) 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09026CZP ALT(GPT) 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09043C0P HDL 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢驗 09044C0P LDL 1 內含 N 2015/05/29 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黎家銘 
+檢查 19001CGA [北護]Abdominal Sonography -腹部超音波 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000022Y0 成人預防保健（６５歲以上第一階段） 1  N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000I0005 體檢證明書費 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000I0010 體檢診察費（一般理學檢查） 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000I0211 體檢判讀費 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000Z3038 醫師檢查費（北市衛生局老人健檢）（北護） 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000Z3067 憂郁癥篩檢 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000Z3068 健檢判讀費 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000Z3069 健檢報告書費 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+治療 000Z3096 認知功能評估 1 內含 N 2015/05/29 執行、已批 完成：2015/05/29
+ 黎家銘 
+ 
+
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+BW:54
+==>failed HBV vaccination again 
+==>start statin this time
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)->13(3/3)->16(5/29)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)->216/162(3/3)->198/114(5/29)
+
+Glu:102(9/26)->83(12/12)
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml
+
+【20150529】Abdominal Sonography :1. Fatty liver, mild->mild 
+  2. Localized fat free area in liver
+  3. Fat infiltration in pancreas
+                      檢查者:                          / 陳錦得主治醫師 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 794.8 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/06/12 已確認 已批 張立群  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/08/27
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/08/27
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/08/27
+ 張立群 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/12 已批 完成：2015/06/12  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2015/06/12 已批 完成：2015/06/12  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/12 已批 完成：2015/06/12 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 496 Chronic obstructive pulmonary disease (COPD) 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/07/15 已確認 已批 陸坤泰  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/07/15 已確認 已批 陸坤泰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/15 已批 完成：2015/07/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/07/15 已批 完成：2015/07/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/15 已批 完成：2015/07/15 
+ 
+
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+BW:54
+==>failed HBV vaccination again 
+==>start statin this time
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)->13(3/3)->16(5/29)->14(8/27)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)->216/162(3/3)->198/114(5/29)->187/163(8/27)
+
+Glu:102(9/26)->83(12/12)
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml
+
+【20150529】Abdominal Sonography :1. Fatty liver, mild->mild 
+  2. Localized fat free area in liver
+  3. Fat infiltration in pancreas
+                      檢查者:                          / 陳錦得主治醫師 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl, if 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 794.8 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/04 已確認 已批 張立群  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/09/03 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/09/03 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/09/03 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 張立群 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/04 已批 完成：2015/09/04  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2015/09/04 已批 完成：2015/09/04  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/04 已批 完成：2015/09/04 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 496 Chronic obstructive pulmonary disease (COPD) 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/07 已確認 已批 陸坤泰  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/10/07 已確認 已批 陸坤泰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/07 已批 完成：2015/10/07  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/10/07 已批 完成：2015/10/07  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/07 已批 完成：2015/10/07 
+ 
+
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+BW:54
+==>failed HBV vaccination again 
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)->13(3/3)->16(5/29)->14(8/27)->15(11/12)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)->216/162(3/3)->198/114(5/29)->187/163(8/27)->227/113(11/12)
+
+Glu:102(9/26)->83(12/12)
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml
+
+【20150529】Abdominal Sonography :1. Fatty liver, mild->mild 
+  2. Localized fat free area in liver
+  3. Fat infiltration in pancreas
+                      檢查者:                          / 陳錦得主治醫師 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 794.8 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/11/27 已確認 已批 張立群  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/11/26 執行、已批 Specimen:BLO
+完成：2016/02/15
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/11/26 執行、已批 Specimen:BLO
+完成：2016/02/15
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/11/26 執行、已批 Specimen:BLO
+完成：2016/02/15
+ 張立群 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/02/15
+ 張立群 
+檢查 19001CGA [北護]Abdominal Sonography -腹部超音波 1  N 2015/11/26 執行、已批 完成：2016/02/15
+ 張立群 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/27 已批 完成：2015/11/27  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2015/11/27 已批 完成：2015/11/27  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/11/27 已批 完成：2015/11/27 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 496 Chronic obstructive pulmonary disease (COPD) 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/30 已確認 已批 陸坤泰  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/12/30 已確認 已批 陸坤泰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/30 已批 完成：2015/12/30  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/12/30 已批 完成：2015/12/30  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/30 已批 完成：2015/12/30 
+ 
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 專科,大學 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌癥? 無 請問您有無腸道不適癥狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/01/22 執行、已批 Specimen:STO
+完成：2016/01/27 
+ 
+
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+BW:54
+==>failed HBV vaccination again 
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)->13(3/3)->16(5/29)->14(8/27)->15(11/12)->14(2/15)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)->216/162(3/3)->198/114(5/29)->187/163(8/27)->227/113(11/12)->204/145(2/15)
+CK:265(2/15)
+Glu:102(9/26)->83(12/12)
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml
+
+【20150529】Abdominal Sonography :1. Fatty liver, mild->mild 
+  2. Localized fat free area in liver
+  3. Fat infiltration in pancreas
+                      檢查者:                          / 陳錦得主治醫師 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O R94.5 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/26 已確認 已批 張立群  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/25 執行、已批 Specimen:BLO
+完成：2016/05/05
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/25 執行、已批 Specimen:BLO
+完成：2016/05/05
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/25 執行、已批 Specimen:BLO
+完成：2016/05/05
+ 張立群 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/02/25 執行、已批 Specimen:BLO
+完成：2016/05/05
+ 張立群 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/26 已批 完成：2016/02/26  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2016/02/26 已批 完成：2016/02/26  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/26 已批 完成：2016/02/26 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O R94.5 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/23 已確認 已批 王斐瑛  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/23 已批 完成：2016/03/23 
+ 
+
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+BW:54
+==>failed HBV vaccination again 
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)->13(3/3)->16(5/29)->14(8/27)->15(11/12)->14(2/15)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)->216/162(3/3)->198/114(5/29)->187/163(8/27)->227/113(11/12)->204/145(2/15)
+CK:265(2/15)
+Glu:102(9/26)->83(12/12)
+
+【20160505】T-CHO: 186   mg/dL
+【20160505】TG: 98   mg/dL
+【20160505】ALT: 16   U/L
+【20160505】CK: 200   U/L
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml
+
+【20150529】Abdominal Sonography :1. Fatty liver, mild->mild 
+  2. Localized fat free area in liver
+  3. Fat infiltration in pancreas
+                      檢查者:                          / 陳錦得主治醫師 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl
+3.still has 7-day medication, RTC 13W 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O R94.5 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/05/13 已確認 已批 張立群 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2016/05/11 執行、已批 Specimen:BLO
+完成：2016/08/02
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/05/11 執行、已批 Specimen:BLO
+完成：2016/08/02
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/05/11 執行、已批 Specimen:BLO
+完成：2016/08/02
+ 張立群 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/05/11 執行、已批 Specimen:BLO
+完成：2016/08/02
+ 張立群 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/13 已批 完成：2016/05/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2016/05/13 已批 完成：2016/05/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/05/13 已批 完成：2016/05/13 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 專科,大學 嚼檳榔 無 
+吸菸 >10年，每天>=20支 自覺口腔黏膜有無異常癥狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/06/15 執行、已批 完成：2016/06/15
+ 鄭世榮 
+ 
+
+Subjective 
+previous chill subsided, 
+occasional chest pain, during exercise, duration 3 minutes, 
+radiation pain (-), 
+nocturnal attack (-), 
+sputum (-), 
+
+smoking (+) 1PPD, 
+hyperlipidemia, 
+Objective 
+134/62, 66/min, 
+
+
+PFT 
+FVC(L)  3.42  3.05  112.1    
+FEV1(L)  2.33  2.44  95.3    
+FEV1/FVC(%)  68.1 
+Plan 
+treadmill exercise EKG, 
+inform about NTG, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O J47.1 Bronchiectasis with (acute) exacerbation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 28 1 btl 健保  2016/06/15 已確認 已批 吳惠東  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/06/15 已確認 已批 吳惠東  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2016/06/15 已確認 已批 吳惠東  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18015B0S Treadmill Exercise ECG-復次階段運動心電圖 1  N 2016/06/15 執行、已批 Indications for treadmill exercise test:Other
+完成：2016/08/24
+ 吳惠東 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/15 已批 完成：2016/06/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/06/15 已批 完成：2016/06/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/15 已批 完成：2016/06/15 
+ 
+Subjective 
+hepatitis and evaluation for vaccination
+s/p vaccination failed x1
+2nd shot of vaccination in 2013/4
+BW:61
+==>failed HBV vaccination again 
+==>side effect of statin okay 
+Objective 
+GOT/GPT:41/45(9/23肝基會)->22/22(1/24)->20(3/29)->23(6/25)->18(9/26)->24(12/12)->27(4/15)->27(7/3)->16(9/17)->13(11/27)->13(3/3)->16(5/29)->14(8/27)->15(11/12)->14(2/15)
+
+AFP:2.8(9/23肝基會)
+
+CHO/TG:214/96(1/24)->211(3/29)->199/231(6/25)->213/239(9/26)->230/247(12/12)->159/215(4/15)->197/663(7/3)->206/130(9/17)->190/136(11/27)->216/162(3/3)->198/114(5/29)->187/163(8/27)->227/113(11/12)->204/145(2/15)
+CK:265(2/15)
+Glu:102(9/26)->83(12/12)
+
+【20160505】T-CHO: 186   mg/dL
+【20160505】TG: 98   mg/dL
+【20160505】ALT: 16   U/L
+【20160505】CK: 200   U/L
+
+HBsAg(-), anti-HCV(-),anti-HBs (-)
+【20131212】LDL-C: 135   mg/dL
+
+
+【20121026】Anti-HBc: Positive   *
+
+【20130329】Anti-HBs: Negative   mIU/ml
+【20131212】Anti-HBs: Negative   mIU/ml
+
+\【20160802】TG: 156   mg/dL
+【20160802】T-CHO: 185   mg/dL
+【20160802】ALT: 11   U/L
+【20160802】CK: 183   U/L
+【20160215】Abdominal Sonography :Fatty liver, Moderate
+  Small hepatic tumor, Probably, 
+  localized fat-free area
+  Fatty infiltration of pancreas
+                     檢查者:                           / 張立群主治醫師 
+Plan 
+1.fu liver function 3 months
+2.switch mevalotin to lipanthyl 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O R94.5 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/08/12 已確認 已批 張立群  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2016/08/10 執行、已批 Specimen:BLO
+完成：2016/10/27
+ 張立群 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/08/10 執行、已批 Specimen:BLO
+完成：2016/10/27
+ 張立群 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/08/10 執行、已批 Specimen:BLO
+完成：2016/10/27
+ 張立群 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/08/10 執行、已批 Specimen:BLO
+完成：2016/10/27
+ 張立群 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/12 已批 完成：2016/08/12  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上）診察費 1  N 2016/08/12 已批 完成：2016/08/12  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/08/12 已批 完成：2016/08/12 
+ 
+
+Subjective 
+Right shoulder pain for months
+
+Both knee pain for months
+right thumb triggering for days 
+Objective 
+Shoulder
+ROM limitation +-
+Painful arc +-
+Impingement +-
+Drop arm test +-
+
+Knee
+crepitation +
+Effusion +-
+ROM pain with limitation
+Walking pain esp. on stair-climbing
+Squating pain +
+疼痛評估：疼痛指數： 6分; 間歇痛 ; 疼痛部位： shoulder, knee; thumb 
+right thumb
+tender over a1 pulley
+
+xray: shoulder OA +, both knee OA + 
+Plan 
+Triamicinolone 2cc + xylocaine 2cc local injection 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M M12.80 Other arthritis 慢 復  
+O M75.00 Adhesive capsulitis of unspecified shoulder 慢 職  
+O S43.429A Rotator cuff sprain, unspecified side 外  
+O M17.9 Osteoarthritis, knee 慢 傳 職  
+O M65.311 Trigger thumb, right thumb 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Arcoxia 60 mg/tab 1 tab QD PO 28 28 tab 健保  2016/08/19 已確認 已批 王貞棣  
+Xylocaine 1% 5 mL/amp 常備藥 2 mL STAT IL 1 1 amp 自費  2016/08/19 已確認 已批 王貞棣  
+Triamcinolone Susp inj 10 mg/1 mL /amp 20 mg STAT IL 1 2 amp 健保  2016/08/19 已確認 已批 王貞棣  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP018 Shoulder: Right 1  N 2016/08/19 執行、已批 小部位:.
+完成：2016/08/19
+ 王貞棣 
+影醫 000MP034 Knee: Both 1  N 2016/08/19 執行、已批 小部位:STANDING
+完成：2016/08/19
+ 王貞棣 
+治療 39018C00 肌腱注射 1  N 2016/08/19 執行、已批 完成：2016/08/19
+ 王貞棣 
+醫材 20000912 塑膠空針5㏄ 1  N 2016/08/19 執行、已批 完成：2016/08/19
+ 王貞棣 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/19 已批 完成：2016/08/19  
+行政費用 00156A00 未開處方或處方由本院所自行調劑 1  N 2016/08/19 已批 完成：2016/08/19  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/08/19 已批 完成：2016/08/19 
+ 
+
+Subjective 
+for smoking cessation: 2016/09/05
+smoking for 50 years, 1.5 PPD, FTND: 6/10 
+PH: heart dz(-), mental dz(-), sleep well
+quit history: ever use champix to quit (clinical trial, didn't know test arm), failed
+suggest champix, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/09/05 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/09/05 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重復原因:病人因素(補給天數并延後回診)
+尚有余藥7天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/12/02 執行、已批、未看完 完成：2016/12/02
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/03/13 執行、已批、未看完 完成：2017/03/13
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/09/05 已批 完成：2016/09/05  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/09/05 已批 完成：2016/09/05  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/09/05 已批 完成：2016/09/05 
+ 
+
+

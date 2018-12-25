@@ -1,0 +1,33 @@
+﻿
+Subjective 
+for smoking cessation: 2016/03/15
+smoking for 30 years, 1 PPD, FTND: 5/10
+PH: heart dz(-), mental dz(-), sleep poorly
+Quit history: denied, never use medication to quit.
+ask for champix. inform side effects 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/03/15 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:病人因素(補給天數並延後回診)
+ 
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/03/15 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/06/17 執行、已批、未看完 完成：2016/06/17
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/09/13 執行、已批、未看完 完成：2016/09/13
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/15 已批 完成：2016/03/15  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/03/15 已批 完成：2016/03/15  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/03/15 已批 完成：2016/03/15 
+ 

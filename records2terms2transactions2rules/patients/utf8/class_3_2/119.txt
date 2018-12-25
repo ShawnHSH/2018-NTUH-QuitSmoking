@@ -1,0 +1,32 @@
+﻿
+Subjective 
+chest tightness & pain noted since 7 -8 years
+smoking(+)
+effort angina(-) 
+Plan 
+echo, TXT
+ECG, CXR 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 786.50 Chest Pain  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0P ECG routine 1  N 2015/03/13 報到、已批 Specimen:ECG
+ 林茂欣 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/03/13 執行、已批 完成：2015/03/13
+ 林茂欣 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2015/03/13 執行、已批 完成：2015/04/30
+ 林茂欣 
+檢查 18015B0S Treadmill Exercise ECG-復次階段運動心電圖 1  N 2015/03/13 執行、已批 Indications for treadmill exercise test:Diagnosis of CAD
+完成：2015/04/30
+ 林茂欣 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2015/03/13 執行、已批 完成：2015/04/30
+ 林茂欣 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2015/03/13 執行、已批 完成：2015/04/30
+ 林茂欣 
+ 

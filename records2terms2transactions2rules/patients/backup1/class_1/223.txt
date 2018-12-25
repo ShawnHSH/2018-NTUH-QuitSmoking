@@ -1,0 +1,317 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+Right chest pain since 11/14/2016
+
+現病史：
+This 52 y-o male began to have right chest pain and cold sensation on the night of 11/14/2016. Pain score 4-5. The cold sensation stopped after 2 days, and pain also decreased. After 4 days he began to have cough with green to dark sputum. It smelled very bad. He feels very weak, too, with general soreness. He has body weight 2 kg.
+
+過去病史：
+Smoking 2 PPD since 18 y-o y-o up to now.
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅游史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+131/77 HR: 94/min reg chest clear
+
+CXR on 11/22/2016 shows an irregular shadow in right hilum and RUL; 
+Plan 
+1 w w3 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O D49.1 Lung tumor  
+M R07.9 Chest Pain 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/11/22 已確認 已批 李麗娜  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 8 16 tab 健保  2016/11/22 已確認 已批 李麗娜  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 08013CZP WBC classification 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09025CZP AST(GOT) 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09026CZP ALT(GPT) 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09033CZP LDH 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09013CZP Uric acid 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09006C0P HbA1c 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09005CZP Glucose (AC) 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09021CZP Sodium, Na 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09022CZP Potassium, K 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 09023CZP Chloride, Cl 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 08036BZP PTT 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 08026CZP PT 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 12015CZP High sensitivity C-Reactive protein, hsCRP 1  N 2016/11/22 執行、已批 Specimen:BLO
+完成：2016/11/23
+ 李麗娜 
+檢驗 15001CZP Sputum cytology 1  N 2016/11/22 執行、已批 Specimen:SPU
+完成：2016/11/23
+ 李麗娜 
+檢驗 15001CZP Sputum cytology 1  N 2016/11/22 執行、已批 Specimen:SPU
+完成：2016/11/25
+ 李麗娜 
+檢驗 15001CZP Sputum cytology 1  N 2016/11/22 執行、已批 Specimen:SPU
+完成：2016/11/24
+ 李麗娜 
+檢驗 18001C0P ECG routine 1  N 2016/11/22 執行、已批 Specimen:ECG
+完成：2016/11/23
+ 李麗娜 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/11/22 執行、已批 完成：2016/11/22
+ 李麗娜 
+影醫 32001CUM Chest : Lateral Right 1  Y 2016/11/22 執行、已批 完成：2016/11/22
+ 李麗娜 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+Right chest pain since 11/14/2016
+
+現病史：
+This 52 y-o male began to have right chest pain and cold sensation on the night of 11/14/2016. Pain score 4-5. The cold sensation stopped after 2 days, and pain also decreased. After 4 days he began to have cough with green to dark sputum. It smelled very bad. He feels very weak, too, with general soreness. He has body weight 2 kg.
+
+過去病史：
+Smoking 2 PPD since 18 y-o y-o up to now.
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅游史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+131/77 HR: 94/min reg chest bilateral intermittent rhonchi
+
+CXR on 11/22/2016 shows an irregular shadow in right hilum and RUL;
+
+CRP: 13.19
+
+AC 111 WBC 16360
+
+Arrange chest CT (scheduled for Feb 2017; so I advise admission)
+CXR today 11/30/2016 shows RUL hilar lesion slightly smaller
+
+I would give him augmentin and follow CXR next week.
+
+(He is a pilot; if CR needs to contact him, please use text. ) 
+Assessment 
+He does not take aspirin or anticoagulant 
+Plan 
+1 w w3 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest Pain 慢  
+O D49.1 Lung tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/11/30 已確認 已批 李麗娜  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2016/11/30 開立、已批 Indication:Neoplasm, Infection/ Inflammation
+小部位:MEDIASTINUM, LUNGS/PLEURA, HEART/VESSELS, AORTA, ESOPHAGUS
+ 李麗娜 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/11/30 執行、已批 完成：2016/11/30
+ 李麗娜 
+影醫 32001CUM Chest : Lateral Right 1  Y 2016/11/30 執行、已批 完成：2016/11/30
+ 李麗娜 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O D49.1 Lung tumor  
+M R07.9 Chest Pain 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/12/07 執行、已批 完成：2016/12/28
+ 蔡萬濠 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/12/05 執行、已批 Specimen:STO
+完成：2016/12/05
+ 黃素月 
+ 
+
+Subjective 
+20161228: He was admitted to 14C ward on 12/5/2017, to have chest CT and bronchoscopy. Chest CT reveals a 7 cm RUL tumor with some small tumors. There are pleural nodules. He declined ehco guided or bronchoscopic biopsy, because he needs to fly (he is a pilot). So he was discharged on 12/7/2016, with AUgmentin for 2 weeks. He said he would follow up at my clinic and follow up chest CT. 
+
+主訴：
+Right chest pain since 11/14/2016
+
+現病史：
+This 52 y-o male began to have right chest pain and cold sensation on the night of 11/14/2016. Pain score 4-5. The cold sensation stopped after 2 days, and pain also decreased. After 4 days he began to have cough with green to dark sputum. It smelled very bad. He feels very weak, too, with general soreness. He has body weight 2 kg.
+
+過去病史：
+Smoking 2 PPD since 18 y-o y-o up to now.
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅游史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+178/85 HR: 94/min reg chest clear
+
+CXR on 11/22/2016 shows an irregular shadow in right hilum and RUL;
+
+Chest CT during admission shows a necrotizing mass in LUL anteriorly
+He does not want biopsy now. He wants to follow
+(He is a pilot; if CR needs to contact him, please use text. )
+Follow up chest CT (scheduled for 3/23) 
+Assessment 
+He does not take aspirin or anticoagulant 
+Plan 
+3 w 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest Pain 慢  
+O D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/12/28 開立、已批 Specimen:BLO
+ 李麗娜 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2016/12/28 執行、已批 Indication:Neoplasm, Infection/ Inflammation
+小部位:MEDIASTINUM, LUNGS/PLEURA, HEART/VESSELS, AORTA, ESOPHAGUS
+完成：2017/03/23
+ 李麗娜 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/12/28 執行、已批 完成：2017/01/18
+ 李麗娜 
+影醫 32001CVM Chest : Lateral Left 1  N 2016/12/28 執行、已批 完成：2017/01/18
+ 李麗娜 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2017/03/23 執行、已批 完成：2017/03/23
+ 吳寬展 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2017/03/23 執行、已批 完成：2017/03/23
+ 吳寬展 
+ 
+
+Subjective 
+20161228: He was admitted to 14C ward on 12/5/2017, to have chest CT and bronchoscopy. Chest CT reveals a 7 cm RUL tumor with some small tumors. There are pleural nodules. He declined ehco guided or bronchoscopic biopsy, because he needs to fly (he is a pilot). So he was discharged on 12/7/2016, with AUgmentin for 2 weeks. He said he would follow up at my clinic and follow up chest CT. 
+
+20170118: Mild cough; he stopped smoking on 11/22/2017
+
+主訴：
+Right chest pain since 11/14/2016
+
+現病史：
+This 52 y-o male began to have right chest pain and cold sensation on the night of 11/14/2016. Pain score 4-5. The cold sensation stopped after 2 days, and pain also decreased. After 4 days he began to have cough with green to dark sputum. It smelled very bad. He feels very weak, too, with general soreness. He has body weight 2 kg.
+
+過去病史：
+Smoking 2 PPD since 18 y-o y-o up to 2016/11/20 
+Objective 
+130/93 HR: 71/min reg chest clear
+
+CXR on 11/22/2016 shows an irregular shadow in right hilum and RUL;
+
+Chest CT during admission shows a necrotizing mass in LUL anteriorly
+He does not want biopsy now. He wants to follow
+(He is a pilot; if CR needs to contact him, please use text. )
+CXR 1/18/2017 shows RUL consolidation slightly smaller
+
+He refused bronchoscopy. He would have chest CT on March 23 2017
+He has no sputum for cytology exam 
+Assessment 
+He does not take aspirin or anticoagulant 
+Plan 
+4/18/2017 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest Pain 慢  
+O D49.1 Lung tumor 
+ 

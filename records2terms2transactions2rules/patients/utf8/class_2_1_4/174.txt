@@ -1,0 +1,935 @@
+﻿
+Subjective 
+Still ED, no more LUTS
+------------------------
+s/p PTAS for bil IIA stenting, no more LUTS/PDE5 inhibitor
+------------------------------
+ED severe, no response to PDE5i
+---------------------------------
+Pelvic CTA showed bilateral IIA stenoses, continue medical treatment 
+PCI for bilaterall IIA will be determined next time
+-------------------------------
+angina-free
+hesitate about PTA, smoking still
+Continue vascular therapy!!
+-----------------
+Partial response, follow pelvic CTA
+-----------------
+Responsive to medical therapy 
+Angina-free
+Continue medical therapy first
+--------------------------------
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20160822】RDW-CV: 14.8   %
+
+
+【20160614】WBC: 11.57   k/μL
+【20160614】RDW-CV: 15.0   %
+
+【20160112】TG: 188   mg/dL
+
+【20151020】HbA1c: 6.1   %
+【20151020】TG: 431   mg/dL
+【20151020】T-CHO: 236   mg/dL
+
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+1. GPT/Cre/GluAC/A1C/Lipid+LDL/UA/Na/K
+2. CBC/Testosterone/PSA
+3. 10/25 pm 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O N52.9 Impotence of organic origin 慢 男  
+O I74.3 Periperal arterial occlusive disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/30 已確認 已批 王宗道 用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2016/07/25
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2016/08/30 已確認 已批 王宗道  
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/30 已確認 已批 王宗道  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 2 2016/08/30 已確認 已批 王宗道  
+Kimodin F.C. 20 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/30 已確認 已批 王宗道  
+Sustanon inj 250 mg/1 mL /amp 250 mg Q2W IM 28 2 amp 健保 2 2016/08/30 已確認 已批 王宗道  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09005CZP Glucose (AC) 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09006C0P HbA1c 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09043C0P HDL 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09044C0P LDL 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09013CZP Uric acid 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09021CZP Sodium, Na 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09022CZP Potassium, K 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 08011CZP CBC & platelet 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 09121B0P Testosterone 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+檢驗 12081B0P PSA 1  N 2016/08/30 執行、已批 Specimen:BLO
+完成：2016/10/21
+ 王宗道 
+醫材 20000905 塑膠注射器，帶針3CC (螺旋，23G*1+1/4"") 4  N 2016/08/30 執行、已批 完成：2016/08/30
+ 王宗道 
+ 
+
+Subjective 
+s/p PTAS for bil IIA stenting, no more LUTS/PDE5 inhibitor
+------------------------------
+ED severe, no response to PDE5i
+---------------------------------
+Pelvic CTA showed bilateral IIA stenoses, continue medical treatment 
+PCI for bilaterall IIA will be determined next time
+-------------------------------
+angina-free
+hesitate about PTA, smoking still
+Continue vascular therapy!!
+-----------------
+Partial response, follow pelvic CTA
+-----------------
+Responsive to medical therapy 
+Angina-free
+Continue medical therapy first
+--------------------------------
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20160614】WBC: 11.57   k/μL
+【20160614】RDW-CV: 15.0   %
+
+【20160112】TG: 188   mg/dL
+
+【20151020】HbA1c: 6.1   %
+【20151020】TG: 431   mg/dL
+【20151020】T-CHO: 236   mg/dL
+
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+1. GPT/Cre/GluAC/A1C/Lipid+LDL/UA/Na/K
+2. CBC/Testosterone/PSA
+3. 8/30 pm 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O I74.3 Periperal arterial occlusive disease 慢  
+O N52.9 Impotence of organic origin 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保  2016/08/02 已確認 已批 王宗道 用藥原因:A.置放金屬支架3個月內得與aspirin合并使用，放置支架(stent)之日期為 2016/07/25
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/08/02 已確認 已批 王宗道 重復原因:病人因素(補給天數并延後回診)
+尚有余藥7天 
+ 
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 28 28 tab 健保  2016/08/02 已確認 已批 王宗道 重復原因:病人因素(補給天數并延後回診)
+尚有余藥7天 
+ 
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保  2016/08/02 已確認 已批 王宗道 重復原因:病人因素(補給天數并延後回診)
+尚有余藥7天 
+ 
+Kimodin F.C. 20 mg/tab 1 tab QD PO 28 28 tab 健保  2016/08/02 已確認 已批 王宗道 重復原因:長效與短效搭配加強療效或彈性調節
+尚有余藥7天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09005CZP Glucose (AC) 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09006C0P HbA1c 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09043C0P HDL 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09044C0P LDL 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09013CZP Uric acid 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09021CZP Sodium, Na 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09022CZP Potassium, K 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 08011CZP CBC & platelet 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 09121B0P Testosterone 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+檢驗 12081B0P PSA 1  N 2016/08/02 執行、已批 Specimen:BLO
+完成：2016/08/22
+ 王宗道 
+ 
+
+Subjective 
+ED severe, no response to PDE5i
+---------------------------------
+Pelvic CTA showed bilateral IIA stenoses, continue medical treatment 
+PCI for bilaterall IIA will be determined next time
+-------------------------------
+angina-free
+hesitate about PTA, smoking still
+Continue vascular therapy!!
+-----------------
+Partial response, follow pelvic CTA
+-----------------
+Responsive to medical therapy 
+Angina-free
+Continue medical therapy first
+--------------------------------
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20160614】WBC: 11.57   k/μL
+【20160614】RDW-CV: 15.0   %
+
+【20160112】TG: 188   mg/dL
+
+【20151020】HbA1c: 6.1   %
+【20151020】TG: 431   mg/dL
+【20151020】T-CHO: 236   mg/dL
+
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+8/2 pm 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O N52.9 Impotence of organic origin 慢 男  
+O I74.3 Periperal arterial occlusive disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 22 22 cap 健保  2016/07/14 已確認 已批 王宗道  
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 22 22 tab 健保  2016/07/14 已確認 已批 王宗道  
+脂 Crestor 10 mg/tab 1 tab QOD PO 22 11 tab 健保  2016/07/14 已確認 已批 王宗道  
+Kimodin F.C. 20 mg/tab 1 tab QD PO 22 22 tab 健保  2016/07/14 已確認 已批 王宗道 
+ 
+
+
+Subjective 
+skin lesion on the face (left side of nasal side wall)
+asymptomatic, color lightened
+
+20160518
+For pathology report 
+Objective 
+a pea sized skin colored nodule on the left nasal side wall.
+several variously sized brownish and blackish papules and plaques on the face and four limbs
+pea sized excoriated papule over right thigh
+
+20160518
+Skin, nasal, side wall, left, shave excision, intradermal nevus
+Skin, forearm, right, excision, inverted follicular keratosis
+     The specimens are submitted in two separate bottles labeled as A: left nasal side wall and B: right forearm, respectively, fixed in formalin.
+     Microscopically, section A shows an intradermal nevus.  The section margin is involved.  Section B shows a lesion of inverted follicular keratosis, characterized by a well-defined, inverted and squamous hyperplastic lesion containing squamous eddies and proliferative basaloid cells resembling irritated seborrheic keratosis.  The section margin is free. 
+Plan 
+remove stitches 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D22.9 Nevus  
+O L82.1 Seborrheic keratosis 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)傷口在10CM以下 1  N 2016/05/18 執行、已批 完成：2016/05/18
+ 陳昭旭 
+ 
+
+Subjective 
+skin lesion on the face (left side of nasal side wall)
+asymptomatic, color lightened 
+Objective 
+a pea sized skin colored nodule on the left nasal side wall.
+several variously sized brownish and blackish papules and plaques on the face and four limbs
+pea sized excoriated papule over right thigh 
+Assessment 
+nevocellular nevus face
+dermatofibroma right thigh 
+Plan 
+well explanation about the risk and benefit of different treatment plans such as observation and excision.
+shave biopsy left nasal ala
+excision right thigh 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D22.9 Nevus  
+O D49.2 Skin tumor 慢  
+O L82.1 Seborrheic keratosis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+C.P. Oint 5 g/tube 1 XX AS ORDER D 7 1 tube 自費  2016/04/28 已確認 已批 陳昭旭 
+ 
+
+病理 25004C0W Surgical pathology Level IV 2  N 2016/05/07 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/05/07
+ 鄧立生 
+治療 62010C00 皮下腫瘤摘除術小於2CM 1  N 2016/04/28 執行、已批 主副刀:1
+手術起時:2016/04/28 11:54
+手術迄時:2016/04/28 12:30
+完成：2016/04/28
+ 陳昭旭 
+治療 51027B00 切片-普通(如SHAVING) 1  N 2016/04/28 執行、已批 完成：2016/04/28
+ 陳昭旭 
+治療 51005C00 皮膚電燒灼治療單純 1  N 2016/04/28 執行、已批 完成：2016/04/28
+ 陳昭旭 
+
+
+Subjective 
+Pelvic CTA showed bilateral IIA stenoses, continue medical treatment 
+PCI for bilaterall IIA will be determined next time
+-------------------------------
+angina-free
+hesitate about PTA, smoking still
+Continue vascular therapy!!
+-----------------
+Partial response, follow pelvic CTA
+-----------------
+Responsive to medical therapy 
+Angina-free
+Continue medical therapy first
+--------------------------------
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20160112】TG: 188   mg/dL
+
+【20151020】HbA1c: 6.1   %
+【20151020】TG: 431   mg/dL
+【20151020】T-CHO: 236   mg/dL
+
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+1. GPT/Cre/GluAC/A1C/Lipid+LDL/UA/Na/K/CBC
+2. Testosterone/PSA
+3. 7/14 am (app x 13w) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O I74.3 Periperal arterial occlusive disease 慢  
+O N52.9 Impotence of organic origin 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/04/14 已確認 已批 王宗道  
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 王宗道 用藥原因:LDL-C: 83 (2016/01/12)
+ 
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 3 2016/04/14 已確認 已批 王宗道 用藥原因:LDL-C: 83 (2016/01/12)
+ 
+Kimodin F.C. 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 王宗道  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09005CZP Glucose (AC) 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09006C0P HbA1c 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09043C0P HDL 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09044C0P LDL 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09013CZP Uric acid 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09021CZP Sodium, Na 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09022CZP Potassium, K 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 08011CZP CBC & platelet 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 09121B0P Testosterone 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+檢驗 12081B0P PSA 1  N 2016/04/14 執行、已批 Specimen:BLO
+完成：2016/06/14
+ 王宗道 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/04/14 執行、已批 Specimen:STO
+完成：2016/04/14
+ 王宗道 
+ 
+
+Subjective 
+Pelvic CTA showed bilateral IIA stenoses
+angina-free
+hesitate about PTA, smoking still
+Continue vascular therapy!!
+-----------------
+Partial response, follow pelvic CTA
+-----------------
+Responsive to medical therapy 
+Angina-free
+Continue medical therapy first
+--------------------------------
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20160112】TG: 188   mg/dL
+
+【20151020】HbA1c: 6.1   %
+【20151020】TG: 431   mg/dL
+【20151020】T-CHO: 236   mg/dL
+
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+4/14 am 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M E78.5 Hyperlipidemia 慢  
+O N52.9 Impotence of organic origin 慢 男  
+O I74.3 Periperal arterial occlusive disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/01/21 已確認 已批 王宗道  
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/21 已確認 已批 王宗道  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 3 2016/01/21 已確認 已批 王宗道  
+Kimodin F.C. 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/21 已確認 已批 王宗道 
+ 
+
+Subjective 
+Partial response, follow pelvic CTA
+-----------------
+Responsive to medical therapy 
+Angina-free
+Continue medical therapy first
+--------------------------------
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20151020】HbA1c: 6.1   %
+【20151020】TG: 431   mg/dL
+【20151020】T-CHO: 236   mg/dL
+
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+1. GPT/Cre/GluAC/A1C/Lipid+LDL/UA/Na/K/CBC
+2. 1/21 am 
+3. Testosterone/PSA
+4. Abdominal and pelvic CT scan (with and without contrast), susp. pevlic AOD 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 444.22 Periperal arterial occlusive disease 慢  
+O 607.84 Impotence of organic origin 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/29 已確認 已批 王宗道  
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/29 已確認 已批 王宗道  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 3 2015/10/29 已確認 已批 王宗道  
+(DC)Gaster D 20 mg/tab 1 tab QD LZ 28 28 tab 健保 3 2015/10/29 已確認 已批 王宗道  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09005CZP Glucose (AC) 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09006C0P HbA1c 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09043C0P HDL 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09044C0P LDL 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09013CZP Uric acid 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09021CZP Sodium, Na 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09022CZP Potassium, K 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 08011CZP CBC & platelet 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 09121B0P Testosterone 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+檢驗 12081B0P PSA 1  N 2015/10/29 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 王宗道 
+影醫 33072B5M CT With/Without Contrast-Pelvis 1  N 2015/10/29 執行、已批 Indication:ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+小部位:PROSTATE
+其他：ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+完成：2016/01/13
+ 王宗道 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2015/10/29 執行、已批 Indication:ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+小部位:AORTA
+其他：ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+完成：2016/01/13
+ 王宗道 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/01/13 執行、已批 完成：2016/01/13
+ 鄭春芝 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/01/13 執行、已批 完成：2016/01/13
+ 鄭春芝 
+ 
+
+Subjective 
+Responsive to medical therapy 
+Angina-free
+Continue medical therapy first
+--------------------------------
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+1. GPT/Cre/GluAC/A1C/Lipid+LDL/UA/Na/K/CBC
+2. 10/29 pm 
+3. Testosterone/PSA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 272.4 Hyperlipidemia 慢  
+O 607.84 Impotence of organic origin 男  
+O 444.22 Periperal arterial occlusive disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/06 已確認 已批 王宗道  
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/06 已確認 已批 王宗道  
+(DC)Gaster D 20 mg/tab 1 tab QD LZ 28 28 tab 健保 3 2015/08/06 已確認 已批 王宗道  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09026CZP ALT(GPT) 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09005CZP Glucose (AC) 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09006C0P HbA1c 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09043C0P HDL 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09044C0P LDL 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09013CZP Uric acid 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09021CZP Sodium, Na 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09022CZP Potassium, K 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 08011CZP CBC & platelet 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 09121B0P Testosterone 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+檢驗 12081B0P PSA 1  N 2015/08/06 執行、已批 Specimen:BLO
+完成：2015/10/20
+ 王宗道 
+ 
+
+Subjective 
+Pelvic CTA showed bilateral IIA ostial stenoses
+bilateral IPA stenoses as well
+Medical treatment first, 
+PTA considered next time
+----------------------------
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20150613】HbA1c: 6.1   %
+【20150613】TG: 194   mg/dL
+
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+8/6 pm 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 607.84 Impotence of organic origin 男  
+O 444.22 Periperal arterial occlusive disease 慢  
+M 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2015/07/09 已確認 已批 王宗道  
+Lipanthyl Supra FC 160 mg/tab 1 tab QD PO 28 28 tab 健保  2015/07/09 已確認 已批 王宗道  
+(DC)Gaster D 20 mg/tab 1 tab QD LZ 28 28 tab 健保  2015/07/09 已確認 已批 王宗道 
+ 
+Subjective 
+Testosterone 3+
+ED noted for 1+ year, inadequate response to PDE5 inhibitor
+HLP, DM
+DUS LCA decreased
+Referred from Prof. Hsieh 
+Objective 
+【20150528】T-CHO: 269   mg/dL
+【20150528】TG: 599   mg/dL 
+Plan 
+1. GPT/Cre/GluAC/A1C/Lipid+LDL/UA/Na/K
+2. 7/9 am
+3. Abdominal and pelvic CT scan (with and without contrast) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 607.84 Impotence of organic origin 男  
+O 444.22 Periperal arterial occlusive disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lipanthyl Supra FC 160 mg/tab 1 tab QOD PO 28 14 tab 健保  2015/06/11 已確認 已批 王宗道  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+ 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09005CZP Glucose (AC) 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09006C0P HbA1c 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09043C0P HDL 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09044C0P LDL 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09013CZP Uric acid 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09021CZP Sodium, Na 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+檢驗 09022CZP Potassium, K 1  N 2015/06/11 執行、已批 Specimen:BLO
+完成：2015/06/13
+ 王宗道 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2015/06/11 執行、已批 Indication:ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+小部位:AORTA
+其他：ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+完成：2015/07/03
+ 王宗道 
+影醫 33072B5M CT With/Without Contrast-Pelvis 1  N 2015/06/11 執行、已批 Indication:ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+小部位:PROSTATE
+其他：ERECTILE DYSFUNCTION, SUSP. INTERNAL PUDENDAL ARTERY STENOSIS. PLEASE CONSULT DR. 李文正
+完成：2015/07/03
+ 王宗道 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/07/03 執行、已批 完成：2015/07/03
+ 黃琬婷 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2015/07/03 執行、已批 完成：2015/07/03
+ 黃琬婷 
+
+
+Subjective 
+ED for 5 yrs and need viagra until half a yr ago, no comorbidity
+frequent urination for 1-2 yrs, nocturia 2-3 
+Objective 
+prostate: enlarged
+【20150528】Prolactin: 8.14   ng/ml
+【20150528】Serum PSA: 0.881   ng/mL
+【20150528】LH: 5.20   mIU/mL
+【20150528】FSH: 4.48   mIU/mL
+【20150528】Testosterone: 3.42   ng/mL
+【20150528】TG: 599   mg/dL
+【20150528】T-CHO: 269   mg/dL
+          PSV    RI
+RCA    38.5   0.61
+LCA    21.8   0.61 
+Plan 
+refer to Dr. Wang
+PGE1+ DOPPLER(請13:30~14:00前一定要到診) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 607.84 Impotence of organic origin 男  
+O 600.0 Benign prostatic hypertrophy 慢 男  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+泌 Caverject 20 mcg/vial 20 mcg QD IL 1 1 vial 自費  2015/06/03 已確認 已批 謝汝敦  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000G0281 陰莖海綿體藥物注射 1 自費 Y 2015/06/03 執行、已批 完成：2015/06/03
+ 謝汝敦 
+治療 19015CZ0 男性外生殖器官超音波 1  Y 2015/06/03 執行、已批 完成：2015/06/03
+ 謝汝敦 
+ 
+
+Subjective 
+ED for 5 yrs and need viagra until half a yr ago, no comorbidity
+frequent urination for 1-2 yrs, nocturia 2-3 
+Objective 
+prostate: enlarged 
+Plan 
+PSA, Ac sugar, lipid profile 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 607.84 Impotence of organic origin 男  
+O 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09125C0P Follicle-stimulating hormone,FSH 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 09126C0P Luteinizing hormone, LH 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 27011BZT Prolactin 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 09121B0P Testosterone 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 12081B0P PSA 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 09005CZP Glucose (AC) 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+檢驗 09043C0P HDL 1  N 2015/05/27 執行、已批 Specimen:BLO
+完成：2015/05/28
+ 謝汝敦 
+ 

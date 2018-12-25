@@ -1,0 +1,1713 @@
+
+Subjective 
+cough and dyspnea for months 
+Objective 
+【20160127】CRE: 2.6   mg/dL
+【20160127】UN: 50.3   mg/dL
+【20160104】AST: 29   U/L
+【20160127】HbA1c: 6.8   %
+【20160222】CT Without Contrast-Chest :Pulmonary emphysema.
+Please refer to the text above for detailed findings.
+【20160216】Pulmonary Function Test :LUNG TUMOR * * Mild obstructive ventilatory defect 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O D49.1 Lung tumor  
+O E11.9 Diabetes mellitus 慢 糖  
+O K21.0 Reflux esophagitis 慢  
+O I10 Hypertension 慢  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+O K29.70 Gastritis 慢  
+O K59.00 Constipation 慢  
+O E78.5 Hyperlipidemia 慢  
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保  2016/03/08 已確認 已批 施金元 
+ 
+
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT
+PSA droped to 0.8 ng/ml after ADT
+no adverse events!
+PSA declined to 0.58--0.43 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL
+【20150525】Serum PSA: 0.854   ng/mL
+【20150525】Testosterone: <0.20   ng/mL
+【20150525】ALP: 53   U/L
+【20150820】Serum PSA: 0.587   ng/mL
+【20160104】Serum PSA: 0.432   ng/mL
+【20160104】Testosterone: 0.593   ng/mL
+抗癌藥品治療副作用 (賀爾蒙) 無副作用
+癌症治療效果追蹤評估 Disease Status:
+No evidence of recurrence or metastases
+Treatment Response:Evaluable
+Stable
+PSA Treatment Response: No symptoms 
+Plan 
+RTC 2m, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C61 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2016/03/02 已確認 已批 余宏政 
+ 
+
+Subjective 
+cough and dyspnea for months 
+Objective 
+【20160127】CRE: 2.6   mg/dL
+【20160127】UN: 50.3   mg/dL
+【20160104】AST: 29   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O I10 Hypertension 慢  
+O K29.70 Gastritis 慢  
+O K59.00 Constipation 慢  
+O E78.5 Hyperlipidemia 慢  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+O E11.9 Diabetes mellitus 慢 糖  
+O K21.0 Reflux esophagitis 慢  
+M D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2016/02/16 執行、已批 Indication:lung tumor
+小部位:MEDIASTINUM, LUNGS/PLEURA
+完成：2016/02/22
+ 施金元 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2016/02/16 執行、已批 完成：2016/02/16
+ 施金元 
+ 
+
+Subjective 
+Home BP 120-150/70+. 
+Active smoker, 1ppd. 
+Productive cough. 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Objective 
+BP 136/76. 
+HR: RHB, HR 68/min. 
+
+ECG (2/24/2014): 
+Normal sinus rhythm
+Normal ECG
+
+【20121102】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD 
+ Endoscopic Diagnosis 
+   Esophagus :
+Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis, antrum
+   Duodenum :
+     Suspect submucosal tumor, AW of bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil
+【20150306】LDL-C: 70   mg/dL
+【20150306】HDL-C: 35   mg/dL
+【20150306】CK: 59   U/L
+【20150306】ALT: 16   U/L
+【20150306】K: 4.6   mmol/L
+【20150306】Na: 139   mmol/L
+【20150306】CRE: 2.3   mg/dL
+【20150306】HbA1c: 6.7   %
+【20150306】GLU AC: 108   mg/dL
+【20150306】TG: 115   mg/dL
+【20150306】UN: 36.4   mg/dL
+【20150306】T-CHO: 125   mg/dL
+【20150529】LDL-C: 67   mg/dL
+【20150529】HDL-C: 34   mg/dL
+【20150529】CK: 59   U/L
+【20150529】ALT: 21   U/L
+【20150529】K: 4.8   mmol/L
+【20150529】Na: 142   mmol/L
+【20150529】CRE: 2.3   mg/dL
+【20150529】HbA1c: 7.1   %
+【20150529】GLU AC: 121   mg/dL
+【20150529】TG: 147   mg/dL
+【20150529】UN: 37.6   mg/dL
+【20150529】T-CHO: 122   mg/dL
+【20150820】Serum PSA: 0.587   
+【20150820】LDL-C: 63   mg/dL
+【20150820】HDL-C: 36   mg/dL
+【20150820】CK: 59   U/L
+【20150820】ALT: 23   U/L
+【20150820】K: 4.6   mmol/L
+【20150820】Na: 140   mmol/L
+【20150820】CRE: 2.2   mg/dL
+【20150820】HbA1c: 6.6   %
+【20150820】GLU AC: 100   mg/dL
+【20150820】TG: 121   mg/dL
+【20150820】UN: 39.4   mg/dL
+【20150820】T-CHO: 115   mg/dL
+【20151112】HbA1c: 7.2   %
+【20151112】LDL-C: 55   mg/dL
+【20151112】HDL-C: 38   mg/dL
+【20151112】CK: 64   U/L
+【20151112】ALT: 19   U/L
+【20151112】K: 4.9   mmol/L
+【20151112】Na: 140   mmol/L
+【20151112】CRE: 2.2   mg/dL
+【20151112】GLU AC: 128   mg/dL
+【20151112】TG: 78   mg/dL
+【20151112】UN: 46.7   mg/dL
+【20151112】T-CHO: 113   mg/dL
+【20160127】HbA1c: 6.8   %
+【20160127】LDL-C: 59   mg/dL
+【20160127】HDL-C: 44   mg/dL
+【20160127】CK: 92   U/L
+【20160127】ALT: 17   U/L
+【20160127】K: 4.9   mmol/L
+【20160127】Na: 138   mmol/L
+【20160127】CRE: 2.6   mg/dL
+【20160127】GLU AC: 122   mg/dL
+【20160127】TG: 101   mg/dL
+【20160127】UN: 50.3   mg/dL
+【20160127】T-CHO: 124   mg/dL 
+Assessment 
+Initiate statin (DM, LDL 113). 
+Plan 
+OMT.
+F/U sugar, RFT+e-, lipid.
+Keep on current medications. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+O E11.9 Diabetes mellitus 慢 糖  
+O K21.0 Reflux esophagitis 慢  
+O K29.70 Gastritis 慢  
+O K59.00 Constipation 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/02/03 已確認 已批 黃慶昌 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/03 已確認 已批 黃慶昌 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+COZAAR 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/03 已確認 已批 黃慶昌 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Mevalotin Protect 40 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/03 已確認 已批 黃慶昌 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/03 已確認 已批 黃慶昌 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/03 已確認 已批 黃慶昌 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/03 已確認 已批 黃慶昌 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP BUN 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09021CZP Sodium, Na 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09022CZP Potassium, K 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09043C0P HDL 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09044C0P LDL 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+檢驗 09006C0P HbA1c 1  N 2016/02/03 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃慶昌 
+ 
+
+Subjective 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Consult CV clinic for the management of hypertension and possible arrythmia.
+103/5/29: Stationary.
+103/8/21: Diarrhea was noted sometimes if taking some food not fresh.
+103/11/27: Belching occurs off and on.
+104/2/12, 5/14, 8/6, 11/5: Stationary.
+105/1/21: Dyspnea with wheezing, cough and sputum is noted. He is treated at CV clinic. We suggest him to visit chest clinic. Smoking 1 pack/d. 
+Plan 
+RTC 3 mo. (13 wks), 
+arrange chest clinic.
+Avoid acid and spicy food. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K21.0 Reflux esophagitis 慢  
+O K59.00 Constipation 慢  
+O K29.70 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/21 已確認 已批 楊智欽 重複原因:長效與短效搭配加強療效或彈性調節
+ 
+Biofermin-R Powder 6 mg/1 g /pack 1 pack BID PO 84 168 pack 自費  2016/01/21 已確認 已批 楊智欽 重複原因:自費買藥 
+ 
+
+Subjective 
+Mild back pain
+occasionally dyspnea 
+Objective 
+back pain improved
+osteoporosis
+【20140227】BONE MINERAL DENSITY:BMD BY Hip (Right)  自費 :osteoporosis.
+
+X ray F/U stable, improvement of lower lung infiltration 
+Plan 
+2015-1-13 prolia
+stable F/U 6 months, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M48.50XA Compression fracture, collapsed vertebra 慢  
+O M47.9 Spondylosis, unspecified 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prolia 60 mg/1 mL /syrg 60 mg Q6M SC 1 1 syrg 健保  2016/01/13 已確認 已批 王堯弘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z1001 皮下注射 1  N 2016/01/13 執行、已批 完成：2016/01/13
+ 王堯弘 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT
+PSA droped to 0.8 ng/ml after ADT
+no adverse events!
+PSA declined to 0.58--0.43 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL
+【20150525】Serum PSA: 0.854   ng/mL
+【20150525】Testosterone: <0.20   ng/mL
+【20150525】ALP: 53   U/L
+【20150820】Serum PSA: 0.587   ng/mL
+【20160104】Serum PSA: 0.432   ng/mL
+【20160104】Testosterone: 0.593   ng/mL 
+Plan 
+RTC 2m, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C61 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2016/01/06 已確認 已批 余宏政 
+ 
+
+
+Subjective 
+Home BP 130+/90 after DC CCB. 
+Active smoker, 1ppd. 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Objective 
+BP 136/76. 
+HR: RHB, HR 68/min. 
+【20121102】Chest : PA View (Standing) :chest PA shows normal heart size and tortuous aorta with wall calcification. no definite lung lesion. degenerative change of the T and L spine with marginal spur formation. (WCK/Dr.JYC)
+ECG (2/24/2014): Normal sinus rhythm
+Normal ECG
+When compared with ECG of 2012/06/04 14:08, APCs are no longer present.
+【20121102】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD 
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis, antrum
+   Duodenum :
+     Suspect submucosal tumor, AW of bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil
+
+【20140918】LDL-C: 113   mg/dL
+【20140918】HDL-C: 36   mg/dL
+【20140918】CK: 52   U/L
+【20140918】ALT: 11   U/L
+【20140918】K: 4.2   mmol/L
+【20140918】Na: 140   mmol/L
+【20140918】CRE: 1.8   mg/dL
+【20140918】HbA1c: 6.2   %
+【20140918】GLU AC: 95   mg/dL
+【20140918】TG: 96   mg/dL
+【20140918】UN: 32.4   mg/dL
+【20140918】T-CHO: 165   mg/dL
+【20141211】LDL-C: 56   mg/dL
+【20141211】HDL-C: 34   mg/dL
+【20141211】CK: 52   U/L
+【20141211】ALT: 17   U/L
+【20141211】K: 4.9   mmol/L
+【20141211】Na: 141   mmol/L
+【20141211】CRE: 2.6   mg/dL
+【20141211】HbA1c: 6.6   %
+【20141211】GLU AC: 116   mg/dL
+【20141211】TG: 84   mg/dL
+【20141211】UN: 47.0   mg/dL
+【20141211】T-CHO: 107   mg/dL
+【20150306】LDL-C: 70   mg/dL
+【20150306】HDL-C: 35   mg/dL
+【20150306】CK: 59   U/L
+【20150306】ALT: 16   U/L
+【20150306】K: 4.6   mmol/L
+【20150306】Na: 139   mmol/L
+【20150306】CRE: 2.3   mg/dL
+【20150306】HbA1c: 6.7   %
+【20150306】GLU AC: 108   mg/dL
+【20150306】TG: 115   mg/dL
+【20150306】UN: 36.4   mg/dL
+【20150306】T-CHO: 125   mg/dL
+【20150529】LDL-C: 67   mg/dL
+【20150529】HDL-C: 34   mg/dL
+【20150529】CK: 59   U/L
+【20150529】ALT: 21   U/L
+【20150529】K: 4.8   mmol/L
+【20150529】Na: 142   mmol/L
+【20150529】CRE: 2.3   mg/dL
+【20150529】HbA1c: 7.1   %
+【20150529】GLU AC: 121   mg/dL
+【20150529】TG: 147   mg/dL
+【20150529】UN: 37.6   mg/dL
+【20150529】T-CHO: 122   mg/dL
+【20150820】Serum PSA: 0.587   ng/mL
+【20150820】LDL-C: 63   mg/dL
+【20150820】HDL-C: 36   mg/dL
+【20150820】CK: 59   U/L
+【20150820】ALT: 23   U/L
+【20150820】K: 4.6   mmol/L
+【20150820】Na: 140   mmol/L
+【20150820】CRE: 2.2   mg/dL
+【20150820】HbA1c: 6.6   %
+【20150820】GLU AC: 100   mg/dL
+【20150820】TG: 121   mg/dL
+【20150820】UN: 39.4   mg/dL
+【20150820】T-CHO: 115   mg/dL
+
+【20151112】HbA1c: 7.2   %
+【20151112】LDL-C: 55   mg/dL
+【20151112】HDL-C: 38   mg/dL
+【20151112】CK: 64   U/L
+【20151112】ALT: 19   U/L
+【20151112】K: 4.9   mmol/L
+【20151112】Na: 140   mmol/L
+【20151112】CRE: 2.2   mg/dL
+【20151112】GLU AC: 128   mg/dL
+【20151112】TG: 78   mg/dL
+【20151112】UN: 46.7   mg/dL
+【20151112】T-CHO: 113   mg/dL 
+Assessment 
+Initiate statin (DM, LDL 113). 
+Plan 
+Resume CCB. Add Actos for better DM control.
+F/U sugar, RFT+e-, lipid. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+O 535.50 Gastritis 慢  
+O 564.0 Constipation 慢  
+O 272.4 Hyperlipidemia 慢  
+O 600.0 Benign prostatic hyperplasia 慢 男  
+O 250.00 Diabetes mellitus 慢 糖  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/11/18 已確認 已批 黃慶昌  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/18 已確認 已批 黃慶昌  
+COZAAR 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/18 已確認 已批 黃慶昌  
+Mevalotin Protect 40 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/11/18 已確認 已批 黃慶昌  
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/18 已確認 已批 黃慶昌  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/18 已確認 已批 黃慶昌  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/18 已確認 已批 黃慶昌  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP BUN 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09021CZP Sodium, Na 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09022CZP Potassium, K 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09026CZP ALT(GPT) 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09043C0P HDL 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09044C0P LDL 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09005CZP Glucose (AC) 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+檢驗 09006C0P HbA1c 1  N 2015/11/18 執行、已批 Specimen:BLO
+完成：2016/01/27
+ 黃慶昌 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT
+PSA droped to 0.8 ng/ml after ADT
+no adverse events!
+PSA declined to 0.58 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL
+【20150525】Serum PSA: 0.854   ng/mL
+【20150525】Testosterone: <0.20   ng/mL
+【20150525】ALP: 53   U/L
+【20150820】Serum PSA: 0.587   ng/mL 
+Plan 
+RTC 2m, PSA, testosterone, GOT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/11/11 已確認 已批 余宏政  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2015/11/11 執行、已批 Specimen:BLO
+完成：2016/01/04
+ 余宏政 
+檢驗 09121B0P Testosterone 1  N 2015/11/11 執行、已批 Specimen:BLO
+完成：2016/01/04
+ 余宏政 
+檢驗 09025CZP AST(GOT) 1  N 2015/11/11 執行、已批 Specimen:BLO
+完成：2016/01/04
+ 余宏政 
+
+
+Subjective 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Consult CV clinic for the management of hypertension and possible arrythmia.
+103/5/29: Stationary.
+103/8/21: Diarrhea was noted sometimes if taking some food not fresh.
+103/11/27: Belching occurs off and on.
+104/2/12: Stationary.
+104/5/14: Stationary.
+104/8/6: Stationary. 
+104/11/5: Stationary. 
+Plan 
+RTC 3 mo.
+Avoid acid and spicy food. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 530.11 Reflux esophagitis 慢  
+O 535.50 Gastritis 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/05 已確認 已批 楊智欽  
+Biofermin-R Powder 6 mg/1 g /pack 1 pack BID PO 84 168 pack 自費  2015/11/05 已確認 已批 楊智欽 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT
+PSA droped to 0.8 ng/ml after ADT
+no adverse events!
+PSA declined to 0.58 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL
+【20150525】Serum PSA: 0.854   ng/mL
+【20150525】Testosterone: <0.20   ng/mL
+【20150525】ALP: 53   U/L
+【20150820】Serum PSA: 0.587   ng/mL 
+Plan 
+RTC 2m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/09/16 已確認 已批 余宏政 
+ 
+
+Subjective 
+Home BP 90-120/50-60. Doing O.K.
+Active smoker, 1ppd. 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Objective 
+HR: RHB, HR 68/min. 
+【20121102】Chest : PA View (Standing) :chest PA shows normal heart size and tortuous aorta with wall calcification. no definite lung lesion. degenerative change of the T and L spine with marginal spur formation. (WCK/Dr.JYC)
+ECG (2/24/2014): Normal sinus rhythm
+Normal ECG
+When compared with ECG of 2012/06/04 14:08, APCs are no longer present.
+【20121102】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD 
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis, antrum
+   Duodenum :
+     Suspect submucosal tumor, AW of bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil
+
+【20140918】LDL-C: 113   mg/dL
+【20140918】HDL-C: 36   mg/dL
+【20140918】CK: 52   U/L
+【20140918】ALT: 11   U/L
+【20140918】K: 4.2   mmol/L
+【20140918】Na: 140   mmol/L
+【20140918】CRE: 1.8   mg/dL
+【20140918】HbA1c: 6.2   %
+【20140918】GLU AC: 95   mg/dL
+【20140918】TG: 96   mg/dL
+【20140918】UN: 32.4   mg/dL
+【20140918】T-CHO: 165   mg/dL
+【20141211】LDL-C: 56   mg/dL
+【20141211】HDL-C: 34   mg/dL
+【20141211】CK: 52   U/L
+【20141211】ALT: 17   U/L
+【20141211】K: 4.9   mmol/L
+【20141211】Na: 141   mmol/L
+【20141211】CRE: 2.6   mg/dL
+【20141211】HbA1c: 6.6   %
+【20141211】GLU AC: 116   mg/dL
+【20141211】TG: 84   mg/dL
+【20141211】UN: 47.0   mg/dL
+【20141211】T-CHO: 107   mg/dL
+【20150306】LDL-C: 70   mg/dL
+【20150306】HDL-C: 35   mg/dL
+【20150306】CK: 59   U/L
+【20150306】ALT: 16   U/L
+【20150306】K: 4.6   mmol/L
+【20150306】Na: 139   mmol/L
+【20150306】CRE: 2.3   mg/dL
+【20150306】HbA1c: 6.7   %
+【20150306】GLU AC: 108   mg/dL
+【20150306】TG: 115   mg/dL
+【20150306】UN: 36.4   mg/dL
+【20150306】T-CHO: 125   mg/dL
+【20150529】LDL-C: 67   mg/dL
+【20150529】HDL-C: 34   mg/dL
+【20150529】CK: 59   U/L
+【20150529】ALT: 21   U/L
+【20150529】K: 4.8   mmol/L
+【20150529】Na: 142   mmol/L
+【20150529】CRE: 2.3   mg/dL
+【20150529】HbA1c: 7.1   %
+【20150529】GLU AC: 121   mg/dL
+【20150529】TG: 147   mg/dL
+【20150529】UN: 37.6   mg/dL
+【20150529】T-CHO: 122   mg/dL
+【20150820】Serum PSA: 0.587   ng/mL
+【20150820】LDL-C: 63   mg/dL
+【20150820】HDL-C: 36   mg/dL
+【20150820】CK: 59   U/L
+【20150820】ALT: 23   U/L
+【20150820】K: 4.6   mmol/L
+【20150820】Na: 140   mmol/L
+【20150820】CRE: 2.2   mg/dL
+【20150820】HbA1c: 6.6   %
+【20150820】GLU AC: 100   mg/dL
+【20150820】TG: 121   mg/dL
+【20150820】UN: 39.4   mg/dL
+【20150820】T-CHO: 115   mg/dL 
+Assessment 
+Initiate statin (DM, LDL 113). 
+Plan 
+DC CCB.
+Keep on current medications.
+F/U sugar, RFT+e-, lipid.
+Keep on current medications. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+O 600.0 Benign prostatic hyperplasia 慢 男  
+O 250.00 Diabetes mellitus 慢 糖  
+O 530.11 Reflux esophagitis 慢  
+O 535.50 Gastritis 慢  
+O 564.0 Constipation 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/08/26 已確認 已批 黃慶昌  
+COZAAR 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/26 已確認 已批 黃慶昌  
+Mevalotin Protect 40 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/26 已確認 已批 黃慶昌  
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/26 已確認 已批 黃慶昌  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/26 已確認 已批 黃慶昌  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP BUN 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09021CZP Sodium, Na 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09022CZP Potassium, K 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09026CZP ALT(GPT) 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09043C0P HDL 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09044C0P LDL 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09005CZP Glucose (AC) 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+檢驗 09006C0P HbA1c 1  N 2015/08/26 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 黃慶昌 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT
+PSA droped to 0.8 ng/ml after ADT
+no adverse events! 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL
+【20150525】Serum PSA: 0.854   ng/mL
+【20150525】Testosterone: <0.20   ng/mL
+【20150525】ALP: 53   U/L 
+Plan 
+RTC 1m
+PSA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/08/19 已確認 已批 余宏政  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2015/08/19 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 余宏政 
+ 
+
+Subjective 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Consult CV clinic for the management of hypertension and possible arrythmia.
+103/5/29: Stationary.
+103/8/21: Diarrhea was noted sometimes if taking some food not fresh.
+103/11/27: Belching occurs off and on.
+104/2/12: Stationary.
+104/5/14: Stationary.
+104/8/6: Stationary. 
+Plan 
+RTC 3 mo.
+Avoid acid and spicy food. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 530.11 Reflux esophagitis 慢  
+O 564.0 Constipation 慢  
+O 535.50 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/06 已確認 已批 楊智欽  
+Biofermin-R Powder 6 mg/1 g /pack 1 pack BID PO 84 168 pack 自費  2015/08/06 已確認 已批 楊智欽  
+SMP /tab 2 tab PRN PO 28 84 tab 自費  2015/08/06 已確認 已批 楊智欽 
+ 
+
+Subjective 
+Mild back pain
+occasionally dyspnea 
+Objective 
+back pain improved
+osteoporosis
+【20140227】BONE MINERAL DENSITY:BMD BY Hip (Right)  自費 :osteoporosis.
+
+X ray F/U stable, no pneumonia 
+Plan 
+2015-1-13 prolia
+stable F/U 6 months, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 733.10 Compression fracture, pathological, spontaneous  
+O 721.90 Spondylosis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prolia 60 mg/1 mL /syrg 60 mg Q6M SC 1 1 syrg 健保  2015/07/15 已確認 已批 王堯弘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32011CWM View of Lumbosacral Spine - only one film 1  N 2015/07/15 執行、已批 小部位:Only LAT. View,
+完成：2015/07/15
+ 王堯弘 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/07/15 執行、已批 完成：2015/07/15
+ 王堯弘 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/07/15 執行、已批 完成：2016/01/13
+ 王堯弘 
+治療 000Z1001 皮下注射 1  N 2015/07/15 執行、已批 完成：2015/07/15
+ 王堯弘 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT
+PSA droped to 0.8 ng/ml after ADT
+no adverse events! 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL
+【20150525】Serum PSA: 0.854   ng/mL
+【20150525】Testosterone: <0.20   ng/mL
+【20150525】ALP: 53   U/L 
+Plan 
+RTC 1m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/06/24 已確認 已批 余宏政 
+ 
+
+
+Subjective 
+Home BP 120-130/65-70. Doing O.K.
+Active smoker, 1ppd. 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Objective 
+HR: RHB, HR 68/min. 
+【20140228】Sugar(One touch): 143   *
+【20140227】Sugar(One touch): 154   *
+【20140227】Mg: 0.93   mmol/L
+【20140227】ALT: 28   U/L
+【20140227】K: 4.0   mmol/L
+【20140227】Na: 134   mmol/L
+【20140227】CRE: 2.0   mg/dL
+【20140227】UN: 39.3   mg/dL
+【20140225】PLT: 159   K/μL
+【20140225】Glu.(C): >1000 ( 4+ )   mg/dL
+【20140224】PLT: 143   K/μL
+【20140224】HB: 12.5   g/dL
+【20121102】Chest : PA View (Standing) :chest PA shows normal heart size and tortuous aorta with wall calcification. no definite lung lesion. degenerative change of the T and L spine with marginal spur formation. (WCK/Dr.JYC)
+ECG (2/24/2014): Normal sinus rhythm
+Normal ECG
+When compared with ECG of 2012/06/04 14:08, APCs are no longer present.
+【20121102】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD 
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis, antrum
+   Duodenum :
+     Suspect submucosal tumor, AW of bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil
+【20140403】HbA1c: 7.3   %
+【20140403】Protein(C): 70 ( 1+ )   mg/dL
+【20140403】O.B.(C): 1+   mg/dL
+【20140403】Glu.(C): 70 ( 1+ )   mg/dL
+【20140403】WBC: 6.20   k/μL
+【20140403】PLT: 129   k/μL
+【20140403】HB: 11.2   g/dL
+【20140403】LDL-C: 90   mg/dL
+【20140403】HDL-C: 37   mg/dL
+【20140403】CK: 54   U/L
+【20140403】ALT: 9   U/L
+【20140403】K: 4.8   mmol/L
+【20140403】Na: 141   mmol/L
+【20140403】CRE: 1.7   mg/dL
+【20140403】UA: 6.3   mg/dL
+【20140403】GLU AC: 109   mg/dL
+【20140403】GLU 2hr PC: 160   mg/dL
+【20140403】TG: 107   mg/dL
+【20140403】UN: 36.6   mg/dL
+【20140403】T-CHO: 152   mg/dL
+【20140403】Microalbumin/CRE(U): 0.185   *
+【20140403】Chest : PA View (Standing): normal heart size. 
+ECG (2/24/2014): Normal sinus rhythm
+Normal ECG.
+【20140625】HbA1c: 6.4   %
+【20140625】LDL-C: 97   mg/dL
+【20140625】HDL-C: 33   mg/dL
+【20140625】CK: 51   U/L
+【20140625】ALT: 13   U/L
+【20140625】GLU AC: 100   mg/dL
+【20140625】TG: 97   mg/dL
+【20140625】T-CHO: 151   mg/dL
+【20140918】LDL-C: 113   mg/dL
+【20140918】HDL-C: 36   mg/dL
+【20140918】CK: 52   U/L
+【20140918】ALT: 11   U/L
+【20140918】K: 4.2   mmol/L
+【20140918】Na: 140   mmol/L
+【20140918】CRE: 1.8   mg/dL
+【20140918】HbA1c: 6.2   %
+【20140918】GLU AC: 95   mg/dL
+【20140918】TG: 96   mg/dL
+【20140918】UN: 32.4   mg/dL
+【20140918】T-CHO: 165   mg/dL
+【20141211】LDL-C: 56   mg/dL
+【20141211】HDL-C: 34   mg/dL
+【20141211】CK: 52   U/L
+【20141211】ALT: 17   U/L
+【20141211】K: 4.9   mmol/L
+【20141211】Na: 141   mmol/L
+【20141211】CRE: 2.6   mg/dL
+【20141211】HbA1c: 6.6   %
+【20141211】GLU AC: 116   mg/dL
+【20141211】TG: 84   mg/dL
+【20141211】UN: 47.0   mg/dL
+【20141211】T-CHO: 107   mg/dL
+【20150306】LDL-C: 70   mg/dL
+【20150306】HDL-C: 35   mg/dL
+【20150306】CK: 59   U/L
+【20150306】ALT: 16   U/L
+【20150306】K: 4.6   mmol/L
+【20150306】Na: 139   mmol/L
+【20150306】CRE: 2.3   mg/dL
+【20150306】HbA1c: 6.7   %
+【20150306】GLU AC: 108   mg/dL
+【20150306】TG: 115   mg/dL
+【20150306】UN: 36.4   mg/dL
+【20150306】T-CHO: 125   mg/dL
+【20150529】LDL-C: 67   mg/dL
+【20150529】HDL-C: 34   mg/dL
+【20150529】CK: 59   U/L
+【20150529】ALT: 21   U/L
+【20150529】K: 4.8   mmol/L
+【20150529】Na: 142   mmol/L
+【20150529】CRE: 2.3   mg/dL
+【20150529】HbA1c: 7.1   %
+【20150529】GLU AC: 121   mg/dL
+【20150529】TG: 147   mg/dL
+【20150529】UN: 37.6   mg/dL
+【20150529】T-CHO: 122   mg/dL 
+Assessment 
+Initiate statin (DM, LDL 113). 
+Plan 
+Keep on current medications.
+F/U sugar, RFT+e-, lipid.
+Keep on current medications. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+O 535.50 Gastritis 慢  
+O 564.0 Constipation 慢  
+O 272.4 Hyperlipidemia 慢  
+O 600.0 Benign prostatic hyperplasia 慢 男  
+O 250.00 Diabetes mellitus 慢 糖  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/06/03 已確認 已批 黃慶昌  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/03 已確認 已批 黃慶昌  
+COZAAR 50 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/06/03 已確認 已批 黃慶昌  
+Mevalotin Protect 40 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/06/03 已確認 已批 黃慶昌  
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/03 已確認 已批 黃慶昌  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/03 已確認 已批 黃慶昌  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP BUN 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09021CZP Sodium, Na 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09022CZP Potassium, K 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09043C0P HDL 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09044C0P LDL 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09005CZP Glucose (AC) 1  N 2015/06/03 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 黃慶昌 
+檢驗 09006C0P HbA1c 1  N 2015/06/03 執行、已批 Specimen:BLO 
+完成：2015/08/20
+
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT
+PSA droped to 0.8 ng/ml after ADT 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL
+【20150525】Serum PSA: 0.854   ng/mL
+【20150525】Testosterone: <0.20   ng/mL
+【20150525】ALP: 53   U/L 
+Plan 
+RTC 1m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/05/27 已確認 已批 余宏政 
+ 
+
+Subjective 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Consult CV clinic for the management of hypertension and possible arrythmia.
+103/5/29: Stationary.
+103/8/21: Diarrhea was noted sometimes if taking some food not fresh.
+103/11/27: Belching occurs off and on.
+104/2/12: Stationary.
+104/5/14: Stationary. 
+Plan 
+RTC 3 mo.
+Avoid acid and spicy food. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 530.11 Reflux esophagitis 慢  
+O 535.50 Gastritis 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/14 已確認 已批 楊智欽  
+SMP /tab 2 tab PRN PO 28 84 tab 自費  2015/05/14 已確認 已批 楊智欽 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL 
+Plan 
+RTC 1m
+PSA, testosterone, ALP 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/04/29 已確認 已批 余宏政  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09027CZP ALP 1  N 2015/04/29 執行、已批 Specimen:BLO
+完成：2015/05/25
+ 余宏政 
+檢驗 12081B0P PSA 1  N 2015/04/29 執行、已批 Specimen:BLO
+完成：2015/05/25
+ 余宏政 
+檢驗 09121B0P Testosterone 1  N 2015/04/29 執行、已批 Specimen:BLO
+完成：2015/05/25
+ 余宏政 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! no adverse events towards ADT 
+Objective 
+【
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL 
+Plan 
+RTC 1m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/04/01 已確認 已批 余宏政 
+ 
+
+
+Subjective 
+Home BP 120-130/60-70. Doing O.K.
+Active smoker, 1ppd. 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP.
+103/3/6: Spine compression fracture occured last week, post OP. 
+Objective 
+HR: RHB, HR 68/min. 
+【20140228】Sugar(One touch): 143   *
+【20140227】Sugar(One touch): 154   *
+【20140227】Mg: 0.93   mmol/L
+【20140227】ALT: 28   U/L
+【20140227】K: 4.0   mmol/L
+【20140227】Na: 134   mmol/L
+【20140227】CRE: 2.0   mg/dL
+【20140227】UN: 39.3   mg/dL
+【20140225】PLT: 159   K/μL
+【20140225】Glu.(C): >1000 ( 4+ )   mg/dL
+【20140224】PLT: 143   K/μL
+【20140224】HB: 12.5   g/dL
+【20121102】Chest : PA View (Standing) :chest PA shows normal heart size and tortuous aorta with wall calcification. no definite lung lesion. degenerative change of the T and L spine with marginal spur formation. (WCK/Dr.JYC)
+ECG (2/24/2014): Normal sinus rhythm
+Normal ECG
+When compared with ECG of 2012/06/04 14:08, APCs are no longer present.
+【20121102】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD 
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis, antrum
+   Duodenum :
+     Suspect submucosal tumor, AW of bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil
+【20140403】HbA1c: 7.3   %
+【20140403】Protein(C): 70 ( 1+ )   mg/dL
+【20140403】O.B.(C): 1+   mg/dL
+【20140403】Glu.(C): 70 ( 1+ )   mg/dL
+【20140403】WBC: 6.20   k/μL
+【20140403】PLT: 129   k/μL
+【20140403】HB: 11.2   g/dL
+【20140403】LDL-C: 90   mg/dL
+【20140403】HDL-C: 37   mg/dL
+【20140403】CK: 54   U/L
+【20140403】ALT: 9   U/L
+【20140403】K: 4.8   mmol/L
+【20140403】Na: 141   mmol/L
+【20140403】CRE: 1.7   mg/dL
+【20140403】UA: 6.3   mg/dL
+【20140403】GLU AC: 109   mg/dL
+【20140403】GLU 2hr PC: 160   mg/dL
+【20140403】TG: 107   mg/dL
+【20140403】UN: 36.6   mg/dL
+【20140403】T-CHO: 152   mg/dL
+【20140403】Microalbumin/CRE(U): 0.185   *
+【20140403】Chest : PA View (Standing): normal heart size. 
+ECG (2/24/2014): Normal sinus rhythm
+Normal ECG.
+【20140625】HbA1c: 6.4   %
+【20140625】LDL-C: 97   mg/dL
+【20140625】HDL-C: 33   mg/dL
+【20140625】CK: 51   U/L
+【20140625】ALT: 13   U/L
+【20140625】GLU AC: 100   mg/dL
+【20140625】TG: 97   mg/dL
+【20140625】T-CHO: 151   mg/dL
+【20140918】LDL-C: 113   mg/dL
+【20140918】HDL-C: 36   mg/dL
+【20140918】CK: 52   U/L
+【20140918】ALT: 11   U/L
+【20140918】K: 4.2   mmol/L
+【20140918】Na: 140   mmol/L
+【20140918】CRE: 1.8   mg/dL
+【20140918】HbA1c: 6.2   %
+【20140918】GLU AC: 95   mg/dL
+【20140918】TG: 96   mg/dL
+【20140918】UN: 32.4   mg/dL
+【20140918】T-CHO: 165   mg/dL
+【20141211】LDL-C: 56   mg/dL
+【20141211】HDL-C: 34   mg/dL
+【20141211】CK: 52   U/L
+【20141211】ALT: 17   U/L
+【20141211】K: 4.9   mmol/L
+【20141211】Na: 141   mmol/L
+【20141211】CRE: 2.6   mg/dL
+【20141211】HbA1c: 6.6   %
+【20141211】GLU AC: 116   mg/dL
+【20141211】TG: 84   mg/dL
+【20141211】UN: 47.0   mg/dL
+【20141211】T-CHO: 107   mg/dL
+【20150306】LDL-C: 70   mg/dL
+【20150306】HDL-C: 35   mg/dL
+【20150306】CK: 59   U/L
+【20150306】ALT: 16   U/L
+【20150306】K: 4.6   mmol/L
+【20150306】Na: 139   mmol/L
+【20150306】CRE: 2.3   mg/dL
+【20150306】HbA1c: 6.7   %
+【20150306】GLU AC: 108   mg/dL
+【20150306】TG: 115   mg/dL
+【20150306】UN: 36.4   mg/dL
+【20150306】T-CHO: 125   mg/dL 
+Assessment 
+Initiate statin (DM, LDL 113). 
+Plan 
+Keep on current medications.
+F/U sugar, RFT+e-, lipid.
+Resume ARB. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+O 600.0 Benign prostatic hyperplasia 慢 男  
+O 250.00 Diabetes mellitus 慢 糖  
+O 530.11 Reflux esophagitis 慢  
+O 535.50 Gastritis 慢  
+O 564.0 Constipation 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/03/11 已確認 已批 黃慶昌  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/11 已確認 已批 黃慶昌  
+COZAAR 50 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/03/11 已確認 已批 黃慶昌  
+Mevalotin Protect 40 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/03/11 已確認 已批 黃慶昌  
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/11 已確認 已批 黃慶昌  
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/11 已確認 已批 黃慶昌  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP BUN 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09021CZP Sodium, Na 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09022CZP Potassium, K 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09043C0P HDL 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09044C0P LDL 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09005CZP Glucose (AC) 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+檢驗 09006C0P HbA1c 1  N 2015/03/11 執行、已批 Specimen:BLO
+完成：2015/05/29
+ 黃慶昌 
+ 
+
+Subjective 
+Prostate cancer was diagnosed incidentally by laser prostatectomy in 2012/06/05
+Gleason's score 3+4=7, cT3aN1Mx was suspected by MRI. i PSA: 19.07
+On intermittent androgen deprivation therapy. Off medications for 9 months. PSA increased from 1.8 ng/ml to 9.08 ng/ml
+PSA achieved nadir (0.14) after 6 month Zoladex treatment
+Off medication 9 months
+PSA elevated to 12.9 now! 
+Objective 
+【20131209】Serum PSA: 9.087   ng/ml (off stage)
+【20130709】Serum PSA: 1.896   ng/ml (off stage)
+   2013/04/19: 0.10 ng/ml
+   2013/01/17:0.4 ng/ml
+   2012/10/24: 12.617 ng/ml
+【20140317】Serum PSA: 1.164   ng/ml
+【20140317】Testosterone: < 0.20   ng/mL
+【20140610】Serum PSA: 0.143   ng/ml
+【20140610】HB: 11.2   g/dL
+【20140610】CRE: 2.1   mg/dL
+【20140901】Serum PSA: 1.913   ng/ml
+【20141124】Serum PSA: 4.889   ng/ml
+【20141124】Testosterone: 2.95   ng/mL
+【20150302】Serum PSA: 12.703   ng/mL 
+Plan 
+RTC 1m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 185 Prostate cancer 重 慢 男 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zoladex Depot 3.6 mg/syrg 3.6 mg Q4W SC 28 1 syrg 健保  2015/03/04 已確認 已批 余宏政  
+ 
+
+Subjective 
+PES: GERD
+102/11/14: on NSAID. Stationary. 
+103/3/6: Spine compression fracture occured last week, post OP. 
+Consult CV clinic for the management of hypertension and possible arrythmia.
+103/5/29: Stationary.
+103/8/21: Diarrhea was noted sometimes if taking some food not fresh.
+103/11/27: Belching occurs off and on.
+104/2/12: Stationary. 
+Plan 
+RTC 3 mo.
+Avoid acid and spicy food. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 530.11 Reflux esophagitis 慢  
+O 564.0 Constipation 慢  
+O 535.50 Gastritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/12 已確認 已批 楊智欽 重複原因:補給天數 (至下次預約門診日)
+ 
+SMP /tab 2 tab PRN PO 28 84 tab 自費  2015/02/12 已確認 已批 楊智欽 
+ 
+
+Subjective 
+Mild back pain
+occasionally dyspnea 
+Objective 
+back pain improved
+osteoporosis
+【20140227】BONE MINERAL DENSITY:BMD BY Hip (Right)  自費 :osteoporosis.
+
+X ray F/U stable, no pneumonia 
+Plan 
+2015-1-13 prolia
+stable F/U 6 months, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 733.10 Compression fracture, pathological, spontaneous  
+O 721.90 Spondylosis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prolia 60 mg/1 mL /syrg 60 mg Q6M SC 1 1 syrg 健保  2015/01/14 已確認 已批 王堯弘 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2015/01/14 執行、已批 完成：2015/01/14
+
+    
+蔡明宏(M,1932/09/20,86y0m) 5837138 已結帳 2015/01/14 總院區 影-下-01 14T04600781  
+S O A P       
+  
+ 
+跌、巴   
+
+        自動印單 讀卡     
+  注意:如果醫令處方有做過更動請務必再按一次看診完成否則會有漏帳之虞  
+
+           
+  
+    
+常用套餐醫令 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+  
+  
+  
+  
+
+ 
+
+  
+ 
+
+
+
+ 
+
+
+
+
+ 
+     
+ 
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+  
+
+
+
+
+ 
+
+
+
+   
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+本次就診內容: 全部顯示  SOAP   診斷  處方  處置  掛號  排程  身分  就診記錄  帳務  PDF  健保藥歷  雲端病歷  他院病歷  轉診平台  溝通平台     
+ 
+
+Subjective 
+Mild back pain
+occasionally dyspnea 
+Objective 
+back pain improved
+osteoporosis
+【20140227】BONE MINERAL DENSITY:BMD BY Hip (Right)  自費 :osteoporosis.
+
+X ray F/U stable, no pneumonia 
+Plan 
+2015-1-13 prolia
+stable F/U 6 months, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 733.10 Compression fracture, pathological, spontaneous  
+O 721.90 Spondylosis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prolia 60 mg/1 mL /syrg 60 mg Q6M SC 1 1 syrg 健保  2015/01/14 已確認 已批 王堯弘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2015/01/14 執行、已批 完成：2015/01/14
+ 王堯弘 
+影醫 32011CZM L Spine (Lateral View) 1  Y 2015/01/14 刪除、刪除、未看完 小部位:Only LAT. View,
+ 王堯弘 
+影醫 32011CVM View of Thoracolumbar Spine - only one film 1  N 2015/01/14 刪除、刪除、未看完 小部位:Only LAT. View,
+ 王堯弘 
+影醫 32011CZM L Spine (Lateral View) 1  Y 2015/01/14 執行、已批 小部位:Only LAT. View,
+完成：2015/01/14
+ 王堯弘 
+ 治療 000Z1002 肌肉注射 1  N 2015/01/14 執行、已批 完成：2015/01/14
+ 王堯弘 
+ 
+ 王堯弘 
+
+
+ 
+
+
+
+

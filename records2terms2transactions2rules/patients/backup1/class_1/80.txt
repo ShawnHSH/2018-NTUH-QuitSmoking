@@ -1,0 +1,1021 @@
+﻿
+Subjective 
+numbness of face and deviated of mouth since yesterday 
+PH denied
+smoking + drinking -
+sleep poor 
+no allergy
+First aid at CGMH ED 
+Objective 
+NE neck supple
+left facial palsy partial
+paresthesia on left mouth 
+motor sensory np 
+DTR+/+ 
+IMP left facial palsy 
+Assessment 
+Facial stim ; Blink reflex 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 351.0 Bells palsy (Cranial nerve VII)  
+O 729.1 Myalgia and myositis, unspecified  
+O 300.00 Anxiety state, unspecified 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Alinamin-F50 /tab 1 tab BIDPC PO 14 28 tab 自費  2014/10/27 已確認 已批 梅聖年  
+PARAMOL 500 mg/tab 1 tab BID PO 14 28 tab 健保  2014/10/27 已確認 已批 梅聖年  
+(管4) 安柏寧 Alpraline 0.5 mg/tab .5 tab BID PO 14 14 tab 健保  2014/10/27 已確認 已批 梅聖年  
+Predonine 5 mg/tab 1 tab BID PO 3 6 tab 健保  2014/10/27 已確認 已批 梅聖年  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 000JEX03 神經傳導檢查 1  N 2014/10/27 執行、已批 完成：2014/11/05
+ 梅聖年 
+治療 20003C0J 面神經刺激檢查(Facial nerve stimulation) 1  N 2014/10/27 執行、已批 完成：2014/11/05
+ 梅聖年 
+治療 20022B0J 瞬眼反應(Blink reflex) 1  N 2014/10/27 執行、已批 完成：2014/11/05
+ 梅聖年 
+行政費用 000O1001 掛號費 1 自費 N 2014/10/27 已批 完成：2014/10/27  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/10/27 已批 完成：2014/10/27  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2014/10/27 已批 完成：2014/10/27 
+ 
+主/次 診斷碼 診斷名稱 註記 
+O 372.10 Chronic conjunctivitis  
+M 362.50 Macular degeneration (senile) 慢  
+O 374.20 Lagophthalmos  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Sinomin Oph Soln 4% 15 mL/btl 1 gtt QID OU 28 1 btl 健保  2014/10/30 已確認 已批 胡君怡  
+眼 Tetracycline Oph Oint 10 mg/1 g 1% 5 g/tube 1 XX HS OS 28 1 tube 健保  2014/10/30 已確認 已批 胡君怡  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CXZ 光學同調斷層檢查-1 (OCT-OPTOVUE) 1  N 2014/10/30 刪除、刪除、未看完 是否須散瞳?:需散瞳
+左眼或右眼?:雙眼
+掃描?:視網膜
+ 胡君怡 
+檢查 23506CZE 光學同調斷層檢查-2 (OCT-CIRRUS) 1  N 2014/10/30 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:雙眼
+掃描?:視網膜
+完成：2014/11/26
+ 胡君怡 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2014/10/30 執行、已批 完成：2014/10/30
+ 胡君怡 
+行政費用 000O1001 掛號費 1 自費 N 2014/10/30 已批 完成：2014/10/30  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/10/30 已批 完成：2014/10/30  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/10/30 已批 完成：2014/10/30 
+ 
+
+Subjective 
+numbness of face and deviated of mouth 
+smoking + drinking -
+sleep poor 
+no allergy
+First aid at CGMH ED 
+Objective 
+NE 68/min 
+ neck supple
+left facial palsy partial
+paresthesia on left mouth 
+motor sensory np 
+DTR+/+ 
+IMP left facial palsy
+ratio 0.5 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 351.0 Bells palsy (Cranial nerve VII)  
+O 300.00 Anxiety state, unspecified 慢  
+O 729.1 Myalgia and myositis, unspecified  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Alinamin-F50 /tab 1 tab BIDPC PO 14 28 tab 自費  2014/11/10 已確認 已批 梅聖年  
+PARAMOL 500 mg/tab 1 tab BID PO 14 28 tab 健保  2014/11/10 已確認 已批 梅聖年  
+(管4) 安柏寧 Alpraline 0.5 mg/tab .5 tab BID PO 14 14 tab 健保  2014/11/10 已確認 已批 梅聖年  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2014/11/10 已批 完成：2014/11/10  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/11/10 已批 完成：2014/11/10  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2014/11/10 已批 完成：2014/11/10 
+ 
+
+Subjective 
+slight improved
+numbness of face and deviated of mouth 
+smoking + drinking -
+sleep poor 
+no allergy
+First aid at CGMH ED 
+Objective 
+NE  neck supple
+left facial palsy partial
+paresthesia on left mouth 
+motor sensory np 
+DTR+/+ 
+IMP left facial palsy
+ratio 0.5 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 300.00 Anxiety state, unspecified 慢  
+M 351.0 Bells palsy (Cranial nerve VII)  
+O 729.1 Myalgia and myositis, unspecified  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Alinamin-F50 /tab 1 tab BIDPC PO 14 28 tab 自費  2014/11/24 已確認 已批 梅聖年  
+PARAMOL 500 mg/tab 1 tab BID PO 14 28 tab 健保  2014/11/24 已確認 已批 梅聖年  
+(管4) 安柏寧 Alpraline 0.5 mg/tab .5 tab BID PO 14 14 tab 健保  2014/11/24 已確認 已批 梅聖年  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2014/11/24 已批 完成：2014/11/24  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/11/24 已批 完成：2014/11/24  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2014/11/24 已批 完成：2014/11/24 
+ 
+
+Subjective 
+blurred vision os for years.
+itch ou 
+Objective 
+CVA: 1.0/0.5
+IOP: 16.3/22
+Lid: np ou
+conjunctiva: papillae ou
+cornea: clear ou
+AC: deep/ clear ou
+Pupil:reactive, isocoric ou
+Lens: clear ou
+Vitreous: clear
+Fundus:clear, attached, no hemorrhage, disc not  pale not swelling ou
+
+C/D: 40% ou.
+
+【20141126】OCT-2 :
+OS: macular SRF(+) 
+Assessment 
+renal Dz.(-), HBV(+). 
+Plan 
+arrange FAG+color photo.
+f/u after exam. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.83 Macular edema 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+眼百適 Allergopos Eye Drops 10 mL/btl 1 gtt TID OU 7 1 btl 健保  2014/11/27 已確認 已批 謝旻蒼  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23505C99 F. A. G. 螢光眼底血管攝影術(open)Fluorescein angiography 1  N 2014/11/27 執行、已批 完成：2015/01/06
+ 謝旻蒼 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2014/11/27 執行、已批 完成：2014/11/27
+ 謝旻蒼 
+治療 23502C00 眼底彩色攝影（每張） 8  N 2014/11/27 執行、已批 完成：2015/01/06
+ 謝旻蒼 
+治療 23505C00 F.A.G. 1  N 2014/11/27 執行、已批 完成：2015/01/06
+ 謝旻蒼 
+醫材 20005302 Winged Infusion Set #23 1 內含 N 2014/11/27 執行、已批 完成：2015/01/06
+ 謝旻蒼 
+行政費用 000O1001 掛號費 1 自費 N 2014/11/27 已批 完成：2014/11/27  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/11/27 已批 完成：2014/11/27  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2014/11/27 已批 完成：2014/11/27 
+ 
+Subjective 
+*已在外院收入BC肝追蹤試辦計畫，不收案*
+bleeding during stool passage, for days
+fresh blood on stool (+)
+Hemorrhoiid history (+)
+chronic hepatitis B
+e negative
+epigastralgia for a long time, history of gastric ulcer for 20 years
+work up for hepatitis B, and PES for GU follow up
+abd sono neg, UGI neg
+follow up due to activation before 
+Objective 
+【20140709】HBsAg: Positive(36.63)   IU/ml
+【20140709】HBeAg: Negative   *
+
+Hemorrhoiid (+) protruding
+【20121228】COLONOSCOPY for IVG-大腸鏡檢查(麻醉) :
+Endoscopic Diagnosis : Internal hemorrhoid
+
+【20140714】Abdomen Echo Ultrasound :Negative
+ 檢查者:  江宗賢主治醫師
+【20140710】ESO.+Upper GI Barium Meal :No definite abnormality in this study.
+
+
+【20141117】T-BIL: 0.77   mg/dL
+【20141117】D-BIL: 0.12   mg/dL
+【20141117】AST: 24   U/L
+【20141117】ALT: 24   U/L 
+Assessment 
+Hemorrhoid (+) 
+suspected rectal polyp 
+Plan 
+got, gpt, bilt,afp
+fu 15wks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 569.89 Colon lesion 慢  
+O 531.90 Gastric ulcer 慢  
+O 070.32 Viral hepatitis B, chronic 慢  
+O 455.6 Hemorrhoid 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2014/11/29 執行、已批 Specimen:BLO
+完成：2015/03/10
+ 黃冠棠 
+檢驗 09026CZP ALT(GPT) 1  N 2014/11/29 執行、已批 Specimen:BLO
+完成：2015/03/10
+ 黃冠棠 
+檢驗 09029CZP BIL T 1  N 2014/11/29 執行、已批 Specimen:BLO
+完成：2015/03/10
+ 黃冠棠 
+檢驗 09030CZP BIL D 1  N 2014/11/29 刪除、刪除、未看完 Specimen:BLO
+ 黃冠棠 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2014/11/29 執行、已批 Specimen:BLO
+完成：2015/03/10
+ 黃冠棠 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/01 已批 完成：2014/12/01  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/12/01 已批 完成：2014/12/01 
+
+Subjective 
+improved
+numbness of face and deviated of mouth 
+smoking + drinking -
+sleep poor 
+no allergy
+First aid at CGMH ED 
+Objective 
+NE  neck supple
+left facial palsy partial
+paresthesia on left mouth 
+motor sensory np 
+DTR+/+ 
+IMP left facial palsy
+ratio 0.5 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 351.0 Bells palsy (Cranial nerve VII)  
+O 729.1 Myalgia and myositis, unspecified  
+O 300.00 Anxiety state, unspecified 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Alinamin-F50 /tab 1 tab BIDPC PO 14 28 tab 自費  2014/12/08 已確認 已批 梅聖年  
+PARAMOL 500 mg/tab 1 tab BID PO 14 28 tab 健保  2014/12/08 已確認 已批 梅聖年  
+(管4) 安柏寧 Alpraline 0.5 mg/tab .5 tab BID PO 14 14 tab 健保  2014/12/08 已確認 已批 梅聖年  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/08 已批 完成：2014/12/08  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/12/08 已批 完成：2014/12/08  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2014/12/08 已批 完成：2014/12/08 
+ 
+Subjective 
+Right foot hit by heavy object (1kg ) 
+Assessment 
+X ray: right foot
+
+F/U 1/26 (right foot )(W1pm) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V54.0 Aftercare involving removal of fracture plate or other internal fixation device  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 7 14 cap 健保  2015/01/06 已確認 已批 洪立維  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP024 Foot: Right 1  Y 2015/01/06 執行、已批 小部位:Routine
+完成：2015/01/06
+ 洪立維 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/06 已批 完成：2015/01/06  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/01/06 已批 完成：2015/01/06  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/01/06 已批 完成：2015/01/06  
+ 
+ 
+Subjective 
+still blurred vision os for years.
+itch ou. 
+Objective 
+CVA: 1.0/0.5
+IOP: 16.3/22
+Lid: np ou
+conjunctiva: papillae ou
+cornea: clear ou
+AC: deep/ clear ou
+Pupil:reactive, isocoric ou
+Lens: clear ou
+Vitreous: clear.
+Fundus:clear, attached, no hemorrhage, disc not  pale not swelling ou
+
+C/D: 40% ou.
+
+【20141126】OCT-2 :
+OS: macular SRF(+)
+
+【20150106】F. A. G. 螢光眼底血管攝影術(open)Fluorescein 
+OD: RPE change
+OS: suspect CSCR 
+Assessment 
+renal Dz.(-), HBV(+). 
+Plan 
+f/u. 1m(CVA)
+病人ask to refer to retina man. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.83 Macular edema 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+眼百適 Allergopos Eye Drops 10 mL/btl 1 gtt TID OU 28 1 btl 健保  2015/01/07 已確認 已批 謝旻蒼  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/07 已批 完成：2015/01/07  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/01/07 已批 完成：2015/01/07  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/01/07 已批 完成：2015/01/07 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 高中(職) 嚼檳榔 無 
+吸菸 >10年，每天<20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 有異常，需進一步追蹤或轉介(請填原因) 
+需進一步追蹤或轉介原因 約兩星期仍不癒之口腔潰瘍/糜爛     
+檢查結果部位      
+確診追蹤 
+確診日期 1040120 (格式:0990101) 他院確診院所代碼  他院有做手術、放療或化療，治療醫院代碼  
+若有切片，請輸入切片日期  陽性個案於檢查後兩個月內有後續確診? 有 是否於他院進行確診 否 
+未接受確診理由 無 病理切片 無，請填診斷結果(非口腔癌之病變，未切片) 診斷結果 異常(請填寫診斷結果) 
+臨床診斷(複檢)結果(非口腔癌之其他病變) 白斑 診斷(確診)結果(病理診斷) 無 鱗狀細胞癌 無 
+治療 沒有(無需治療,已衛教介入) 異常個案是否已填答完畢 是   
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/01/19 執行、已批 完成：2015/01/19
+ 陳俊男 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 高中(職) 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌症? 有 請問您有無腸道不適症狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿70歲者每2年1次) 1  N 2015/01/19 執行、已批 Specimen:STO
+完成：2015/01/20
+ 呂碧鴻 
+ 
+
+Subjective 
+Left side frequent oral ulcer 
+Objective 
+Left side deafness 
+Assessment 
+ABC Hx: smoking 
+Plan 
+OPD f/u 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.9 Oral ulcer  
+O 528.6 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+B.C. /cap 1 cap TID PO 14 42 cap 自費  2015/01/20 已確認 已批 陳贈成  
+Nincort Oral Gel 0.1% 6 g/tube 2 XX BID OR 7 1 tube 健保  2015/01/20 已確認 已批 陳贈成  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/20 已批 完成：2015/01/20  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/01/20 已批 完成：2015/01/20  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/01/20 已批 完成：2015/01/20 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+Asking for #38 tooth extraction, upper anterior teeth caries, and left posterior mucosa ulceration near #38.
+
+現病史：
+The 49y/o male patient came to our department for #38 extraction, caries and mucosa evaluation. He complained about #38 mobility and recurrent ulceration near #38. He felt his tooth condition is not very good, so he went to our department for evaluation.
+Alcohol(-)
+Betel nut: quit for 10 years
+Cigarette: 5~10 cigarettes per day
+
+過去病史：
+HBV(+)
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：O
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+1. Present dentition: 
+ 7654321 1234567
+------------+-----------
+   654321 12345  8
+2. Restoration: 17 Amalgam(O),16 Resin(O), 25 Amlagam(D), 27 Resin(O), 46 Resin(O)
+3. Caries: 16 occlusal, 26 occlusal
+4. #38 mesial-tilted, mobility Grade I,      
+                                            L
+                                      M 753 D
+                                          373
+                                            B
+5. Full mouth severe attrition
+6. Check panoramic and 38 periapical X ray,finding:
+(1) #38 fircation involvement is noted. about 70% bony support.
+(2) No obvious intrabony pathological lesions was noted in both jaw bones
+(3) Full mouth horizontal bone destruction
+(4) Restoration: 17 occlusal, 25 distal, 27 occlusal
+ 
+Plan 
+Mx:
+After discussion with the patient, he wish to have #38 extracted.
+OMS dept. consultation for #38 extraction.
+
+
+< OS dept>
+arragned 38 extraction at 2015.02.03 10:00
+
+R2林均霈/VS陳信銘
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/02/02 執行、已批 齒位1:FM
+完成：2015/02/02
+ 王逸平 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/02 已批 完成：2015/02/02  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/02/02 已批 完成：2015/02/02 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+Asking for #38 tooth extraction, upper anterior teeth caries, and left posterior mucosa ulceration near #38.
+
+現病史：
+The 49y/o male patient came to our department for #38 extraction, caries and mucosa evaluation. He complained about #38 mobility and recurrent ulceration near #38. He felt his tooth condition is not very good, so he went to our department for evaluation.
+Alcohol(-)
+Betel nut: quit for 10 years
+Cigarette: 5~10 cigarettes per day
+
+過去病史：
+HBV(+)
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：O
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+1. Present dentition: 
+ 7654321 1234567
+------------+-----------
+   654321 12345  8
+2. Restoration: 17 Amalgam(O),16 Resin(O), 25 Amlagam(D), 27 Resin(O), 46 Resin(O)
+3. Caries: 16 occlusal, 26 occlusal
+4. #38 mesial-tilted, mobility Grade I,      
+                                            L
+                                      M 753 D
+                                          373
+                                            B
+5. Full mouth severe attrition
+6. Check panoramic and 38 periapical X ray,finding:
+(1) #38 fircation involvement is noted. about 70% bony support.
+(2) No obvious intrabony pathological lesions was noted in both jaw bones
+(3) Full mouth horizontal bone destruction
+(4) Restoration: 17 occlusal, 25 distal, 27 occlusal
+ 
+Plan 
+Mx:
+After discussion with the patient, he wish to have #38 extracted.
+OMS dept. consultation for #38 extraction.
+
+
+< OS dept>
+arragned 38 extraction at 2015.02.03 10:00
+
+R2林均霈/VS陳信銘
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/02/02 執行、已批 齒位1:FM
+完成：2015/02/02
+ 王逸平 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/02 已批 完成：2015/02/02  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/02/02 已批 完成：2015/02/02 
+ 
+
+
+Subjective 
+For arranged #38 extraction
+ 
+Objective 
+#38 chronic periodontitis
+ 
+Assessment 
+#38 chronic periodontitis
+ 
+Plan 
+Pre-OP Dx:38 chronic periodontitis
+Post-OP Dx:38 chronic periodontitis s/p extraction
+OP method: complicated extraction
+OP findings:38 chronic periodontitis
+OP procedure:
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual
+2.Lower left local anesthesia was done with 1.7*2 mL 2% lidocaine (with 1:80000 epinephrine)
+3.Removal of tooth with elevators and forceps
+4.Socket curettage to remove granulation tissue and normal saline irrigation
+5.Gauze packing for 1 hour
+6.Post-OP wound care instruction was given
+Specimen for pathology: nil
+Estimated blood loss:minimal
+
+Rx:
+Amoxicillin 250mg/cap 1 cap*Q8H*3days PO and
+Paramol     500mg/cap 1 tab*TID*3days PO
+for infection prophylaxis and pain control
+
+Operator and recorder: R1吳敏駿
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2015/02/16 已確認 已批 陳信銘  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2015/02/16 已確認 已批 陳信銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92014C00 COMPLICATED EXTRATION 1  N 2015/02/16 執行、已批 齒位1:38
+完成：2015/02/16
+ 陳信銘 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/16 已批 完成：2015/02/16  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/02/16 已批 完成：2015/02/16  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/02/16 已批 完成：2015/02/16 
+ 
+
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 362.83 Macular edema 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt QID OD 2 1 btl 健保  2015/02/16 已確認 已批 楊中美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 000OPH03 眼科雷射治療 1  Y 2015/02/16 執行、已批 治療部位:左眼
+其他：打雷射前先與楊醫師討論
+完成：2015/02/16
+ 楊中美 
+檢查 23506CXZ 光學同調斷層檢查-1 (OCT-OPTOVUE) 1  Y 2015/02/16 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:左眼
+掃描?:視網膜
+完成：2015/02/16
+ 楊中美 
+檢查 23506CZE 光學同調斷層檢查-2 (OCT-CIRRUS) 1  Y 2015/02/16 刪除、刪除、未看完 是否須散瞳?:需散瞳
+左眼或右眼?:左眼
+掃描?:視網膜
+ 楊中美 
+檢查 23506CXZ 光學同調斷層檢查-1 (OCT-OPTOVUE) 1  N 2015/02/16 刪除、刪除、未看完 是否須散瞳?:需散瞳
+左眼或右眼?:左眼
+掃描?:視網膜
+ 楊中美 
+檢查 23506CZE 光學同調斷層檢查-2 (OCT-CIRRUS) 1  N 2015/02/16 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:左眼
+掃描?:視網膜
+完成：2015/03/27
+ 楊中美 
+治療 60005C00 週邊（局部）網膜雷射術－初診 (FOCAL-1) 1  N 2015/02/16 執行、已批 完成：2015/02/16
+ 楊中美 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/02/16 執行、已批 完成：2015/02/16
+ 楊中美 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/16 已批 完成：2015/02/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/02/16 已批 完成：2015/02/16  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/02/16 已批 完成：2015/02/16 
+ 
+
+Subjective 
+*已在外院收入BC肝追蹤試辦計畫，不收案*
+bleeding during stool passage, for days
+fresh blood on stool (+)
+Hemorrhoid history (+)
+chronic hepatitis B
+e negative
+epigastralgia for a long time, history of gastric ulcer for 20 years
+work up for hepatitis B, and PES for GU follow up
+abd sono neg, UGI neg
+follow up due to activation before 
+Objective 
+【20140709】HBsAg: Positive(36.63)   IU/ml
+【20140709】HBeAg: Negative   *
+
+Hemorrhoiid (+) protruding
+【20121228】COLONOSCOPY for IVG-大腸鏡檢查(麻醉) :
+Endoscopic Diagnosis : Internal hemorrhoid
+
+【20140714】Abdomen Echo Ultrasound :Negative
+ 檢查者:  江宗賢主治醫師
+【20140710】ESO.+Upper GI Barium Meal :No definite abnormality in this study.
+
+
+【20150310】Alpha-Fetoprotein: 2.76   ng/mL
+【20150310】T-BIL: 0.82   mg/dL
+【20150310】AST: 25   U/L
+【20150310】ALT: 25   U/L 
+Assessment 
+Hemorrhoid (+) 
+suspected rectal polyp 
+Plan 
+got, gpt, bilt, abd sono
+fu 16wks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 455.6 Hemorrhoid 慢  
+O 070.32 Viral hepatitis B, chronic 慢  
+O 531.90 Gastric ulcer 慢  
+M 569.89 Colon lesion 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2015/03/14 執行、已批 Specimen:BLO
+完成：2015/06/29
+ 黃冠棠 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/14 執行、已批 Specimen:BLO
+完成：2015/06/29
+ 黃冠棠 
+檢驗 09029CZP BIL T 1  N 2015/03/14 執行、已批 Specimen:BLO
+完成：2015/06/29
+ 黃冠棠 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/03/14 刪除、刪除、未看完 Specimen:BLO
+ 黃冠棠 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2015/03/14 執行、已批 Reason for abodominal echo:Hepatitis B
+完成：2015/06/29
+ 黃冠棠 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/16 已批 完成：2015/03/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/16 已批 完成：2015/03/16 
+ 
+
+Subjective 
+*已在外院收入BC肝追蹤試辦計畫，不收案*
+bleeding during stool passage, for days
+fresh blood on stool (+)
+Hemorrhoid history (+)
+chronic hepatitis B
+e negative
+epigastralgia for a long time, history of gastric ulcer for 20 years
+work up for hepatitis B, and PES for GU follow up
+abd sono neg, UGI neg
+follow up due to activation before 
+Objective 
+【20140709】HBsAg: Positive(36.63)   IU/ml
+【20140709】HBeAg: Negative   *
+
+Hemorrhoiid (+) protruding
+【20121228】COLONOSCOPY for IVG-大腸鏡檢查(麻醉) :
+Endoscopic Diagnosis : Internal hemorrhoid
+
+【20140714】Abdomen Echo Ultrasound :Negative
+ 檢查者:  江宗賢主治醫師
+【20140710】ESO.+Upper GI Barium Meal :No definite abnormality in this study.
+
+
+【20150310】Alpha-Fetoprotein: 2.76   ng/mL
+【20150310】T-BIL: 0.82   mg/dL
+【20150310】AST: 25   U/L
+【20150310】ALT: 25   U/L 
+Assessment 
+Hemorrhoid (+) 
+suspected rectal polyp 
+Plan 
+got, gpt, bilt, abd sono
+fu 16wks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 455.6 Hemorrhoid 慢  
+O 070.32 Viral hepatitis B, chronic 慢  
+O 531.90 Gastric ulcer 慢  
+M 569.89 Colon lesion 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2015/03/14 執行、已批 Specimen:BLO
+完成：2015/06/29
+ 黃冠棠 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/14 執行、已批 Specimen:BLO
+完成：2015/06/29
+ 黃冠棠 
+檢驗 09029CZP BIL T 1  N 2015/03/14 執行、已批 Specimen:BLO
+完成：2015/06/29
+ 黃冠棠 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2015/03/14 刪除、刪除、未看完 Specimen:BLO
+ 黃冠棠 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2015/03/14 執行、已批 Reason for abodominal echo:Hepatitis B
+完成：2015/06/29
+ 黃冠棠 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/16 已批 完成：2015/03/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/16 已批 完成：2015/03/16 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.83 Macular edema 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CXZ 光學同調斷層檢查-1 (OCT-OPTOVUE) 1  N 2015/03/30 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:左眼
+掃描?:視網膜
+完成：2015/05/29
+ 楊中美 
+檢查 23502C00 Fundus color photo (彩色眼底攝影) 1  N 2015/03/30 執行、已批 掃描模式?:視網膜(一般)
+部位?:左眼
+散瞳與否?:需散瞳
+完成：2015/05/29
+ 楊中美 
+治療 23502C00 眼底彩色攝影（每張） 1  N 2015/03/30 刪除、刪除  楊中美 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/30 已批 完成：2015/03/30  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/30 已批 完成：2015/03/30 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.83 Macular edema 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CXZ 光學同調斷層檢查-1 (OCT-OPTOVUE) 1  N 2015/06/01 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:左眼
+掃描?:視網膜
+完成：2015/07/30
+ 楊中美 
+治療 000E0404 視力檢查 1 自費 N 2015/06/01 執行、已批 完成：2015/06/01
+ 楊中美 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/01 已批 完成：2015/06/01  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/06/01 已批 完成：2015/06/01 
+ 
+
+Subjective 
+*已在外院收入BC肝追蹤試辦計畫，不收案*
+bleeding during stool passage, for days
+fresh blood on stool (+)
+Hemorrhoid history (+)
+chronic hepatitis B
+e negative
+epigastralgia for a long time, history of gastric ulcer for 20 years
+work up for hepatitis B, and PES for GU follow up
+abd sono neg, UGI neg
+follow up due to activation before
+fu at Municipal hospital LinShen district 
+Objective 
+【20140709】HBsAg: Positive(36.63)   IU/ml
+【20140709】HBeAg: Negative   *
+=========
+Hemorrhoiid (+) protruding
+【20121228】COLONOSCOPY for IVG-大腸鏡檢查(麻醉) :Diagnosis : Internal hemorrhoid
+ 
+【20140710】ESO.+Upper GI Barium Meal :No definite abnormality in this study.
+
+【20150310】Alpha-Fetoprotein: 2.76   ng/mL
+【20150629】T-BIL: 1.00   mg/dL
+【20150629】AST: 23   U/L
+【20150629】ALT: 27   U/L
+
+【20150629】Follow up Abdomen Echo :Negative 
+Assessment 
+Hemorrhoid (+) 
+suspected rectal polyp 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 569.89 Colon lesion 慢  
+O 531.90 Gastric ulcer 慢  
+O 070.32 Viral hepatitis B, chronic 慢  
+O 455.6 Hemorrhoid 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2015/07/03 刪除、刪除、未看完 Specimen:BLO
+ 黃冠棠 
+檢驗 09026CZP ALT(GPT) 1  N 2015/07/03 刪除、刪除、未看完 Specimen:BLO
+ 黃冠棠 
+檢驗 09029CZP BIL T 1  N 2015/07/03 刪除、刪除、未看完 Specimen:BLO
+ 黃冠棠 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/06 已批 完成：2015/07/06  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1 自費 N 2015/07/06 已批 完成：2015/07/06 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.83 Macular edema 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt TID OU 7 1 btl 健保  2015/08/10 已確認 已批 楊中美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CXZ 光學同調斷層檢查-1 (OCT-OPTOVUE) 1  N 2015/08/10 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:左眼
+掃描?:視網膜
+完成：2015/10/22
+ 楊中美 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/10 已批 完成：2015/08/10  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/08/10 已批 完成：2015/08/10  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/08/10 已批 完成：2015/08/10 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.83 Macular edema 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt TID OU 7 1 btl 健保  2015/11/02 已確認 已批 楊中美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/02 已批 完成：2015/11/02  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/11/02 已批 完成：2015/11/02  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/11/02 已批 完成：2015/11/02 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H53.143 Eye strain, bilateral 慢  
+M H35.81 Macular edema 慢  
+O H10.413 Allergic conjunctivitis, chronic giant papillary, bilateral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+眼百適 Allergopos Eye Drops 10 mL/btl 1 gtt TID OU 28 1 btl 健保  2016/03/21 已確認 已批 楊中美  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt TID OU 28 1 btl 健保  2016/03/21 已確認 已批 楊中美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CXZ 光學同調斷層檢查-1 (OCT-OPTOVUE) 1  N 2016/03/21 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:雙眼
+掃描?:視網膜
+完成：2016/07/11
+ 楊中美 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/03/21 執行、已批 完成：2016/03/21
+ 楊中美 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/21 已批 完成：2016/03/21  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/03/21 已批 完成：2016/03/21  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/21 已批 完成：2016/03/21 
+ 
+
+Subjective 
+for smoking cessation: 2015/04/12
+smoking for 20 years, 5 CPD, FTND: 7/10.
+light smoker but hard to quit
+PH: heart dz(-), mental dz(-), HBV carrier
+Quit histyory: use gum + patch to quit for 2 years, feel useless, 
+ask for champix 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/04/12 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/04/12 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/07/18 執行、已批、未看完 完成：2016/07/18
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/10/13 執行、已批、未看完 完成：2016/10/13
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/12 已批 完成：2016/04/12  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/04/12 已批 完成：2016/04/12  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/04/12 已批 完成：2016/04/12  
+ 
+

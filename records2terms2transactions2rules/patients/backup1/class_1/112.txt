@@ -1,0 +1,112 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+heterogenous brownish patches over his trunk for more than 1 years
+
+現病史：
+Heterogenous brownish patches over his trunk were noted for more than 1 years. No itching sensation nor pain was noted. It became more significant after sun exposure.
+
+過去病史：
+denied
+
+過敏史：
+
+
+目前用藥：
+denied
+
+最近三個月內旅遊史：泰國、中國 日期：
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+There are many well defined brown confluent patches over his trunk without pain nor itching sensation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L98.9 Dermatoses 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+C.P. Oint 5 g/tube 1 XX AS ORDER D 7 1 tube 自費  2016/05/10 已確認 已批 林頌然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W 第四級外科病理複雜性 1  N 2016/05/10 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/05/11
+ 林頌然 
+病理 25010B0W Histochemical stain group Ⅰ 1  N 2016/05/13 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/05/13
+ 楊敏潔 
+病理 25012B0W Immunohistochemical stains, each antibody 1  N 2016/05/13 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/05/13
+ 楊敏潔 
+病理 25012B0W Immunohistochemical stains, each antibody 1  N 2016/05/14 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/05/14
+ 楊敏潔 
+病理 25010B0W Histochemical stain group Ⅰ 1  N 2016/05/18 刪除、刪除 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/05/18
+ 許忠倫 
+治療 13006CY0 (KOH)排泄物滲出物及分泌物之細菌顯微鏡檢查 1  N 2016/05/10 執行、已批 完成：2016/05/10
+ 林頌然 
+治療 51003C00 皮膚切片,穿片與縫合二針以上 1  N 2016/05/10 執行、已批 完成：2016/05/10
+ 林頌然 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/10 已批 完成：2016/05/10  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/10 已批 完成：2016/05/10  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1 自費 N 2016/05/10 已批 完成：2016/05/10 
+ 
+Subjective 
+For smoking cessation 
+motivation: smoking too long
+denied depression nor CAD 
+Objective 
+Fagerstrom:  5
+daily amount: 20 
+Plan 
+refer to Dr. Kuo's clinic due to patient
+s convenience 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Nicotine dependence, unspecified, uncomplicated 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/05/24 已確認 已批 黃獻樑 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/08/25 執行、已批、未看完 完成：2016/08/25
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/11/22 執行、已批、未看完 完成：2016/11/22
+ 黃獻樑 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/24 已批 完成：2016/05/24  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/05/24 已批 完成：2016/05/24  
+行政費用 E1019A00 醫學中心調劑（開立一周戒菸治療服務藥物） 1  N 2016/05/24 已批 完成：2016/05/24 
+ 
+

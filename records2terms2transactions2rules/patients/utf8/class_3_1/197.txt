@@ -1,0 +1,498 @@
+﻿
+Subjective 
+for #35 crown fabrication
+ 
+Objective 
+#35 prepared tooth
+ 
+Assessment 
+#36 missing tooth
+ 
+Plan 
+#35 provisional crown fabrication
+
+1.#35 provisional crown fabrication
+2.check proximal contact,margin fitness,occlusion
+3.# provisional crown cementation with Tempack
+4. chairside OHI
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M V52.3 Fitting and adjustment of dental prosthetic device  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0534 ◎樹脂暫時冠 1 自費 N 2014/04/25 執行、已批 齒位1:35
+技工所:1
+完成：2014/04/25
+ 李明澍 
+行政費用 000O1001 掛號費 1 自費 N 2014/04/25 已批 完成：2014/04/25  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1 自費 N 2014/04/25 已批 完成：2014/04/25 
+ 
+
+Subjective 
+intermittent chest tightness.
+NTG responsive
+onset at rest.
+relieve by rest
+refer from 遠東聯合診所 for stress test. 
+Objective 
+PH: HTN, DM.
+smoking (+)
+
+MK 87  s/p RFCA at CGMH AC 123, A1c 6.8, LDL 115, 
+Medication: ASA, Dilatrend 6.25 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 427.9 Arrhythmia 慢  
+M 401.9 Hypertension 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2015/04/15 已確認 已批 陳盈憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18015B0S Treadmill Exercise ECG-復次階段運動心電圖 1  N 2015/04/15 刪除、刪除、未看完 Indications for treadmill exercise test:Diagnosis of CAD
+ 陳盈憲 
+檢查 18015B0S Treadmill Exercise ECG-復次階段運動心電圖 1  N 2015/04/15 執行、已批 Indications for treadmill exercise test:Other
+完成：2015/05/13
+ 陳盈憲 
+核醫 000TP135 Dipyridamole & Resting 1  N 2015/04/15 刪除、刪除、未看完  陳盈憲 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2015/04/15 刪除、刪除、未看完  陳盈憲 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/15 已批 完成：2015/04/15  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/04/15 已批 完成：2015/04/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/15 已批 完成：2015/04/15 
+ 
+Subjective 
+intermittent chest tightness.
+NTG responsive
+onset at rest.
+relieve by rest
+refer from 遠東聯合診所 for stress test. 
+Objective 
+PH: HTN, DM.
+smoking (+)
+
+MK 87  s/p RFCA at CGMH AC 123, A1c 6.8, LDL 115, 
+Medication: ASA, Dilatrend 6.25
+
+TCT: normal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 427.9 Arrhythmia 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/05/13 已確認 已批 陳盈憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+核醫 000TP135 Dipyridamole & Resting 1  N 2015/05/13 執行、已批 完成：2015/06/12
+ 陳盈憲 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2015/05/13 執行、已批 完成：2015/06/12
+ 陳盈憲 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/13 已批 完成：2015/05/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/05/13 已批 完成：2015/05/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/05/13 已批 完成：2015/05/13 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 427.9 Arrhythmia 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/06/12 已確認 已批 林淑珍  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/12 已批 完成：2015/06/12 
+ 
+
+Subjective 
+intermittent chest tightness.
+NTG responsive
+onset at rest.
+relieve by rest
+refer from 遠東聯合診所 for stress test. 
+Objective 
+PH: HTN, DM.
+smoking (+)
+
+MK 87  s/p RFCA at CGMH 
+AC 123, A1c 6.8, LDL 115, 
+
+Medication: ASA, Dilatrend 6.25
+
+TXT: normal
+【20150612】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspected mixed ischemic and nonviable myocardium at inferior wall, (2) LV dysfunction. 
+Plan 
+admission for cath 
+7/27. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+O 427.9 Arrhythmia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 0.5 tab BID PO 28 28 tab 健保  2015/07/15 已確認 已批 陳盈憲 重復原因:補給天數 (至下次預約門診日)
+ 
+Sigmart 5 mg/tab 0.5 tab BID PO 28 28 tab 健保  2015/07/15 已確認 已批 陳盈憲  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2015/07/15 已確認 已批 陳盈憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/15 已批 完成：2015/07/15  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/07/15 已批 完成：2015/07/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/15 已批 完成：2015/07/15 
+ 
+
+Subjective 
+for CAD follow up. 
+Objective 
+PH: HTN, DM.
+smoking (+)
+
+MK 87  s/p RFCA at CGMH 
+
+Medication: ASA, Dilatrend 6.25
+
+TXT: normal
+【20150612】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspected mixed ischemic and nonviable myocardium at inferior wall, (2) LV dysfunction.
+
+【20150727】Sugar(One touch): 151   *
+【20150728】Sugar(One touch): 142   *
+
+RCA CT s/p PCI with DES 2015/7/27 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 427.9 Arrhythmia 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/05 已確認 已批 陳盈憲 重復原因:病人因素(補給天數并延後回診)
+ 
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/05 已確認 已批 陳盈憲 用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2015/07/27
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/05 已確認 已批 陳盈憲 重復原因:病人因素(補給天數并延後回診)
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/08/05 已確認 已批 陳盈憲 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+檢驗 09043C0P HDL 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+檢驗 09006C0P HbA1c 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+檢驗 09005CZP Glucose (AC) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+檢驗 09013CZP Uric acid 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/02
+ 陳盈憲 
+治療 000Z3043 中文診斷書 1 自費 N 2015/08/05 執行、已批 完成：2015/08/05
+ 陳盈憲 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/05 已批 完成：2015/08/05  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/08/05 已批 完成：2015/08/05  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/08/05 已批 完成：2015/08/05 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 427.9 Arrhythmia 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/04 已確認 已批 沈玉琴 重復原因:病人因素(補給天數并延後回診)
+ 
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/04 已確認 已批 沈玉琴 用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2015/07/27
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/09/04 已確認 已批 沈玉琴 重復原因:病人因素(補給天數并延後回診)
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/09/04 已確認 已批 沈玉琴 重復原因:病人因素(補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/04 已批 完成：2015/09/04 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 427.9 Arrhythmia 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/02 已確認 已批 羅玉容  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/02 已確認 已批 羅玉容 用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2015/07/27
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/02 已確認 已批 羅玉容  
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/10/02 已確認 已批 羅玉容  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/02 已批 完成：2015/10/02 
+ 
+
+Subjective 
+for CAD follow up. 
+Objective 
+PH: HTN, DM.
+smoking (+)
+
+MK 87  s/p RFCA at CGMH 
+
+Medication: ASA, Dilatrend 6.25
+
+TXT: normal
+【20150612】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspected mixed ischemic and nonviable myocardium at inferior wall, (2) LV dysfunction.
+
+RCA CT s/p PCI with DES 2015/7/27 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+O 427.9 Arrhythmia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/28 已確認 已批 陳盈憲 重復原因:病人因素 (補給天數并延後回診)
+ 
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/28 已確認 已批 陳盈憲 重復原因:病人因素 (補給天數并延後回診)
+用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2015/07/27
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/28 已確認 已批 陳盈憲 重復原因:病人因素 (補給天數并延後回診)
+ 
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/10/28 已確認 已批 陳盈憲  
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/10/28 已確認 已批 陳盈憲 重復原因:病人因素 (補給天數并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+檢驗 09043C0P HDL 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+檢驗 09005CZP Glucose (AC) 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+檢驗 09013CZP Uric acid 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+檢驗 09006C0P HbA1c 1  N 2015/10/28 執行、已批 Specimen:BLO
+完成：2015/12/30
+ 陳盈憲 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/28 已批 完成：2015/10/28  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/10/28 已批 完成：2015/10/28  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/28 已批 完成：2015/10/28 
+ 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+O 427.9 Arrhythmia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/01 已確認 已批 沈玉琴  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/01 已確認 已批 沈玉琴 用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2015/07/27
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/01 已確認 已批 沈玉琴  
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/12/01 已確認 已批 沈玉琴  
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/12/01 已確認 已批 沈玉琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/01 已批 完成：2015/12/01 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 250.00 Diabetes mellitus without mention of complication, Type II (non-insulin dependent type)(NIDDM type) ( adult-onset type) or unspecified type, not stated as uncontrolled 慢 糖  
+O 427.9 Arrhythmia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/30 已確認 已批 賴婉玲  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/30 已確認 已批 賴婉玲 用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2015/07/27
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/30 已確認 已批 賴婉玲  
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2015/12/30 已確認 已批 賴婉玲  
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/12/30 已確認 已批 賴婉玲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/30 已批 完成：2015/12/30 
+ 
+
+Subjective 
+for CAD follow up. 
+Objective 
+PH: HTN, DM.
+smoking (+)
+
+MK 87  s/p RFCA at CGMH 
+
+Medication: ASA, Dilatrend 6.25
+
+TXT: normal
+【20150612】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspected mixed ischemic and nonviable myocardium at inferior wall, (2) LV dysfunction.
+
+RCA  s/p PCI with DES 2015/7/27
+【20151230】GLU AC: 113   mg/dL
+【20151230】HbA1c: 6.9   % 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O I49.9 Arrhythmia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/20 已確認 已批 陳盈憲 重復原因:醫師停診(抽審時需舉證并延後回診)
+ 
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保  2016/01/20 已確認 已批 陳盈憲 重復原因:醫師停診(抽審時需舉證并延後回診)
+用藥原因:B.置放涂藥支架6個月內得與aspirin合并使用，放置支架(stent)之日期為 2015/07/27
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/01/20 已確認 已批 陳盈憲 重復原因:醫師停診(抽審時需舉證并延後回診)
+ 
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/01/20 已確認 已批 陳盈憲 重復原因:醫師停診(抽審時需舉證并延後回診)
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/01/20 已確認 已批 陳盈憲 重復原因:醫師停診(抽審時需舉證并延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/20 已批 完成：2016/01/20  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/01/20 已批 完成：2016/01/20  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/20 已批 完成：2016/01/20 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O I49.9 Arrhythmia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/19 已確認 已批 林威良  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/02/19 已確認 已批 林威良  
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/02/19 已確認 已批 林威良  
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/02/19 已確認 已批 林威良  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/19 已批 完成：2016/02/19  
+ 
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O I49.9 Arrhythmia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+6.25 DILATREND 6.25 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/10 已確認 已批 林小琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/03/10 已確認 已批 林小琴  
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保 3 2016/03/10 已確認 已批 林小琴  
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/03/10 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/10 已批 完成：2016/03/10 
+ 
+
+Subjective 
+for smoking cessation: 2016/09/26
+smoking for 40 years, 12 CPD, FTND: 3/10 
+PH: heart dz(+, CAD, s/p stent last year), mental dz(-)
+quit history: quit only when adnission. use patch, gum to quit at 中興醫院 4-5 years ago.
+patient preferred champix, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 14 28 tab 健保  2016/09/26 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/09/26 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重復原因:病人因素(補給天數并延後回診)
+尚有余藥14天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/12/27 執行、已批、未看完 完成：2016/12/27
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/03/29 執行、已批、未看完 完成：2017/03/29
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/09/26 已批 完成：2016/09/26  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/09/26 已批 完成：2016/09/26  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/09/26 已批 完成：2016/09/26 
+ 
+
+ 
+

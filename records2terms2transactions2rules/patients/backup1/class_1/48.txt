@@ -1,0 +1,163 @@
+﻿Subjective 
+主要病史來源：病人
+
+主訴：
+L shoulder pain in 2015/Dec when exercise
+
+現病史：
+the pain is assiciated taking off shirt, exercise; night pain -; numb at bil upper arms; neck pain -; 
+
+過去病史：
+denied
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：AB
+
+目前用藥：
+denied
+
+最近三個月內旅遊史：China 日期：2016/1
+
+家族病史：糖尿病
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：5 分(0分或無法表達之病人，以下請填NA)
+2.間歇痛 
+3.疼痛部位：L shoulder
+
+身體檢查：
+spurling R/L +/+; L shoulder ROM: ; speed: +; Neer +; empty can -; 
+Plan 
+c spine x-ray AP+LAT
+L shoulder sono
+PT: HP+iCT at neck; IFC at L shoulder 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+M M47.812 Cervical spondylosis 慢  
+O M75.22 Bicipital tendinitis, left shoulder 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab BID PO 7 14 tab 健保  2016/02/19 已確認 已批 郭柏齡  
+Naposin 250 mg/tab 1 tab BIDPC PO 7 14 tab 健保  2016/02/19 已確認 已批 郭柏齡  
+(管4) Lexotan 3 mg/tab 0.5 tab HS PO 7 4 tab 健保  2016/02/19 已確認 已批 郭柏齡  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP083 Spine: Cervical AP, LAT. 1  N 2016/02/19 執行、已批 小部位:ROUTINE
+完成：2016/02/19
+ 郭柏齡 
+檢查 19005BJN 體表軟組織超音波檢查(復健部) 1  N 2016/02/19 執行、已批 連絡電話:0978508586
+檢查部位:L shoulder
+完成：2016/02/26
+ 郭柏齡 
+治療 42004A0N 物理治療－簡單治療－中度 1 內含 N 2016/02/19 執行、已批 其他：PTS1_牽引 PTS2_治療性醫令冷 \ 熱 PTS8_向量干擾
+完成：2016/02/19
+ 郭柏齡 
+治療 PTS1 牽引 1  N 2016/02/19 執行  郭柏齡 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2016/02/19 執行  郭柏齡 
+治療 PTS8 向量干擾 1  N 2016/02/19 執行  郭柏齡 
+治療 42004A0N 物理治療－簡單治療－中度 1  N 2016/03/01 執行、已批 其他：PTS1_牽引 PTS2_治療性醫令冷 \ 熱 PTS8_向量干擾
+療程次數：01
+完成：2016/03/01
+ 張騏安 
+治療 PTS1 牽引 1  N 2016/03/01 執行  張騏安 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2016/03/01 執行  張騏安 
+治療 PTS8 向量干擾 1  N 2016/03/01 執行  張騏安 
+治療 42004A0N 物理治療－簡單治療－中度 1  N 2016/03/03 執行、已批 其他：PTS1_牽引 PTS2_治療性醫令冷 \ 熱 PTS8_向量干擾
+療程次數：02
+完成：2016/03/03
+ 李佳品 
+治療 PTS1 牽引 1  N 2016/03/03 執行  李佳品 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2016/03/03 執行  李佳品 
+治療 PTS8 向量干擾 1  N 2016/03/03 執行  李佳品 
+治療 42004A0N 物理治療－簡單治療－中度 1  N 2016/03/07 執行、已批 其他：PTS1_牽引 PTS2_治療性醫令冷 \ 熱 PTS8_向量干擾
+療程次數：03
+完成：2016/03/07
+ 李佳品 
+治療 PTS1 牽引 1  N 2016/03/07 執行  李佳品 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2016/03/07 執行  李佳品 
+治療 PTS8 向量干擾 1  N 2016/03/07 執行  李佳品 
+治療 42004A0N 物理治療－簡單治療－中度 1  N 2016/03/10 執行、已批 其他：PTS1_牽引 PTS2_治療性醫令冷 \ 熱 PTS8_向量干擾
+療程次數：04
+完成：2016/03/10
+ 張騏安 
+治療 PTS1 牽引 1  N 2016/03/10 執行  張騏安 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2016/03/10 執行  張騏安 
+治療 PTS8 向量干擾 1  N 2016/03/10 執行  張騏安 
+治療 42004A0N 物理治療－簡單治療－中度 1  N 2016/03/14 執行、已批 其他：PTS1_牽引 PTS2_治療性醫令冷 \ 熱 PTS8_向量干擾
+療程次數：05
+完成：2016/03/14
+ 李佳品 
+治療 PTS1 牽引 1  N 2016/03/14 執行  李佳品 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2016/03/14 執行  李佳品 
+治療 PTS8 向量干擾 1  N 2016/03/14 執行  李佳品 
+治療 42004A0N 物理治療－簡單治療－中度 1  N 2016/03/17 執行、已批 其他：PTS1_牽引 PTS2_治療性醫令冷 \ 熱 PTS8_向量干擾
+療程次數：06
+完成：2016/03/17
+ 李佳品 
+治療 PTS1 牽引 1  N 2016/03/17 執行  李佳品 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2016/03/17 執行  李佳品 
+治療 PTS8 向量干擾 1  N 2016/03/17 執行  李佳品 
+
+ 
+
+Subjective 
+itching on the toes for 3 days 
+Objective 
+macerative whitish plaques on the right 3 and 4th toewebs 
+Plan 
+topical medication 
+
+主/次 診斷碼 診斷名稱 註記 
+M B35.3 Tinea pedis 慢  
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+C.B. Strong Oint 5 g/tube 1 XX AS ORDER D 7 1 tube 健保  2016/02/26 已確認 已批 莊德揚  
+Zalain Cream 2% 15 g/tube 1 XX BID D 7 1 tube 健保  2016/02/26 已確認 已批 莊德揚  
+自費 (DC)Zin Ointment 20% 28.4 g/tube 1 XX AS ORDER D 7 1 tube 自費  2016/02/26 已確認 已批 莊德揚
+
+
+
+
+ 
+ 
+
+Subjective 
+L shoulder pain in 2015/Dec when exercise; the pain is assiciated taking off shirt, exercise; night pain -; numb at bil upper arms; neck pain -; pain improved after medication; sono exam done on 2/26 shows chronic subdeltoid bursitis without fluid accumulation;VAS: 4 
+Objective 
+spurling R/L +/+; L shoulder ROM: ; speed: +; Neer +; empty can -;
+【20160219】Spine: Cervical AP, LAT. :slight scoliosis of the spine, probably due to positioning factor. cervical spondylosis with posterior spur formation at multiple levels. focal ossification(s) of the nuchal ligament. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M47.812 Cervical spondylosis 慢  
+O M75.52 Bursitis of left shoulder 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Naposin 250 mg/tab 1 tab BIDPC PO 7 14 tab 健保  2016/02/26 已確認 已批 郭柏齡  
+Befon 5 mg/tab 1 tab HS PO 7 7 tab 健保  2016/02/26 已確認 已批 郭柏齡 
+ 
+
+
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/03/01 執行、已批 完成：2016/03/01
+ 郭生興 
+ 

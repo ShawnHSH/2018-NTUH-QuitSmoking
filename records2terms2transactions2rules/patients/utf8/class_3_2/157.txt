@@ -1,0 +1,1038 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2014/11/20 已確認 已批 廣海蓉  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2014/11/20 已確認 已批 廣海蓉 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2014/11/20 已確認 已批 謝欣妤  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/20 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/11/20 已確認 已批 謝欣妤  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2014/11/20 已確認 已批 謝欣妤 用藥原因:LDL-C: 102 (2014/10/14) 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2014/12/18 已確認 已批 謝欣妤  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/12/18 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/12/18 已確認 已批 謝欣妤  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2014/12/18 已確認 已批 謝欣妤 用藥原因:LDL-C: 102 (2014/10/14) 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 366.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt TID OU 7 1 btl 健保  2014/12/23 已確認 已批 何子昌 
+ 
+
+Subjective 
+SMOOTH AT PRESENT 
+Objective 
+150/84/72; HS, RHB, NO MURMUR; BS, CLEAR
+
+【20130828】T-CHO: 167   mg/dL
+【20130828】LDL-C: 117   mg/dL
+【20131209】T-CHO: 204   mg/dL
+【20131209】LDL-C: 148   mg/dL
+【20131209】GLU AC: 112   mg/dL
+【20140414】T-CHO: 151   mg/dL
+【20140414】LDL-C: 106   mg/dL
+【20140710】T-CHO: 160   mg/dL
+【20140710】LDL-C: 104   mg/dL
+【20141014】GLU AC: 109   mg/dL
+【20141014】T-CHO: 155   mg/dL
+【20141014】TG: 166   mg/dL
+HOLD LIPID TEST THIS TIME 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/21 已確認 已批 趙嘉倫  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/21 已確認 已批 趙嘉倫  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/01/21 已確認 已批 趙嘉倫  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/01/21 已確認 已批 趙嘉倫 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/25 已確認 已批 謝欣妤  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/25 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/25 已確認 已批 謝欣妤  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/02/25 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+S: a case of r/o Lt hip OA, r/o Lt psoas train,Hx L-spondylosis with left sciatica. 
+
+ Left flank, and hip and lower abdomen pain for months, pain aggravated by 轉身,盤腿
+VAS 3, no nocturnal pain, 
+
+O: BW: 85+kg,SLRT(R/L):-/-; pain restricted at upper pelvic rim. Knocking pain: -. Patrick test:-/+. tender at Lt anterior hip?
+Xray: L4 compression fracture. prominent compression bony fracture is noted, L4 & spondylosis and degenerative changes with marginal spurs are noted, of the L-spine. 
+
+P: X-ray to left pelvis 
+ US to left hip
+ Goal: pain control 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 721.3 Lumbar spondylosis 慢  
+O 729.2 Radiculopathy 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32022CUM Pelvis: for THR 1  N 2015/03/16 執行、已批 完成：2015/03/16
+ 蕭名彥 
+檢查 19005BJN [北護]體表軟組織超音波檢查 1  N 2015/03/16 執行、已批 連絡電話:.
+檢查部位:l't hip pelvis
+完成：2015/03/17
+ 蕭名彥 
+ 
+
+Subjective 
+S: a case of r/o Lt hip OA, r/o Lt psoas train,Hx L-spondylosis with left sciatica. left leg cramps.
+
+ Left flank, and hip and lower abdomen pain for months, pain aggravated by 轉身,盤腿
+VAS 3, no nocturnal pain, 
+
+O: BW: 85+kg,SLRT(R/L):-/-; pain restricted at upper pelvic rim. Knocking pain: -. Patrick test:-/+. tender at Lt anterior hip?
+Xray: L4 compression fracture. prominent compression bony fracture is noted, L4 & spondylosis and degenerative changes with marginal spurs are noted, of the L-spine. 
+
+P: arrange SWD to Left hip, HP IPT to LB, TENS to bil calf,
+ pain medication
+ Goal: pain control 
+Objective 
+【20150316】Pelvis:  for THR :minimal degenerative joint change is noted, bilateral hips, no definite obvious bone fracture is recognized. suggest correlated with clinical manifestation. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 721.3 Lumbar spondylosis 慢  
+O 729.2 Radiculopathy 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab BID PO 7 14 tab 健保  2015/03/17 已確認 已批 蕭名彥  
+SOLAXIN 200 mg/tab 1 tab BID PO 7 14 tab 健保  2015/03/17 已確認 已批 蕭名彥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 42004A0N 物理治療－簡單治療－中度 1 內含 N 2015/03/17 執行、已批 其他：☆PTS2_治療性醫令冷 \ 熱 ☆PTS6_短波 ☆PTS8_向量干擾
+完成：2015/03/17
+ 蕭名彥 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2015/03/17 執行  蕭名彥 
+治療 PTS6 短波 1  N 2015/03/17 執行  蕭名彥 
+治療 PTS8 向量干擾 1  N 2015/03/17 執行  蕭名彥 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/24 已確認 已批 劉秋蘭  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/24 已確認 已批 劉秋蘭  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/03/24 已確認 已批 劉秋蘭  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/03/24 已確認 已批 劉秋蘭  
+ 
+
+Subjective 
+GENERAL MALAISE FOR SEVERAL WEEKS 
+Objective 
+140/86/72; HS, RHB, NO MURMUR; BS, CLEAR
+
+【20130828】T-CHO: 167   mg/dL
+【20130828】LDL-C: 117   mg/dL
+【20131209】T-CHO: 204   mg/dL
+【20131209】LDL-C: 148   mg/dL
+【20131209】GLU AC: 112   mg/dL
+【20140414】T-CHO: 151   mg/dL
+【20140414】LDL-C: 106   mg/dL
+【20140710】T-CHO: 160   mg/dL
+【20140710】LDL-C: 104   mg/dL
+【20141014】GLU AC: 109   mg/dL
+【20141014】T-CHO: 155   mg/dL
+【20141014】TG: 166   mg/dL
+HOLD LIPID TEST THIS TIME 
+Plan 
+*2014/10/14有抽5項 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/15 已確認 已批 趙嘉倫 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/15 已確認 已批 趙嘉倫 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/04/15 已確認 已批 趙嘉倫 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/04/15 已確認 已批 趙嘉倫 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09044C0P LDL 1  N 2015/04/13 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/04/13 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/04/13 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+檢驗 09043C0P HDL 1  N 2015/04/13 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+檢驗 09025CZP AST(GOT) 1  N 2015/04/15 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/04/15 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+檢驗 09005CZP Glucose (AC) 1  N 2015/04/15 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+檢驗 09013CZP Uric acid 1  N 2015/04/15 執行、已批 Specimen:BLO
+完成：2015/06/09
+ 趙嘉倫 
+ 
+
+Objective 
+Tender hyperkeratotic plaque ay sole
+Imp: callosity
+
+Scaling of thje sole
+Imp: tinea pedis 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 700 Corns and callosities  
+O 110.4 Dermatophytosis of foot  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Duofilm Liquid 15 mL/btl 1 XX QD D 7 1 btl 健保  2015/04/17 已確認 已批 烏惟新  
+Zalain Cream 2% 15 g/tube 1 XX BID D 7 1 tube 健保  2015/04/17 已確認 已批 烏惟新  
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 366.9 Cataract  
+O 360.21 High myopia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt BID OU 7 1 btl 健保  2015/04/28 已確認 已批 林怡瑩  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23401C00 細隙燈顯微鏡檢查 1  N 2015/04/28 執行、已批 完成：2015/04/28
+ 林怡瑩 
+治療 23702C00 間接式眼底鏡檢查 1  N 2015/04/28 執行、已批 完成：2015/04/28
+ 林怡瑩 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/05 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/05 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/05/05 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/05/05 已確認 已批 謝欣妤 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂) 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/01 已確認 已批 賴婉玲 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/01 已確認 已批 賴婉玲 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/06/01 已確認 已批 賴婉玲 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+ 
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/06/01 已確認 已批 賴婉玲 重復原因:補給天數 (至下次預約門診日);余6 日藥量
+用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂) 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/07/02 已確認 已批 楊培銘  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/07/02 已確認 已批 楊培銘 
+ 
+
+Subjective 
+GENERAL MALAISE FOR SEVERAL WEEKS 
+Objective 
+140/80/84; HS, RHB, NO MURMUR; BS, CLEAR
+
+【20130828】T-CHO: 167   mg/dL
+【20130828】LDL-C: 117   mg/dL
+【20131209】T-CHO: 204   mg/dL
+【20131209】LDL-C: 148   mg/dL
+【20131209】GLU AC: 112   mg/dL
+【20140414】T-CHO: 151   mg/dL
+【20140414】LDL-C: 106   mg/dL
+【20140710】T-CHO: 160   mg/dL
+【20140710】LDL-C: 104   mg/dL
+【20141014】GLU AC: 109   mg/dL
+【20141014】T-CHO: 155   mg/dL
+【20141014】TG: 166   mg/dL
+HOLD LIPID TEST THIS TIME
+
+【20150609】T-CHO: 150   mg/dL
+【20150609】TG: 82   mg/dL
+【20150609】GLU AC: 104   mg/dL
+【20150609】UA: 4.5   mg/dL
+【20150609】CRE: 0.7   mg/dL
+【20150609】AST: 15   U/L
+【20150609】HDL-C: 38   mg/dL
+【20150609】LDL-C: 102   mg/dL 
+Plan 
+*2014/10/14有抽5項 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/08 已確認 已批 趙嘉倫  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/08 已確認 已批 趙嘉倫  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/07/08 已確認 已批 趙嘉倫  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/07/08 已確認 已批 趙嘉倫 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/08/10 已確認 已批 李伶俐  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/08/10 已確認 已批 李伶俐 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/11 已確認 已批 邱秀珍  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/11 已確認 已批 邱秀珍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/11 已確認 已批 邱秀珍  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/08/11 已確認 已批 邱秀珍 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/09/02 已確認 已批 李伶俐  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/09/02 已確認 已批 李伶俐 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/02 已確認 已批 陳鴻文  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/02 已確認 已批 陳鴻文  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/09/02 已確認 已批 陳鴻文  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/09/02 已確認 已批 陳鴻文 
+ 
+
+Objective 
+Tender hyperkeratotic plaque ay sole
+Imp: callosity
+
+Scaling of thje sole
+Imp: tinea pedis 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 700 Corns and callosities  
+O 110.4 Dermatophytosis of foot  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salic Oint 2.5% 10 g/tube 1 XX BID D 7 1 tube 自費  2015/09/17 已確認 已批 高榮廷  
+Duofilm Liquid 15 mL/btl 1 XX QD D 7 1 btl 健保  2015/09/17 已確認 已批 高榮廷  
+Zalain Cream 2% 15 g/tube 1 XX BID D 7 1 tube 健保  2015/09/17 已確認 已批 高榮廷  
+ 
+
+Subjective 
+GENERAL MALAISE FOR SEVERAL WEEKS 
+Objective 
+140/80/84; HS, RHB, NO MURMUR; BS, CLEAR; NO LEG EDEMA
+
+【20130828】T-CHO: 167   mg/dL
+【20130828】LDL-C: 117   mg/dL
+【20131209】T-CHO: 204   mg/dL
+【20131209】LDL-C: 148   mg/dL
+【20131209】GLU AC: 112   mg/dL
+【20140414】T-CHO: 151   mg/dL
+【20140414】LDL-C: 106   mg/dL
+【20140710】T-CHO: 160   mg/dL
+【20140710】LDL-C: 104   mg/dL
+【20141014】GLU AC: 109   mg/dL
+【20141014】T-CHO: 155   mg/dL
+【20141014】TG: 166   mg/dL
+HOLD LIPID TEST THIS TIME
+
+【20150609】T-CHO: 150   mg/dL
+【20150609】TG: 82   mg/dL
+【20150609】GLU AC: 104   mg/dL
+【20150609】UA: 4.5   mg/dL
+【20150609】CRE: 0.7   mg/dL
+【20150609】AST: 15   U/L
+【20150609】HDL-C: 38   mg/dL
+【20150609】LDL-C: 102   mg/dL 
+Plan 
+*201506有抽5項 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/30 已確認 已批 趙嘉倫  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/30 已確認 已批 趙嘉倫  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/09/30 已確認 已批 趙嘉倫  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/09/30 已確認 已批 趙嘉倫 用藥原因:LDL-C: 102 (2015/06/09)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/09/30 執行、已批 Specimen:BLO
+完成：2015/12/09
+ 趙嘉倫 
+檢驗 09044C0P LDL 1  N 2015/09/30 執行、已批 Specimen:BLO
+完成：2015/12/09
+ 趙嘉倫 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/21 已確認 已批 吳佩菁  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/21 已確認 已批 吳佩菁  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/21 已確認 已批 吳佩菁  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/10/21 已確認 已批 吳佩菁 用藥原因:LDL-C: 102 (2015/06/09) 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 530.11 Reflux esophagitis 慢  
+O 536.9 Functional gastrointestinal disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/11/05 已確認 已批 楊培銘  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/11/05 已確認 已批 楊培銘 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/17 已確認 已批 沈玉琴  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/17 已確認 已批 沈玉琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/11/17 已確認 已批 沈玉琴  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/11/17 已確認 已批 沈玉琴 用藥原因:LDL-C: 102 (2015/06/09) 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 530.11 Reflux esophagitis 慢  
+O 536.9 Functional gastrointestinal disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/11/26 已確認 已批 廣海蓉  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/11/26 已確認 已批 廣海蓉  
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 530.11 Reflux esophagitis 慢  
+O 536.9 Functional gastrointestinal disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/12/21 已確認 已批 李佳蓁  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/12/21 已確認 已批 李佳蓁 
+ 
+
+Subjective 
+GENERAL MALAISE FOR SEVERAL WEEKS 
+Objective 
+140/74/78; HS, RHB, NO MURMUR; BS, CLEAR; NO LEG EDEMA
+
+【20130828】T-CHO: 167   mg/dL
+【20130828】LDL-C: 117   mg/dL
+【20131209】T-CHO: 204   mg/dL
+【20131209】LDL-C: 148   mg/dL
+【20131209】GLU AC: 112   mg/dL
+【20140414】T-CHO: 151   mg/dL
+【20140414】LDL-C: 106   mg/dL
+【20140710】T-CHO: 160   mg/dL
+【20140710】LDL-C: 104   mg/dL
+【20141014】GLU AC: 109   mg/dL
+【20141014】T-CHO: 155   mg/dL
+【20141014】TG: 166   mg/dL
+HOLD LIPID TEST THIS TIME
+
+【20150609】T-CHO: 150   mg/dL
+【20150609】TG: 82   mg/dL
+【20150609】GLU AC: 104   mg/dL
+【20150609】UA: 4.5   mg/dL
+【20150609】CRE: 0.7   mg/dL
+【20150609】AST: 15   U/L
+【20150609】HDL-C: 38   mg/dL
+【20150609】LDL-C: 102   mg/dL
+【20151209】T-CHO: 167   mg/dL
+【20151209】T-CHO: 167   mg/dL 
+Plan 
+*201506有抽5項 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/23 已確認 已批 趙嘉倫  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/23 已確認 已批 趙嘉倫  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/23 已確認 已批 趙嘉倫  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2015/12/23 已確認 已批 趙嘉倫  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/23 執行、已批 Specimen:BLO
+完成：2016/03/09
+ 趙嘉倫 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/23 執行、已批 Specimen:BLO
+完成：2016/03/09
+ 趙嘉倫 
+ 
+檢驗 09025CZP AST(GOT) 1  N 2015/12/23 執行、已批 Specimen:BLO
+完成：2016/03/09
+ 趙嘉倫 
+檢驗 09044C0P LDL 1  N 2015/12/23 執行、已批 Specimen:BLO
+完成：2016/03/09
+ 趙嘉倫 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/23 執行、已批 Specimen:BLO
+完成：2016/03/09
+ 趙嘉倫 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/12 已確認 已批 劉耀中  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/12 已確認 已批 劉耀中  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/01/12 已確認 已批 劉耀中  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/01/12 已確認 已批 劉耀中 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K21.0 Reflux esophagitis 慢  
+O K92.9 Functional gastrointestinal disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/01/28 已確認 已批 楊培銘  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/01/28 已確認 已批 楊培銘 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M H52.13 High myopia, bilateral 慢  
+O H52.203 Astigmatism, bilateral 慢  
+O H35.30 Macular lesion 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt BID OU 28 1 btl 健保  2016/02/04 已確認 已批 林怡瑩  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23702C00 間接式眼底鏡檢查 1  N 2016/02/04 執行、已批 完成：2016/02/04
+ 林怡瑩 
+治療 23401C00 細隙燈顯微鏡檢查 1  N 2016/02/04 執行、已批 完成：2016/02/04
+ 林怡瑩 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K21.0 Reflux esophagitis 慢  
+O K92.9 Functional gastrointestinal disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/02/16 已確認 已批 林盈孜  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/02/16 已確認 已批 林盈孜 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/16 已確認 已批 沈玉琴  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/16 已確認 已批 沈玉琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/02/16 已確認 已批 沈玉琴  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/02/16 已確認 已批 沈玉琴 
+ 
+
+診斷碼 診斷名稱 注記 
+M K21.0 Reflux esophagitis 慢  
+O K92.9 Functional gastrointestinal disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/03/14 已確認 已批 呂明如  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/03/14 已確認 已批 呂明如 
+ 
+
+Subjective 
+SMOOTH AT PRESENT 
+Objective 
+138/76/78; HS, RHB, NO MURMUR; BS, CLEAR; NO LEG EDEMA
+
+【20130828】T-CHO: 167   mg/dL
+【20130828】LDL-C: 117   mg/dL
+【20131209】T-CHO: 204   mg/dL
+【20131209】LDL-C: 148   mg/dL
+【20131209】GLU AC: 112   mg/dL
+【20140414】T-CHO: 151   mg/dL
+【20140414】LDL-C: 106   mg/dL
+【20140710】T-CHO: 160   mg/dL
+【20140710】LDL-C: 104   mg/dL
+【20141014】GLU AC: 109   mg/dL
+【20141014】T-CHO: 155   mg/dL
+【20141014】TG: 166   mg/dL
+HOLD LIPID TEST THIS TIME
+
+【20150609】T-CHO: 150   mg/dL
+【20150609】TG: 82   mg/dL
+【20150609】GLU AC: 104   mg/dL
+【20150609】UA: 4.5   mg/dL
+【20150609】CRE: 0.7   mg/dL
+【20150609】AST: 15   U/L
+【20150609】HDL-C: 38   mg/dL
+【20150609】LDL-C: 102   mg/dL
+【20151209】T-CHO: 167   mg/dL
+【20151209】T-CHO: 167   mg/dL
+【20160309】GLU AC: 130   mg/dL
+【20160309】T-CHO: 158   mg/dL 
+Plan 
+*10412開立5項 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/16 已確認 已批 趙嘉倫  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/16 已確認 已批 趙嘉倫  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/03/16 已確認 已批 趙嘉倫  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/03/16 已確認 已批 趙嘉倫  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/03/16 執行、已批 Specimen:BLO
+完成：2016/05/17
+ 趙嘉倫 
+檢驗 09006C0P HbA1c 1  N 2016/03/16 執行、已批 Specimen:BLO
+完成：2016/05/17
+ 趙嘉倫 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/11 已確認 已批 謝欣妤  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/11 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/04/11 已確認 已批 謝欣妤  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/04/11 已確認 已批 謝欣妤 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest Pain 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 08013CZP WBC classification 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09025CZP AST(GOT) 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09027CZP ALP 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09002CZP BUN 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09021CZP Sodium, Na 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09022CZP Potassium, K 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09023CZP Chloride, Cl 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09011CZP Calcium, Ca 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09012CZP Phosphate, P 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+檢驗 09046BZP Magnesium, Mg 1  N 2016/04/22 執行、已批 Specimen:BLO
+完成：2016/04/22
+ 施金元 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/04/22 執行、已批 完成：2016/04/22
+ 施金元 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2016/04/22 執行、已批 Indication:Neoplasm
+小部位:Lung and mediastinum, from sternum to diaphragm,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/05/26
+ 施金元 
+治療 33090B0M 使用低滲透壓或非離子性含碘對比劑 1  N 2016/05/26 執行、已批 完成：2016/05/26
+ 詹觀萍 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/05/26 執行、已批 完成：2016/05/26
+ 詹觀萍 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/30 已確認 已批 林沛珍  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/30 已確認 已批 林沛珍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/04/30 已確認 已批 林沛珍  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/04/30 已確認 已批 林沛珍 
+ 
+
+Objective 
+Tender hyperkeratotic plaque ay sole
+Imp: callosity
+
+Scaling of the sole
+Imp: tinea pedis
+
+20160513: stationary, for drug refill 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M L84 Corns and callosities 慢  
+O B35.3 Tinea pedis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salic Oint 2.5% 10 g/tube 1 XX BID D 7 1 tube 自費  2016/05/13 已確認 已批 烏惟新  
+Duofilm Liquid 15 mL/btl 1 XX QD D 7 1 btl 健保  2016/05/13 已確認 已批 烏惟新  
+Zalain Cream 2% 15 g/tube 1 XX BID D 7 1 tube 健保  2016/05/13 已確認 已批 烏惟新 
+ 
+
+Subjective 
+SMOOTH AT PRESENT 
+Objective 
+144/76/78 (BETTER SBP AT HOME); HS, RHB, NO MURMUR; BS, CLEAR; NO LEG EDEMA
+
+【20130828】T-CHO: 167   mg/dL
+【20130828】LDL-C: 117   mg/dL
+【20131209】T-CHO: 204   mg/dL
+【20131209】LDL-C: 148   mg/dL
+【20131209】GLU AC: 112   mg/dL
+【20140414】T-CHO: 151   mg/dL
+【20140414】LDL-C: 106   mg/dL
+【20140710】T-CHO: 160   mg/dL
+【20140710】LDL-C: 104   mg/dL
+【20141014】GLU AC: 109   mg/dL
+【20141014】T-CHO: 155   mg/dL
+【20141014】TG: 166   mg/dL
+HOLD LIPID TEST THIS TIME
+
+【20150609】T-CHO: 150   mg/dL
+【20150609】TG: 82   mg/dL
+【20150609】GLU AC: 104   mg/dL
+【20150609】UA: 4.5   mg/dL
+【20150609】CRE: 0.7   mg/dL
+【20150609】AST: 15   U/L
+【20150609】HDL-C: 38   mg/dL
+【20150609】LDL-C: 102   mg/dL
+【20151209】T-CHO: 167   mg/dL
+【20151209】T-CHO: 167   mg/dL
+【20160309】GLU AC: 130   mg/dL
+【20160309】T-CHO: 158   mg/dL
+【20160517】GLU AC: 118   mg/dL
+【20160517】HbA1c: 6.1   % 
+Plan 
+*10412開立5項 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/08 已確認 已批 趙嘉倫  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/08 已確認 已批 趙嘉倫  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/06/08 已確認 已批 趙嘉倫  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/06/08 已確認 已批 趙嘉倫 
+ 
+
+Subjective 
+CT tiny nodule 
+Objective 
+【20160526】CT With/Without Contrast-Chest :1. no obvious pulmonary thromboembolism. No obvious aortic dissection in the thoracic region. Suggest clinical correlation.
+2. no pneumothorax.
+3. a nonspecific tiny nodule at the RML. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R07.9 Chest Pain 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2016/06/10 執行、已批 完成：2016/07/14
+ 施金元 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O K21.0 Reflux esophagitis 慢  
+O K92.9 Functional gastrointestinal disorder 慢  
+M K80.20 Gall Stone  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/06/16 已確認 已批 楊培銘  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/06/16 已確認 已批 楊培銘 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/30 已確認 已批 賴婉玲  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/30 已確認 已批 賴婉玲  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/06/30 已確認 已批 賴婉玲  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/06/30 已確認 已批 賴婉玲 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O K21.0 Reflux esophagitis 慢  
+O K92.9 Functional gastrointestinal disorder 慢  
+M K80.20 Gall Stone  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Prometin 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/07/04 已確認 已批 王斐瑛  
+Algitab Chewable 200 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/07/04 已確認 已批 王斐瑛 
+ 
+
+Subjective 
+pain on walking 
+Objective 
+Tender very thick hyperkeratotic plaque ay sole
+Imp: callosity
+
+Scaling of the sole
+Imp: tinea pedis
+
+20160711: stationary, for drug refill 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M L84 Corns and callosities 慢  
+O B35.3 Tinea pedis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salic Oint 2.5% 10 g/tube 1 XX BID D 7 1 tube 自費  2016/07/11 已確認 已批 陳昭旭  
+Duofilm Liquid 15 mL/btl 1 XX QD D 7 1 btl 健保  2016/07/11 已確認 已批 陳昭旭  
+Zalain Cream 2% 15 g/tube 1 XX BID D 7 1 tube 健保  2016/07/11 已確認 已批 陳昭旭 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/07/22 執行、已批 完成：2016/07/22
+ 林志峰 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 專科,大學 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌癥? 有 檢驗定量試劑 Eiken 
+請問您有無腸道不適癥狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 有     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 
+ 
+
+Subjective 
+CT tiny nodule 
+Objective 
+【20160526】CT With/Without Contrast-Chest :1. no obvious pulmonary thromboembolism. No obvious aortic dissection in the thoracic region. Suggest clinical correlation.
+2. no pneumothorax.
+3. a nonspecific tiny nodule at the RML.
+【20160517】HbA1c: 6.1   %
+【20160714】Pulmonary Function Test : * Spirometry by Elite DX
+* Normal standard spirometry 
+Assessment 
+a nonspecific tiny nodule at the RML (3mm, SE5 IM33). 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O D49.1 Lung tumor  
+M R07.9 Chest Pain 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/22 已批 完成：2016/07/22  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/07/22 已批 完成：2016/07/22 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/25 已確認 已批 陸蕙芬  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/25 已確認 已批 陸蕙芬  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/07/25 已確認 已批 陸蕙芬  
+脂 Livalo 2 mg/tab 1/2 tab QD PO 28 14 tab 健保 3 2016/07/25 已確認 已批 陸蕙芬 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/07/22 執行、已批 Specimen:STO
+完成：2016/07/25
+ 詹其峰 
+ 

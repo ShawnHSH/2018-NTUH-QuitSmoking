@@ -1,0 +1,120 @@
+﻿
+Subjective 
+health exam in 和平: 
+LUL, RLL lung nodule, up to 4.9mm, suggest follow up LDCT
+(只帶報告, 未帶光碟片)
+
+smoking: 1 PPD for 40+ years
+drinking: nil
+betal nut chewing: nil
+past history: BPH, hyperuricemia
+operation history: hermorrhoid
+occupation: retired (taxi driver)
+Lung cancer family history: nil 
+Objective 
+Consciousness: Clear 
+Head: Scalp: Normal
+Pupils: Isocoric
+Conjunctiva: Not Pale  Sclera: Anicteric
+Neck: Supple   Jugular Vein Engorgement: -  Lymphadenopathy: - 
+Chest: Symmetric expansion, Breath sound: Clear
+Heart: Regular Heart Beat, Murmur: -
+Abdomen: Soft
+Bowel sound: Normal
+Extremities: Normal 
+Plan 
+low dose CT (健保) 3 mo later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2016/07/14 執行、已批 Indication:Lung tumor, Follow up
+小部位:ALL
+其他：LOW DOSE
+完成：2016/10/06
+ 林孟暐 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/14 已批 完成：2016/07/14  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/07/14 已批 完成：2016/07/14 
+ 
+
+Subjective 
+health exam in 和平 20160704: 
+LUL, RLL lung nodule, up to 4.9mm, suggest follow up LDCT
+(只帶報告, 未帶光碟片)
+
+smoking: 1 PPD for 40+ years
+drinking: nil
+betal nut chewing: nil
+past history: BPH, hyperuricemia
+operation history: hermorrhoid
+occupation: retired (taxi driver)
+Lung cancer family history: nil 
+Objective 
+【20161006】CT Without Contrast-Chest :1. a small nodule at the LUL, probably nonspecific but suggest follow up. 
+2. ill-defined ground glass opacities at the posterior segment of RUL and RLL, suggestive of infectious or inflammatory change. Suggest clinical correlation and follow-up. 
+3. bilateral pulmonary emphysema. 
+4. a left adrenal nodule. 
+Assessment 
+stationary LUL lung nodule 
+Plan 
+LDCT 6 mo later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 P2103C0M Requesting CT Film and Report 1  N 2016/10/13 開立、已批 欲借片之醫院:臺北市立聯合醫院(0101090517)
+特殊照影檢查名稱:CT
+它院照片日期:2016-7-4
+它院病歷號碼:61922127
+影像檔案格式:DICOM檔
+ 林孟暐 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2016/10/13 執行、已批 Indication:Lung tumor
+小部位:ALL
+其他：PLEASE DO LOW DOSE
+完成：2017/04/07
+ 林孟暐 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/13 已批 完成：2016/10/13  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/10/13 已批 完成：2016/10/13 
+ 
+Subjective 
+for smoking cessation: 2016/10/18
+smoking for 45 years, 1.5 PPD, FTND: 8/10
+PH: Lung CA, BPH, heart dz(+), mental dz(-)
+Quit histyory: never use medication to quit
+patient preferred patch, do not want gum due to dental problem 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+30 Nicotinell TTS 1.75 mg/1 cm2 30 cm2/pce 1 pce QD D 14 14 pce 健保  2016/10/18 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2017/01/11 執行、已批、未看完 完成：2017/01/11
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/04/17 執行、已批、未看完 完成：2017/04/17
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/18 已批 完成：2016/10/18  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/10/18 已批 完成：2016/10/18  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 1  N 2016/10/18 已批 
+ 
+

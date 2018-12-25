@@ -1,0 +1,133 @@
+﻿
+Subjective 
+Frequency
+Nocturia 1-2/night
+Voiding ok 
+Objective 
+Pain score: 0 
+Plan 
+U/A, U/C, urine cytology
+TRUSP
+BUN/creatinine, Na, PSA
+RTC 1M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R35.1 Nocturia 慢  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 28 tab 健保  2016/05/14 已確認 已批 姜宜妮  
+Betmiga PR 25 mg/tab 1 tab HS PO 28 28 tab 健保  2016/05/14 已確認 已批 姜宜妮  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/05/14 執行、已批 Specimen:UR1
+完成：2016/05/14
+ 姜宜妮 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/05/14 執行、已批 Specimen:UR1
+完成：2016/05/14
+ 姜宜妮 
+檢驗 15001CHP Urine cytology 1  N 2016/05/14 執行、已批 SITE:.
+Specimen:UR1
+完成：2016/05/14
+ 姜宜妮 
+檢驗 000PP702 Urine culture 1  N 2016/05/14 執行、已批 Specimen:UR1
+SITE:.
+七日內是否使用抗生素:.
+完成：2016/05/14
+ 姜宜妮 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/05/14 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 姜宜妮 
+檢驗 09002CZP BUN 1  N 2016/05/14 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 姜宜妮 
+檢驗 12081B0P PSA 1  N 2016/05/14 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 姜宜妮 
+檢驗 09021CZP Sodium, Na 1  N 2016/05/14 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 姜宜妮 
+檢查 000TRS01 TRUSP-經直腸前列腺超音波檢查 1  N 2016/05/14 執行、已批 完成：2016/06/13
+ 姜宜妮 
+治療 19005BY0 TRUSP前列腺超音波 1  N 2016/05/14 執行、已批 完成：2016/06/13
+ 姜宜妮 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/14 已批 完成：2016/05/14  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/14 已批 完成：2016/05/14  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/05/14 已批 完成：2016/05/14 
+ 
+
+Subjective 
+Frequency
+Nocturia 1-2/night
+Voiding ok
+20160625 Nocturia improve 
+Objective 
+Pain score: 0
+【20160514】Urine Cytology: Negative for malignant cells   *
+【20160514】Serum PSA: 0.554   ng/mL
+【20160514】WBC (S): 0-2   /HPF
+【20160514】RBC (S): 0-2   /HPF
+【20160613】TRUSP :1.LUTS
+   2.Prostate/adenoma size: 17.9 / 7.6 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+  檢查者:                          /曾啟新住院醫師          /黃昭淵主治醫師 
+Plan 
+RTC every year 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R35.1 Nocturia 慢  
+O N40.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Betmiga PR 25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/25 已確認 已批 姜宜妮  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/25 已批 完成：2016/06/25  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/06/25 已批 完成：2016/06/25  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/25 已批 完成：2016/06/25 
+ 
+
+Subjective 
+for smoking cessation: 2016/10/17
+smoking for 30 years, 1 PPD, FTND: 5/10 
+PH: heart dz(-), mental dz(-)
+job: 行政業務
+quit history: denied, never use medication to quit
+patient preferred champix, inform side effect. 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/10/17 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:病人因素(補給天數並延後回診)
+尚有餘藥7天 
+ 
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/10/17 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2017/01/11 執行、已批、未看完 完成：2017/01/11
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/04/06 執行、已批、未看完 完成：2017/04/06
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/17 已批 完成：2016/10/17  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/10/17 已批 完成：2016/10/17  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/10/17 已批 完成：2016/10/17 
+ 

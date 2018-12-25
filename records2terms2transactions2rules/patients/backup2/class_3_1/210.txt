@@ -1,0 +1,854 @@
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HYPERTENSION UP TO 160 MMhG
+
+現病史：
+NA
+
+過去病史：
+NA
+
+過敏史：
+藥物過敏：不清楚 
+食物過敏：不清楚 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保  2014/12/26 已確認 已批 陳益祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Alb(Albumin) 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09027CZP ALP 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09030CZP BIL-D(DIRECT BILIRUBIN) 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09002CZP BUN 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09001CZP CHOLESTEROL 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09015CZP Creatinine(Blood) 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09031CZP GAMA-GT 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09025CZP GOT 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09026CZP GPT 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09029CZP T BIL 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09040CZP Total Protein (Blood) 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09013CZP Uric acid 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09005CZP AC Glucose 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 08011CZP CBC & platelet 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 09006C0P HbA1c 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+檢驗 08026CZP PT 1  N 2014/12/26 執行、已批 Specimen:BLO
+完成：2015/01/20
+ 陳益祥 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2014/12/26 執行、已批 完成：2014/12/26
+ 陳益祥 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/26 已批 完成：2014/12/26  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2014/12/26 已批 完成：2014/12/26  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/12/26 已批 完成：2014/12/26 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 小學 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 不知道 父母、兄弟姐妹或子女有無得過其他癌症? 不知道 請問您有無腸道不適症狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿70歲者每2年1次) 1  N 2015/01/15 執行、已批 Specimen:STO
+完成：2015/01/19
+ 蔡兆勳 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HYPERTENSION UP TO 160 MMhG
+
+現病史：
+NA
+
+過去病史：
+NA
+
+過敏史：
+藥物過敏：不清楚 
+食物過敏：不清楚 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/01/23 已確認 已批 陳益祥  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/01/23 已確認 已批 陳益祥  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/01/23 已確認 已批 陳益祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Alb(Albumin) 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09027CZP ALP 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09030CZP BIL-D(DIRECT BILIRUBIN) 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09002CZP BUN 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09001CZP CHOLESTEROL 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09031CZP GAMA-GT 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09025CZP GOT 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09026CZP GPT 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09029CZP T BIL 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09040CZP Total Protein (Blood) 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09013CZP Uric acid 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09005CZP AC Glucose 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 08011CZP CBC & platelet 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+檢驗 09006C0P HbA1c 1  N 2015/01/23 執行、已批 Specimen:BLO
+完成：2015/03/16
+ 陳益祥 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/23 已批 完成：2015/01/23  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/01/23 已批 完成：2015/01/23  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/01/23 已批 完成：2015/01/23 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/02/16 已確認 已批 陳盈君  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/02/16 已確認 已批 陳盈君  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/02/16 已確認 已批 陳盈君  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/02/16 已批 完成：2015/02/16 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HYPERTENSION UP TO 160 MMhG
+
+現病史：
+NA
+
+過去病史：
+NA
+
+過敏史：
+藥物過敏：不清楚 
+食物過敏：不清楚 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA 
+Plan 
+OPD 2m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/03/20 已確認 已批 陳建銘  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/03/20 已確認 已批 陳建銘  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/03/20 已確認 已批 陳建銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/20 已批 完成：2015/03/20  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/03/20 已批 完成：2015/03/20  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/20 已批 完成：2015/03/20 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/04/17 已確認 已批 趙瑞真  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/04/17 已確認 已批 趙瑞真  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/04/17 已確認 已批 趙瑞真  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/17 已批 完成：2015/04/17 
+ 
+
+Subjective 
+BP stable ~130
+HR 90-100 
+Objective 
+【20150316】HbA1c: 6.7   %
+【20150316】WBC: 9.84   k/μL
+【20150316】RDW-CV: 15.7   %
+【20150316】RBC: 6.91   M/μL
+【20150316】HB: 13.9   g/dL
+【20150316】GGT: 82   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/05/15 已確認 已批 陳益祥  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/05/15 已確認 已批 陳益祥  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/05/15 已確認 已批 陳益祥  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/05/15 已確認 已批 陳益祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/15 已批 完成：2015/05/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/05/15 已批 完成：2015/05/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/05/15 已批 完成：2015/05/15 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/06/10 已確認 已批 林小琴  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/06/10 已確認 已批 林小琴  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/06/10 已確認 已批 林小琴  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/06/10 已確認 已批 林小琴  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/10 已批 完成：2015/06/10 
+ 
+
+Subjective 
+BP stable ~130
+HR 90-100 
+Objective 
+【20150316】HbA1c: 6.7   %
+【20150316】WBC: 9.84   k/μL
+【20150316】RDW-CV: 15.7   %
+【20150316】RBC: 6.91   M/μL
+【20150316】HB: 13.9   g/dL
+【20150316】GGT: 82   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/07/24 已確認 已批 陳益祥  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/07/24 已確認 已批 陳益祥  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/07/24 已確認 已批 陳益祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Alb(Albumin) 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09027CZP ALP 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09030CZP BIL-D(DIRECT BILIRUBIN) 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09002CZP BUN 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09001CZP CHOLESTEROL 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09031CZP GAMA-GT 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09025CZP GOT 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09026CZP GPT 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09029CZP T BIL 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09040CZP Total Protein (Blood) 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09013CZP Uric acid 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 000PP203 Lipid Profile(T-CHO, TG, HDL) 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09005CZP AC Glucose 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+檢驗 09006C0P HbA1c 1  N 2015/07/24 執行、已批 Specimen:BLO
+完成：2015/09/15
+ 陳益祥 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/24 已批 完成：2015/07/24  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/07/24 已批 完成：2015/07/24  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/24 已批 完成：2015/07/24  
+ 
+ 
+Subjective 
+BP stable ~130
+HR 90-100 
+Objective 
+【20150316】HbA1c: 6.7   %
+【20150316】WBC: 9.84   k/μL
+【20150316】RDW-CV: 15.7   %
+【20150316】RBC: 6.91   M/μL
+【20150316】HB: 13.9   g/dL
+【20150316】GGT: 82   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/18 已確認 已批 陳益祥  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/18 已確認 已批 陳益祥  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/18 已確認 已批 陳益祥  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2015/09/18 已確認 已批 陳益祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP AC Glucose 1  N 2015/09/18 執行、已批 Specimen:BLO
+完成：2015/11/30
+ 陳益祥 
+檢驗 09006C0P HbA1c 1  N 2015/09/18 執行、已批 Specimen:BLO
+完成：2015/11/30
+ 陳益祥 
+檢驗 09005CYP PC Glucose 1  N 2015/09/18 執行、已批 Specimen:BLO
+完成：2015/11/30
+ 陳益祥 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/18 已批 完成：2015/09/18  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/09/18 已批 完成：2015/09/18  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/09/18 已批 完成：2015/09/18 
+ 
+
+Subjective 
+BP stable ~130
+HR 90-100 
+Objective 
+【20150316】HbA1c: 6.7   %
+【20150316】WBC: 9.84   k/μL
+【20150316】RDW-CV: 15.7   %
+【20150316】RBC: 6.91   M/μL
+【20150316】HB: 13.9   g/dL
+【20150316】GGT: 82   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/11 已確認 已批 陳益祥  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/11 已確認 已批 陳益祥  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/11 已確認 已批 陳益祥  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2015/12/11 已確認 已批 陳益祥  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/11 已確認 已批 陳益祥 用藥原因:HbA1C 6.5
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Alb(Albumin) 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09027CZP ALP 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09030CZP BIL-D(DIRECT BILIRUBIN) 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09002CZP BUN 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09001CZP CHOLESTEROL 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09031CZP GAMA-GT 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09025CZP GOT 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09026CZP GPT 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09029CZP T BIL 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09040CZP Total Protein (Blood) 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09013CZP Uric acid 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09005CZP AC Glucose 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09006C0P HbA1c 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+檢驗 09005CYP PC Glucose 1  N 2015/12/11 開立、已批 Specimen:BLO
+ 陳益祥 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/11 已批 完成：2015/12/11  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/12/11 已批 完成：2015/12/11  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/11 已批 完成：2015/12/11 
+ 
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 小學 嚼檳榔 無 
+吸菸 >10年，每天>=20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/02/02 執行、已批 完成：2016/02/02
+ 林志峰 
+ 
+
+Subjective 
+BP stable ~130
+HR 90-100 
+Objective 
+【20150316】HbA1c: 6.7   %
+【20150316】WBC: 9.84   k/μL
+【20150316】RDW-CV: 15.7   %
+【20150316】RBC: 6.91   M/μL
+【20150316】HB: 13.9   g/dL
+【20150316】GGT: 82   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/18 已確認 已批 陳益祥 重複原因:病人因素(補給天數並延後回診)
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/18 已確認 已批 陳益祥 重複原因:病人因素(補給天數並延後回診)
+ 
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/18 已確認 已批 陳益祥 重複原因:病人因素(補給天數並延後回診)
+ 
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/02/18 已確認 已批 陳益祥 重複原因:病人因素(補給天數並延後回診)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/18 已確認 已批 陳益祥 重複原因:病人因素(補給天數並延後回診)
+用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/18 已批 完成：2016/02/18  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/02/18 已批 完成：2016/02/18  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/18 已批 完成：2016/02/18 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/14 已確認 已批 劉雅芳  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/14 已確認 已批 劉雅芳  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/14 已確認 已批 劉雅芳  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/03/14 已確認 已批 劉雅芳  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/14 已確認 已批 劉雅芳 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/14 已批 完成：2016/03/14 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 劉秋蘭  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 劉秋蘭  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 劉秋蘭  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/04/14 已確認 已批 劉秋蘭  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/14 已確認 已批 劉秋蘭 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/14 已批 完成：2016/04/14 
+ 
+
+
+Subjective 
+BP stable ~130
+HR 90-100
+
+BP 140 
+Objective 
+【20150316】HbA1c: 6.7   %
+【20150316】WBC: 9.84   k/μL
+【20150316】RDW-CV: 15.7   %
+【20150316】RBC: 6.91   M/μL
+【20150316】HB: 13.9   g/dL
+【20150316】GGT: 82   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/05/26 已確認 已批 陳益祥  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/26 已確認 已批 陳益祥  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/26 已確認 已批 陳益祥  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/26 已確認 已批 陳益祥  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/05/26 已確認 已批 陳益祥  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/05/26 已確認 已批 陳益祥 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09038CZP Alb(Albumin) 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09027CZP ALP 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09030CZP BIL-D(DIRECT BILIRUBIN) 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09002CZP BUN 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09001CZP CHOLESTEROL 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09031CZP GAMA-GT 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09025CZP GOT 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09026CZP GPT 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09029CZP T BIL 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09040CZP Total Protein (Blood) 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09013CZP Uric acid 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09005CZP AC Glucose 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 08011CZP CBC & platelet 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 09006C0P HbA1c 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+檢驗 12193B00 BNP(Pro-BNP)(STAT) 1  N 2016/05/26 執行、已批 Specimen:BLO
+完成：2016/07/25
+ 陳益祥 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/05/26 執行、已批 完成：2016/07/25
+ 陳益祥 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/26 已批 完成：2016/05/26  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/05/26 已批 完成：2016/05/26  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/05/26 已批 完成：2016/05/26 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/06/16 已確認 已批 林靜妤  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/16 已確認 已批 林靜妤  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/16 已確認 已批 林靜妤  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/16 已確認 已批 林靜妤  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/06/16 已確認 已批 林靜妤  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/06/16 已確認 已批 林靜妤 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/06/16 已批 完成：2016/06/16 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/07/14 已確認 已批 黃梅英  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/14 已確認 已批 黃梅英  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/14 已確認 已批 黃梅英  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/07/14 已確認 已批 黃梅英  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/07/14 已確認 已批 黃梅英  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/07/14 已確認 已批 黃梅英 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/07/14 已批 完成：2016/07/14 
+ 
+
+Subjective 
+BP stable ~130
+HR 90-100
+
+BP 140 
+Objective 
+【20150316】HbA1c: 6.7   %
+【20150316】WBC: 9.84   k/μL
+【20150316】RDW-CV: 15.7   %
+【20150316】RBC: 6.91   M/μL
+【20150316】HB: 13.9   g/dL
+【20150316】GGT: 82   U/L 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O M10.9 Gout 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/08/18 已確認 已批 陳益祥  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/08/18 已確認 已批 陳益祥  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/08/18 已確認 已批 陳益祥  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/08/18 已確認 已批 陳益祥  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/08/18 已確認 已批 陳益祥  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/08/18 已確認 已批 陳益祥 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/18 已批 完成：2016/08/18  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/08/18 已批 完成：2016/08/18  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/08/18 已批 完成：2016/08/18 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O M10.9 Gout 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/09/09 已確認 已批 鄭瑋婷  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/09/09 已確認 已批 鄭瑋婷  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/09/09 已確認 已批 鄭瑋婷  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/09/09 已確認 已批 鄭瑋婷  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/09/09 已確認 已批 鄭瑋婷  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/09/09 已確認 已批 鄭瑋婷 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/09/09 已批 完成：2016/09/09 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O M10.9 Gout 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/10/06 已確認 已批 趙瑞真  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/10/06 已確認 已批 趙瑞真  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/10/06 已確認 已批 趙瑞真  
+(尿酸) EURICON 50 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/10/06 已確認 已批 趙瑞真  
+Glucobay 50 mg/tab 1 tab BID POMEAL 28 56 tab 健保 3 2016/10/06 已確認 已批 趙瑞真  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/10/06 已確認 已批 趙瑞真 用藥原因:dm
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/10/06 已批 完成：2016/10/06 
+ 
+Subjective 
+for smoking cessation: 2016/10/31
+smoking for 40 years, 1.5 PPD, FTND: 5/10 
+PH: HTN, pneumonia this year, admission for 10 days. heart dz(-), mental dz(-), sleep well
+quit history: only quit when admission, ever use gum to quit, feel useful
+patient preferred champix, inform side effect 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/10/31 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/10/31 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:病人因素(補給天數並延後回診)
+尚有餘藥7天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2017/01/23 執行、已批、未看完 完成：2017/01/23
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/04/20 執行、已批、未看完 完成：2017/04/20
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/31 已批 完成：2016/10/31  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短��詢＋個案追蹤管理）（自行調劑 1  N 2016/10/31 已批 完成：2016/10/31  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/10/31 已批 完成：2016/10/31 
+ 

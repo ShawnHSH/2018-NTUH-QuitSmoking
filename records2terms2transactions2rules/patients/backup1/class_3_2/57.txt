@@ -1,0 +1,282 @@
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿70歲者每2年1次) 1  N 2015/05/08 執行、已批 Specimen:STO
+完成：2015/05/09
+ 詹其峰 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/05/13 執行、已批 完成：2015/05/13
+ 鄭世榮 
+ 
+
+Subjective 
+Vertigo(+)
+Chest tightness
+
+MVP hx 
+Plan 
+evaluation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.10 Coronary arterial disease 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 09026CZP ALT(GPT) 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 09005CZP Glucose (AC) 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 09043C0P HDL 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 09044C0P LDL 1  N 2016/01/19 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 李任光 
+檢驗 18001C0P ECG routine 1  N 2016/01/19 執行、已批 Specimen:ECG
+完成：2016/01/20
+ 李任光 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/01/19 執行、已批 完成：2016/01/20
+ 李任光 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2016/01/19 執行、已批 完成：2016/01/27
+ 李任光 
+核醫 000TP132 Treadmill & Resting 1  N 2016/01/19 開立、已批  李任光 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2016/01/19 執行、已批 完成：2016/01/27
+ 李任光 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2016/01/19 執行、已批 完成：2016/01/27
+ 李任光 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2016/01/19 執行、已批  李任光 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/19 已批 完成：2016/01/19  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/01/19 已批 完成：2016/01/19  
+ 
+ 
+
+預約日期 時段 序號 院區 檢查室 地點 
+2016/2/18 上午 5 總院區 總院東址核醫部第一檢查室 台大總院東址二樓核子醫學部 
+2016/1/27 下午 42 總院區 心臟功能檢查室 東址5樓心臟超音波室(心血管中心) 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+For upper left posterior teeth perio status evaluation and full mouth examination
+
+現病史：
+This 53 year old male patient came for upper left posterior teeth  (25X27 bridge) perio status evaluation and full mouth periodontal examination. He stated that bad odor was noted when using interdental floss for several months. There were no spontaneous pain over this area.
+
+過去病史：
+MVP under regular follow up
+Smoking(+, >10 years, half pack a day, recently participates a clinic program to quit smoking)
+All other major systemic disease were denied.
+No known food or drug allergy.
+
+過敏史：
+藥物過敏：無 
+藥物過敏：無 
+食物過敏：無 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+L.F
+1.presnet dentition:
+754321   12345X7
+--------+-------
+7654321  123456X8
+prosthesis: 25X27 PFM bridge, 36X38 PFM bridge, 46 PFM crown
+
+2.Tooth 25X27 PFM bridge
+fabricaed less than 3 years, margin overhanged
+Tooth 27 cervical caries was suspected
+
+probing depth:
+Tooth 27
+MB333DB
+MP433DP
+
+Tooth 25 
+MB633DB
+MP333DP
+
+No percussion pain, no palpation pain
+mobility(-)
+
+3.Probing depth>5mm:17,25,36,38,46,47
+4.Full mouth mild plaque deposition and gingiva inflammation
+ 
+Assessment 
+Localized chronic periodontitis
+Ill-fitted prosthesis
+ 
+Plan 
+TX:
+-Take periapical X ray and panoramic Xray,findings:
+1.presnet dentition:
+754321   12345X7
+--------+-------
+7654321  123456X8
+prosthesis: 25X27 PFM bridge, 36X38 PFM bridge, 46 PFM crown
+previous RCT:25,27,46
+
+2.Tooth 25X27 PFM bridge
+25 previous RCT, filling quality:questionable, overfilling
+27 previous RCT, quality:fair
+3.Generalized mild horizontal bone desturction
+4.No impacted tooth, no supernumerary tooth, no other bony pathology
+
+-OHI and explain following treatment plan
+
+TX plan:
+-Prostho dept. consultation for 25X27 bridge removal and temp bridge fabrication if abutment status availabe
+
+-Arrange full mouth phase I therapy (未照bitewing, 病人於初診拍X光時complain)
+-Patient wanted to evaluate tooth 16 implant after phase I therapy
+-->Arrange to R3李佶翰醫師
+
+R1莊雅淳/VS郭彥彬
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/02/02 執行、已批 齒位1:FM
+完成：2016/02/02
+ 郭彥彬 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/02 已批 完成：2016/02/02  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/02/02 已批 完成：2016/02/02 
+ 
+
+Subjective 
+Vertigo(+)
+Chest tightness
+
+MVP hx 
+Objective 
+20160127 UCG
+‧The left ventricle is grossly normal in size and shape.
+‧The LV systolic function is normal
+‧The transmitral spectral Doppler flow pattern is suggestive of impaired LV relaxation.
+‧Mitral regurgitation, trace
+‧Tricuspid regurgitation, trace 
+Assessment 
+anxiety 
+Plan 
+evaluation
+medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.10 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Herbesser 30 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/02/23 已確認 已批 李任光  
+Diphenidol SC 25 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/02/23 已確認 已批 李任光  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 000JEX04 神經部超音波檢查 1  N 2016/02/23 執行、已批 完成：2016/02/26
+ 李任光 
+ 
+核醫 000TP135 Dipyridamole & Resting 1  N 2016/02/23 執行、已批 完成：2016/03/16
+ 李任光 治療 18010B00 頸動脈頸動脈聲圖檢查 1  N 2016/02/23 執行、已批 完成：2016/02/26
+ 李任光 
+治療 20013B0J 頸動脈超音波檢查(Dopscan) 1  N 2016/02/23 執行、已批 完成：2016/02/26
+ 李任光 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2016/02/23 執行、已批 完成：2016/03/16
+ 李任光 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. full mouth charting and photo records were taken 
+2.plaque control(術前) was done with application of disclosing agent 
+3.oral hygiene instruction was done, 
+4.explained treatment plan to the patient 
+5.signed consent 
+
+Operator: R3李佶翰 
+Recorder: R3李佶翰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 5 15 tab 健保  2016/04/28 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2016/02/26 執行、已批 完成：2016/02/26
+ 郭彥彬 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2016/05/05 執行、已批 完成：2016/05/05
+ 郭彥彬 
+ 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2016/06/15 執行、已批 完成：2016/06/15
+ 郭彥彬 

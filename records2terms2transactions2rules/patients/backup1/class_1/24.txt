@@ -1,0 +1,181 @@
+﻿
+Subjective 
+HBV carrier, without regular FU
+Malaise (+) 
+Plan 
+CBC+DC
+AST, ALT, AFP
+HBsAg, Anti-HBs
+Abd sonagram
+Appointment 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z22.51 Viral hepatitis B carrier  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/01/05 執行、已批 Specimen:BLO
+完成：2016/01/05
+ 陳淑靜 
+檢驗 08013CZP WBC classification 1  N 2016/01/05 執行、已批 Specimen:BLO
+完成：2016/01/05
+ 陳淑靜 
+檢驗 09025CZP AST(GOT) 1  N 2016/01/05 執行、已批 Specimen:BLO
+完成：2016/01/05
+ 陳淑靜 
+檢驗 09026CZP ALT(GPT) 1  N 2016/01/05 執行、已批 Specimen:BLO
+完成：2016/01/05
+ 陳淑靜 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/01/05 執行、已批 Specimen:BLO
+完成：2016/01/05
+ 陳淑靜 
+檢驗 14032C0P HBsAg (EIA) 1  N 2016/01/05 執行、已批 Specimen:BLO
+完成：2016/01/05
+ 陳淑靜 
+檢驗 14033CZP Anti-HBs Ab 1  N 2016/01/05 執行、已批 Specimen:BLO
+完成：2016/01/05
+ 陳淑靜 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2016/01/05 執行、已批 Reason for abodominal echo:Hepatitis B
+完成：2016/01/12
+ 陳淑靜 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/05 已批 完成：2016/01/05  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/01/05 已批 完成：2016/01/05 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 高中(職) 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌症? 無 檢驗定量試劑 Eiken 
+請問您有無腸道不適症狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 有     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+大腸鏡等確診日期 105/2/23 (格式:0990101) 他院確診院所代碼  有做手術、放療或化療，請填治療醫院代碼  
+瘜肉數目  最大瘜肉 公分 瘜肉未切除顆數 顆 
+病理機構代碼  病理報告日期 民國年/月/日 陽性個案於檢查後三個月內有後續確診? 有 
+癌症治療 無(原因:診斷非癌症) 陽性確診追蹤是否已填答完畢 是 有無檢體 無檢體 
+未接受確診理由      
+檢查方法 大腸鏡(請填寫檢查範圍)     
+大腸鏡伸入最深位置: 盲腸     
+診斷 痔瘡     
+瘜肉位置      
+瘜肉，有無切除      
+檢體編號1-位置      
+檢體編號1-瘜肉切除報告(1)Adenoma      
+檢體編號1-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號1-瘜肉切除報告(2)Serrated lesion:      
+檢體編號1-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號1-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號1-瘜肉切除報告(4)Others:      
+檢體編號2-位置      
+檢體編號2-瘜肉切除報告(1)Adenoma      
+檢體編號2-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號2-瘜肉切除報告(2)Serrated lesion:      
+檢體編號2-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號2-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號2-瘜肉切除報告(4)Others:      
+檢體編號3-位置      
+檢體編號3-瘜肉切除報告(1)Adenoma      
+檢體編號3-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號3-瘜肉切除報告(2)Serrated lesion:      
+檢體編號3-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號3-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號3-瘜肉切除報告(4)Others:      
+檢體編號4-位置      
+檢體編號4-瘜肉切除報告(1)Adenoma      
+檢體編號4-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號4-瘜肉切除報告(2)Serrated lesion:      
+檢體編號4-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號4-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號4-瘜肉切除報告(4)Others:      
+檢體編號5-位置      
+檢體編號5-瘜肉切除報告(1)Adenoma      
+檢體編號5-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號5-瘜肉切除報告(2)Serrated lesion:      
+檢體編號5-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號5-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號5-瘜肉切除報告(4)Others:      
+檢體編號6-位置      
+檢體編號6-瘜肉切除報告(1)Adenoma      
+檢體編號6-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號6-瘜肉切除報告(2)Serrated lesion:      
+檢體編號6-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號6-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號6-瘜肉切除報告(4)Others:      
+檢體編號7-位置      
+檢體編號7-瘜肉切除報告(1)Adenoma      
+檢體編號7-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號7-瘜肉切除報告(2)Serrated lesion:      
+檢體編號7-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號7-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號7-瘜肉切除報告(4)Others:      
+檢體編號8-位置      
+檢體編號8-瘜肉切除報告(1)Adenoma      
+檢體編號8-瘜肉切除報告(1)Adenoma 切除病理報告      
+檢體編號8-瘜肉切除報告(2)Serrated lesion:      
+檢體編號8-瘜肉切除報告(2)Serrated lesion 切除病理報告      
+檢體編號8-瘜肉切除報告(3)Adenocarcinoma:      
+檢體編號8-瘜肉切除報告(4)Others:      
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/01/12 執行、已批 Specimen:STO
+完成：2016/01/12
+ 郭斐然 
+ 
+
+Subjective 
+Smoking: 20 CPD, 40 years
+FTND: 8/10. 
+Previous failure after using nicorette and patch
+last time: Champix -> better response
+ *Taxi driver
+ *bridge player
+PH of HBV carrier, without regular FU
+Malaise (+) 
+Objective 
+【20160105】AST: 42   U/L
+【20160105】ALT: 40   U/L
+【20160105】HB: 15.4   g/dL
+【20160105】HBsAg: Positive(78.77)   IU/mL
+【20160105】Anti-HBs: Negative(0.38)   mIU/mL
+【20160105】Alpha-Fetoprotein: 6.47   ng/mL
+1050112 20 CPD.
+身高: 161 cm  體重: 70 kg  BSA: 1.77 m^2 
+Plan 
+Next time: Give 4 weeks.
+Total course shoud be over 16 weeks. 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O Z22.51 Viral hepatitis B carrier  
+M F17.200 Tobacco use disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/01/12 已確認 已批 江建勰 重複原因:自費買藥
+ 
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/01/12 已確認 已批 江建勰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/04/18 執行、已批、未看完 完成：2016/04/18
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/07/18 執行、已批、未看完 完成：2016/07/18
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/12 已批 完成：2016/01/12  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2016/01/12 已批 完成：2016/01/12  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/01/12 已批 完成：2016/01/12 
+ 

@@ -1,0 +1,894 @@
+﻿
+Subjective 
+c.c :for FM periodontal evaluation
+P.I: This 49y male came to LDC for teeth checkup, and doctor told he had severe periodontitis, so he came to our OPD for tx.
+PMH: DM, under 2 kinds of drug, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+     smoking for 27y, quit 1y
+     surgery history: hemorrhoid
+     current medication: drug for hyperlipidemia, DM
+ 
+Objective 
+1.present dentition :  8654321 |12345
+                       54321  |12345678
+
+2.generalized plaque and calculus deposition
+3.mobility: 
+ G(I): 18,12,11,21,22,23,24,32,36,42,45
+ G(II):31,41
+4.PPD>5mm: 654321 |12345
+           5431   |1235678
+5.percussion pain:16
+6.36 cervical abrasion
+ 
+Assessment 
+chronic periodontitis
+ 
+Plan 
+1.check panoramic X-ray and FM periapical X-ray:
+findings: 
+  generalized vertical bony defect
+  12,13 s/p OD 
+  severe bony destruction: 16,21,22,31,41
+2.arrange FM phase I therapy(牙統)
+
+R1黃韋翔/VS郭彥彬
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/09/22 執行、已批 齒位1:FM
+完成：2015/09/22
+ 郭彥彬 
+ 
+
+Subjective 
+C.C. For full mouth periodontal treatment,
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+ 
+Objective 
+L.F.
+1. Oral hygiene: poor
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30)
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx.
+1. Full mouth photo recrod
+2. Full mouth charting & OHI
+
+Initial tx plan.
+- Full mouth phase I therapy & OHI
+- Suggest 18,16 extraction(38 keep follow-up)
+- Consult PS dept for full mouth rehabilitation 
+
+Nv. Plaque control, 16,18 extraction
+R3陳圣泓,
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 2 6 tab 健保  2015/10/20 已確認 已批 郭彥彬  
+PARAMOL 500 mg/tab 1 tab TID PO 2 6 tab 健保  2015/10/13 已確認 已批 郭彥彬  
+Corol Oral Rinse Soln 0.12% 250 mL/btl 7 mL BID GA 7 1 btl 自費  2015/11/04 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2015/09/30 執行、已批 完成：2015/09/30
+ 郭彥彬 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2015/10/20 執行、已批 完成：2015/10/20
+ 郭彥彬 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2016/01/06 執行、已批 完成：2016/01/06
+ 郭彥彬 
+ 
+
+Subjective 
+C.C. For 16,18 extraction
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+ 
+Objective 
+L.F.
+1. Oral hygiene: fair 
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30)
+3. 16,18 Gr(III) mobility
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+< OP note >
+Pre-OP Dx: 16,18 chronic periodontitis
+Post-OP Dx: 16,18 chronic periodontitis status post operation
+OP method: 16,18 complicated  extraction       
+OP findings: 16,18 chronic periodontitis, root with calculus deposition
+OP procedures:
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual
+2.Upper right block & local anesthesia was done with 2.5 mL 2% xylocaine (with epinephrine)
+3.The tooth 16,18 was removed with elevators and forcep
+4.Socket curettage to remove granulation tissue and normal saline irrigation
+5.Gauze packing for 1 hour
+6.Post-OP wound care instruction was given
+Specimen for pathology: Nil
+Operator&Recorder:R3陳圣泓,
+
+Nv. 2nd & 3rd quadrant Sc/RP
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2015/10/06 已確認 已批 郭彥彬  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2015/10/06 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92013C00 SIMPLE EXTRACTION 2  N 2015/10/06 執行、已批 齒位1:16
+齒位2:18
+完成：2015/10/06
+ 郭彥彬 
+ 
+
+Subjective 
+C.C. For 16,18 extraction wound suture removal, and for full mouth periodontal treatment 
+(病患怕痛, 麻藥打不太麻)
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+ 
+Objective 
+L.F.
+1. Oral hygiene: fair 
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30)
+3. 16,18 extraction wound healing: OK
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx. 
+1. 16,18 extraction wound suture removal , no residual suture was noted 
+2. Plaque control & OHI
+3. 2nd&3rd quadrant subgingival scaling & root planing under local anesthesia, removal subgingival calculus and diseased cementum, root surface smoothing.
+Nv. 1st&4th quadrant Sc/RP 
+R3陳圣泓,
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C. For for full mouth periodontal treatment 
+     (病患怕痛, 麻藥打不太麻)
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: fair 
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30)
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx. 
+1. Plaque control & OHI
+2. 1st&4th quadrant subgingival scaling & root planing under local anesthesia, removal subgingival calculus and diseased cementum, root surface smoothing.
+
+Nv. Consult PS dept for upper & lower removable denture fabrication
+R3陳圣泓,
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C. For for full mouth periodontal treatment (沒帶牙刷!!)
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: fair 
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30) 
+3. Suppuration over 13P,23P,33B,42B,43B 
+4. Missing teeth: 18,17,16,26,27,28,46,47,48
+5. 16,18 extraction on 2015/10/06, wound healing: fair
+6. generalized gingival recession with anterior tooth spacing
+ 
+Assessment 
+Generalized chronic periodontitis,
+Multiple missing teeth
+ 
+Plan 
+Tx.
+1. Plaque control & OHI
+2. Gross debridement, chlorhexidine oral rinsing
+3. Consult PS dept for upper & lower missing teeth reconstruction (patient preferred removable denture for reconstruction.)
+
+Nv. Plaque control 
+R3陳圣泓
+
+< PS dept>
+Suggest upper and lower interim fabrication
+After explaining the disadvantage, treatment sequence and treatment cost of the interim to the patient, patient would like to think about it
+No further appointment was arranged
+
+R4謝清堯/VS李明澍
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C. For for full mouth periodontal treatment (沒帶牙刷!!)
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: fair 
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30) 
+3. Suppuration over 13P,23P,33B,42B,43B 
+4. Missing teeth: 18,17,16,26,27,28,46,47,48
+5. 16,18 extraction on 2015/10/06, wound healing: fair
+6. generalized gingival recession with anterior tooth spacing
+ 
+Assessment 
+Generalized chronic periodontitis,
+Multiple missing teeth
+ 
+Plan 
+Tx.
+1. Plaque control & OHI
+2. Gross debridement, chlorhexidine oral rinsing
+3. Consult PS dept for upper & lower missing teeth reconstruction (patient preferred removable denture for reconstruction.)
+
+Nv. Plaque control 
+R3陳圣泓
+
+< PS dept>
+Suggest upper and lower interim fabrication
+After explaining the disadvantage, treatment sequence and treatment cost of the interim to the patient, patient would like to think about it
+No further appointment was arranged
+
+R4謝清堯/VS李明澍
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/04 已批 完成：2015/11/04  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/11/04 已批 完成：2015/11/04 
+
+Subjective 
+C.C. For for full mouth periodontal treatment
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: good
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30) 
+3. Suppuration over 31L,42B,
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx. 
+1. Plaque control & OHI
+2. 31,41,32 subgingival scaling & root planing under local anesthesia, removal subgingival calculus and diseased cementum, root surface smoothing.
+
+Nv. Consult PS dept for upper & lower interim fabrication 
+R3陳圣泓,
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C. For evaluation for full mouth rehabilitation
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: fair 
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30) 
+3. Missing teeth: 18,17,16,26,27,28,46,47,48
+5. 16,18 extraction on 2015/10/06, wound healing: fair
+6. generalized gingival recession with anterior tooth spacing
+7. Suppuration: 24(P),36(B),33(B)
+ 
+Assessment 
+Generalized chronic periodontitis,
+Multiple missing teeth
+ 
+Plan 
+Tx.
+1. Plaque control & OHI
+2. Gross debridement, chlorhexidine oral rinsing
+3. Consult PS dept for upper & lower missing teeth reconstruction 
+   (patient wanted to try interim removable parital denture .)
+
+Nv. 24,33,36 re-Sc/RP
+R3陳圣泓
+
+
+< Prostho Department>
+Local findings:
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+
+Arrange Ri陳長佑 for fabrication of upper class I interim denture and lower Class II interim denture
+
+Ri 陳長佑/VS 楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0519 *Impression for Study Cast 1 自費 N 2015/11/26 執行、已批 齒位1:FM
+完成：2015/11/26
+ 楊宗杰 
+ 
+
+Subjective 
+C.C.: for upper and lower interim denture fabrication
+
+P.M.H.:
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Generalized chronic periodontitis
+ 
+Plan 
+Take clinical photo and charting data for upper class I interim denture and lower Class II interim denture fabrication
+
+Ri林承斌
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/03 刪除已退 完成：2015/12/03  
+ 
+
+Subjective 
+C.C. For full mouth periodontal treatment
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: fair 
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30)
+3. Suppuration: 14(P),24(P),36(B),33(B)
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx. 14,24,33,36 repeat Sc/RP
+
+Nv. OHI
+R3陳圣泓
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C.: for upper and lower interim denture fabrication
+ 
+Objective 
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+18, 17, 16, 26, 27, 28, 46, 47, 48  missing teeth
+ 
+Plan 
+Impression for study cast fabrication
+Facebow transfer
+
+
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 525.1 Missing tooth 
+ 
+
+Subjective 
+C.C. For full mouth periodontal treatment
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: Good
+2. Periodontal data please see the initial charting data on treatment initiated appointment,(2015/09/30)
+3. No Suppuration
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx. 
+1. Plaque control & OHI
+2. Gross debridement
+Nv. Re-evaluation
+R3陳圣泓
+
+
+
+< PS depth.>
+1. Take bite with record base and occlusal rim
+2. Upper arch border molding
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+O 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/18 已批 完成：2015/12/18 
+ 
+
+Subjective 
+For upper and lower interim fabrication
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+18, 17, 16, 28, 27, 26, 46, 47, 48 missing tooth
+ 
+Plan 
+Tx. 
+1. Upper and lower guiding plan and rest seat preparation
+2. Upper arch final impression with polysulfide
+
+N.v.: Lower border molding and final impression
+
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/25 已批 完成：2015/12/25 
+ 
+
+Subjective 
+For upper and lower interim fabrication
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+18, 17, 16, 28, 27, 26, 46, 47, 48 missing tooth
+ 
+Plan 
+Tx. 
+1. Lower arch border molding and final impression with polysulfide
+
+N.v.: Take bite and facebow tranfer
+
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/31 已批 完成：2015/12/31 
+ 
+
+Subjective 
+For upper and lower interim fabrication
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+18, 17, 16, 28, 27, 26, 46, 47, 48 missing tooth
+ 
+Plan 
+Tx. 
+Take bite and facebow tranfer
+Tooth colar selection: A3
+
+N.v.:  Wax denture try in
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/06 已批 完成：2016/01/06 
+ 
+
+Subjective 
+C.C. For full mouth periodontal re-evaluation
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+1. Oral hygiene: good
+2. Periodontal data please see the initial charting data on treatment finished appointment(2016/01/06)
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx.
+1. Full mouth photo recrod
+2. Full mouth charting & OHI
+
+Final tx plan.
+- Re-Sc/RP: 14,44
+- 36 use interdental brush to clean furcation area fisrt
+
+Nv. Re-Sc/RP: 14,44, 36 follow-up
+R3陳圣泓,
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+Subjective 
+For upper and lower interim fabrication
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H (HbA1c:7.2 on 9/17)
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+18, 17, 16, 28, 27, 26, 46, 47, 48 missing tooth
+ 
+Plan 
+Tx. 
+1. Wax denture try in 
+2. Tooth color selection: A4
+
+N.v.: Upper and lower interim delivery 
+
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/15 已批 完成：2016/01/15 
+ 
+
+Subjective 
+For upper and lower interim fabrication
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H 
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+18, 17, 16, 28, 27, 26, 46, 47, 48 missing tooth
+ 
+Plan 
+Tx. 
+1. Upper and lower interim delivery
+2. Due to lower right distal free end tissue support insufficiency, impression for adding material to lower interim
+N.v.: Upper and lower interim delivery 
+
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth 
+ 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/21 已批 完成：2016/01/21 
+Subjective 
+For upper and lower interim fabrication
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H 
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+L.F.
+Missing teeth: 18,17,16,26,27,28,46,47,48
+Upper and lower anterior teeth with severe bone loss
+ 
+Assessment 
+18, 17, 16, 28, 27, 26, 46, 47, 48 missing tooth
+ 
+Plan 
+Tx. 
+1. Upper and lower interim delivery, check tissue fitness and occlusion
+2. chairside OHI
+
+Ri王樂婷/VS楊宗杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0506 *Bilat wrought wire RPD 2 自費 N 2016/02/25 執行、已批 齒位1:UB
+齒位2:LB
+技工所:1
+完成：2016/02/25
+ 楊宗杰 
+ 
+
+Subjective 
+C.C. For 14,44 repeat-Sc/RP
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H 
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+LF.
+1. Upper & lower interim retention & stability: Good
+2. 14(M), 44(L) 5mm pocket
+3. Calculus deposition over lower anterior
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx.
+1. instruction for interdental brush using to clean 36 furcation 
+2. 14,44 repeat Sc/RP under local anesthesia 
+3. Full mouth gross debridement 
+
+Nv. 6 weeks follow-up
+R3陳圣泓
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92001C00 Nonspecific local treatment 1  N 2016/03/12 執行、已批 齒位1:14
+齒位2:44
+完成：2016/03/12
+ 郭彥彬 
+ 
+
+Subjective 
+C.C. For 14,44 re-evaluation after re-Sc/RP
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H 
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+< 疼痛評估 >
+疼痛指數:0, 疼痛部位:NA,
+
+L.F.
+1. Oral hygiene: good
+2. 14,44 no probing depth >5mm
+3. 36 lingual gingiva mild inflammation(因為比較難刷所以沒有用牙間刷從舌側刷)
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx.
+1. Full mouth debridement 
+2. instruction for interdental brush using to clean 36 furfaction
+3. Suggest quit smoking (病患表示想藉由戒菸藥輔助戒菸)
+
+Nv. Medication prescription
+R3陳圣泓/VS郭彥彬 2016/04/21 22:20,
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/21 已批 完成：2016/04/21 
+ 
+Subjective 
+C.C. For OHI
+
+PMH: 
+1. DM, under amaryl, calvus met BID, f/u at 馬偕H 
+2. Hyperlipidemia under Lipitor 0.5# HS
+3. No known drug or food allergy
+ 
+Objective 
+< 疼痛評估 >
+疼痛指數:0, 疼痛部位:NA,
+
+L.F.
+1. Oral hygiene: good
+2. 36 lingual gingiva mild inflammation(因為比較難刷所以沒有用牙間刷從舌側刷)
+ 
+Assessment 
+Generalized chronic periodontitis,
+ 
+Plan 
+Tx. Instruction for interdental brush using to clean 46 lingual furcation
+
+Nv. 開立戒菸藥
+R3陳圣泓/VS郭彥彬 2016/05/05 17:20,
+ 

@@ -1,0 +1,3639 @@
+
+Subjective 
+improving in mood
+less depressed
+less restless, anxious
+sleep: improving, interrupted sleep
+denied negative thoughts, suicidal ideation
+still dyspnea
+MILD REM BEHAVIOR SYMPTOMS
+CAD 
+Objective 
+stable vital sign 
+Plan 
+supportive psychotherapy
+Emotional support for sufferings and striving for recovery Psychoeducation for disease concept: stress and 體質 related brain neurotransmitters functional deficit, including serotonin, NE, dopamine, the medication is to enhance the neuron function to increase these neurotransmitters, thenafter improving mood status, making patient recovery 
+current treatment target: prevent relapse 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/11/06 已確認 已批 劉智民  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/06 已確認 已批 劉智民  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/06 已確認 已批 劉智民  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/06 已確認 已批 劉智民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2014/11/06 執行、已批 完成：2014/11/06
+ 劉智民 
+行政費用 000O1001 掛號費 1 自費 N 2014/11/06 已批 完成：2014/11/06  
+ 
+
+Subjective 
+Dyspnea, dizziness deviation to left when walking, hoarseness . now 67 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140509】Pulmonary Function Test :Lung cancer * Spirometry by SM BOX V6200
+
+* Mild obstructive ventilatory defect
+【20140818】CT With/Without Contrast-Chest Tumor size decrease. PR
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】Seg: 75.7   %
+【20141117】WBC: 7.88   k/μL
+【20141117】PLT: 145   k/μL
+【20141117】HB: 14.2   g/dL
+【20141117】ALP: 45   U/L  ALT: 23   U/L  AST: 19   U/L  CRE: 0.8   mg/dL  UN: 13.3   mg/dL
+【20141117】CT With/Without Contrast-Chest RT effect. 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Symptomatic treatment. 
+Keep F/U 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QDPC PO 28 28 tab 健保 2 2014/11/19 已確認 已批 何肇基 重複原因:補給天數 (至下次預約門診日)
+ 
+Phyllocontin Continus 225 mg/tab 1 tab HS PO 28 28 tab 健保 2 2014/11/19 已確認 已批 何肇基 重複原因:補給天數 (至下次預約門診日)
+ 
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2014/11/19 已確認 已批 何肇基 重複原因:補給天數 (至下次預約門診日)
+ 
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 2 2014/11/19 已確認 已批 何肇基 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+檢驗 08013CZP WBC classification 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+檢驗 09025CZP AST(GOT) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+檢驗 09026CZP ALT(GPT) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+檢驗 09027CZP ALP 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+檢驗 09002CZP BUN 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+檢驗 09015CZP Creatinine(Blood) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+檢驗 12021C0P CEA 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/01/19
+ 何肇基 
+ 
+
+Subjective 
+5.5 months post radiotherapy 
+Appatite fair
+Mild swallowing discomfort
+Epigatralgia 
+Objective 
+KPS 90%
+BW: 70 Kg
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140610】CRE: 0.9   mg/dL
+【20140708】WBC: 0.86   k/μL
+【20140708】PLT: 41 (Manual checked)   k/μL
+【20140722】WBC: 4.42   k/μL
+【20140818】CT With/Without Contrast-Chest
+※Clinical Treatment Response：
+Evaluable by mRECIST：Partial Response
+【20140827】Requesting PET Whole body Image Films and Report :Faint FDG-avid lesion at LLL, please clinical correlation.
+2. Either inflammatory/infectious process or malignancy at RUL, RML, LUL. Suggest clinical correlation.
+3. Please ENT work-up for right parotid node lesion. 
+
+【20140916】HB: 13.2   g/dL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20141117】CEA: 6.60   ng/mL
+
+DLCO impaired
+常見放射治療副作用 Late Toxicity 
+Pneumonitis：Mild 
+※Clinical follow up：No evidence of recurrence or metastases 
+Assessment 
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia 
+Plan 
+RTC 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+ 
+
+Subjective 
+Dyspnea, dizziness general malaise, deviation to left when walking, hoarseness . now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140509】Pulmonary Function Test :Lung cancer * Spirometry by SM BOX V6200
+
+* Mild obstructive ventilatory defect
+【20140818】CT With/Without Contrast-Chest Tumor size decrease. PR
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】Seg: 77.6   %
+【20150119】WBC: 7.63   k/μL
+【20150119】PLT: 146   k/μL
+【20150119】HB: 14.9   g/dL
+【20150119】ALP: 61   U/L  ALT: 14   U/L  AST: 21   U/L  CRE: 0.9   mg/dL  UN: 13.8   mg/dL
+【20150119】CEA: 4.39   ng/mL 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Symptomatic treatment. 
+Chest brain with contrast CT 3/16
+RTC 3/18 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QDPC PO 28 28 tab 健保 2 2015/01/21 已確認 已批 何肇基  
+Phyllocontin Continus 225 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/01/21 已確認 已批 何肇基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2015/01/21 已確認 已批 何肇基  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/01/21 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B0M CT With/Without Contrast-Brain 1  N 2015/01/21 開立、已批 Indication:Follow up
+小部位:SUPRATENTORIAL
+ 何肇基 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/01/21 開立、已批 Indication:Follow up
+小部位:LUNGS/PLEURA
+ 何肇基 
+ 
+
+Subjective 
+improving in mood
+less depressed
+mild restless, more anxious
+ma now live in ICU 
+sleep: improving, interrupted sleep
+denied negative thoughts, suicidal ideation
+still dyspnea
+complained of dry mouth
+MILD REM BEHAVIOR SYMPTOMS
+CAD 
+Objective 
+stable vital sign 
+Plan 
+supportive psychotherapy
+Emotional support for sufferings and striving for recovery Psychoeducation for disease concept: stress and 體質 related brain neurotransmitters functional deficit, including serotonin, NE, dopamine, the medication is to enhance the neuron function to increase these neurotransmitters, thenafter improving mood status, making patient recovery 
+current treatment target: prevent relapse 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/01/29 已確認 已批 劉智民  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/01/29 已確認 已批 劉智民  
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/29 已確認 已批 劉智民  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/01/29 已確認 已批 劉智民  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/01/29 已確認 已批 劉智民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2015/01/29 執行、已批 完成：2015/01/29
+ 劉智民 
+ 
+
+Subjective 
+Severe cough with dizziness, exertional dyspnea.
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140509】Pulmonary Function Test :Lung cancer * Spirometry by SM BOX V6200
+
+* Mild obstructive ventilatory defect
+【20140818】CT With/Without Contrast-Chest Tumor size decrease. PR
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】Seg: 77.6   %
+【20150119】WBC: 7.63   k/μL
+【20150119】PLT: 146   k/μL
+【20150119】HB: 14.9   g/dL
+【20150119】ALP: 61   U/L  ALT: 14   U/L  AST: 21   U/L  CRE: 0.9   mg/dL  UN: 13.8   mg/dL
+【20150119】CEA: 4.39   ng/mL 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Symptomatic treatment. 
+Chest brain with contrast CT 2/17
+ProBNP ECG 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12193B00 BNP(Pro-BNP)(STAT)(急) 1  N 2015/02/11 執行、已批 Specimen:BLO
+完成：2015/02/17
+ 何肇基 
+檢驗 18001C0P ECG routine 1  N 2015/02/11 執行、已批 Specimen:ECG
+完成：2015/02/17
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2015/02/11 執行、已批 完成：2015/02/11
+ 何肇基 
+影醫 33072B0M CT With/Without Contrast-Brain 1  N 2015/02/11 執行、已批 Indication:Follow up
+小部位:SUPRATENTORIAL
+完成：2015/02/17
+ 何肇基 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/02/11 執行、已批 Indication:Follow up
+小部位:LUNGS/PLEURA
+完成：2015/02/17
+ 何肇基 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/02/17 執行、已批 完成：2015/02/17
+ 吳姵儀 
+醫材 20000932 CT INJECTION SYSTEM #200ML 1  N 2015/02/17 執行、已批 完成：2015/02/17
+ 吳姵儀 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QDPC PO 28 28 tab 健保 2 2015/02/17 已確認 已批 賴婉玲  
+Phyllocontin Continus 225 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/02/17 已確認 已批 賴婉玲  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2015/02/17 已確認 已批 賴婉玲  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/02/17 已確認 已批 賴婉玲 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/17 已確認 已批 賴婉玲  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/17 已確認 已批 賴婉玲  
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/17 已確認 已批 賴婉玲  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/17 已確認 已批 賴婉玲  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/17 已確認 已批 賴婉玲 
+ 
+
+Subjective 
+Severe cough with dizziness, exertional dyspnea.
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140509】Pulmonary Function Test :Lung cancer * Spirometry by SM BOX V6200
+
+* Mild obstructive ventilatory defect
+【20140818】CT With/Without Contrast-Chest Tumor size decrease. PR
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】Seg: 77.6   %
+【20150119】WBC: 7.63   k/μL
+【20150119】PLT: 146   k/μL
+【20150119】HB: 14.9   g/dL
+【20150119】ALP: 61   U/L  ALT: 14   U/L  AST: 21   U/L  CRE: 0.9   mg/dL  UN: 13.8   mg/dL
+【20150119】CEA: 4.39   ng/mL
+【20150217】pro-BNP: 96.9   pg/mL
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+Chest CT stationary 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Symptomatic treatment. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab BID PO 14 28 tab 健保  2015/02/25 已確認 已批 何肇基 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+Subjective 
+5.5 months post radiotherapy 
+Appatite fair
+Mild swallowing discomfort
+Epigatralgia 
+Objective 
+KPS 90%
+BW: 70 Kg
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140610】CRE: 0.9   mg/dL
+【20140708】WBC: 0.86   k/μL
+【20140708】PLT: 41 (Manual checked)   k/μL
+【20140722】WBC: 4.42   k/μL
+【20140818】CT With/Without Contrast-Chest
+※Clinical Treatment Response：
+Evaluable by mRECIST：Partial Response
+【20140827】Requesting PET Whole body Image Films and Report :Faint FDG-avid lesion at LLL, please clinical correlation.
+2. Either inflammatory/infectious process or malignancy at RUL, RML, LUL. Suggest clinical correlation.
+3. Please ENT work-up for right parotid node lesion. 
+
+【20140916】HB: 13.2   g/dL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20141117】CEA: 6.60   ng/mL
+
+DLCO impaired
+常見放射治療副作用 Late Toxicity 
+Pneumonitis：Mild 
+※Clinical follow up：No evidence of recurrence or metastases
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+-Chest:Post-radiation change of both lungs.
+LLL lung cancer, stationary. 
+Small left pleural effusion and pericardial effusion. 
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL 
+Assessment 
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia 
+Plan 
+RTC 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+ 
+
+Subjective 
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病 
+Objective 
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L 
+Plan 
+UCG
+Th201-DIP scan 
+RTC after examination 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+M 427.31 Atrial fibrillation 慢  
+O 428.9 Heart failure, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保  2015/03/09 已確認 已批 吳卓鍇  
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保  2015/03/09 已確認 已批 吳卓鍇  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2015/03/09 已確認 已批 吳卓鍇  
+Medicon 15 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2015/03/09 已確認 已批 吳卓鍇  
+Allegra 60 mg/tab 1 tab BID PO 7 14 tab 健保  2015/03/09 已確認 已批 吳卓鍇  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2015/03/09 執行、已批 完成：2015/03/19
+ 吳卓鍇 
+核醫 000TP135 Dipyridamole & Resting 1  N 2015/03/09 執行、已批 完成：2015/04/07
+ 吳卓鍇 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2015/03/09 執行、已批 完成：2015/03/19
+ 吳卓鍇 
+ 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2015/03/09 執行、已批 完成：2015/04/07
+ 吳卓鍇 
+治療 18007B0S U.C.G. (COLOR MAPPING ) 1  N 2015/03/19 執行、已批 完成：2015/03/19
+ 郭淑芬 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/03/18 已確認 已批 謝欣妤  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/03/18 已確認 已批 謝欣妤  
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/18 已確認 已批 謝欣妤  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/03/18 已確認 已批 謝欣妤  
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/03/18 已確認 已批 謝欣妤  
+ 
+
+Subjective 
+Tachycardia up to 180 /min on 3/5 visited ER. 
+still cough with dizziness, exertional dyspnea.
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140509】Pulmonary Function Test :Lung cancer * Spirometry by SM BOX V6200
+
+* Mild obstructive ventilatory defect
+【20140818】CT With/Without Contrast-Chest Tumor size decrease. PR
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】Seg: 77.6   %
+【20150119】WBC: 7.63   k/μL
+【20150119】PLT: 146   k/μL
+【20150119】HB: 14.9   g/dL
+【20150119】ALP: 61   U/L  ALT: 14   U/L  AST: 21   U/L  CRE: 0.9   mg/dL  UN: 13.8   mg/dL
+【20150119】CEA: 4.39   ng/mL
+【20150217】pro-BNP: 96.9   pg/mL
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+Chest CT stationary
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+. 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Symptomatic treatment.
+CXR 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/03/18 已確認 已批 何肇基  
+Phyllocontin Continus 225 mg/tab 1 tab HS PO 28 28 tab 健保  2015/03/18 已確認 已批 何肇基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保  2015/03/18 已確認 已批 何肇基  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保  2015/03/18 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+檢驗 08013CZP WBC classification 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+檢驗 09025CZP AST(GOT) 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+檢驗 09027CZP ALP 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+檢驗 09002CZP BUN 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+檢驗 12021C0P CEA 1  N 2015/03/18 執行、已批 Specimen:BLO
+完成：2015/04/13
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/03/18 執行、已批 完成：2015/04/15
+ 何肇基 
+ 
+
+Subjective 
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病 
+Objective 
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic chnage at mid to basal inferior wall, (3) fair LV contractility.
+UCG
+‧Concentric left ventricular hypertrophy
+‧The LV systolic function is normal
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, moderate
+‧Pulmonic regurgitation, mild
+‧Pulmonary hypertension, mild 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 428.9 Heart failure, unspecified 慢 職  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/04/13 已確認 已批 吳卓鍇  
+Rytmonorm 150 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/04/13 已確認 已批 吳卓鍇 用藥原因:PAF
+ 
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/04/13 已確認 已批 吳卓鍇  
+ 
+
+Subjective 
+Tachycardia up to 180 /min on 3/5 visited ER. 
+still cough with dizziness, exertional dyspnea.
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20140512】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Mild leukoaraiosis and some lacunes.
+No evidence of brain or skull metatasis. 
+post-operative change of right parotid with a small tumor at right parotid tail.
+No obvious cervical LAPs
+【20140509】Pulmonary Function Test :Lung cancer * Spirometry by SM BOX V6200
+
+* Mild obstructive ventilatory defect
+【20140818】CT With/Without Contrast-Chest Tumor size decrease. PR
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】Seg: 77.6   %
+【20150119】WBC: 7.63   k/μL
+【20150119】PLT: 146   k/μL
+【20150119】HB: 14.9   g/dL
+【20150119】ALP: 61   U/L  ALT: 14   U/L  AST: 21   U/L  CRE: 0.9   mg/dL  UN: 13.8   mg/dL
+【20150119】CEA: 4.39   ng/mL
+【20150217】pro-BNP: 96.9   pg/mL
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+Chest CT stationary
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+.
+【20150413】CEA: 3.00   ng/mL
+【20150413】Seg: 69.7   %
+【20150413】WBC: 5.23   k/μL
+【20150413】PLT: 157   k/μL
+【20150413】HB: 13.6   g/dL
+【20150413】ALP: 59   U/L  ALT: 13   U/L  AST: 17   U/L  CRE: 1.0   mg/dL  UN: 12.2   mg/dL 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Symptomatic treatment.
+Chest CT 5/11 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/04/15 已確認 已批 何肇基  
+Phyllocontin Continus 225 mg/tab 1 tab HS PO 28 28 tab 健保  2015/04/15 已確認 已批 何肇基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保  2015/04/15 已確認 已批 何肇基  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保  2015/04/15 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/04/15 執行、已批 Indication:Follow up
+小部位:LUNGS/PLEURA
+完成：2015/05/11
+ 何肇基 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/05/11 執行、已批 完成：2015/05/11
+ 鄭春芝 
+醫材 20000932 CT INJECTION SYSTEM #200ML 1  N 2015/05/11 執行、已批 完成：2015/05/11
+ 鄭春芝 
+ 
+
+Subjective 
+improving in mood
+less depressed
+mild restless, still easily anxious
+ma died this Feb.
+grief reaction
+sleep: improving, interrupted sleep due to BPH
+denied negative thoughts, suicidal ideation
+still dyspnea
+complained of dry mouth
+MILD REM BEHAVIOR SYMPTOMS
+CAD 
+Objective 
+stable vital sign 
+Plan 
+regular sleep schedule
+structuralized daily life schedule
+never sleep in the daytime except nap at noon (not exceed 1 hr)
+take bathing more than 1 hour before sleep
+avoid rigorous exercise before sleep
+warm milk before sleep may helpful for sleep
+never watching TV in the bed
+avoid to use caffein containing food 20150625取消連處：病情變化，須更改藥物 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/04/23 已確認 已批 劉智民 特殊醫囑:20150625取消連處：病情變化，須更改藥物 
+ 
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 2 2015/04/23 已確認 已批 劉智民 特殊醫囑:20150625取消連處：病情變化，須更改藥物 
+ 
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/04/23 已確認 已批 劉智民 特殊醫囑:20150625取消連處：病情變化，須更改藥物 
+ 
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/04/23 已確認 已批 劉智民 特殊醫囑:20150625取消連處：病情變化，須更改藥物 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2015/04/23 執行、已批 完成：2015/04/23
+ 劉智民 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 428.9 Heart failure, unspecified 慢 職  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/05/11 已確認 已批 謝欣妤  
+Rytmonorm 150 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/05/11 已確認 已批 謝欣妤 用藥原因:PAF
+ 
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/05/11 已確認 已批 謝欣妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/05/13 已確認 已批 謝欣妤 特殊醫囑:20150625取消連處：病情變化，須更改藥物 
+ 
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 2 2015/05/13 已確認 已批 謝欣妤 特殊醫囑:20150625取消連處：病情變化，須更改藥物 
+ 
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/05/13 已確認 已批 謝欣妤 特殊醫囑:20150625取消連處：病情變化，須更改藥物 
+ 
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/05/13 已確認 已批 謝欣妤 特殊醫囑:20150625取消連處：病情變化，須更改藥物  
+ 
+Subjective
+8.5 months post radiotherapy 
+Appatite fair
+Mild swallowing discomfort
+Epigatralgia
+shortness of breath
+Objective
+KPS 90%
+BW: 70 Kg
+【20140610】CRE: 0.9   mg/dL
+【20140708】WBC: 0.86   k/μL
+【20140708】PLT: 41 (Manual checked)   k/μL
+【20140722】WBC: 4.42   k/μL
+【20140818】CT With/Without Contrast-Chest
+※Clinical Treatment Response：
+Evaluable by mRECIST：Partial Response
+【20141117】CEA: 6.60   ng/mL
+
+DLCO impaired
+常見放射治療副作用 Late Toxicity 
+Pneumonitis：Mild 
+※Clinical follow up：No evidence of recurrence or metastases
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150511】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20150413】CEA: 3.00   ng/mL
+Assessment
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+Plan
+RTC 3.5 months
+主/次	診斷碼	診斷名稱	註記
+M	162.9	Lung cancer, non-small cell	重 慢 職 癌
+
+
+Subjective
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病
+
+Still episode of Af with RVR /2 months
+Objective
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic chnage at mid to basal inferior wall, (3) fair LV contractility.
+UCG
+‧Concentric left ventricular hypertrophy
+‧The LV systolic function is normal
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, moderate
+‧Pulmonic regurgitation, mild
+‧Pulmonary hypertension, mild
+主/次	診斷碼	診斷名稱	註記
+M	427.31	Atrial fibrillation	慢
+O	564.0	Constipation	慢
+O	162.9	Lung cancer, non-small cell	重 慢 職 癌
+O	428.9	Heart failure, unspecified	慢 職
+商品名	劑量	頻率	途徑	天數	總量	記帳	連續	日期	狀態	開立者	
+Lasix 40 mg/tab	0.5 tab	QD	PO	28	14 tab	健保	2	2015/06/01	已確認 已批	吳卓鍇	重複原因:補給天數 (至下次預約門診日)
+Cordarone 200 mg/tab	1 tab	BID	PO	28	56 tab	健保	2	2015/06/01	已確認 已批	吳卓鍇	
+SR Diltelan SR 120 mg/cap	1 cap	QD	PO	28	28 cap	健保	2	2015/06/01	已確認 已批	吳卓鍇	重複原因:補給天數 (至下次預約門診日)
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/06/01 已確認 已批 謝欣妤  
+Phyllocontin Continus 225 mg/tab 1 tab HS PO 28 28 tab 健保 2 2015/06/01 已確認 已批 謝欣妤  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2015/06/01 已確認 已批 謝欣妤  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/06/01 已確認 已批 謝欣妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 564.0 Constipation 慢  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 428.9 Heart failure, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/06/24 已確認 已批 謝欣妤 重複原因:補給天數 (至下次預約門診日)
+ 
+Cordarone 200 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/06/24 已確認 已批 謝欣妤  
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保 2 2015/06/24 已確認 已批 謝欣妤 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+Subjective 
+6/22 visited ER. Dizziness, tremor and headache, dyspnea progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】CEA: 4.39   ng/mL
+【20150217】pro-BNP: 96.9   pg/mL
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+Chest CT stationary
+【20150413】CEA: 3.00   ng/mL
+【20150413】Seg: 69.7   %
+【20150413】WBC: 5.23   k/μL
+【20150413】PLT: 157   k/μL
+【20150413】HB: 13.6   g/dL
+【20150413】ALP: 59   U/L  ALT: 13   U/L  AST: 17   U/L  CRE: 1.0   mg/dL  UN: 12.2   mg/dL
+【20150511】CT With/Without Contrast-Chest  interstitial change became severe.
+【20150622】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150622】ALT: 13   U/L
+【20150622】K: 3.8   mmol/L
+【20150622】Na: 140   mmol/L
+【20150622】CRE: 1.1   mg/dL
+【20150622】Seg: 65.1   %
+【20150622】WBC: 5.70   K/μL
+【20150622】PLT: 140   K/μL
+【20150622】HB: 14.7   g/dL 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Keep F/U 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 10 40 tab 健保  2015/06/24 已確認 已批 何肇基  
+Predonine 5 mg/tab 1 tab BID PO 14 28 tab 健保  2015/06/24 已確認 已批 何肇基 重複原因:補給天數 (至下次預約門診日)
+ 
+甘草 200 (DC)Compound Glycyrrhiza Mixture 200 mL/btl 5 mL QID PO 14 2 btl 健保  2015/06/24 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+檢驗 08013CZP WBC classification 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+檢驗 09025CZP AST(GOT) 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+檢驗 09027CZP ALP 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+檢驗 09002CZP BUN 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+檢驗 12021C0P CEA 1  N 2015/06/24 執行、已批 Specimen:BLO
+完成：2015/07/08
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2015/06/24 執行、已批 完成：2015/06/24
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/06/24 執行、已批 完成：2015/07/08
+ 何肇基 
+ 
+
+Subjective 
+no taking medication for 2 weeks due to lost of 連處
+insomnia
+dizziness
+easily irritable
+easily anxious
+restless feeling 
+Objective 
+stable vital sign 
+Plan 
+explain for stopping medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保  2015/06/25 已確認 已批 劉智民  
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/06/25 已確認 已批 劉智民  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保  2015/06/25 已確認 已批 劉智民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2015/06/25 執行、已批 完成：2015/06/25
+ 劉智民 
+ 
+
+Subjective 
+6/22 visited ER. Dizziness, tremor and headache, dyspnea progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】CEA: 4.39   ng/mL
+【20150217】pro-BNP: 96.9   pg/mL
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+Chest CT stationary
+【20150413】CEA: 3.00   ng/mL
+【20150511】CT With/Without Contrast-Chest  interstitial change became severe.
+【20150622】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150622】ALT: 13   U/L
+【20150622】K: 3.8   mmol/L
+【20150622】Na: 140   mmol/L
+【20150622】CRE: 1.1   mg/dL
+【20150622】Seg: 65.1   %
+【20150622】WBC: 5.70   K/μL
+【20150622】PLT: 140   K/μL
+【20150622】HB: 14.7   g/dL
+【20150708】Seg: 77.5   %
+【20150708】WBC: 9.68   k/μL
+【20150708】PLT: 177   k/μL
+【20150708】HB: 15.4   g/dL 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Chest CT with contrast 8/3 
+RTC 8/5 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 10 40 tab 健保  2015/07/08 已確認 已批 何肇基  
+Predonine 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/07/08 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/07/08 執行、已批 Indication:Follow up
+小部位:Lung and mediastinum, from sternum to diaphragm,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2015/08/04
+ 何肇基 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/08/04 執行、已批 完成：2015/08/04
+ 鄭春芝 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2015/08/04 執行、已批 完成：2015/08/04
+ 鄭春芝 
+ 
+
+Subjective 
+SLEEP : IMPROVING 
+dizziness
+LESS easily irritable
+LESS easily anxious
+restless feeling 
+Objective 
+stable vital sign 
+Plan 
+PSYCHOEDUCATION 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2015/07/23 已確認 已批 劉智民  
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/23 已確認 已批 劉智民  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/07/23 已確認 已批 劉智民 
+ 
+
+Subjective 
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病
+
+Still episode of Af with RVR /2 months 
+Objective 
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic change at mid to basal inferior wall, (3) fair LV contractility.
+UCG
+‧Concentric left ventricular hypertrophy
+‧The LV systolic function is normal
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, moderate
+‧Pulmonic regurgitation, mild
+‧Pulmonary hypertension, mild
+
+130/80 mmHg 
+Plan 
+RTC W4 morning 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 428.9 Heart failure, unspecified 慢 職  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/07/27 已確認 已批 吳卓鍇  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/27 已確認 已批 吳卓鍇  
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/07/27 已確認 已批 吳卓鍇 
+ 
+
+Subjective 
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs. LLL lung cancer, stationary.
+【20150119】CEA: 4.39   ng/mL
+【20150217】pro-BNP: 96.9   pg/mL
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+Chest CT stationary
+【20150413】CEA: 3.00   ng/mL
+【20150511】CT With/Without Contrast-Chest  interstitial change became severe.
+【20150622】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150622】ALT: 13   U/L
+【20150622】K: 3.8   mmol/L
+【20150622】Na: 140   mmol/L
+【20150622】CRE: 1.1   mg/dL
+【20150622】Seg: 65.1   %
+【20150622】WBC: 5.70   K/μL
+【20150622】PLT: 140   K/μL
+【20150622】HB: 14.7   g/dL
+【20150708】Seg: 77.5   %
+【20150708】WBC: 9.68   k/μL
+【20150708】PLT: 177   k/μL
+【20150708】HB: 15.4   g/dL
+【20150804】CT With/Without Contrast-Chest
+【20150708】CEA: 3.54   ng/mL 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis 
+Plan 
+Keep F/U
+3 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 15 60 tab 健保  2015/08/05 已確認 已批 何肇基  
+Predonine 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/05 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+檢驗 08013CZP WBC classification 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+檢驗 09025CZP AST(GOT) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+檢驗 09026CZP ALT(GPT) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+檢驗 09027CZP ALP 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+檢驗 09002CZP BUN 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+檢驗 12021C0P CEA 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/10/15
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/08/05 執行、已批 完成：2015/10/26
+ 何肇基 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2015/08/13 已確認 已批 許晏寧  
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/13 已確認 已批 許晏寧  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/13 已確認 已批 許晏寧 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+M 427.31 Atrial fibrillation 慢  
+O 428.9 Heart failure, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/08/26 已確認 已批 賴婉玲  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/26 已確認 已批 賴婉玲  
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/26 已確認 已批 賴婉玲 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 428.9 Heart failure, unspecified 慢 職  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/09/15 已確認 已批 劉秋蘭  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/15 已確認 已批 劉秋蘭  
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/09/15 已確認 已批 劉秋蘭 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2015/09/15 已確認 已批 劉秋蘭  
+(管4) Ativan 0.5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/15 已確認 已批 劉秋蘭  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/09/15 已確認 已批 劉秋蘭 
+ 
+
+註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/22 已確認 已批 林小琴 
+ 
+
+Subjective 
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病
+
+Still episode of Af with RVR /2 months
+Dyspea 
+Objective 
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic change at mid to basal inferior wall, (3) fair LV contractility.
+UCG
+‧Concentric left ventricular hypertrophy
+‧The LV systolic function is normal
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, moderate
+‧Pulmonic regurgitation, mild
+‧Pulmonary hypertension, mild
+
+130/80 mmHg 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 564.0 Constipation 慢  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 428.9 Heart failure, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/10/15 已確認 已批 吳卓鍇 重複原因:病人因素 (補給天數並延後回診)
+ 
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/15 已確認 已批 吳卓鍇 重複原因:病人因素 (補給天數並延後回診)
+ 
+SR Diltelan SR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/15 已確認 已批 吳卓鍇 重複原因:病人因素 (補給天數並延後回診)
+ 
+Symbicort Turbuhaler 120 dose/btl 1 puff BID IH 28 1 btl 健保 3 2015/10/15 已確認 已批 吳卓鍇  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/15 已確認 已批 吳卓鍇  
+ 
+
+Subjective 
+SLEEP : insomnia, interrrupted
+dizziness
+more anxious, excessive worrying
+restless feeling 
+Objective 
+stable vital sign 
+Plan 
+Psychoeducation for the disease concept: ANS dysfunction, neurotransmitter imbalance
+muscle relaxation technique training: 足定氣靜
+abdominal breathing training
+encourage regular exercise 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2015/10/15 已確認 已批 劉智民  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/15 已確認 已批 劉智民  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/15 已確認 已批 劉智民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2015/10/15 執行、已批 完成：2015/10/15
+ 劉智民 
+ 
+
+Subjective 
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20151015】Seg: 75.1   %
+【20151015】PLT: 170   k/μL
+【20151015】HB: 15.3   g/dL
+【20151015】ALP: 59   U/L  ALT: 19   U/L  AST: 17   U/L  CRE: 1.1   mg/dL  UN: 20.8   mg/dL
+【20151026】Chest : PA View (Standing) stationary.
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary. 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR pending HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Keep F/U
+Port-a care x 2 
+Chest brain CT with contast 2m
+RTC 2m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 10 40 tab 健保  2015/10/28 已確認 已批 何肇基  
+Predonine 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/10/28 已確認 已批 何肇基  
+甘草 120 Compound Glycyrrhiza Mixture Oral Soln 120 mL/btl 5 mL QID PO 10 2 btl 健保  2015/10/28 已確認 已批 何肇基  
+Allegra 60 mg/tab 1 tab BID PO 10 20 tab 健保  2015/10/28 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/10/28 執行、已批 Indication:Follow up
+小部位:Lung and mediastinum, from sternum to diaphragm,
+完成：2015/12/16
+ 何肇基 
+影醫 33072B0M CT With/Without Contrast-Brain 1  N 2015/10/28 執行、已批 Indication:Follow up
+小部位:Whole Brain,
+完成：2015/12/16
+ 何肇基 
+ 
+治療 48010C00 門診Port-A護理（Heparinized saline 1000U/10mL沖洗） 2  N 2015/10/28 執行、已批 完成：2015/11/24
+ 何肇基 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/12/16 執行、已批 完成：2015/12/16
+ 吳寬展 
+醫材 20255102 蝴蝶彎針加長管(22*0.75") 2  N 2015/10/28 執行、已批 完成：2015/10/28
+ 何肇基 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2015/12/16 執行、已批 完成：2015/12/16
+ 吳寬展 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 564.0 Constipation 慢  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 428.9 Heart failure, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/11/11 已確認 已批 賴秀萍 重複原因:病人因素 (補給天數並延後回診)
+ 
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/11 已確認 已批 賴秀萍 重複原因:病人因素 (補給天數並延後回診)
+ 
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/11/11 已確認 已批 賴秀萍 重複原因:病人因素 (補給天數並延後回診)
+ 
+Symbicort Turbuhaler 120 dose/btl 1 puff BID IH 28 1 btl 健保 3 2015/11/11 已確認 已批 賴秀萍  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/11 已確認 已批 賴秀萍  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2015/11/11 已確認 已批 鄭瑋婷  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/11 已確認 已批 鄭瑋婷  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/11/11 已確認 已批 鄭瑋婷 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/11/24 已確認 已批 劉耀中 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 427.31 Atrial fibrillation 慢  
+O 564.0 Constipation 慢  
+O 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 428.9 Heart failure, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/12/01 已確認 已批 陳芳菁 重複原因:病人因素 (補給天數並延後回診)
+ 
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/01 已確認 已批 陳芳菁 重複原因:病人因素 (補給天數並延後回診)
+ 
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/01 已確認 已批 陳芳菁 重複原因:病人因素 (補給天數並延後回診)
+ 
+Symbicort Turbuhaler 120 dose/btl 1 puff BID IH 28 1 btl 健保 3 2015/12/01 已確認 已批 陳芳菁  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/01 已確認 已批 陳芳菁  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 311 Depressive disorder (F33.9) 慢  
+O 414.00 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2015/12/01 已確認 已批 沈玉琴  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/01 已確認 已批 沈玉琴  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/01 已確認 已批 沈玉琴 
+ 
+
+Subjective 
+16 months post radiotherapy 
+Appatite fair
+Mild swallowing discomfort
+Epigatralgia
+shortness of breath 
+Objective 
+KPS 90%
+BW: 70.7 Kg
+
+【20141117】CEA: 6.60   ng/mL
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary. 
+Assessment 
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia 
+Plan 
+RTC 4 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+ 
+
+Subjective 
+Cough with chest pain, favor myofacial pain, dyspnea sensation.
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20151015】Seg: 75.1   %
+【20151015】PLT: 170   k/μL
+【20151015】HB: 15.3   g/dL
+【20151015】ALP: 59   U/L  ALT: 19   U/L  AST: 17   U/L  CRE: 1.1   mg/dL  UN: 20.8   mg/dL
+【20151026】Chest : PA View (Standing) stationary.
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20151216】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+Post-radiation change, stationary. 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Keep F/U
+Port-a care x 2 
+RTC 3m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 10 40 tab 健保  2015/12/23 已確認 已批 何肇基  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/23 已確認 已批 何肇基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/12/23 已確認 已批 何肇基  
+甘草 200 (DC)Compound Glycyrrhiza Mixture 200 mL/btl 5 mL QID PO 10 1 btl 健保  2015/12/23 已確認 已批 何肇基  
+Allegra 60 mg/tab 1 tab BID PO 10 20 tab 健保  2015/12/23 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+檢驗 08013CZP WBC classification 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+檢驗 09025CZP AST(GOT) 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+檢驗 09027CZP ALP 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+檢驗 09002CZP BUN 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+檢驗 12021C0P CEA 1  N 2015/12/22 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/12/22 執行、已批 完成：2016/03/16
+ 何肇基 
+治療 48010C00 門診Port-A護理（Heparinized saline 1000U/10mL沖洗） 2  N 2015/12/23 執行、已批 完成：2016/03/14
+ 何肇基 
+醫材 20000995 安全性注射針(port-A)22Gx0.75 2  N 2015/12/23 執行、已批 完成：2015/12/23
+ 何肇基 
+ 
+
+Subjective 
+SLEEP : sometimes insomnia, interrrupted due to urinary frequency
+dizziness
+less anxious, excessive worrying
+less restless feeling
+complained dry mouth and easily fatigue 
+Objective 
+stable vital sign 
+Assessment 
+lung cancer s/p C/T and R/T 
+Plan 
+regular sleep schedule
+structuralized daily life schedule
+never sleep in the daytime except nap at noon (not exceed 1 hr)
+take bathing more than 1 hour before sleep
+avoid rigorous exercise before sleep
+warm milk before sleep may helpful for sleep
+never watching TV in the bed
+avoid to use caffein containing food 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/07 已確認 已批 劉智民  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/07 已確認 已批 劉智民  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/07 已確認 已批 劉智民  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2016/01/07 執行、已批 完成：2016/01/07
+ 劉智民 
+ 
+
+Subjective 
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病
+
+Still episode of Af with RVR /2 months
+Dyspea 
+Objective 
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic change at mid to basal inferior wall, (3) fair LV contractility.
+UCG
+‧Concentric left ventricular hypertrophy
+‧The LV systolic function is normal
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, moderate
+‧Pulmonic regurgitation, mild
+‧Pulmonary hypertension, mild
+
+130/80 mmHg 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O I50.9 Heart failure 慢 職  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/01/07 已確認 已批 吳卓鍇  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/07 已確認 已批 吳卓鍇  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/01/07 已確認 已批 吳卓鍇 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/20 已確認 已批 林若華  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2016/01/20 已確認 已批 林若華 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/28 已確認 已批 林小琴 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O I50.9 Heart failure 慢 職  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/28 已確認 已批 林小琴  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/01/28 已確認 已批 林小琴 
+ 
+
+Subjective 
+Abdominal pain last Saturday
+No vomiting or diarrhea
+Primary aid at our ES with response
+Fever also noted at ES
+Intake: ok
+BM: 2 /D
+35.6 C 
+Objective 
+Not pale
+Abdomen: soft
+
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160127】Seg: 77.4   %
+【20160127】WBC: 6.67   K/μL
+【20160127】PLT: 148   K/μL
+【20160127】HB: 12.4   g/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel. 
+Plan 
+CBC, CRP
+RTC 2 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O K57.81 Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding  
+M A09 Infectious gastroenteritis and colitis, unspecified  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Ceflour 250 mg/tab 1 tab Q12H PO 14 28 tab 健保  2016/02/01 已確認 已批 謝銘鈞  
+胃 Strocain /tab 1 tab TIDAC15 PO 14 42 tab 自費  2016/02/01 已確認 已批 謝銘鈞  
+(DC)Gascon 40 mg/tab 1 tab TIDPC PO 14 42 tab 健保  2016/02/01 已確認 已批 謝銘鈞  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/02/05
+ 謝銘鈞 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2016/02/01 執行、已批 Specimen:BLO
+完成：2016/02/05
+ 謝銘鈞 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 162.9 Lung cancer, non-small cell 重 慢 職 癌  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/15 已確認 已批 林威良  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2016/02/15 已確認 已批 林威良 
+ 
+
+Subjective 
+Abdominal pain last Saturday
+No vomiting or diarrhea
+Primary aid at our ES with response
+Fever also noted at ES
+Intake: ok
+BM: smooth
+36.5 C 
+Objective 
+Not pale
+Abdomen: soft
+No toxic sign
+KPS: full
+69 Kg
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160127】Seg: 77.4   %
+【20160127】WBC: 6.67   K/μL
+【20160127】PLT: 148   K/μL
+【20160127】HB: 12.4   g/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160205】WBC: 7.70   k/μL
+【20160205】PLT: 242   k/μL
+【20160205】HB: 13.1   g/dL
+【20160205】hsCRP: 5.64   mg/dL 
+Plan 
+CBC, CRP
+RTC 1 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M A09 Infectious gastroenteritis and colitis, unspecified  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K57.81 Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Ceflour 250 mg/tab 1 tab Q12H PO 7 14 tab 健保  2016/02/15 已確認 已批 謝銘鈞  
+胃 Strocain /tab 1 tab TIDAC15 PO 7 21 tab 自費  2016/02/15 已確認 已批 謝銘鈞  
+(DC)Gascon 40 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/02/15 已確認 已批 謝銘鈞  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/02/19
+ 謝銘鈞 
+檢驗 08011CZP CBC & platelet 1  N 2016/02/15 執行、已批 Specimen:BLO
+完成：2016/02/19
+ 謝銘鈞 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/22 已確認 已批 林威良  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/22 已確認 已批 林威良  
+Zoloft 50 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/02/22 已確認 已批 林威良 
+ 
+
+Subjective 
+Abdominal pain resolved
+No vomiting or diarrhea
+Primary aid at our ES with response
+Fever also noted at ES
+Intake: ok
+BM: smooth
+36.5 C 
+Objective 
+Not pale
+Abdomen: soft
+No toxic sign
+KPS: full
+69 Kg
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160127】Seg: 77.4   %
+【20160127】WBC: 6.67   K/μL
+【20160127】PLT: 148   K/μL
+【20160127】HB: 12.4   g/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160205】WBC: 7.70   k/μL
+【20160205】PLT: 242   k/μL
+【20160205】HB: 13.1   g/dL
+【20160205】hsCRP: 5.64   mg/dL
+【20160219】WBC: 6.35   k/μL
+【20160219】PLT: 172   k/μL
+【20160219】HB: 14.3   g/dL
+【20160219】hsCRP: 0.87   mg/dL 
+Plan 
+A+P CT scan late April 2016
+RTC 2 weeks after CT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M A09 Infectious gastroenteritis and colitis, unspecified  
+O K57.81 Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/04/18
+ 謝銘鈞 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2016/02/22 執行、已批 Indication:Follow up
+小部位:From diaphragm to kidney lower pole,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/04/22
+ 謝銘鈞 
+影醫 33072B5M CT With/Without Contrast-Pelvis 1  N 2016/02/22 執行、已批 Indication:Follow up
+小部位:From lower kidney to the whole pelvic cavity,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/04/22
+ 謝銘鈞 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/04/22 執行、已批 完成：2016/04/22
+ 方玉燕 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/04/22 執行、已批 完成：2016/04/22
+ 方玉燕 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O I50.9 Heart failure 慢 職  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/02/22 已確認 已批 林威良  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/22 已確認 已批 林威良  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/02/22 已確認 已批 林威良 
+ 
+
+Subjective 
+Abdominal pain resolved
+No vomiting or diarrhea
+Primary aid at our ES with response
+Fever also noted at ES
+Intake: ok
+BM: smooth
+36.5 C 
+Objective 
+Not pale
+Abdomen: soft
+No toxic sign
+KPS: full
+69 Kg
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160127】Seg: 77.4   %
+【20160127】WBC: 6.67   K/μL
+【20160127】PLT: 148   K/μL
+【20160127】HB: 12.4   g/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160205】WBC: 7.70   k/μL
+【20160205】PLT: 242   k/μL
+【20160205】HB: 13.1   g/dL
+【20160205】hsCRP: 5.64   mg/dL
+【20160219】WBC: 6.35   k/μL
+【20160219】PLT: 172   k/μL
+【20160219】HB: 14.3   g/dL
+【20160219】hsCRP: 0.87   mg/dL 
+Plan 
+A+P CT scan late April 2016
+RTC 2 weeks after CT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M A09 Infectious gastroenteritis and colitis, unspecified  
+O K57.81 Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/04/18
+ 謝銘鈞 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2016/02/22 執行、已批 Indication:Follow up
+小部位:From diaphragm to kidney lower pole,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/04/22
+ 謝銘鈞 
+影醫 33072B5M CT With/Without Contrast-Pelvis 1  N 2016/02/22 執行、已批 Indication:Follow up
+小部位:From lower kidney to the whole pelvic cavity,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/04/22
+ 謝銘鈞 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/04/22 執行、已批 完成：2016/04/22
+ 方玉燕 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/04/22 執行、已批 完成：2016/04/22
+ 方玉燕 
+ 
+
+Subjective 
+Nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+SOB after Lung Ca. Tx
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia 
+Objective 
+DRE: deep-seated prostate, hard to approach 
+Assessment 
+BPE with LUTS 
+Plan 
+TRSUP, UFM, PSA, Cre, U/A
+RTC 1M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab HS PO 28 28 tab 健保  2016/03/14 已確認 已批 戴逸昇  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保  2016/03/14 已確認 已批 戴逸昇  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/03/14 執行、已批 Specimen:UR1
+完成：2016/03/14
+ 戴逸昇 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/03/14 執行、已批 Specimen:UR1
+完成：2016/03/14
+ 戴逸昇 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/03/14 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 戴逸昇 
+檢驗 12081B0P PSA 1  N 2016/03/14 執行、已批 Specimen:BLO
+完成：2016/03/14
+ 戴逸昇 
+檢查 000TRS01 TRUSP-經直腸前列腺超音波檢查 1  N 2016/03/14 執行、已批 完成：2016/04/08
+ 戴逸昇 
+治療 19005BY0 TRUSP前列腺超音波 1  N 2016/03/14 執行、已批 完成：2016/04/08
+ 戴逸昇 
+治療 21004C0G UROFLOWMETRY尿流率檢查 1  N 2016/03/14 執行、已批 完成：2016/04/08
+ 戴逸昇 
+ 
+
+Subjective 
+Cough with chest pain, favor myofacial pain, dyspnea sensation.
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20151216】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+Post-radiation change, stationary.
+【20160314】CEA: 3.68   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】Seg: 74.7   %
+【20160314】WBC: 7.54   k/μL
+【20160314】PLT: 170   k/μL
+【20160314】HB: 14.1   g/dL
+【20160314】ALP: 65   U/L  ALT: 12   U/L  AST: 16   U/L  CRE: 0.8   mg/dL  CRE: 0.8   mg/dL  UN: 17.1   mg/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel. 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Keep F/U
+Port-a care x 2 
+Chest brain CT with contrast 2M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 10 40 tab 健保  2016/03/16 已確認 已批 何肇基  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/03/16 已確認 已批 何肇基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2016/03/16 已確認 已批 何肇基  
+甘草 200 (DC)Compound Glycyrrhiza Mixture 200 mL/btl 5 mL QID PO 10 1 btl 健保  2016/03/16 已確認 已批 何肇基  
+Allegra 60 mg/tab 1 tab BID PO 10 20 tab 健保  2016/03/16 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2016/03/16 執行、已批 Indication:Follow up
+小部位:Lung and mediastinum, from sternum to diaphragm,
+完成：2016/04/22
+ 何肇基 
+影醫 33072B0M CT With/Without Contrast-Brain 1  N 2016/03/16 執行、已批 Indication:Follow up
+小部位:Whole Brain,
+完成：2016/04/22
+ 何肇基 
+治療 48010C00 門診Port-A護理（Heparinized saline 1000U/10mL沖洗） 2  N 2016/03/16 執行、已批 完成：2016/05/02
+ 何肇基 
+醫材 20000995 安全性注射針(port-A)22Gx0.75 2  N 2016/03/16 執行、已批 完成：2016/03/16
+ 何肇基 
+ 
+
+Subjective 
+Severe cough with dry mouth, cough esp in the night.
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20151216】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+Post-radiation change, stationary.
+【20160314】CEA: 3.68   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】Seg: 74.7   %
+【20160314】WBC: 7.54   k/μL
+【20160314】PLT: 170   k/μL
+【20160314】HB: 14.1   g/dL
+【20160314】ALP: 65   U/L  ALT: 12   U/L  AST: 16   U/L  CRE: 0.8   mg/dL  CRE: 0.8   mg/dL  UN: 17.1   mg/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel. 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Keep F/U
+Port-a care x 2 
+Chest brain CT with contrast 2M
+Screen bronchodilator test with DLCO 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管2) Codeine 15 mg/tab 1 tab BID PO 28 56 tab 健保  2016/03/30 已確認 已批 何肇基  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff Q6HPRN IH 28 1 btl 健保  2016/03/30 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/03/30 執行、已批 完成：2016/03/30
+ 何肇基 
+檢查 17006B0S Screening bronchodilator test-支氣管擴張劑試驗 1  N 2016/03/30 執行、已批 完成：2016/04/22
+ 何肇基 
+檢查 17009B0S CO diffusing capacity-一氧化碳肺瀰散量測定 1  N 2016/03/30 執行、已批 完成：2016/04/22
+ 何肇基 
+ 
+
+Subjective 
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病
+
+Still episode of Af with RVR /2 months
+Dyspea 
+Objective 
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic change at mid to basal inferior wall, (3) fair LV contractility.
+UCG
+‧Concentric left ventricular hypertrophy
+‧The LV systolic function is normal
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, moderate
+‧Pulmonic regurgitation, mild
+‧Pulmonary hypertension, mild
+
+130/80 mmHg 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O K59.00 Constipation 慢  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O I50.9 Heart failure 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/03/31 已確認 已批 吳卓鍇  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/31 已確認 已批 吳卓鍇  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/03/31 已確認 已批 吳卓鍇 
+ 
+
+Subjective 
+SLEEP : sometimes insomnia, interrrupted due to urinary frequency
+dizziness
+less anxious, excessive worrying
+less restless feeling
+complained dry mouth and easily fatigue 
+Objective 
+stable vital sign 
+Assessment 
+lung cancer s/p C/T and R/T
+taper Zoloft to 0.5# hs 
+Plan 
+psychoeducation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2016/03/31 已確認 已批 劉智民  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/03/31 已確認 已批 劉智民  
+Zoloft 50 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/03/31 已確認 已批 劉智民 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/04/06 已確認 已批 謝欣妤  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2016/04/06 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+Nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+SOB after Lung Ca. Tx
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+
+20160411
+Still nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia 
+Objective 
+DRE: deep-seated prostate, hard to approach
+
+【20160314】Serum PSA: 0.619   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】RBC (S): 0-2   /HPF
+
+【20160408】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 21.6 / 2.93 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+   4. UFM: 7.0/ml/s (135ml), compressive 
+ 
+【20160314】CRE: 0.8   mg/dL
+DRE: deep-seated prostate, hard to approach
+【20160123】Na: 136   mmol/L 
+Assessment 
+BPE with LUTS (7.0 ml/s, compressive, PSA: 0.7)
+Nocturia, r/o nocturnal polyuria
+BPE with LUTS 
+Plan 
+Na (急)
+RTC 7D 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O R35.1 Nocturia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 7 14 tab 健保  2016/04/11 已確認 已批 戴逸昇  
+Minirin 0.1 mg/tab 1 tab HS PO 7 7 tab 健保  2016/04/11 已確認 已批 戴逸昇  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09021CYP Sodium, Na(STAT) 1  Y 2016/04/11 執行、已批 Specimen:BLO
+完成：2016/04/18
+ 戴逸昇 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O K59.00 Constipation 慢  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O I50.9 Heart failure 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/04/18 已確認 已批 謝欣妤  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/18 已確認 已批 謝欣妤  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/04/18 已確認 已批 謝欣妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2016/04/18 已確認 已批 謝欣妤  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/18 已確認 已批 謝欣妤  
+Zoloft 50 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/04/18 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+Nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+SOB after Lung Ca. Tx
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+
+20160411
+Still nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+
+20160418
+Nocturia 5->2/N, better QoL 
+Objective 
+DRE: deep-seated prostate, hard to approach
+
+【20160314】Serum PSA: 0.619   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】RBC (S): 0-2   /HPF
+
+【20160408】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 21.6 / 2.93 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+   4. UFM: 7.0/ml/s (135ml), compressive 
+ 
+【20160314】CRE: 0.8   mg/dL
+DRE: deep-seated prostate, hard to approach
+【20160418】Na: 136   mmol/L 
+Assessment 
+BPE with LUTS (7.0 ml/s, compressive, PSA: 0.7)
+Nocturia, r/o nocturnal polyuria 
+Plan 
+Na (急)
+RTC 2M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O R35.1 Nocturia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 2 2016/04/18 已確認 已批 戴逸昇  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/04/18 已確認 已批 戴逸昇  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09021CYP Sodium, Na(STAT) 1  Y 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/06/13
+ 戴逸昇 
+ 
+
+Subjective 
+Abdominal pain resolved
+No vomiting or diarrhea
+Primary aid at our ES with response
+Fever also noted at ES
+Intake: ok
+BM: smooth
+36.5 C 
+Objective 
+Not pale
+Abdomen: soft
+No toxic sign
+KPS: full
+69 Kg
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160123】ID+DS Blood.#1: No growth after 5 days   *
+【20160127】Seg: 77.4   %
+【20160127】WBC: 6.67   K/μL
+【20160127】PLT: 148   K/μL
+【20160127】HB: 12.4   g/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160205】WBC: 7.70   k/μL
+【20160205】PLT: 242   k/μL
+【20160205】HB: 13.1   g/dL
+【20160205】hsCRP: 5.64   mg/dL
+【20160219】WBC: 6.35   k/μL
+【20160219】PLT: 172   k/μL
+【20160219】HB: 14.3   g/dL
+【20160219】hsCRP: 0.87   mg/dL 
+Assessment 
+well explain the result 
+Plan 
+A+P CT scan: Multiple colon diverticula. Mild wall thickening at scrotum, suggest clinical correlation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M A09 Infectious gastroenteritis and colitis, unspecified  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K57.81 Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O R35.1 Nocturia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 2 2016/05/11 已確認 已批 吳佳容  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/05/11 已確認 已批 吳佳容 
+ 
+
+Subjective 
+Still exertional dyspnea 
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+Ambient air Sat 95% 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20151216】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+Post-radiation change, stationary.
+【20160314】CEA: 3.68   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】Seg: 74.7   %
+【20160314】WBC: 7.54   k/μL
+【20160314】PLT: 170   k/μL
+【20160314】HB: 14.1   g/dL
+【20160314】ALP: 65   U/L  ALT: 12   U/L  AST: 16   U/L  CRE: 0.8   mg/dL  CRE: 0.8   mg/dL  UN: 17.1   mg/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160422】Pulmonary Function Test :LUNG CA,COUGH * Spirometry by CHESTAC-8800
+
+* Mild obstructive ventilatory defect
+* Severe impairment of diffusion capacity
+* Bronchodilator test: No response to Fenoterol 100mcg 4 puff
+【20160422】CT With/Without Contrast-Brain :No definite metastatic lesion in brain and skull.
+Chest CT Post-radiation change, stationary. Bilateral pulmonary emphysema.
+【20160418】Na: 136   mmol/L
+【20160418】CRE: 1.0   mg/dL
+【20160314】CEA: 3.68   ng/mL
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic chnage at mid to basal inferior wall, (3) fair LV contractility. 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Keep F/U
+DLCO decreased cause to be determined.
+Check O2 sat, consider home oxygen use.
+Cardiac echo for rule out pul HTN
+5W 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管2) Codeine 15 mg/tab 1 tab TID PO 28 84 tab 健保  2016/05/11 已確認 已批 何肇基  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff Q6HPRN IH 28 1 btl 健保  2016/05/11 已確認 已批 何肇基  
+Ultibro Breezhaler 30 dose/box 1 dose QD IH 28 1 box 健保  2016/05/11 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2016/05/11 執行、已批 完成：2016/06/06
+ 何肇基 
+治療 57017B00 Pulse Oximetry(SpO2) 1  N 2016/05/11 執行、已批 完成：2016/05/11
+ 何肇基 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2016/05/11 執行、已批 完成：2016/06/06
+ 何肇基 
+ 
+治療 57017B00 Pulse Oximetry(SpO2) 1  N 2016/05/11 執行、已批 完成：2016/05/11
+ 何肇基 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2016/05/11 執行、已批 完成：2016/06/06
+ 何肇基 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O K59.00 Constipation 慢  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O I50.9 Heart failure 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/05/24 已確認 已批 賴婉玲  
+Cordarone 200 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/24 已確認 已批 賴婉玲  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/05/24 已確認 已批 賴婉玲 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab HSPRN PO 28 28 tab 健保 3 2016/05/24 已確認 已批 賴婉玲  
+(管4) Ativan 0.5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/05/24 已確認 已批 賴婉玲  
+Zoloft 50 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/05/24 已確認 已批 賴婉玲 
+ 
+
+Subjective 
+Nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+SOB after Lung Ca. Tx
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+
+20160411
+Still nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+
+20160418
+Nocturia 5->2/N, better QoL
+
+20160613
+No dizziness, poor appetite
+Nocturia, 2/N, better QoL 
+Objective 
+DRE: deep-seated prostate, hard to approach
+
+【20160314】Serum PSA: 0.619   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】RBC (S): 0-2   /HPF
+
+【20160408】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 21.6 / 2.93 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+   4. UFM: 7.0/ml/s (135ml), compressive 
+ 
+【20160314】CRE: 0.8   mg/dL
+DRE: deep-seated prostate, hard to approach
+【20160418】Na: 136   mmol/L 
+Assessment 
+BPE with LUTS (7.0 ml/s, compressive, PSA: 0.7)
+Nocturia, r/o nocturnal polyuria 
+Plan 
+Na 
+RTC 8W 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O R35.1 Nocturia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 2 2016/06/13 已確認 已批 戴逸昇  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/06/13 已確認 已批 戴逸昇  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09021CZP Sodium, Na 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/08/08
+ 戴逸昇 
+ 
+
+Subjective 
+Still exertional dyspnea 
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+Ambient air Sat 95% 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20151216】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+Post-radiation change, stationary.
+【20160314】CEA: 3.68   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】Seg: 74.7   %
+【20160314】WBC: 7.54   k/μL
+【20160314】PLT: 170   k/μL
+【20160314】HB: 14.1   g/dL
+【20160314】ALP: 65   U/L  ALT: 12   U/L  AST: 16   U/L  CRE: 0.8   mg/dL  CRE: 0.8   mg/dL  UN: 17.1   mg/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160422】Pulmonary Function Test :LUNG CA,COUGH * Spirometry by CHESTAC-8800
+
+* Mild obstructive ventilatory defect
+* Severe impairment of diffusion capacity
+* Bronchodilator test: No response to Fenoterol 100mcg 4 puff
+【20160422】CT With/Without Contrast-Brain :No definite metastatic lesion in brain and skull.
+Chest CT Post-radiation change, stationary. Bilateral pulmonary emphysema.
+【20160418】Na: 136   mmol/L
+【20160418】CRE: 1.0   mg/dL
+【20160314】CEA: 3.68   ng/mL
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic chnage at mid to basal inferior wall, (3) fair LV contractility.
+【20160606】Transthoracic UCG(健保)(不得改為自費) : 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Cardiac echo mild pul HTN, still favor interstitial penumonitis.
+DLCO decreased cause to be determined.
+Chest brain abd CT with contrast 8/8 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管2) Codeine 15 mg/tab 1 tab TID PO 28 84 tab 健保  2016/06/15 已確認 已批 何肇基  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff Q6HPRN IH 28 1 btl 健保  2016/06/15 已確認 已批 何肇基  
+Ultibro Breezhaler 30 dose/box 1 dose QD IH 28 1 box 健保  2016/06/15 已確認 已批 何肇基  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保  2016/06/15 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2016/06/15 執行、已批 Indication:Follow up
+小部位:Lung and mediastinum, from sternum to diaphragm,
+完成：2016/08/08
+ 何肇基 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2016/06/15 執行、已批 Indication:Follow up
+小部位:From diaphragm to kidney lower pole,
+完成：2016/08/08
+ 何肇基 
+影醫 33072B0M CT With/Without Contrast-Brain 1  N 2016/06/15 執行、已批 Indication:Follow up
+小部位:Whole Brain,
+完成：2016/08/08
+ 何肇基 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/08/08 執行、已批 完成：2016/08/08
+ 吳姵儀 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/08/08 執行、已批 完成：2016/08/08
+ 吳姵儀 
+ 
+
+Subjective 
+Dyspnea 
+Severe cough with dizziness, exertional dyspnea.
+
+ now 70 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA
+
+家族病史：癌症、高血壓、心臟病、糖尿病
+
+Still episode of Af with RVR /2 months
+Dyspea
+
+Cough with dyspnea, sputum (+)
+
+Echo: ok 
+Lung fibrosis due to cordarone ? time sequence not likely 
+Dyspnea mainly attack after radiotherapy 
+Objective 
+PE: ok 
+
+【20150217】CT With/Without Contrast-Brain :No obvious brain or skull metastasis.
+【20141117】CT With/Without Contrast-Chest :Post-operative change of both lungs.
+LLL lung cancer, stationary.
+【20150305】Chest : PA View (Standing) :status post upper chest wall Port-A implantation, mild increased pulmonary infiltration at bilateral peri-bronchial para-hilar region; bronchitis is compatible. normal heart size, suggest correlated with clinical manifestation.
+【20150305】pro-BNP: 920   pg/mL
+【20150305】Troponin I: 0.111   ng/mL
+【20150305】K: 4.5   mmol/L
+【20150305】Na: 136   mmol/L
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic change at mid to basal inferior wall, (3) fair LV contractility.
+UCG
+‧Concentric left ventricular hypertrophy
+‧The LV systolic function is normal
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, moderate
+‧Pulmonic regurgitation, mild
+‧Pulmonary hypertension, mild
+
+130/80 mmHg
+
+【20160422】Pulmonary Function Test :LUNG CA,COUGH * Spirometry by CHESTAC-8800
+
+* Mild obstructive ventilatory defect
+* Severe impairment of diffusion capacity
+* Bronchodilator test: No response to Fenoterol 100mcg 4 puff 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O I50.9 Heart failure 慢 職  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/06/23 已確認 已批 吳卓鍇  
+Cordarone 200 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/06/23 已確認 已批 吳卓鍇  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/06/23 已確認 已批 吳卓鍇  
+Prometin 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/06/23 已確認 已批 吳卓鍇 
+ 
+
+Subjective 
+SLEEP : sometimes insomnia, interrrupted due to urinary frequency
+dizziness
+less anxious, excessive worrying
+less restless feeling
+complained dry mouth and easily fatigue
+not good physical condition 
+Objective 
+stable vital sign 
+Assessment 
+lung cancer s/p C/T and R/T
+taper Zoloft to 0.5# hs
+appoint on 9/22 
+Plan 
+psychoeducation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab AS ORDER PO 28 31 tab 健保 3 2016/06/23 已確認 已批 劉智民 特殊劑量:一天 1 次，睡前1 錠. 
+ 
+(管4) Ativan 0.5 mg/tab 2 tab AS ORDER PO 28 62 tab 健保 3 2016/06/23 已確認 已批 劉智民 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後1 錠. 
+ 
+Zoloft 50 mg/tab 0.5 tab AS ORDER PO 28 16 tab 健保 3 2016/06/23 已確認 已批 劉智民 特殊劑量:一天 1 次，睡前0.5 錠.  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab AS ORDER PO 28 31 tab 健保 3 2016/07/13 已確認 已批 林小琴 特殊劑量:一天 1 次，睡前1 錠. 
+ 
+(管4) Ativan 0.5 mg/tab 2 tab AS ORDER PO 28 62 tab 健保 3 2016/07/13 已確認 已批 林小琴 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後1 錠. 
+ 
+Zoloft 50 mg/tab 0.5 tab AS ORDER PO 28 16 tab 健保 3 2016/07/13 已確認 已批 林小琴 特殊劑量:一天 1 次，睡前0.5 錠.  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O I50.9 Heart failure 慢 職  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/07/13 已確認 已批 林小琴  
+Cordarone 200 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/07/13 已確認 已批 林小琴  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/07/13 已確認 已批 林小琴  
+Prometin 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/07/13 已確認 已批 林小琴 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O R35.1 Nocturia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 56 tab 健保 2 2016/07/13 已確認 已批 林小琴  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/07/13 已確認 已批 林小琴 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 高中(職) 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌症? 無 請問您有無腸道不適症狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/07/13 執行、已批 Specimen:STO
+完成：2016/07/27
+ 姚建安 
+ 
+
+Subjective 
+Still exertional dyspnea 
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+Ambient air Sat 95% 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20151216】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+Post-radiation change, stationary.
+【20160314】CEA: 3.68   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】Seg: 74.7   %
+【20160314】WBC: 7.54   k/μL
+【20160314】PLT: 170   k/μL
+【20160314】HB: 14.1   g/dL
+【20160314】ALP: 65   U/L  ALT: 12   U/L  AST: 16   U/L  CRE: 0.8   mg/dL  CRE: 0.8   mg/dL  UN: 17.1   mg/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160422】Pulmonary Function Test :LUNG CA,COUGH * Spirometry by CHESTAC-8800
+
+* Mild obstructive ventilatory defect
+* Severe impairment of diffusion capacity
+* Bronchodilator test: No response to Fenoterol 100mcg 4 puff
+【20160422】CT With/Without Contrast-Brain :No definite metastatic lesion in brain and skull.
+Chest CT Post-radiation change, stationary. Bilateral pulmonary emphysema.
+【20160418】Na: 136   mmol/L
+【20160418】CRE: 1.0   mg/dL
+【20160314】CEA: 3.68   ng/mL
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic chnage at mid to basal inferior wall, (3) fair LV contractility.
+【20160606】Transthoracic UCG(健保)(不得改為自費) :
+【20160624】CT Without Contrast-Brain :Mild brain atrophy, mild leukoaraiosis. No obvious traumatic brain injury.
+【20160624】Troponin-T: 18.24   ng/L
+【20160624】Troponin-T: 15.03   ng/L
+【20160624】ALT: 12   U/L
+【20160624】K: 3.9   mmol/L
+【20160624】Na: 134   mmol/L
+【20160624】CRE: 1.0   mg/dL
+【20160624】Seg: 75.1   %
+【20160624】WBC: 8.87   K/μL
+【20160624】PLT: 175   K/μL
+【20160624】HB: 14.0   g/dL 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Cardiac echo mild pul HTN, still favor interstitial penumonitis.
+DLCO decreased cause to be determined.
+Chest brain abd CT with contrast 8/8 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管2) Codeine 15 mg/tab 1 tab TID PO 28 84 tab 健保  2016/07/13 已確認 已批 何肇基  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff Q6HPRN IH 28 1 btl 健保  2016/07/13 已確認 已批 何肇基  
+Ultibro Breezhaler 30 dose/box 1 dose QD IH 28 1 box 健保  2016/07/13 已確認 已批 何肇基  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保  2016/07/13 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/07/13 執行、已批 完成：2016/07/13
+ 何肇基 
+ 
+
+Subjective 
+24 months post radiotherapy 
+Appatite fair
+Mild swallowing discomfort
+Epigatralgia
+shortness of breath 
+Objective 
+KPS 90%
+BW:68.5Kg
+
+【20141117】CEA: 6.60   ng/mL
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20160314】CEA: 3.68   ng/mL
+
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20160624】Troponin-T: 18.24   ng/L
+【20160624】CT Without Contrast-Brain :Mild brain atrophy, mild leukoaraiosis. No obvious traumatic brain injury.
+【20160422】CT With/Without Contrast-Brain :No definite metastatic lesion in brain and skull. 
+Assessment 
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia 
+Plan 
+RTC 4 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O C7A.090 Malignant carcinoid tumor of the bronchus and lung 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SOLAXIN 200 mg/tab 0.5 tab TIDPC PO 28 42 tab 健保  2016/07/27 已確認 已批 許��銘  
+Megest Oral Susp 40 mg/1 mL 120 mL/btl 4 mL QD PO 28 1 btl 健保  2016/07/27 已確認 已批 許��銘 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I48.91 Atrial fibrillation 慢  
+O I50.9 Heart failure 慢 職  
+O C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/08/08 已確認 已批 謝欣妤  
+Cordarone 200 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/08/08 已確認 已批 謝欣妤  
+120 PROGOR 120 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/08/08 已確認 已批 謝欣妤  
+Prometin 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/08/08 已確認 已批 謝欣妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F32.9 Depressive disorder (F33.9) 重 慢  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 戀多眠 Lendormin 0.25 mg/tab 1 tab AS ORDER PO 28 31 tab 健保 3 2016/08/08 已確認 已批 謝欣妤 特殊劑量:一天 1 次，睡前1 錠. 
+ 
+(管4) Ativan 0.5 mg/tab 2 tab AS ORDER PO 28 62 tab 健保 3 2016/08/08 已確認 已批 謝欣妤 特殊劑量:一天 2 次，早飯後1 錠, 晚飯後1 錠. 
+ 
+Zoloft 50 mg/tab 0.5 tab AS ORDER PO 28 16 tab 健保 3 2016/08/08 已確認 已批 謝欣妤 特殊劑量:一天 1 次，睡前0.5 錠.  
+ 
+
+Subjective 
+Still exertional dyspnea 
+Dizziness persisted DOE remained the same, allergic rhinitis, progressed. 
+still cough with dizziness, exertional dyspnea, cough,
+Weight loss 2 kgw 68 kgw.
+
+NSCLC poor differentiated adenocarcinoma stage IIIB 
+Smoking 2 PPD for 40 year.
+Drinking 
+
+過去病史：
+Emphysma 
+CA 
+Objective 
+Ambient air Sat 95% 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+※Clinical Treatment Response：
+Evaluable：Improved 
+Evaluable by RECIST：Partial Response 【20140509】Anti-HCV Ab: Negative   *
+【20140509】Anti-HBc: Positive   *
+【20140509】Anti-HBs: Negative(2.52)   mIU/ml
+【20140509】HBsAg: Negative(0.00)   IU/ml
+【20141009】Pulmonary Function Test :Dyspnea * Spirometry by JAEGER MS-PFT
+
+* Normal screening spirometry
+* Moderate impairment of diffusion capacity
+【20141117】CEA: 6.60   ng/mL
+【20150119】CEA: 4.39   ng/mL
+【20150413】CEA: 3.00   ng/mL
+【20150622】PO2: 62.8   mmHg
+【20150622】PH: 7.418   *
+【20150622】PCO2: 31.2   mmHg
+【20150622】HCO3: 20.3   mmol/L
+【20150708】CEA: 3.54   ng/mL
+【20151015】CEA: 5.20   ng/mL
+【20150804】CT With/Without Contrast-Chest :Post-radiation change, stationary.
+【20151216】CT With/Without Contrast-Brain :no brain, cranium, and skull base  lesions
+Post-radiation change, stationary.
+【20160314】CEA: 3.68   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】Seg: 74.7   %
+【20160314】WBC: 7.54   k/μL
+【20160314】PLT: 170   k/μL
+【20160314】HB: 14.1   g/dL
+【20160314】ALP: 65   U/L  ALT: 12   U/L  AST: 16   U/L  CRE: 0.8   mg/dL  CRE: 0.8   mg/dL  UN: 17.1   mg/dL
+【20160123】CT With/Without Contrast-Abdomen :1.Diverticulosis with suspicious microabscess at D- and 
+S-colon junction.
+2.Atherosclerosis with wall calcification of abdomen aorta and visceral arteries.
+3.No definite evidence of ischemia bowel.
+【20160422】Pulmonary Function Test :LUNG CA,COUGH * Spirometry by CHESTAC-8800
+* Mild obstructive ventilatory defect
+* Severe impairment of diffusion capacity
+* Bronchodilator test: No response to Fenoterol 100mcg 4 puff
+【20160422】CT With/Without Contrast-Brain :No definite metastatic lesion in brain and skull.
+Chest CT Post-radiation change, stationary. Bilateral pulmonary emphysema.
+【20160418】Na: 136   mmol/L
+【20160418】CRE: 1.0   mg/dL
+【20160314】CEA: 3.68   ng/mL
+【20150407】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) suspect mild stress-induced ischemia at apical septal wall, (2) either diaphragmatic attenuation or ischemic chnage at mid to basal inferior wall, (3) fair LV contractility.
+【20160606】Transthoracic UCG(健保)(不得改為自費) :
+【20160624】CT Without Contrast-Brain :Mild brain atrophy, mild leukoaraiosis. No obvious traumatic brain injury.
+【20160624】Troponin-T: 18.24   ng/L
+【20160624】Troponin-T: 15.03   ng/L
+【20160624】ALT: 12   U/L
+【20160624】K: 3.9   mmol/L
+【20160624】Na: 134   mmol/L
+【20160624】CRE: 1.0   mg/dL
+【20160624】Seg: 75.1   %
+【20160624】WBC: 8.87   K/μL
+【20160624】PLT: 175   K/μL
+【20160624】HB: 14.0   g/dL
+【20160808】CT With/Without Contrast-Brain :no metastasis in brain and skull. Stable lung findings. 
+Please refer to the text above for detailed findings.
+【20160810】癌症治療效果追蹤評估 Disease Status:
+No evidence of recurrence or metastases 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+Cardiac echo mild pul HTN, still favor interstitial penumonitis.
+DLCO decreased cause to be determined.
+Sat stat 95%
+Port A irrigation x 1
+CXR 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管2) Codeine 15 mg/tab 1 tab QID PO 28 112 tab 健保  2016/08/10 已確認 已批 何肇基  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff Q6HPRN IH 28 1 btl 健保 2 2016/08/10 已確認 已批 何肇基  
+Ultibro Breezhaler 30 dose/box 1 dose QD IH 28 1 box 健保 2 2016/08/10 已確認 已批 何肇基  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/08/10 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/03
+ 何肇基 
+檢驗 09026CZP ALT(GPT) 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/03
+ 何肇基 
+檢驗 09027CZP ALP 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/03
+ 何肇基 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/03
+ 何肇基 
+檢驗 08011CZP CBC & platelet 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/03
+ 何肇基 
+檢驗 08013CZP WBC classification 1  N 2016/08/09 執行、已批 Specimen:BLO
+完成：2016/10/03
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/08/10 執行、已批 完成：2016/10/03
+ 何肇基 
+治療 57017B00 Pulse Oximetry(SpO2) 1  Y 2016/08/10 執行、已批 完成：2016/08/10
+ 何肇基 
+治療 48010C00 門診Port-A護理（Heparinized saline 1000U/10mL沖洗） 1  N 2016/08/10 執行、已批 完成：2016/08/10
+ 何肇基 
+醫材 20000995 安全性注射針(port-A)22Gx0.75 1  N 2016/08/10 執行、已批 完成：2016/08/10
+ 何肇基 
+ 
+
+Subjective 
+Nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+SOB after Lung Ca. Tx
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+
+20160411
+Still nocturia 6/N for years, incomplete voiding, urgency-
+Also ED, impotency
+
+PHX:
+NSCLC, stage IIIB, s/p CCRT
+Leukopenia
+
+20160418
+Nocturia 5->2/N, better QoL
+
+20160613
+No dizziness, poor appetite
+Nocturia, 2/N, better QoL 
+
+201608112
+SOB and poor lung function in progression
+With more difficult voiding and Nocturia: 5-6/N (large void amount)
+Poor response to harnalidge 
+Minimal voided uine at daytime 
+Objective 
+DRE: deep-seated prostate, hard to approach
+
+【20160314】Serum PSA: 0.619   ng/mL
+【20160314】WBC (S): 0-2   /HPF
+【20160314】RBC (S): 0-2   /HPF
+
+【20160408】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 21.6 / 2.93 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+   4. UFM: 7.0/ml/s (135ml), compressive 
+ 
+【20160314】CRE: 0.8   mg/dL
+DRE: deep-seated prostate, hard to approach
+【20160418】Na: 136   mmol/L
+【20160624】Na: 134   mmol/L
+【20160808】Na: 141   mmol/L 
+Assessment 
+Nocturnal polyuria
+BPE with LUTS (7.0 ml/s, compressive, PSA: 0.7) 
+Plan 
+Na, K (急)
+RTC 4W 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O R35.1 Nocturia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab HS PO 28 28 tab 健保  2016/08/12 已確認 已批 戴逸昇  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保  2016/08/12 已確認 已批 戴逸昇  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保  2016/08/12 已確認 已批 戴逸昇  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09021CYP Sodium, Na(STAT) 1  Y 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/09/09
+ 戴逸昇 
+檢驗 09022CYP Potassium, K(STAT) 1  Y 2016/08/12 執行、已批 Specimen:BLO
+完成：2016/09/09
+ 戴逸昇 
+ 
+
+Subjective 
+progressive level walking SOB +++
+"大動大喘, 不動不喘，小動小喘"
+under Codeine, ULtribro, Berote but still severe cough
+每次想咳就非常喘
+still on smoke+ 
+Objective 
+2014/05/09 LFT: 
+FEV1/FVC 66% predicted
+FVC 99%
+
+2014/10/09 LFT: 
+FEV1/FVC 76% predicted
+FVC 96%
+
+2016/04/22
+FEV1/FVC 59% predicted
+FVC 107+%
+
+rib cage
+inhale: good expansion
+exhale: poor contraction 
+Assessment 
+NSCLC poor differentiated adenocarcinoma cT3N3M0 stage IIIB EGFR ? HCV (-), HBV (-), CCRT (completed on 2014 July) complicated neutropenic fever and radiation pneumonitis, 
+Plan 
+exercise tolerance test 
+PT: CP + exercise 
+Goal: symptom reduction, improve exercise capacity
+符重卡 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 0.5 tab BID PO 21 21 tab 健保  2016/08/17 已確認 已批 王薏茜 重複原因:原治療未達預期療效
+尚有餘藥29天 
+ 
+甘草 200 (DC)Compound Glycyrrhiza Mixture 200 mL/btl 5 mL QID PO 21 3 btl 健保  2016/08/17 已確認 已批 王薏茜  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 000NEX02 運動心肺功能檢查 1  N 2016/08/17 執行、已批 連絡電話:0933065088
+完成：2016/09/08
+ 王薏茜 
+治療 42013A0N 物理治療－複雜治療 1 內含 N 2016/08/17 執行、已批 其他：☆PTC5_心肺功能訓練 ☆PTM7_運動治療
+完成：2016/08/17
+ 王薏茜 
+治療 PTC5 心肺功能訓練 1  N 2016/08/17 執行  王薏茜 
+治療 PTM7 運動治療 1  N 2016/08/17 執行  王薏茜 
+治療 17016B0N 運動肺功能試驗 1  N 2016/08/17 執行、已批 完成：2016/09/08
+ 王薏茜 
+治療 18015B0N 極度踏車運動試驗 1  N 2016/08/17 執行、已批 完成：2016/09/08
+ 王薏茜 
+治療 42013A0N 物理治療－複雜治療 1  N 2016/09/14 執行、已批 其他：☆PTC5_心肺功能訓練 ☆PTM7_運動治療
+療程次數：01
+完成：2016/09/14
+ 黃筱凌 
+治療 PTC5 心肺功能訓練 1  N 2016/09/14 執行  黃筱凌 
+治療 PTM7 運動治療 1  N 2016/09/14 執行  黃筱凌 
+治療 42013A0N 物理治療－複雜治療 1  N 2016/09/22 執行、已批 其他：☆PTC5_心肺功能訓練 ☆PTM7_運動治療
+療程次數：02
+完成：2016/09/22
+ 李佳品 
+治療 PTC5 心肺功能訓練 1  N 2016/09/22 執行  李佳品 
+治療 PTM7 運動治療 1  N 2016/09/22 執行  李佳品 
+治療 42013A0N 物理治療－複雜治療 1  N 2016/09/26 執行、已批 其他：☆PTC5_心肺功能訓練 ☆PTM7_運動治療
+療程次數：03
+完成：2016/09/26
+ 張騏安 
+治療 PTC5 心肺功能訓練 1  N 2016/09/26 執行  張騏安 
+治療 PTM7 運動治療 1  N 2016/09/26 執行  張騏安 
+治療 42013A0N 物理治療－複雜治療 1  N 2016/10/03 執行、已批 其他：☆PTC5_心肺功能訓練 ☆PTM7_運動治療
+療程次數：04
+完成：2016/10/03
+ 張騏安 
+治療 PTC5 心肺功能訓練 1  N 2016/10/03 執行  張騏安 
+治療 PTM7 運動治療 1  N 2016/10/03 執行  張騏安 
+治療 42013A0N 物理治療－複雜治療 1  N 2016/10/05 執行、已批 其他：☆PTC5_心肺功能訓練 ☆PTM7_運動治療
+療程次數：05
+完成：2016/10/05
+ 江小萍 
+治療 PTC5 心肺功能訓練 1  N 2016/10/05 執行  江小萍 
+治療 PTM7 運動治療 1  N 2016/10/05 執行  江小萍 
+治療 42013A0N 物理治療－複雜治療 1  N 2016/10/12 執行、已批 其他：☆PTC5_心肺功能訓練 ☆PTM7_運動治療
+療程次數：06
+完成：2016/10/12
+ 張騏安 
+治療 PTC5 心肺功能訓練 1  N 2016/10/12 執行  張騏安 
+治療 PTM7 運動治療 1  N 2016/10/12 執行  張騏安 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+O K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff Q6HPRN IH 28 1 btl 健保 2 2016/08/30 已確認 已批 賴婉玲  
+Ultibro Breezhaler 30 dose/box 1 dose QD IH 28 1 box 健保 2 2016/08/30 已確認 已批 賴婉玲  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/08/30 已確認 已批 賴婉玲 
+ 

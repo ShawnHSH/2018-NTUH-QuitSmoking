@@ -1,0 +1,178 @@
+﻿
+Objective 
+2016/02/24
+Coronary Angiography:
+RCA: middle stenosis 80 %, distal RCA-PLA-PDA trification 90% stenosis
+#1 Target: RCA
+1. Engage GC to RCA, wiring GW1-2 to PLA and PDA.
+2. POBA to PLA with BC1 upto 10A10", to PDA with BC2 upto 8A8"
+3. Deploy DES1 "Resolute Integrity 3*22mm" to PLA upto 8A15"
+4. Switch wires then KBT to RCA-PLA and RCA-PDA with BC1-2 upto 10A8"
+5. Due to PDA no reflow, so deploy DES2 "Resolute Integrity 3*22mm" to PDA upto 9A6"
+6. Failed to pass GW3 and BC3-5 to RCA-PLA stent, so we checked IVUS.
+7. Use MC and GW4 to passed GW1 and GW3 to distal PLA and PDA.
+8. POBA to d-RCA-PLA with BC4 upto 18A8", with BC5 upto 18A10".
+9. KBT to RCA-PLA and RCA-PDA with BC3 and BC6 upto 10A6"
+10. Deploy "Abbott BVS 3.5*18mm" to m-RCA upto 14A8"
+11. Final flow is good. 
+Plan 
+medication 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I21.3 Acute myocardial infarction 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 0.5 tab QD PO 28 14 tab 健保  2016/03/01 已確認 已批 李任光  
+COZAAR 50 mg/tab 0.5 tab QD PO 28 14 tab 健保  2016/03/01 已確認 已批 李任光  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 28 1 btl 健保  2016/03/01 已確認 已批 李任光  
+Brilinta 90 mg/tab 1 tab BID PO 28 56 tab 健保  2016/03/01 已確認 已批 李任光 用藥原因:A. 已發作之急性冠心症(不穩定型心絞痛、非ST段上升型心肌梗塞或ST段上升型心肌梗塞)，發作住院日期： 年 月 日，合併使用aspirin九個月以內。
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/03/01 已確認 已批 李任光  
+脂 Crestor 10 mg/tab 1 tab HS PO 28 28 tab 健保  2016/03/01 已確認 已批 李任光 用藥原因:LDL-C: 89 (2016/02/20) 
+ 
+
+
+Subjective 
+anterior chest pain, VAS: 3 (不需止痛藥)
+no dyspnea
+下個月還要裝支架
+
+Collapse on 2016/2/19
+
+Lifestyle:
+Cigarette smoking: 2PPD for 30 years, quitted
+Alcohol consumption: Half bottle of Whisky every month, quitted
+
+Occupation: 車床技師 
+Objective 
+2016/02/24
+Coronary Angiography:
+RCA: middle stenosis 80 %, distal RCA-PLA-PDA trification 90% stenosis 
+Assessment 
+(1)Out of hospital cardiac arrest, status post cardio-pulmonary resuscitation, with recovery of spontaneous circulation, suspect acute myocardial infarction related
+(2) Coronary artery disease, 3-vessel-disease, complicated acute myocardial infarction, Killip IV, status post 
+(3)Urinary tract infection with suspected community acquired pneumonia, rule out influenza 
+Plan 
+Exercise counselling
+Explain cardiac rehab
+等下個月支架做完再安排復健 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I21.3 Acute myocardial infarction 慢 職  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/03/29 執行、已批 完成：2016/03/29
+ 陳俊男 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/03/29 執行、已批 Specimen:STO
+完成：2016/03/30
+ 陳晶瑩 
+ 
+
+Subjective 
+STEMI with OHCA 
+Objective 
+2016/02/24 Coronary Angiography:
+RCA: middle stenosis 80 %, distal RCA-PLA-PDA trification 90% stenosis
+
+#1 Target: RCA
+1. Engage GC to RCA, wiring GW1-2 to PLA and PDA.
+2. POBA to PLA with BC1 upto 10A10", to PDA with BC2 upto 8A8"
+3. Deploy DES1 "Resolute Integrity 3*22mm" to PLA upto 8A15"
+4. Switch wires then KBT to RCA-PLA and RCA-PDA with BC1-2 upto 10A8"
+5. Due to PDA no reflow, so deploy DES2 "Resolute Integrity 3*22mm" to PDA upto 9A6"
+6. Failed to pass GW3 and BC3-5 to RCA-PLA stent, so we checked IVUS.
+7. Use MC and GW4 to passed GW1 and GW3 to distal PLA and PDA.
+8. POBA to d-RCA-PLA with BC4 upto 18A8", with BC5 upto 18A10".
+9. KBT to RCA-PLA and RCA-PDA with BC3 and BC6 upto 10A6"
+10. Deploy "Abbott BVS 3.5*18mm" to m-RCA upto 14A8" 
+Plan 
+admission(4/19) for PCI 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I21.3 Acute myocardial infarction 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 0.5 tab QD PO 28 14 tab 健保  2016/03/29 已確認 已批 李任光  
+COZAAR 50 mg/tab 0.5 tab QD PO 28 14 tab 健保  2016/03/29 已確認 已批 李任光  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 28 1 btl 健保  2016/03/29 已確認 已批 李任光  
+Brilinta 90 mg/tab 1 tab BID PO 28 56 tab 健保  2016/03/29 已確認 已批 李任光 用藥原因:A. 已發作之急性冠心症(不穩定型心絞痛、非ST段上升型心肌梗塞或ST段上升型心肌梗塞)，發作住院日期： 年 月 日，合併使用aspirin九個月以內。
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2016/03/29 已確認 已批 李任光  
+脂 Crestor 10 mg/tab 1 tab HS PO 28 28 tab 健保  2016/03/29 已確認 已批 李任光  
+ 
+
+Subjective 
+oral leukoplakia for check up 
+Objective 
+no definite leukoplakia noted 
+Plan 
+follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K13.21 Leukoplakia, oral 
+ 
+
+Subjective 
+STEMI with OHCA 
+Objective 
+2016/02/24 Coronary Angiography:
+RCA: middle stenosis 80 %, distal RCA-PLA-PDA trification 90% stenosis
+
+#1 Target: RCA
+1. Engage GC to RCA, wiring GW1-2 to PLA and PDA.
+2. POBA to PLA with BC1 upto 10A10", to PDA with BC2 upto 8A8"
+3. Deploy DES1 "Resolute Integrity 3*22mm" to PLA upto 8A15"
+4. Switch wires then KBT to RCA-PLA and RCA-PDA with BC1-2 upto 10A8"
+5. Due to PDA no reflow, so deploy DES2 "Resolute Integrity 3*22mm" to PDA upto 9A6"
+6. Failed to pass GW3 and BC3-5 to RCA-PLA stent, so we checked IVUS.
+7. Use MC and GW4 to passed GW1 and GW3 to distal PLA and PDA.
+8. POBA to d-RCA-PLA with BC4 upto 18A8", with BC5 upto 18A10".
+9. KBT to RCA-PLA and RCA-PDA with BC3 and BC6 upto 10A6"
+10. Deploy "Abbott BVS 3.5*18mm" to m-RCA upto 14A8" 
+Plan 
+W1 OPD f/u 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I21.3 Acute myocardial infarction 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2016/04/26 已確認 已批 李任光  
+COZAAR 50 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2016/04/26 已確認 已批 李任光  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 28 1 btl 健保  2016/04/26 已確認 已批 李任光  
+Brilinta 90 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/04/26 已確認 已批 李任光 用藥原因:A. 已發作之急性冠心症(不穩定型心絞痛、非ST段上升型心肌梗塞或ST段上升型心肌梗塞)，發作住院日期： 年 月 日，合併使用aspirin九個月以內。
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 2 2016/04/26 已確認 已批 李任光  
+脂 Crestor 10 mg/tab 1 tab HS PO 28 28 tab 健保 2 2016/04/26 已確認 已批 李任光 
+ 

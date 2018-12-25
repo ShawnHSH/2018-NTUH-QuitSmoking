@@ -1,0 +1,384 @@
+﻿
+Subjective 
+[Current problem]
+
+[S/S]
+@ Sore throat (-), Odynophagia (-), Easy choking (-), Dry mouth (+)
+@ Oral intake (diet): solid(ok), semi-liquid(ok), liquid(ok)
+@ Tinnitus (-), Hearing impairment (-), 
+@ Headache (-), Facial numbness (-), Diplopia (-) 
+Objective 
+[Current problem]
+@ 2015.3.17: left buccal mucosa erosion
+@ 2014/03:mass lesion in R't wrist -->s/p tumor excision on 2014/04/02,@ Pathology (2014.04.03):Soft tissue, wrist, right, excision, ganglion cyst.
+
+[R/T summary] 
+  Dose: 70Gy/33Fx,   
+  Date: 2012/03/30 ~ 2012/05/21  
+  2y9m s/p R/T
+
+[Exam]
+@ CXR (2013.2.25): lung mets(-)
+@ CXR (2013.8.20):  increased bil. perihilar infiltration
+@ CXR (2013.12.10):  lung mets(-)
+@ CXR (2015.3.10): no lung mets 
+@ MRI (2013.5.6): NER
+@ MRI (2014.05.23):NER
+@ Bone scan (2012.3.21): bone mets(-)
+@ Bone scan (2013.5.7): bone mets(-)
+@ Abd. sono (2012.6.11): liver mets(-)
+@ Abd. sono (2014.05.22):Fatty liver, moderate. GB polyp. Accessory spleen
+@ Pathology (2014.04.03):Soft tissue, wrist, right, excision, ganglion cyst.
+
+[PE]:
+  Oral cavity & Oropharynx: erosion at left buccal mucosa
+  Neck (-)
+  No evidence of recurrence 
+Assessment 
+Left tonsillar ca, cT1N1M0, s/p CCRT 
+Plan 
+RTC: 9/22
+Neck MRI at next visit 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 146.0 Malignant neoplasm of tonsil 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX PRN OR 7 1 tube 健保  2015/03/17 已確認 已批 王駿瑋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33085B0M MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2015/03/17 執行、已批 Indication:Neoplasm
+小部位:For tumor staging, from skull base to lower neck,
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+其他：※不清楚病人是否對顯影劑過敏 已告知病人9/11前一周左右要抽血(Dr洪瑞隆開的抽血單)
+完成：2015/09/11
+ 王駿瑋 
+ 
+
+Subjective 
+for follow up 
+Objective 
+放射記錄摘要報告 
+--------------------------------------------------------------------------------
+  
+
+病患基本資料 
+姓名 曾啟銘 病歷號 5812351 生日 1968/10/06 
+
+療程1
+部位資訊  ICD9診斷  其他診斷  備注  治療目的  
+146.9 Malignant neoplasm of oropharynx, unspecified   Left tonsil cancer, SqCC, cT1N0M0; for definitive RT  Curative  
+開始日期  結束日期  療程日數  主治醫師  完成治療  并發癥  
+2012/03/30  2012/05/21  53  王駿瑋  
+ 
+NER
+【20150310】Chest : PA View (Standing) :Chest PA shows normal heart size and no definite lung lesion.
+【20150310】WBC: 9.22   k/μL
+【20150310】PLT: 176   k/μL
+【20150310】HB: 17.0   g/dL
+【20150310】LDH: 165   U/L
+【20150310】ALP: 73   U/L
+【20150310】ALT: 10   U/L
+【20150310】CRE: 1.2   mg/dL 
+Plan 
+9-22 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 146.0 Malignant neoplasm of tonsil 重 慢 癌  
+ 
+
+Subjective 
+Doing well 
+Objective 
+【20140523】Neck MRI:[報告醫師陳雅芳]
+Post-RT change without obvious recurrent tumor or enlarged lymph nodes.
+
+疼痛評估：疼痛指數：0分; 疼痛部位：NA; 
+
+【20140905】WBC: 6.52   k/μL
+【20140905】LDH: 133   U/L
+【20140905】ALP: 70   U/L
+【20140905】CRE: 1.2   mg/dL
+
+【20150310】WBC: 9.22   k/μL
+【20150310】HB: 17.0   g/dL
+【20150310】PLT: 176   k/μL
+【20150310】LDH: 165   U/L
+【20150310】ALP: 73   U/L
+【20150310】ALT: 10   U/L
+【20150310】CRE: 1.2   mg/dL
+【20150310】Chest : PA View (Standing) :
+PE/CXR: negative 
+Assessment 
+Left tonsil cancer, SqCC, cT1N0M0
+2012/03/30~2012/05/21 RT: 7000cgy/33fx. 
+Plan 
+RTC 24W
+CXR
+CBC Cr ALP LDH GPT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 146.0 Malignant neoplasm of tonsil 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/03/17 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 洪瑞隆 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/17 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 洪瑞隆 
+檢驗 09027CZP ALP 1  N 2015/03/17 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 洪瑞隆 
+檢驗 09033CZP LDH 1  N 2015/03/17 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 洪瑞隆 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/03/17 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 洪瑞隆 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/03/17 執行、已批 完成：2015/08/31
+ 洪瑞隆 
+ 
+
+Subjective 
+for follow up 
+Objective 
+放射記錄摘要報告 
+姓名 曾啟銘 病歷號 5812351 生日 1968/10/06 
+146.9 Malignant neoplasm of oropharynx, unspecified   Left tonsil cancer, SqCC, cT1N0M0; for definitive RT  Curative  
+開始日期  結束日期  療程日數  主治醫師  完成治療  并發癥  
+2012/03/30  2012/05/21  53  王駿瑋   
+NER
+【20150831】Chest : PA View (Standing) :Acceptable heart shadow is noted with tortuous aorta. Increased lung markings are suspected at both lower lung field. Several small nodular densiteis up to 0.3cm in size are suspected at periphery of right lower lung field, suggest F/U. Degenerative change with marginal spur formation is noted at the T-spine. Scoliosis of the T-spine is noted with convex to the right.
+【20150911】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Post-RT change without obvious recurrent tumor or enlarged lymph nodes.
+【20150831】LDH: 183   U/L
+【20150831】ALP: 59   U/L
+【20150831】ALT: 13   U/L
+【20150831】CRE: 1.1   mg/dL 
+Plan 
+3-29 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 146.0 Malignant neoplasm of tonsil 
+ 
+
+Subjective 
+Mild stomatitis 
+Objective 
+【20150911】Neck MRI:[報告醫師 陳雅芳]
+Post-RT change without obvious recurrent tumor or enlarged lymph nodes.
+
+疼痛評估：疼痛指數：0分; 疼痛部位：NA; 
+
+【20150310】WBC: 9.22   k/μL
+【20150310】LDH: 165   U/L
+【20150310】ALP: 73   U/L
+
+【20150831】WBC: 7.03   k/μL
+【20150831】HB: 16.0   g/dL
+【20150831】PLT: 157   k/μL
+【20150831】LDH: 183   U/L
+【20150831】ALP: 59   U/L
+【20150831】ALT: 13   U/L
+【20150831】CRE: 1.1   mg/dL
+【20150831】Chest : PA View (Standing) :
+PE/ CXR: negative 
+Assessment 
+Left tonsil cancer, SqCC, cT1N0M0
+2012/03/30~2012/05/21 RT: 7000cgy/33fx. 
+Plan 
+RTC 24W
+CXR
+CBC Cr ALP LDH GPT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 146.0 Malignant neoplasm of tonsil 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09027CZP ALP 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2016/03/22
+ 洪瑞隆 
+檢驗 09026CZP ALT(GPT) 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2016/03/22
+ 洪瑞隆 
+檢驗 09033CZP LDH 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2016/03/22
+ 洪瑞隆 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2016/03/22
+ 洪瑞隆 
+檢驗 08011CZP CBC & platelet 1  N 2015/09/22 執行、已批 Specimen:BLO
+完成：2016/03/22
+ 洪瑞隆 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/09/22 執行、已批 完成：2016/03/22
+ 洪瑞隆 
+ 
+
+Subjective 
+S-T 
+Objective 
+放射記錄摘要報告 
+姓名 曾啟銘 病歷號 5812351 生日 1968/10/06 
+146.9 Malignant neoplasm of oropharynx, unspecified   Left tonsil cancer, SqCC, cT1N0M0; for definitive RT  Curative  
+開始日期  結束日期  療程日數  主治醫師  完成治療  并發癥  
+2012/03/30  2012/05/21  53  王駿瑋   
+NER
+【20150831】Chest : PA View (Standing) :Acceptable heart shadow is noted with tortuous aorta. Increased lung markings are suspected at both lower lung field. Several small nodular densiteis up to 0.3cm in size are suspected at periphery of right lower lung field, suggest F/U. Degenerative change with marginal spur formation is noted at the T-spine. Scoliosis of the T-spine is noted with convex to the right.
+【20150911】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) :Post-RT change without obvious recurrent tumor or enlarged lymph nodes.
+【20150831】LDH: 183   U/L
+【20150831】ALP: 59   U/L
+【20150831】ALT: 13   U/L
+【20150831】CRE: 1.1   mg/dL 
+Plan 
+benzydamine 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M C09.9 Tonsillar cancer  
+ 
+
+個人病史 
+個人病史 高血壓,高血脂癥     
+是否長期服藥 有     
+長期服藥原因 高血壓,高血脂     
+家族病史 高血壓     
+健康行為 
+最近半年，【吸菸】情形？ 平均一天一包煙以上     
+最近半年，【飲酒】情形？ 偶爾喝酒     
+最近半年，【嚼檳榔】情形？ 不嚼檳榔     
+最近兩周，【運動】習慣？ 沒有     
+您是否出現咳嗽超過二周的情形？ 有     
+憂郁檢測 
+1. 最近兩周，你是否感覺情緒低落、沮喪或沒有希望？ 是 2. 最近兩周，你是否感覺做事情失去興趣或樂趣？ 是   
+身體檢查 
+身高 166.9 公分 體重 73.7 公斤 收縮壓 150 毫米汞柱 
+舒張壓 78 毫米汞柱 脈搏 104 次/分鐘 腰圍 90 公分 
+右眼裸視視力 0.8  左眼裸視視力 1.2  右眼矯正視力  
+左眼矯正視力      
+耳鼻喉及口腔 牙結石或牙周病     
+頸部淋巴腺腫大 無     
+甲狀腺腫大 無     
+胸部 無明顯異常     
+心臟聽診 無明顯異常     
+腹部 無明顯異常     
+四肢 無明顯異常     
+呼吸聽診 無明顯異常     
+其他      
+健康諮詢 
+健康諮詢 戒菸,節酒,規律運動,維持正常體重,健康飲食,口腔保健     
+檢查結果說明 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 N 2016/03/29 執行、已批 Specimen:UR1
+完成：2016/04/20
+ 江建勰 
+檢驗 06012CZP MULTISTIX (Routine) 1 內含 N 2016/03/29 執行、已批 Specimen:UR1
+完成：2016/04/20
+ 江建勰 
+檢驗 09001CZP Cholesterol, Total 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 09004CZP Triglyceride, TG 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 09005CZP Glucose (AC) 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 09025CZP AST(GOT) 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 09026CZP ALT(GPT) 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 09043C0P HDL 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 09044C0P LDL 1 內含 N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+檢驗 L1001C00 B型肝炎表面抗原、C型肝炎抗體檢查(國健局專用) 1  N 2016/03/29 執行、已批 Specimen:BLO
+完成：2016/04/20
+ 江建勰 
+治療 000021R0 成人預防保健（４０－６５歲第一階段） 1  N 2016/03/29 執行、已批 完成：2016/04/20
+ 江建勰 
+治療 000I0005 體檢證明書費 1 內含 N 2016/03/29 執行、已批 完成：2016/03/29
+ 江建勰 
+治療 000I0010 體檢診察費（一般理學檢查） 1 內含 N 2016/03/29 執行、已批 完成：2016/03/29
+ 江建勰 
+治療 000I0211 體檢判讀費 1 內含 N 2016/03/29 執行、已批 完成：2016/03/29
+ 江建勰 
+ 
+
+Subjective 
+HTN, missed Diovan-80, CCB for over one month.
+
+For smoking cessation.
+Left tonsillar ca, cT1N1M0, s/p CCRT
+Outside clinic: patch for 1 week...
+
+FTND: 5/10.
+PH of HTN: under regular control. 
+Objective 
+身高: 167 cm, 體重: 72 kg  BSA: 1.83 m^2
+3/29: 30 CPD. BW 72kg. BP 198/117, HR 99.
+【20160322】CRE: 1.0   mg/dL
+【20160322】ALT: 19   U/L
+【20160322】HB: 16.5   g/dL
+
+【20160322】Chest : PA View (Standing) :Chest PA shows *cardiomegaly and no definite abnormal lung opacity. 
+Plan 
+Add Doxaben.
+ARB, CCB. 成健. 20160426取消連處：病情變化，須更改藥物 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Essential (primary) hypertension 慢  
+O F17.203 Nicotine dependence unspecified, with withdrawal 慢  
+O C09.9 Malignant neoplasm of tonsil, unspecified 重 慢 癌  
+O F17.200 Drug abuse, tobacco 慢  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Doxaben 1 mg/tab 1 tab QD PO 28 28 tab 健保  2016/03/29 已確認 已批 江建勰 特殊醫囑:20160426取消連處：病情變化，須更改藥物 
+ 
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保  2016/03/29 已確認 已批 江建勰 特殊醫囑:20160426取消連處：病情變化，須更改藥物 
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保  2016/03/29 已確認 已批 江建勰 特殊醫囑:20160426取消連處：病情變化，須更改藥物 
+ 

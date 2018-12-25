@@ -1,0 +1,585 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+C.C:Asking for 11 fistula evaluation 
+
+現病史：
+The 53 y/o male came to our department for 11 fistula evaluation 
+The fistula was found about 1 year ago.
+
+過去病史：
+DM (HbA1c:7.5~8%) under insulin treatment
+HTN
+smoking(+)(2 packs/day)
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：O
+
+目前用藥：
+NA
+
+最近三個月內旅游史：有
+家族病史：NA
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+L.F:
+1.Present dentition:11~1421~25 37~33xxxx4344 45464748
+  33xxxx4344 bridge
+  46 metal crown
+2.Probing depths>5 mm:11121314 21222324 33353637 43444748
+3.mobility:
+  Gr(II):11 12
+  Gr(I):14 2122
+4.13 14 23 24 attrition
+5.                12     11    21 
+ percussion pain  (-)  (+/-)   (-)
+ palpation  pain  (-)   (+/-)  (-)
+ biting pain      (-)   (-)    (-)
+ probing depths  537M   1035M  M436
+                 556P   81010P p566
+ mobility        Gr(II) Gr(II) Gr(I)
+ fistula          (-)    (+)    (-)
+ pus discharge    (-)    (+)    (-)
+ 
+Assessment 
+D.X:Generalized chronic periodontitis
+    11 Previously endodontic treatment
+       chronic alveolar abscess
+ 
+Plan 
+T.X:
+1.Take Pano and full mouth PA film;X-ray findings:
+ (1).Present dentition:11~1421~25 37~33xxxx4344 45464748
+ (2).Prosthesis:
+     33xxxx4344 bridge
+     46 metal crown
+ (3).Severe bony destruction:1112 35
+ (4).Genralized moderate to severte horizontal bony destruction
+ (5).11 perviously endodontic treatment(+)
+     RCF quality:fair
+     mesial middle side radiolucent lesion (+)
+     severe bony destruction(+)
+2.Tx plan:
+  (1).Full mouth periodontal phase I treatment + OHI
+      (Reffered to G1 黃振邦 for further treatment) 
+  (2).Endo department consultation for 11 further evaluation
+
+G1 黃振邦/ VS 張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/09/25 執行、已批 齒位1:FM
+完成：2015/09/25
+ 張博鈞 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/25 已批 完成：2015/09/25  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/09/25 已批 完成：2015/09/25 
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment (牙周統合照護計畫療程開始)
+ 
+Objective 
+L.F:
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+ 
+Assessment 
+D.X:Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.full mouth charting and photo records were taken, 
+2.plaque control(術前) was done with application of disclosing agent, 
+3.oral hygiene instruction was done, 
+4.explained treatment plan to the patient, 
+5.signed consent
+
+G1 黃振邦
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2015/10/12 已確認 已批 張博鈞  
+Naposin 250 mg/tab 1 tab TIDPC PO 3 9 tab 健保  2015/10/19 已確認 已批 張博鈞  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2015/10/05 執行、已批 完成：2015/10/05
+ 張博鈞 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2015/11/05 執行、已批 完成：2015/11/05
+ 張博鈞 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2015/11/05 刪除、刪除、未看完 完成：2015/11/05
+ 張博鈞 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2015/12/10 執行、已批 完成：2015/12/10
+ 張博鈞 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/05 已批 完成：2015/10/05  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/10/05 已批 完成：2015/10/05  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/10/12 已批 完成：2015/10/12  
+行政費用 05203C00 牙科藥事服務費(一般性處方給藥７天以內) 1  N 2015/10/19 已批 完成：2015/10/19 
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+L.F:
+1.Generalized plaque and calculus deposition. 
+2.Generalized deep pocket and increased mobility of teeth. 
+3.Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+D.X:Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  
+2.subgingical root planing and smoothening root surface at UR.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local anesthesia of UR.
+4.Full mouth polishing
+5.Medication:Paramal 500mg 1# TID PO for 3 days
+
+G1 黃振邦
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+L.F:
+1.Generalized plaque and calculus deposition. 
+2.Generalized deep pocket and increased mobility of teeth. 
+3.Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+D.X:Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  
+2.subgingical root planing and smoothening root surface at UL LL.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local anesthesia of UL LL.
+
+G1 黃振邦
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+L.F:
+1.Generalized plaque and calculus deposition. 
+2.Generalized deep pocket and increased mobility of teeth. 
+3.Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+D.X:Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  
+2.subgingical root planing and smoothening root surface at UL LL.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local anesthesia of UL LL.
+
+G1 黃振邦
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment
+ 
+Objective 
+L.F:Oral hyginene:fair
+ 
+Assessment 
+D.X:Generakized chronic periodontitis
+ 
+Plan 
+T.X:
+1.OHI
+2.Full mouth scaling
+
+G1 黃振邦
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+Subjective 
+CC: For missing teeth reconstruction
+
+PI: This 54 y/o male had fistula over tooth 11 and came to our hospital for examination in 2015/09. FM chronic periodontitis was diagnosed and periodontal phase I treatment was done in 2015/10-11. He now came for FM missing teeth reconstruction evaluation. (upper bilateral teeth missing over 10 years)
+
+PMH:
+DM (HbA1c:7.5~8%) under insulin treatment
+HTN
+smoking(+)(2 packs/day)
+
+Past dental history:
+denture experience (+) upper and lower, 
+patient felt metal component uncomfortable while eating hot suop.
+ 
+Objective 
+疼痛評估：疼痛指數： NA; 疼痛部位： NA
+1.present dentition:
+    4321|12345
+876543XX|XX34567
+
+Prosthesis: [33XXXX43.44] PFM bridge. 46 metal crown
+
+2. probing depth >=5 mm: 11.14(M 5 mm).35(D)
+
+3. Tooth 11, s/p endo treatment around 6 months ago
+Gingiva swelling or abscess(-)
+Percussion pain (-)
+Palpation pain (-)
+mobility: grade I
+probing depth (mm):
+DB 633 MB
+DP 663 MP  
+
+4. 14
+Percussion pain:(-)
+Palpation pain:(-)
+mobility: grade I
+Probing depth: 5 mm pocket at M side
+
+5. Tooth 24
+Percussion pain (-)
+Palpation pain (-)
+mobility: grade I
+probing depth (mm): 
+MB 323 DM
+MP 338 DP
+EPT: 25/80
+Cold test: normal (mild reaction) 
+
+6. Tooth 25
+Percussion pain (-)
+Palpation pain (-)
+mobility: grade I
+probing depth (mm): WNL
+EPT: 30/80
+Cold test: normal 
+
+7. Tooth 14.25 cervical abrasion
+8. FM tooth attrition.
+ 
+Assessment 
+missing teeth, 15-18,26-28,31.32.38.41.42
+ 
+Plan 
+Tx plan:
+1. 14 survey crown fabrication
+2. 25 cervical abrasion OD restoration
+3. upper wrought wire denture fabrication
+
+Assign Ri 許雅雯 for the above treatment plans
+
+R1林震名/VS王東美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/08 已批 完成：2015/12/08  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/12/08 已批 完成：2015/12/08 
+ 
+ 
+ 
+
+Subjective 
+Asking for periodontal treatment(牙周統合照護計畫同次療程)
+ 
+Objective 
+Deep pocket as recorded in charting data attached.  (見上傳再評估charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.Full mouth charting and photo records were taken, 
+2.Plaque control(術後) was done with application of disclosing agent,
+3.Oral hygiene instruction was done, 
+4.Explained treatment plan after phase I to the patient
+
+Tx plan:
+1.Quit smoking first
+2.Re Sc/Rp:43 15
+3.11 12 35 36 flap OP
+4.48 extraction
+
+G1 黃振邦 / VS 張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+Asking for periodontal treatment(牙周統合照護計畫同次療程)
+ 
+Objective 
+Deep pocket as recorded in charting data attached.  (見上傳再評估charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.Full mouth charting and photo records were taken, 
+2.Plaque control(術後) was done with application of disclosing agent,
+3.Oral hygiene instruction was done, 
+4.Explained treatment plan after phase I to the patient
+
+Tx plan:
+1.Quit smoking first
+2.Re Sc/Rp:43 15
+3.11 12 35 36 flap OP
+4.48 extraction
+
+G1 黃振邦 / VS 張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+ 
+ 
+Subjective 
+for missing teeth prosthetic reconstruction
+ 
+Objective 
+1.present dentition:
+    4321|12345
+876543XX|XX34567
+
+Prosthesis: [33XXXX43.44] PFM bridge. 46 metal crown
+
+2. probing depth >=5 mm: 11.14(M 5 mm).35(D)
+
+3. Tooth 11, s/p endo treatment around 6 months ago
+Gingiva swelling or abscess(-)
+Percussion pain (-)
+Palpation pain (-)
+mobility: grade I
+probing depth (mm):
+DB 633 MB
+DP 663 MP  
+
+4. 14
+Percussion pain:(-)
+Palpation pain:(-)
+mobility: grade I
+Probing depth: 5 mm pocket at M side
+
+5. Tooth 24
+Percussion pain (-)
+Palpation pain (-)
+mobility: grade I
+probing depth (mm): 
+MB 323 DM
+MP 338 DP
+EPT: 25/80
+Cold test: normal (mild reaction) 
+
+6. Tooth 25
+Percussion pain (-)
+Palpation pain (-)
+mobility: grade I
+probing depth (mm): WNL
+EPT: 30/80
+Cold test: normal 
+
+7. Tooth 14.25 cervical abrasion
+8. FM tooth attrition.
+ 
+Assessment 
+missing teeth, 15-18,26-28,31.32.38.41.42
+ 
+Plan 
+Impression for study cast fabrication
+Take clinical photos
+
+Ri許雅雯/VS王東美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0519 *Impression for Study Cast 1 自費 N 2015/12/26 刪除、刪除 齒位1:FM
+完成：2015/12/26
+ 陳韻之 
+治療 000L0519 *Impression for Study Cast 1 自費 N 2015/12/26 執行、已批 齒位1:FM
+完成：2015/12/26
+ 王東美 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/26 已批 完成：2015/12/26  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1 自費 N 2015/12/26 已批 完成：2015/12/26 
+ 
+
+Subjective 
+for missing teeth prosthetic reconstruction
+ 
+Objective 
+1.present dentition:
+    4321|12345
+876543XX|XX34567
+
+Prosthesis: [33XXXX43.44] PFM bridge. 46 metal crown
+
+2. 14 with cervical abrasion and severe attrition
+Percussion pain:(-)
+Palpation pain:(-)
+mobility: grade I
+Probing depth: 5 mm pocket at M side
+ 
+Assessment 
+missing teeth, 15-18,26-28,31.32.38.41.42
+ 
+Plan 
+Tx.
+tooth 14 endodontic treatment
+1.Rubber dam application
+2.Access opening
+3.Remove pulp tissue
+4.Identified 2 orifices, B and P
+5.Irrigation with 2.5% NaOCl
+6.Dry cotton & IRM temporary sealing
+7.occlusal reduction
+
+Tx. plan
+1. suggest 13 14 splinted crown fabrication due to deep bite and unfavorable for 14 to become an abutment tooth 
+because of 14 severe attrition and deep bite occlusion, after tooth preparation, pulpitis or pulp expose of 14 might happend 14 intentional endodontic intervention was suggest and the P't agree with it
+2. smoking(+)(2 packs/day)
+smoking cessation consultation and instruction 
+Rx: champix (1mg/tab) x 14 for 2 weeks 
+
+Ri許雅雯/VS王東美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K03.0 Attrition, dental  
+O K03.1 Abrasion, cervical  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 90004C00 Emergent Endodontic Treatment 1  N 2016/01/13 執行、已批 齒位1:14
+完成：2016/01/13
+ 王東美 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/13 已批 完成：2016/01/13  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/01/13 已批 完成：2016/01/13 
+ 
+
+Subjective 
+C.C. for seeking for help for quitting smoking
+
+PMH
+DM (HbA1c:7.5~8%) under insulin treatment
+HTN
+ 
+Objective 
+起床後5分鐘內會抽菸
+一天抽超過30根菸
+ 
+Assessment 
+Generalized chronic periodontitis, heavy smoker
+ 
+Plan 
+prescride drug for quitting smoking
+
+Px :
+1 Champix FC 1 mg/tab #1*QD* 14 days
+
+Recorder:VS劉謙美
+ 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab QD PO 14 14 tab 健保  2016/01/20 已確認 已批 劉謙美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/20 已批 完成：2016/01/20  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2016/01/20 刪除已退 完成：2016/01/20  
+行政費用 05207C00 牙科藥事服務費(一般性處方給藥１４～２７天) 1  N 2016/01/20 刪除已退 完成：2016/01/20  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短?詢＋個案追蹤管理）（自行調劑 1  N 2016/05/09 已批 完成：2016/01/20  
+行政費用 E1020A00 醫學中心調劑（開立連續兩周戒菸治療服務藥物） 
+ 
+
+ 

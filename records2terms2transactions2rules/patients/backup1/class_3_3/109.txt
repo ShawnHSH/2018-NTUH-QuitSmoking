@@ -1,0 +1,734 @@
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.9 Tinea  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 1 cap BID PO 28 56 cap 健保 3 2014/11/21 已確認 已批 林小琴  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保 3 2014/11/21 已確認 已批 林小琴 
+ 
+
+Subjective 
+A case of generalized dermatitis, for 20 years, resolved after taking Sinequan and Lonzumin since 2013.
+The lesion on the legs persisted. Most of the lesion resolved ithcing currently. 
+Objective 
+There are multiple variously sized and shaped scaly patches and plaques on face, trunk and four limbs.
+
+20140115
+There are several scaly brownish plaques on the ears and shins.
+
+20140212
+There are still scaly lichenified ,brownish plaques on the legs (especially on the knees).
+The lesions on the earlobes improved.
+
+20140319 Stationary
+20141001 Mild faint erythematous papules on the scalp only.
+
+20141224
+Faint erthematous illdefeind patches on the bilateral shins, with telangiectasia-> suspect steroid side effect 
+Assessment 
+Generalized chronic eczema 
+Plan 
+Suggest non-steroid use but high cost.
+CB strong for prn itching control.
+Keep oral medication
+RTC 1m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.9 Tinea  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 1 cap BID PO 28 56 cap 健保  2014/12/24 已確認 已批 王莉芳  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保  2014/12/24 已確認 已批 王莉芳  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 10 tube 健保  2014/12/24 已確認 已批 王莉芳  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 3 tube 健保  2014/12/24 已確認 已批 王莉芳 
+ 
+
+Subjective 
+A case of generalized dermatitis, for 20 years, resolved after taking Sinequan and Lonzumin since 2013.
+The lesion on the legs persisted. Most of the lesion resolved ithcing currently.
+
+20150121
+improved 
+Objective 
+There are multiple variously sized and shaped scaly patches and plaques on face, trunk and four limbs.
+
+20140115
+There are several scaly brownish plaques on the ears and shins.
+
+20140212
+There are still scaly lichenified ,brownish plaques on the legs (especially on the knees).
+The lesions on the earlobes improved.
+
+20140319 Stationary
+20141001 Mild faint erythematous papules on the scalp only.
+
+20141224
+Faint erthematous illdefeind patches on the bilateral shins, with telangiectasia-> suspect steroid side effect
+
+20150121
+improved 
+Assessment 
+Generalized chronic eczema 
+Plan 
+Suggest non-steroid use but high cost.
+CB strong for prn itching control.
+Keep oral medication
+RTC 1m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.9 Tinea  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/01/21 已確認 已批 王莉芳  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保 3 2015/01/21 已確認 已批 王莉芳  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 10 tube 健保 3 2015/01/21 已確認 已批 王莉芳  
+Zalain Cream 2% 15 g/tube 1 XX BID D 28 1 tube 健保  2015/01/21 已確認 已批 王莉芳  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 4 tube 健保 3 2015/01/21 已確認 已批 王莉芳 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.9 Tinea  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/02/12 已確認 已批 沈玉琴  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保 3 2015/02/12 已確認 已批 沈玉琴  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 10 tube 健保 3 2015/02/12 已確認 已批 沈玉琴  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 4 tube 健保 3 2015/02/12 已確認 已批 沈玉琴 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.9 Tinea  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 1 cap BID PO 28 56 cap 健保 3 2015/03/11 已確認 已批 謝欣妤  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保 3 2015/03/11 已確認 已批 謝欣妤  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 10 tube 健保 3 2015/03/11 已確認 已批 謝欣妤  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 4 tube 健保 3 2015/03/11 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+A case of generalized dermatitis, for 20 years, resolved after taking Sinequan and Lonzumin since 2013.
+The lesion on the legs persisted. Most of the lesion resolved ithcing currently. Occasional itching 
+Objective 
+Erythematous scaly excoriated papules and patches on the scalp and lower limbs. More prominent on the scalp.
+Diffuse scaling on the soles and toe-webs. 
+Assessment 
+Generalized chronic eczema
+Tinea pedis et unguium 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 110.1 Tinea unguium 慢  
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.4 Tinea pedis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 2 cap BID PO 28 112 cap 健保 3 2015/04/15 已確認 已批 王莉芳  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保 3 2015/04/15 已確認 已批 王莉芳  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 10 tube 健保 3 2015/04/15 已確認 已批 王莉芳  
+Zalain Cream 2% 15 g/tube 1 XX BID D 7 1 tube 健保  2015/04/15 已確認 已批 王莉芳  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 4 tube 健保 3 2015/04/15 已確認 已批 王莉芳  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.4 Tinea pedis  
+O 110.1 Tinea unguium 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 2 cap BID PO 28 112 cap 健保 3 2015/05/08 已確認 已批 沈玉琴  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保 3 2015/05/08 已確認 已批 沈玉琴  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 10 tube 健保 3 2015/05/08 已確認 已批 沈玉琴  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 4 tube 健保 3 2015/05/08 已確認 已批 沈玉琴 
+ 
+
+Subjective 
+sore throat(+), sputum yellowish, cough mild, no rhinorrhea, odynophagia mild, no dysphagia, no fever qid
+TOCC
+son had sore throat(+)
+denied travel history
+occupation retired
+
+A-
+B-
+C+ 5 piece per day more than 20 years 
+Objective 
+bilateral nasal cavity patent
+oral cavity ok
+oropharynx injected s/p local treatment
+failed nasopharynx by mirror
+bilateral neck supple 
+Plan 
+Medication treatment
+Explained and follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 460 Acute nasopharyngitis (common cold) 呼  
+O 462 Acute pharyngitis 呼  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 5 20 tab 健保  2015/05/14 已確認 已批 劉嘉銘  
+Medicon 15 mg/tab 1 tab QID PO 5 20 tab 健保  2015/05/14 已確認 已批 劉嘉銘  
+(DC)Mucosolvan 30 mg/tab 1 tab QID PO 5 20 tab 健保  2015/05/14 已確認 已批 劉嘉銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 54019C00 其他鼻部治療 1  N 2015/05/14 執行、已批 完成：2015/05/14
+ 劉嘉銘 
+ 
+
+Subjective 
+sore throat(+), sputum yellowish, cough mild, no rhinorrhea, odynophagia mild, no dysphagia, 
+TOCC
+son had sore throat(+)
+denied travel history
+occupation retired
+
+A-
+B-
+C+ 5 piece per day more than 20 years 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 460 Acute nasopharyngitis (common cold) 呼  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Medicon 15 mg/tab 1 tab QIDPC PO 7 28 tab 健保  2015/05/19 已確認 已批 蕭自佑  
+(DC)Mucosolvan 30 mg/tab 1 tab QIDPC PO 7 28 tab 健保  2015/05/19 已確認 已批 蕭自佑  
+DEnosin FC 5 mg/tab 1 tab QD PO 7 7 tab 健保  2015/05/19 已確認 已批 蕭自佑 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 110.4 Tinea pedis  
+O 110.1 Tinea unguium 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)SINEQUAN 25 mg/cap 2 cap BID PO 28 112 cap 健保 3 2015/06/02 已確認 已批 謝欣妤  
+Lonzumin 25 mg/tab 2 tab BIDPC PO 28 112 tab 健保 3 2015/06/02 已確認 已批 謝欣妤  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 10 tube 健保 3 2015/06/02 已確認 已批 謝欣妤  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 4 tube 健保 3 2015/06/02 已確認 已批 謝欣妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 366.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt BID OU 7 1 btl 健保  2015/09/22 已確認 已批 胡芳蓉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23401C00 細隙燈顯微鏡檢查 1  N 2015/09/22 執行、已批 完成：2015/09/22
+ 胡芳蓉 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/09/22 執行、已批 完成：2015/09/22
+ 胡芳蓉 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 366.9 Cataract  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0407 屈光檢查（電腦驗光） 1 自費 N 2015/12/28 執行、已批 完成：2015/12/28
+ 胡芳蓉 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 366.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+V-Genta inj 80 mg/2 mL /vial 80 mg PRN IF 1 1 vial 內含  2015/12/30 已確認 已批 胡芳蓉  
+Acetazolamide 250 mg/tab 0.5 tab Q6H PO 1 2 tab 內含  2015/12/30 已確認 已批 胡芳蓉  
+PARAMOL 500 mg/tab 1 tab QID PO 2 8 tab 內含  2015/12/30 已確認 已批 胡芳蓉  
+Rinderon Inj 4 mg/1 mL /amp 1 mg PRN IF 1 1 amp 內含  2015/12/30 已確認 已批 胡芳蓉  
+Mydrin-M Oph Soln 0.4% 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2015/12/30 已確認 已批 胡芳蓉  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2015/12/30 已確認 已批 胡芳蓉  
+Gentamicin Eye Drops 3 mg/1 mL 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2015/12/30 已確認 已批 胡芳蓉  
+Maxitrol Oph Oint 3.5 g/tube 1 gtt HS XX 7 1 tube 內含  2015/12/30 已確認 已批 胡芳蓉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 97605K0E 白內障手術不含健保給付之人工水晶體 1  N 2015/12/30 執行、已批 診療部位:R
+主副刀:1
+手術起時:2015/12/30 11:21
+手術迄時:2015/12/30 11:51
+完成：2015/12/30
+ 胡芳蓉 
+治療 05201AZ0 門診藥事服務費（一般性處方七天以內） 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+治療 23305C00 Penumotonometry 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+治療 23401C00 Slit lamp exam 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+治療 23702C00 Indirect ophthalmoscopy 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+治療 23803C00 Pupil dilataion 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+治療 23807C00 DBR 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+治療 86008C00 ICCE (ECCE) , with IOL implantation 1 內含 N 2015/12/30 執行、已批 診療部位:R
+主副刀:1
+手術起時:2015/12/30 11:21
+手術迄時:2015/12/30 11:51
+完成：2015/12/30
+ 胡芳蓉 
+治療 96009C00 Conduction anesthesia--Retrobulb 1 內含 N 2015/12/30 執行、已批 手術起時:2015/12/30 11:21
+手術迄時:2015/12/30 11:51
+完成：2015/12/30
+ 胡芳蓉 
+醫材 20362005 智慧型非球面人工水晶體 1  N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20000113 Pure cotton 1 自費 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20004000 Regular I.V Set 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20004600 Eye Shield 1 自費 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20007100 Micropore Tape 1/2 1 自費 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20009803 Op-Site 28*30 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20300543 Silk Suture(Pre-Cut) 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20300702 Nylon D.A. Suture 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20300792 Nylon D.A. Suture 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20310100 Mini-Blade 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20310101 Mini-Blade 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20362100 Healon 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20451100 Spears Sponges 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20460100 Eye Wick-Drain 1 內含 N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20012600 氧氣輸入管 1  N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20314700 玻璃體手術用穿刺刀 1  N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20311306 拋棄式2D白內障角膜穿刺刀 1  N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+醫材 20407301 白內障手術用配件包導管組(有限度) 1  N 2015/12/30 執行、已批 完成：2015/12/30
+ 胡芳蓉 
+ 
+
+Plan 
+OPD f/u 2 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H11.441 Conjunctival cyst, right 慢  
+M Z96.1 Pseudophakia  
+O H26.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt TID OD 28 1 btl 健保  2016/01/05 已確認 已批 胡芳蓉  
+Sinomin Oph Soln 4% 15 mL/btl 1 gtt TID OD 28 1 btl 健保  2016/01/05 已確認 已批 胡芳蓉 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M H26.9 Cataract  
+O Z96.1 Pseudophakia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt TID OD 7 1 btl 健保  2016/01/19 已確認 已批 胡芳蓉 重複原因:欲轉換藥品
+ 
+Sinomin Oph Soln 4% 15 mL/btl 1 gtt TID OD 7 1 btl 自費  2016/01/19 已確認 已批 胡芳蓉 重複原因:自費買藥
+ 
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt TID OS 7 1 btl 健保  2016/01/19 已確認 已批 胡芳蓉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/01/19 執行、已批 完成：2016/01/19
+ 胡芳蓉 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M H26.9 Cataract  
+O Z96.1 Pseudophakia  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0407 屈光檢查（電腦驗光） 1 自費 N 2016/02/17 執行、已批 完成：2016/02/17
+ 賴俊廷 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/17 已批 完成：2016/02/17  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/02/17 已批 完成：2016/02/17 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M H26.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+V-Genta inj 80 mg/2 mL /vial 80 mg PRN IF 1 1 vial 內含  2016/02/18 已確認 已批 胡芳蓉  
+Acetazolamide 250 mg/tab 0.5 tab Q6H PO 1 2 tab 內含  2016/02/18 已確認 已批 胡芳蓉  
+PARAMOL 500 mg/tab 1 tab QID PO 2 8 tab 內含  2016/02/18 已確認 已批 胡芳蓉  
+Rinderon Inj 4 mg/1 mL /amp 1 mg PRN IF 1 1 amp 內含  2016/02/18 已確認 已批 胡芳蓉  
+Mydrin-M Oph Soln 0.4% 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2016/02/18 已確認 已批 胡芳蓉  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2016/02/18 已確認 已批 胡芳蓉  
+Gentamicin Eye Drops 3 mg/1 mL 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2016/02/18 已確認 已批 胡芳蓉  
+Maxitrol Oph Oint 3.5 g/tube 1 gtt HS XX 7 1 tube 內含  2016/02/18 已確認 已批 胡芳蓉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 97605K0E 白內障手術不含健保給付之人工水晶體 1  N 2016/02/18 執行、已批 診療部位:L
+主副刀:1
+手術起時:2016/02/18 09:56
+手術迄時:2016/02/18 10:42
+完成：2016/02/18
+ 胡芳蓉 
+治療 05201AZ0 門診藥事服務費（一般性處方七天以內） 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+治療 23305C00 Penumotonometry 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+治療 23401C00 Slit lamp exam 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+治療 23702C00 Indirect ophthalmoscopy 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+治療 23803C00 Pupil dilataion 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+治療 23807C00 DBR 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+治療 86008C00 ICCE (ECCE) , with IOL implantation 1 內含 N 2016/02/18 執行、已批 診療部位:L
+主副刀:1
+手術起時:2016/02/18 09:56
+手術迄時:2016/02/18 10:42
+完成：2016/02/18
+ 胡芳蓉 
+治療 96009C00 Conduction anesthesia--Retrobulb 1 內含 N 2016/02/18 執行、已批 手術起時:2016/02/18 09:56
+手術迄時:2016/02/18 10:42
+完成：2016/02/18
+ 胡芳蓉 
+醫材 20314700 玻璃體手術用穿刺刀 1  N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20311308 拋棄式2D白內障角膜穿刺刀 1  N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20407301 白內障手術用配件包導管組(有限度) 1  N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20362005 智慧型非球面人工水晶體 1  N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20000113 Pure cotton 1 自費 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20004000 Regular I.V Set 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20004600 Eye Shield 1 自費 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20007100 Micropore Tape 1/2 1 自費 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20009803 Op-Site 28*30 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20300543 Silk Suture(Pre-Cut) 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20300702 Nylon D.A. Suture 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20300792 Nylon D.A. Suture 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20310100 Mini-Blade 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20310101 Mini-Blade 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20362100 Healon 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20451100 Spears Sponges 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+醫材 20460100 Eye Wick-Drain 1 內含 N 2016/02/18 執行、已批 完成：2016/02/18
+ 胡芳蓉 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H10.409 Chronic conjunctivitis, unspecified side  
+M H26.9 Cataract  
+O Z96.1 Pseudophakia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt TID OS 7 1 btl 健保  2016/02/23 已確認 已批 胡芳蓉  
+Sinomin Oph Soln 4% 15 mL/btl 1 gtt TID OS 7 1 btl 健保  2016/02/23 已確認 已批 胡芳蓉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/02/23 執行、已批 完成：2016/02/23
+ 胡芳蓉 
+治療 23401C00 細隙燈顯微鏡檢查 1  N 2016/02/23 執行、已批 完成：2016/02/23
+ 胡芳蓉 
+治療 53016C00 換藥術後治療 1  N 2016/02/23 執行、已批 完成：2016/02/23
+ 胡芳蓉 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H10.409 Chronic conjunctivitis, unspecified side  
+M H26.9 Cataract  
+O Z96.1 Pseudophakia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt TID OS 7 1 btl 健保  2016/03/08 已確認 已批 胡芳蓉  
+Sinomin Oph Soln 4% 15 mL/btl 1 gtt TID OS 7 1 btl 自費  2016/03/08 已確認 已批 胡芳蓉  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 視力檢查 1 自費 N 2016/03/08 執行、已批 完成：2016/03/08
+ 胡芳蓉 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+for tooth 41 missing tooth reconstruction
+
+現病史：
+This 59 y/o male patient came to our dept for tooth 41 missing tooth reconstruction. He stated that he noticed tooth 41 hypermobility about 1 month ago. And tooth 41 shedded spontaneously without bleeding yesterday during meal. He came to our dept for 41 missing tooth reconstruction.
+
+過去病史：
+Hypertension under medication(BP: 120-140/70-80 stated by the patient)
+Cataract s/p op last month
+Denied all other major systemic diseases
+A(-), B(-), C(+): 1/4 pack/day*10+yrs
+s/p Periodontal phase I treatment 10+yrs ago
+
+過敏史：
+藥物過敏：Penicillin group 【Angioedema(血管水腫)】
+食物過敏：( 有殼海鮮 ) 
+血型：A
+
+目前用藥：
+Norvasc #1 QD for hypertension
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+1. present dentition:
+ 8765432X|1234567
+------------------------------
+   65432 |12345   8
+2. Probing depth>=5mm:
+ 876  32 |1234567
+------------------------------
+     432 |12345  8
+3.mobility
+   III +   I    + +
+    6  4  2X|1  5 6
+------------------------------
+   5 4 3 2 |1 2 4 5   8
+   + + + I  I + + +   I
+4. FPD: 12X21, 22, 26
+5. tooth 16, 26 buccal severe gingival recession (to about apical level)
+6. Full mouth gingival inflammation with calculus and plaque deposition
+7. oral hygiene: poor
+ 
+Assessment 
+Full mouth chronic periodontitis
+Multiple missing teeth
+ 
+Plan 
+初始治療計劃：
+Tx:
+1.Check full mouth panoramic, periapical and bitewing X-ray, findings:
+-intact TMJ cortical bone
+-Generalized moderate horizontal bone destruction
+-tooth 16 mesial severe bony destruction
+-tooth 16(D), 45(O), 46(O) restoration
+-tooth 26 s/p RCF
+-No other bony pathology noted
+
+Tx plan:
+Full mouth periodontal treatment is indicated
+tooth 16 hopeless prognosis-> Suggest extraction
+Further prosthodontic evaluation after phase I treatment 
+==>Patient hesitated about periodontal treatment 
+R1李冠瑩/VS楊宗傑
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth  
+O K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/03/10 執行、已批 齒位1:FM
+完成：2016/03/10
+ 李冠瑩 
+治療 01271C00 環口全景X光初診診察 1  N 2016/03/10 執行、已批 完成：2016/03/10
+ 楊宗傑 
+ 
+
+Subjective 
+for full mouth periodontal treatment
+
+PMH:
+1. Hypertension under medication(BP: 120-140/70-80 stated by the patient)
+2. Cataract s/p op last month
+3. Denied all other major systemic diseases
+4. allergy to penicillin
+
+Personal habits
+A(-), B(-), C(+): 1/4 pack/day*10+yrs
+
+Periodontal phase I treatment 10+yrs ago at LDC
+
+present medication
+Norvasc #1 QD for hypertension
+ 
+Objective 
+1. present dentition:
+ 87 5432X|1234567
+------------------------------
+   65432 |12345   8
+2. Probing depth>=5mm: generalized
+3. FPD: 12X21, 22, 26
+4. tooth 26 buccal severe gingival recession (to about apical level)
+5. tooth 21 pus discharge when probing
+6. Full mouth gingival inflammation with calculus and plaque deposition
+7. oral hygiene: poor
+ 
+Assessment 
+generalized chronic periodontitis
+Multiple missing teeth
+ 
+Plan 
+Tx plan:
+1. Full mouth periodontal phase I treatment 
+2. teeth 12X21 bridge removal and evaluation of tooth 21
+3. told patient about the questionable progonosis of tooth 26
+4. Further prosthodontic evaluation after phase I treatment 
+
+TR3王志堯/VS劉謙美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/04/11 執行、已批 齒位1:FM
+完成：2016/04/11
+ 劉謙美 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H10.409 Chronic conjunctivitis, unspecified side  
+M H26.9 Cataract  
+O Z96.1 Pseudophakia  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 視力檢查 1 自費 N 2016/04/12 執行、已批 完成：2016/04/12
+ 胡芳蓉 
+治療 000Z3043 中文診斷書 1 自費 N 2016/04/12 執行、已批 完成：2016/04/12
+ 胡芳蓉 
+ 
+
+Subjective 
+for full mouth periodontal treatment
+
+PMH:
+1. Hypertension under medication(BP: 120-140/70-80 stated by the patient)
+2. Cataract s/p op last month
+3. Denied all other major systemic diseases
+4. allergy to penicillin
+
+Personal habits
+A(-), B(-), C(+): 1/4 pack/day*10+yrs
+
+Periodontal phase I treatment 10+yrs ago at LDC
+
+present medication
+Norvasc #1 QD for hypertension
+ 
+Objective 
+1. present dentition:
+ 87 5432X|1234567
+------------------------------
+   65432 |12345   8
+2. Probing depth>=5mm: generalized
+3. FPD: 12X21, 22, 26
+4. tooth 26 buccal severe gingival recession (to about apical level)
+5. tooth 21 pus discharge when probing
+6. Full mouth gingival inflammation with calculus and plaque deposition
+7. oral hygiene: poor
+ 
+Assessment 
+generalized chronic periodontitis
+Multiple missing teeth
+ 
+Plan 
+1. full mouth charting and photo records were taken, 2.plaque control(術前) was done 3.oral hygiene instruction was done, 4.explained treatment plan to the patient,
+1. Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at UR.LR_.  3.at UR.LR subgingival plaque and calculus, soft diseased cementum was removed
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2016/05/16 執行、已批 完成：2016/05/16
+ 劉謙美 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2016/06/06 執行、已批 完成：2016/06/06
+ 劉謙美 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2016/07/11 執行、已批 完成：2016/07/11
+ 劉謙美 
+ 

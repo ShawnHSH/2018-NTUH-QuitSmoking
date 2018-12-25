@@ -1,0 +1,275 @@
+﻿
+Subjective 
+Hyperthyroidism, on Newmazole, Secorin and Inderal. 80--> 63--> 67 kg. 
+Objective 
+【20140722】BMD - Lumbar spine (自付) :WHO Criteria : Normal ( >= -1.0 SD).【20140709】Anti-TPO Ab.(AMA): 45.79   IU/mL  hsTSH(CIA): 0.824   μIU/mL  Free T4(CIA): 0.837   ng/dL
+
+【20140124】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 29.5   %
+【20140123】Anti-TPO Ab.(AMA): 67.07   IU/mL
+【20140123】hsTSH(CIA): 0.027   μIU/mL  Free T4(CIA): 0.755   ng/dL  ALT: 18   U/L
+
+【20131031】Anti-HBs: Positive   mIU/ml  hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 1.33   ng/dL
+
+BP 122/80 --> 122/78 --> 122/70 -> 126/80-> 132/80 mmHg
+Grade I --> 0 goiter
+
+PR 72/min 
+Assessment 
+BMD T-score -0.66 lumbar spine (2014/7/22) 
+Plan 
+RTC 3 months; Newmazole 1/2# qod 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.90 Hyperthyroidism 慢  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Newmazole 10 mg/tab 0.5 tab QOD PO 28 7 tab 健保 3 2014/10/04 已確認 已批 呂金盈 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2014/10/04 已批 完成：2014/10/04  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2014/10/04 已批 完成：2014/10/04  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/10/04 已批 完成：2014/10/04 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.90 Hyperthyroidism 慢  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Newmazole 10 mg/tab 0.5 tab QOD PO 28 7 tab 健保 3 2014/11/03 已確認 已批 王瑞芬 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/11/03 已批 完成：2014/11/03 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.90 Hyperthyroidism 慢  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Newmazole 10 mg/tab 0.5 tab QOD PO 28 7 tab 健保 3 2014/11/28 已確認 已批 何慶圓 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/11/28 已批 完成：2014/11/28 
+ 
+
+Subjective 
+Hyperthyroidism, on Newmazole, Secorin and Inderal. 80--> 63--> 67 kg. 
+Objective 
+【20141226】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 15.7   %【20141223】Anti-TPO Ab.(AMA): 46.85   IU/mL  hsTSH(CIA): 0.458   μIU/mL  Free T4(CIA): 1.08   ng/dL
+
+【20140722】BMD - Lumbar spine (自付) :WHO Criteria : Normal ( >= -1.0 SD).【20140709】Anti-TPO Ab.(AMA): 45.79   IU/mL  hsTSH(CIA): 0.824   μIU/mL  Free T4(CIA): 0.837   ng/dL
+
+【20140124】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 29.5   %
+【20140123】Anti-TPO Ab.(AMA): 67.07   IU/mL
+【20140123】hsTSH(CIA): 0.027   μIU/mL  Free T4(CIA): 0.755   ng/dL  ALT: 18   U/L
+
+【20131031】Anti-HBs: Positive   mIU/ml  hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 1.33   ng/dL
+
+BP 122/80 --> 122/78 --> 122/70 -> 126/80-> 132/80 mmHg
+Grade I --> 0 goiter
+
+PR 72/min 
+Assessment 
+BMD T-score -0.66 lumbar spine (2014/7/22) 
+Plan 
+RTC 6 months; Newmazole 1/2# qod; quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.90 Hyperthyroidism 慢  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Newmazole 10 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/12/27 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09112B0P *Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2014/12/27 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/06/03
+ 呂金盈 
+檢驗 09106C0P *Free T4 1  N 2014/12/27 執行、已批 Specimen:BLO
+完成：2015/06/03
+ 呂金盈 
+檢驗 12134B0P Anti-TPO Ab 1  N 2014/12/27 執行、已批 Specimen:BLO
+完成：2015/06/03
+ 呂金盈 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/27 已批 完成：2014/12/27  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2014/12/27 已批 完成：2014/12/27  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2014/12/27 已批 完成：2014/12/27 
+ 
+
+Subjective 
+Hyperthyroidism, on Newmazole, Secorin and Inderal. 80--> 63--> 67 kg. 
+Objective 
+【20150603】Anti-TPO Ab.(AMA): 53.13   IU/mL  hsTSH(CIA): 0.354   μIU/mL  Free T4(CIA): 1.04   ng/dL
+
+【20141226】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 15.7   %
+【20141223】Anti-TPO Ab.(AMA): 46.85   IU/mL  hsTSH(CIA): 0.458   μIU/mL  Free T4(CIA): 1.08   ng/dL
+
+【20140722】BMD - Lumbar spine (自付) :WHO Criteria : Normal ( >= -1.0 SD).
+【20140709】Anti-TPO Ab.(AMA): 45.79   IU/mL  hsTSH(CIA): 0.824   μIU/mL  Free T4(CIA): 0.837   ng/dL
+
+【20140124】TSH Receptor Antibody: Positive   *  % Inhibition of TSH Binding: 29.5   %
+【20140123】Anti-TPO Ab.(AMA): 67.07   IU/mL
+【20140123】hsTSH(CIA): 0.027   μIU/mL  Free T4(CIA): 0.755   ng/dL  ALT: 18   U/L
+
+【20131031】Anti-HBs: Positive   mIU/ml  hsTSH(CIA): 0.004   μIU/mL  Free T4(CIA): 1.33   ng/dL
+
+BP 122/80 --> 122/78 --> 122/70 -> 126/80-> 132/80-> 126/80 mmHg
+Grade I --> 0 goiter
+
+PR 72/min 
+Assessment 
+BMD T-score -0.66 lumbar spine (2014/7/22) 
+Plan 
+RTC 6 months; Newmazole 1/2# qod; quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.90 Hyperthyroidism 慢  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Newmazole 10 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/06/13 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2015/06/09 執行、已批 Specimen:BLO
+完成：2015/12/02
+ 呂金盈 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/06/09 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/12/02
+ 呂金盈 
+檢驗 12134B0P Anti-TPO Ab 1  N 2015/06/13 執行、已批 Specimen:BLO
+完成：2015/12/02
+ 呂金盈 
+檢驗 27069BZA Thyrotropin-binding inhibiting immunoglobulin,TBII 1  N 2015/06/13 執行、已批 Specimen:BLO
+完成：2015/12/02
+ 呂金盈 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/13 已批 完成：2015/06/13  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/06/13 已批 完成：2015/06/13  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/06/13 已批 完成：2015/06/13 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.90 Hyperthyroidism 慢  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Newmazole 10 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/07/09 已確認 已批 孫慧茹  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/07/09 已批 完成：2015/07/09 
+ 
+主/次 診斷碼 診斷名稱 註記 
+O 599.7 Hematuria  
+M 242.90 Hyperthyroidism 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Newmazole 10 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/08/06 已確認 已批 陳滿汝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/08/06 已批 完成：2015/08/06 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 高中(職) 嚼檳榔 已戒 
+吸菸 >10年，每天>=20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/09/14 執行、已批 完成：2015/09/14
+ 李正 
+ 
+
+Subjective 
+for smoking cessation: 2015/09/14
+smoking for 30 yr , 2 PPD, FTND: 9/10
+PH: hyperthyroidism, heart dz(-), mental dz(-)
+quit history: quit for 8 months 10+ yr ago. never use medication to quit.
+suggest NRT
+
+check exercise EKG, CXR
+for smoking cessation: 2015/09/14
+smoking for 30 yr , 2 PPD, FTND: 9/10
+PH: hyperthyroidism, heart dz(-), mental dz(-)
+quit history: quit for 8 months 10+ yr ago. never use medication to quit.
+suggest NRT
+
+check exercise EKG, CXR.
+--------------------------------------
+10/5
+CXR: Acceptable heart shadow is noted with tortuous aorta. Bilateral apical pleural thickening, no other definite active lung lesion is noted. 
+exercise EKG:
+Conclusions --- Overall impression: Stress test without evidences indicating ischemia
+
+no smoking for 10 days
+craving for cigarette
+skin itching(+), tolerable
+continue NRT
+---------------------------------
+10/26
+no smoking for 6 weeks
+craving for cigarette: 8/10
+180#gum/3weeks 
+mild itching
+continue NRT 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 305.1 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+30 Nicotinell TTS 1.75 mg/1 cm2 30 cm2/pce 1 pce QD D 21 21 pce 健保  2015/09/14 已確認 已批 郭斐然  
+Nicorette Freshmint medicated chewing-gum 2 mg/tab 1 tab ASORDER CH 21 180 tab 健保  2015/09/14 已確認 已批 郭斐然  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/03/21 執行、已批、未看完 完成：2016/03/16
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/14 已批 完成：2015/09/14  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短詢＋個案追蹤管理）（自行調劑 1  N 2015/09/14 已批 完成：2015/09/14  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2015/09/14 已批 完成：2015/09/14 
+ 
+

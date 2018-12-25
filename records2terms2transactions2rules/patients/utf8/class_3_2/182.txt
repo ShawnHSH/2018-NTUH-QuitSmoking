@@ -1,0 +1,61 @@
+﻿
+主/次 診斷碼 診斷名稱 注記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/05/02 執行、已批 完成：2016/05/02
+ 李正 
+ 
+
+Subjective 
+42M presented with 
+
+1.scoliosis, thoracic spine
+2. epidermal cyst
+
+CC: 
+1.elevated EBV 0.959
+2.snoring for years, progressive, almost every night
+ interrupted sleep -
+ sleeping on the right side: more decreased 
+
+BW loss -
+hearing loss: -
+tinnitus:- intermittent 
+nasal congestion: 
+
+
+FHx: father : pancreatic ca.
+ grandfather: esophageal ca.
+
+Cigarette: 22yrs, 1PPD denied alcohol and betel nuts 
+Occupation: journalist, international politics 
+
+Allergy: food: suspected vegetables (大陸妹) and seafood(魷魚) skin rash 
+Objective 
+strong gag reflex
+elongated uvula
+modified Mallampati grading 3 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M R06.83 Snoring 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 17008B99 [總院]Polysomnography-睡眠生理多項功能檢查 1  N 2016/05/02 執行、已批 Indication:.
+連絡電話:.
+有無氣切:.
+有無居家使用呼吸器:.
+完成：2017/02/03
+ 譚慶鼎 
+檢查 34005B00 測顱Ｘ光攝影 1  N 2016/05/02 執行、已批 完成：2016/05/02
+ 譚慶鼎 
+治療 17008B0A Polysomnography 1  N 2016/05/02 執行、已批 完成：2017/02/03
+ 譚慶鼎 
+ 

@@ -1,0 +1,1007 @@
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+palpitation intermittently 
+
+現病史：
+cath was sugguested in Mackey H.
+
+過去病史：
+NA
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+\BP: 106/70 mmHg 
+Assessment 
+tapal , cavediol (6.25 ) 1#bid, blopress 0.5 #qd
+ask patient to apply report
+
+Th201 (dip): no significant filling defect (no report, interpretation in film) 
+Plan 
+hsTSH
+W5 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/03/16 執行、已批 Specimen:BLO
+完成：2015/03/18
+ 林彥宏 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/03/16 執行、已批 Specimen:BLO
+完成：2015/03/18
+ 林彥宏 
+檢驗 09013CZP Uric acid 1  N 2015/03/16 執行、已批 Specimen:BLO
+完成：2015/03/18
+ 林彥宏 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/03/16 執行、已批 Specimen:BLO
+完成：2015/03/18
+ 林彥宏 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/03/16 執行、已批 Specimen:BLO
+完成：2015/03/18
+ 林彥宏 
+檢驗 09044C0P LDL 1  N 2015/03/16 執行、已批 Specimen:BLO
+完成：2015/03/18
+ 林彥宏 
+檢驗 09026CZP ALT(GPT) 1  N 2015/03/16 執行、已批 Specimen:BLO
+完成：2015/03/18
+ 林彥宏 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/03/16 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/03/18
+ 林彥宏 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/16 已批 完成：2015/03/16  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/16 已批 完成：2015/03/16 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+palpitation intermittently 
+
+現病史：
+cath was sugguested in Mackey H.
+
+過去病史：
+NA
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 106/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】ALT: 22   U/L
+【20150318】CRE: 0.7   mg/dL
+【20150318】UA: 5.5   mg/dL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL 
+Assessment 
+tapal , cavediol (6.25 ) 1#bid, blopress 0.5 #qd
+ask patient to apply report
+
+Th201 (dip): no significant filling defect (no report, interpretation in film)
+
+eszo 1 rivopam 1hs, xerine-p 
+Plan 
+8wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Blopress 8 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/03/20 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/03/20 已確認 已批 林彥宏  
+Aspirin 100 mg/tab 1 tab QDPC PO 28 28 tab 健保 2 2015/03/20 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/20 已批 完成：2015/03/20  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/03/20 已批 完成：2015/03/20  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/03/20 已批 完成：2015/03/20 
+ 
+Subjective 
+主要病史來源：病人
+主訴：palpitation intermittently 
+現病史：cath was suggested in Mackey H.
+過去病史：NA
+過敏史：藥物過敏：無 食物過敏：無 血型：B
+最近三個月內旅遊史：無家族病史：無
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+
+Current smoker, trying to quit.
+Discomfort sensation in the throat, chest, and mild cough.
+DOE: mild. 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 106/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】ALT: 22   U/L
+【20150318】CRE: 0.7   mg/dL
+【20150318】UA: 5.5   mg/dL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL 
+Plan 
+Standard spirometry.
+OPD 4 weeks. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 492.8 Emphysema 慢  
+O 490 Bronchitis 慢  
+O 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Mucosolvan 30 mg/tab 1 tab TID PO 28 84 tab 健保  2015/04/17 已確認 已批 鄭之勛  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2015/04/17 執行、已批 完成：2015/04/17
+ 鄭之勛 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2015/04/17 執行、已批 完成：2015/05/01
+ 鄭之勛 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/17 已批 完成：2015/04/17  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/04/17 已批 完成：2015/04/17  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/04/17 已批 完成：2015/04/17 
+ 
+Subjective 
+主要病史來源：病人
+主訴：palpitation intermittently 
+現病史：cath was suggested in Mackey H.
+過去病史：NA
+過敏史：藥物過敏：無 食物過敏：無 血型：B
+最近三個月內旅遊史：無家族病史：無
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+
+Current smoker, trying to quit.
+Discomfort sensation in the throat, chest, and mild cough.
+DOE: mild. 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 106/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】ALT: 22   U/L
+【20150318】CRE: 0.7   mg/dL
+【20150318】UA: 5.5   mg/dL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150501】Pulmonary Function Test :BRONCHITIS,CAD * Spirometry by CHESTAC-8800
+* Normal standard spirometry
+FVC(L)  4.6  3.47  132.5    
+FEV1(L)  3.72  2.79  133.5    
+FEV1/FVC(%)  80.9  78.2     
+FEF25-75%(L/S)  3.23  2.16  149.9    
+PEFR(L/S)  8.29  7.19  115.4    
+FEF25%(L/S)  8.19  5.95  137.8    
+FEF50%(L/S)  4.6  2.79  165    
+FEF75%(L/S)  1.22  1.36  89.7  
+VC  4.56  3.47  131.33    
+IC  2.94      
+ERV  1.62  1.48  109.65    
+FRC  5.05  3.96  127.67    
+RV  3.43  1.77  193.6    
+TLC  7.99  5.24 
+Plan 
+Emphysema.
+Suggest smoking cessation. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 492.8 Emphysema 慢  
+O 490 Bronchitis 慢  
+O 414.00 Coronary arterial disease 慢  
+O 785.1 Palpitations  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/15 已批 完成：2015/05/15  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/05/15 已批 完成：2015/05/15 
+ 
+
+Subjective 
+aspirin -> epigstragia 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 126/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】ALT: 22   U/L
+【20150318】CRE: 0.7   mg/dL
+【20150318】UA: 5.5   mg/dL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL 
+Assessment 
+tapal , cavediol (6.25 ) 1#bid, blopress 0.5 #qd
+ask patient to apply report
+
+Th201 (dip): no significant filling defect (no report, interpretation in film)
+
+eszo 1 rivopam 1hs, xerine-p 
+Plan 
+th201 (dip)
+RTC 7 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Blopress 8 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/05/15 已確認 已批 林彥宏  
+Sandel 50 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/05/15 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/05/15 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+核醫 000TP135 Dipyridamole & Resting 1  N 2015/05/15 執行、已批 完成：2015/07/01
+ 林彥宏 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2015/05/15 執行、已批 完成：2015/07/01
+ 林彥宏 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/15 已批 完成：2015/05/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/05/15 已批 完成：2015/05/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/05/15 已批 完成：2015/05/15 
+ 
+
+Subjective 
+aspirin -> epigstragia 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 126/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150701】Dipyridamole & Resting :Under standarized dipyridamole stress test, (1) either non-transmural scar myocardium or chronic CAD at inferoseptal wall; (2) r/o chronic CAD at apex and septal wall, (3) good LV contractility. 
+Assessment 
+tapal , cavediol (6.25 ) 1#bid, blopress 0.5 #qd
+ask patient to apply report
+Th201 (dip): no significant filling defect (no report, interpretation in film)
+eszo 1 rivopam 1hs, xerine-p
+arrang cath next time 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Blopress 8 mg/tab 0.5 tab QD PO 14 7 tab 健保  2015/07/03 已確認 已批 林彥宏 重複原因:補給天數 (至下次預約門診日)
+ 
+Alinamin-F50 /tab 1 tab BIDPC PO 14 28 tab 健保  2015/07/03 已確認 已批 林彥宏 重複原因:補給天數 (至下次預約門診日)
+ 
+Aspirin 100 mg/tab 1 tab QDPC PO 14 14 tab 健保  2015/07/03 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2015/07/03 執行、已批 完成：2015/07/15
+ 林彥宏 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2015/07/03 執行、已批 完成：2015/07/15
+ 林彥宏 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2015/07/03 執行、已批 完成：2015/07/15
+ 林彥宏 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/03 已批 完成：2015/07/03  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/07/03 已批 完成：2015/07/03  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/07/03 已批 完成：2015/07/03 
+ 
+Subjective 
+aspirin -> epigstragia 
+Objective 
+110/70 mmGf
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 126/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150701】Dipyridamole & Resting :Under standarized dipyridamole stress test, (1) either non-transmural scar myocardium or chronic CAD at inferoseptal wall; (2) r/o chronic CAD at apex and septal wall, (3) good LV contractility. 
+Assessment 
+tapal , cavediol (6.25 ) 1#bid, blopress 0.5 #qd
+ask patient to apply report
+Th201 (dip): no significant filling defect (no report, interpretation in film)
+eszo 1 rivopam 1hs, xerine-p
+arrang cath next time 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Blopress 8 mg/tab 0.5 tab QD PO 21 11 tab 健保  2015/07/17 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 21 42 tab 健保  2015/07/17 已確認 已批 林彥宏  
+Aspirin 100 mg/tab 1 tab QDPC PO 21 21 tab 健保  2015/07/17 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/17 已批 完成：2015/07/17  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/07/17 已批 完成：2015/07/17  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/07/17 已批 完成：2015/07/17 
+ 
+ 
+
+
+Subjective 
+patent coronary artery
+neuropathy 
+Objective 
+110/70 mmHg
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 126/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150701】Dipyridamole & Resting :Under standarized dipyridamole stress test, (1) either non-transmural scar myocardium or chronic CAD at inferoseptal wall; (2) r/o chronic CAD at apex and septal wall, (3) good LV contractility. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/08/07 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/08/07 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/08/07 已批 完成：2015/08/07  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/08/07 已批 完成：2015/08/07  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/08/07 已批 完成：2015/08/07 
+ 
+
+Subjective 
+patent coronary artery
+neuropathy 
+Objective 
+110/70 mmHg
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+BP: 126/70 mmHg
+【20150318】hsTSH(CIA): 1.16   μIU/mL
+【20150318】GLU AC: 92   mg/dL
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150701】Dipyridamole & Resting :Under standarized dipyridamole stress test, (1) either non-transmural scar myocardium or chronic CAD at inferoseptal wall; (2) r/o chronic CAD at apex and septal wall, (3) good LV contractility.
+【20121114】Vascular Duplex :No significant (>50%) arterial stenosis in distal upper limbs amd lower 
+      limbs. 
+Assessment 
+p't ask for 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/10/02 已確認 已批 林彥宏  
+Sandel 50 mg/tab 0.5 tab BID PO 28 28 tab 健保 2 2015/10/02 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/10/02 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/02 已批 完成：2015/10/02  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/10/02 已批 完成：2015/10/02  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/10/02 已批 完成：2015/10/02 
+ 
+
+Subjective 
+patent coronary artery
+neuropathy
+renitec -> dry mouse 
+Objective 
+104/84 mmHg
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150701】Dipyridamole & Resting :Under standarized dipyridamole stress test, (1) either non-transmural scar myocardium or chronic CAD at inferoseptal wall; (2) r/o chronic CAD at apex and septal wall, (3) good LV contractility.
+【20121114】Vascular Duplex :No significant (>50%) arterial stenosis in distal upper limbs amd lower 
+      limbs. 
+Assessment 
+p't ask for 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 785.1 Palpitations  
+O 414.00 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+COZAAR 50 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/11/27 已確認 已批 林彥宏  
+Sandel 50 mg/tab 0.5 tab BID PO 28 28 tab 健保 3 2015/11/27 已確認 已批 林彥宏  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 7 14 tab 自費  2015/11/27 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/11/27 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/27 已批 完成：2015/11/27  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2015/11/27 已批 完成：2015/11/27  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/11/27 已批 完成：2015/11/27 
+ 
+
+Subjective 
+Urgency incontinence at night, 2 times per weeks
+Normal at daytime
+Mx: HTN
+Allergy: denied 
+Objective 
+【20150727】WBC (S): 0-2   /HPF
+【20150727】RBC (S): 0-2   /HPF 
+Plan 
+U/A
+RTC 2 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Hypertrophy (benign) of prostate 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab HS PO 14 14 tab 健保  2015/12/03 已確認 已批 周淇業  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/12/03 執行、已批 Specimen:UR1
+完成：2015/12/03
+ 周淇業 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/12/03 執行、已批 Specimen:UR1
+完成：2015/12/03
+ 周淇業 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/03 已批 完成：2015/12/03  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/03 已批 完成：2015/12/03  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/12/03 已批 完成：2015/12/03 
+ 
+
+Subjective 
+Urgency incontinence at night, 2 times per weeks
+Normal at daytime
+Mx: HTN
+Allergy: denied
+20151217 incontinence: 2 times/2 weeks, improved 
+Objective 
+【20150727】WBC (S): 0-2   /HPF
+【20150727】RBC (S): 0-2   /HPF
+【20151203】WBC (S): 0-2   /HPF
+【20151203】RBC (S): 0-2   /HPF 
+Plan 
+PSA
+TRUSP
+Refer to HP for trial 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Hypertrophy (benign) of prostate 慢 男  
+O 788.31 Urge incontinence 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Oxbu ER 5 mg/tab 1 tab HS PO 28 28 tab 健保  2015/12/17 已確認 已批 周淇業  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/17 已批 完成：2015/12/17  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/17 已批 完成：2015/12/17  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2015/12/17 已批 完成：2015/12/17  
+ 
+ 
+Subjective 
+65y1m male (20151218)
+BPH with LUTS: urgent incontinence at night, 2 times per weeks
+Normal at daytime
+Mx: HTN
+Improved incontinence: 2 times/2 weeks after Oxbu (20151217) 
+Objective 
+【20150727】WBC (S): 0-2   /HPF
+【20150727】RBC (S): 0-2   /HPF
+【20151203】WBC (S): 0-2   /HPF
+【20151203】RBC (S): 0-2   /HPF 
+Plan 
+RTC 1M (1/14)
+PSA
+TRUS-P+UFM+RU 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Hypertrophy (benign) of prostate 慢 男  
+O 788.31 Urge incontinence 複  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2015/12/18 執行、已批 Specimen:BLO
+完成：2015/12/18
+ 黃昭淵 
+檢查 000TRS01 TRUSP-經直腸前列腺超音波檢查 1  N 2015/12/18 執行、已批 完成：2016/01/06
+ 黃昭淵 
+治療 19005BY0 TRUSP前列腺超音波 1  N 2015/12/18 執行、已批 完成：2016/01/06
+ 黃昭淵 
+治療 21004C0G UROFLOWMETRY尿流率檢查 1  N 2015/12/18 執行、已批 完成：2016/01/06
+ 黃昭淵 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/18 已批 完成：2015/12/18  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/12/18 已批 完成：2015/12/18 
+ 
+
+Subjective 
+65y1m male (20151218)
+BPH with LUTS: urgent incontinence at night, 2 times per weeks
+Normal at daytime
+Mx: HTN
+Improved incontinence: 2 times/2 weeks after Oxbu (20151217)
+TRUS-P 20160106: 30.1 / 6.7 ml; no hard nodule, elastic; MAX: 19.7 / 169 ML 
+Objective 
+【20150727】WBC (S): 0-2   /HPF
+【20150727】RBC (S): 0-2   /HPF
+【20151203】WBC (S): 0-2   /HPF
+【20151203】RBC (S): 0-2   /HPF
+【20151218】Serum PSA: 1.718   ng/mL
+【20151203】Protein(C): -   mg/dL
+【20151203】O.B.(C): -   *
+【20151203】Glu.(C): -   mg/dL
+【20151203】WBC (S): 0-2   /HPF
+【20151203】RBC (S): 0-2   /HPF
+【20160106】TRUSP :1.Prostate enlargement
+   2.Prostate/adenoma size: 30.1 / 6.7 ml
+   3.DRE: no hard nodule, elastic consistency, smooth surface
+    QMAX: 19.7 / 169 ML
+【20150727】CRE: 0.8   mg/dL 
+Assessment 
+MCS-8不符合(PSA< 3)
+【20151218】Serum PSA: 1.718 ng/mL 
+Plan 
+Explanation (normal PSA; Moderate enlarged prostate; 19.7 / 169 ML)
+RTC 1M
+U/A, RFT, NA, K, CL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.0 Enlarged prostate without lower urinary tract symptoms 慢 男  
+O N39.41 Urge incontinence 慢 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保  2016/01/14 已確認 已批 黃昭淵  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09002CZP UN (Blood) 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 黃昭淵 
+檢驗 09013CZP UA 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 黃昭淵 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 黃昭淵 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/01/14 執行、已批 Specimen:UR1
+完成：2016/01/19
+ 黃昭淵 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/01/14 執行、已批 Specimen:UR1
+完成：2016/01/19
+ 黃昭淵 
+檢驗 09021CZP Sodium, Na 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 黃昭淵 
+檢驗 09022CZP Potassium, K 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 黃昭淵 
+檢驗 09023CZP Chloride, Cl 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 黃昭淵 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/14 已批 完成：2016/01/14  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/01/14 已批 完成：2016/01/14  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/01/14 已批 完成：2016/01/14 
+ 
+
+Subjective 
+65y1m male (20151218)
+BPH with LUTS: urgent incontinence at night, 2 times per weeks
+Normal at daytime
+Mx: HTN
+Improved incontinence: 2 times/2 weeks after Oxbu (20151217) --> good response to Minirin (20160212)
+TRUS-P 20160106: 30.1 / 6.7 ml; no hard nodule, elastic; MAX: 19.7 / 169 ML 
+Objective 
+【20160119】Protein(C): -   mg/dL
+【20160119】O.B.(C): -   *
+【20160119】Glu.(C): -   mg/dL
+【20160119】WBC (S): 0-2   /HPF
+【20160119】RBC (S): 0-2   /HPF
+【20160119】Cl: 89   mmol/L
+【20160119】K: 4.6   mmol/L
+【20160119】Na: 125   mmol/L
+【20160119】CRE: 0.6   mg/dL
+【20160119】UA: 2.4   mg/dL
+【20160119】UN: 10.0   mg/dL
+【20151218】Serum PSA: 1.718   ng/mL 
+Assessment 
+MCS-8不符合(PSA< 3)
+【20151218】Serum PSA: 1.718 ng/mL 
+Plan 
+Explanation (normal RFT; decreasing Na 125 -> FU 1M later)
+Evaluation (response to Minirin ??)
+RTC 1M
+U/A, NA, K, CL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.0 Enlarged prostate without lower urinary tract symptoms 慢 男  
+O N39.41 Urge incontinence 慢 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保  2016/02/12 已確認 已批 黃昭淵  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/02/12 執行、已批 Specimen:UR1
+完成：2016/03/05
+ 黃昭淵 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/02/12 執行、已批 Specimen:UR1
+完成：2016/03/05
+ 黃昭淵 
+檢驗 09021CZP Sodium, Na 1  N 2016/02/12 執行、已批 Specimen:BLO
+完成：2016/03/05
+ 黃昭淵 
+檢驗 09022CZP Potassium, K 1  N 2016/02/12 執行、已批 Specimen:BLO
+完成：2016/03/05
+ 黃昭淵 
+檢驗 09023CZP Chloride, Cl 1  N 2016/02/12 執行、已批 Specimen:BLO
+完成：2016/03/05
+ 黃昭淵 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/12 已批 完成：2016/02/12  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/02/12 已批 完成：2016/02/12  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/12 已批 完成：2016/02/12 
+ 
+Subjective 
+patent coronary artery
+neuropathy
+renitec -> dry mouse
+high BP at night 
+Objective 
+104/84 mmHg
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150701】Dipyridamole & Resting :Under standarized dipyridamole stress test, (1) either non-transmural scar myocardium or chronic CAD at inferoseptal wall; (2) r/o chronic CAD at apex and septal wall, (3) good LV contractility.
+【20121114】Vascular Duplex :No significant (>50%) arterial stenosis in distal upper limbs amd lower 
+      limbs. 
+Assessment 
+p't ask for 8wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R00.2 Palpitations 慢  
+O I25.10 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+COZAAR 50 mg/tab 0.5 tab BID PO 28 28 tab 健保 2 2016/02/19 已確認 已批 林彥宏  
+Sandel 50 mg/tab 0.5 tab BID PO 28 28 tab 健保 2 2016/02/19 已確認 已批 林彥宏  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 7 14 tab 自費  2016/02/19 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/02/19 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/19 已批 完成：2016/02/19  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/02/19 已批 完成：2016/02/19  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/02/19 已批 完成：2016/02/19 
+ 
+
+Subjective 
+65y1m male (20151218)
+BPH with LUTS: urgent incontinence at night, 2 times per weeks
+Normal at daytime
+Mx: HTN
+Improved incontinence: 2 times/2 weeks after Oxbu (20151217) --> good response to Minirin (20160212)
+TRUS-P 20160106: 30.1 / 6.7 ml; no hard nodule, elastic; MAX: 19.7 / 169 ML 
+Objective 
+【20160305】Protein(C): -   mg/dL
+【20160305】O.B.(C): -   *
+【20160305】Glu.(C): -   mg/dL
+【20160305】WBC (S): 10-20   /HPF
+【20160305】RBC (S): 0-2   /HPF
+【20160305】Cl: 95   mmol/L
+【20160305】K: 4.7   mmol/L
+【20160305】Na: 130   mmol/L
+【20160119】Na: 125   mmol/L
+【20160119】WBC (S): 0-2   /HPF
+【20160119】RBC (S): 0-2   /HPF 
+Assessment 
+MCS-8不符合(PSA< 3)
+【20160305】Na: 130 mmol/L
+【20160119】Na: 125 mmol/L
+【20151218】Serum PSA: 1.718 ng/mL
+【20160119】CRE: 0.6 mg/dL
+【20160119】UA: 2.4 mg/dL 
+Plan 
+Explanation (UTI; increasing Na 125 -> 130)
+RTC 3M
+U/A, U/C, NA, K, CL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O N39.0 Urinary tract infection  
+M N40.0 Enlarged prostate without lower urinary tract symptoms 慢 男  
+O N39.41 Urge incontinence 慢 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Ceflour 250 mg/tab 2 tab Q12H PO 7 28 tab 健保  2016/03/11 已確認 已批 黃昭淵  
+Minirin 0.1 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/11 已確認 已批 黃昭淵  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/03/11 執行、已批 Specimen:UR1
+完成：2016/05/27
+ 黃昭淵 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/03/11 執行、已批 Specimen:UR1
+完成：2016/05/27
+ 黃昭淵 
+檢驗 000PP702 Urine culture 1  N 2016/03/11 執行、已批 Specimen:UR1
+SITE:.
+七日內是否使用抗生素:.
+完成：2016/05/27
+ 黃昭淵 
+檢驗 09021CZP Sodium, Na 1  N 2016/03/11 執行、已批 Specimen:BLO
+完成：2016/05/27
+ 黃昭淵 
+檢驗 09022CZP Potassium, K 1  N 2016/03/11 執行、已批 Specimen:BLO
+完成：2016/05/27
+ 黃昭淵 
+檢驗 09023CZP Chloride, Cl 1  N 2016/03/11 執行、已批 Specimen:BLO
+完成：2016/05/27
+ 黃昭淵 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/11 已批 完成：2016/03/11  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/03/11 已批 完成：2016/03/11  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/03/11 已批 完成：2016/03/11 
+ 
+
+Subjective 
+patent coronary artery
+neuropathy
+renitec -> dry mouse
+high BP at night 
+Objective 
+104/84 mmHg
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+【20150318】T-CHO: 167   mg/dL
+【20150318】TG: 84   mg/dL
+【20150701】Dipyridamole & Resting :Under standarized dipyridamole stress test, (1) either non-transmural scar myocardium or chronic CAD at inferoseptal wall; (2) r/o chronic CAD at apex and septal wall, (3) good LV contractility.
+【20121114】Vascular Duplex :No significant (>50%) arterial stenosis in distal upper limbs amd lower 
+      limbs. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R00.2 Palpitations 慢  
+O I25.10 Coronary arterial disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+COZAAR 50 mg/tab 0.5 tab BID PO 28 28 tab 健保 3 2016/04/15 已確認 已批 林彥宏  
+Sandel 50 mg/tab 0.5 tab BID PO 28 28 tab 健保 3 2016/04/15 已確認 已批 林彥宏  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 7 14 tab 自費  2016/04/15 已確認 已批 林彥宏  
+Alinamin-F50 /tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/04/15 已確認 已批 林彥宏  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林彥宏 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林彥宏 
+檢驗 09013CZP Uric acid 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林彥宏 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林彥宏 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林彥宏 
+檢驗 09044C0P LDL 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林彥宏 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/15 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林彥宏 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/15 已批 完成：2016/04/15  
+行政費用 00171A00 開具連續兩次以上之連續處方–本院調劑（每次給藥２８天以上） 1  N 2016/04/15 已批 完成：2016/04/15  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/15 已批 完成：2016/04/15 
+ 
+
+Subjective 
+cough for several month
+emphysema was noted last year. 
+
+smoking for 50 years, 0.5 PPD now, visit smoking cessation clinic
+
+PH: CAD and depression, anxiety, drug abuse, quit for 20 years 
+Objective 
+BS: clear 
+Assessment 
+COPD 
+Plan 
+CXR
+patient hesitate for low dose CT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R05 Chronic cough 慢  
+O F17.200 Tobacco use disorder 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/05/24 執行、已批 完成：2016/05/24
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/24 已批 完成：2016/05/24  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/05/24 已批 完成：2016/05/24 
+ 
+
+
+Subjective 
+for smoking cessation: 2016/05/24
+smoking for 50 years, 0.5 PPD, FTND: 6/10
+PH: COPD, heart dz(CAD, s/p cath, patent), mental dz(+, anxity), poor sleep with medication
+Quit histyory: ever use gum. quit for 3 month with champix last year 
+ask for champix, inform side effect 
+Objective 
+CXR: emphysema 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 1 tab BID PO 7 14 tab 健保  2016/05/24 已確認 已批 郭斐然  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/05/24 已確認 已批 郭斐然 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2016/08/25 執行、已批、未看完 完成：2016/08/25
+ 郭斐然 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2016/11/22 執行、已批、未看完 完成：2016/11/22
+ 郭斐然 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/24 已批 完成：2016/05/24  
+行政費用 E1006C00 戒菸治療服務費（藥物治療＋簡短��詢＋個案追蹤管理）（自行調劑 1  N 2016/05/24 已批 完成：2016/05/24  
+行政費用 E1020A00 醫學中心調劑（開立連續兩週戒菸治療服務藥物） 1  N 2016/05/24 已批 完成：2016/05/24 
+ 

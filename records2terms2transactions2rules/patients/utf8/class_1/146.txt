@@ -1,0 +1,1753 @@
+﻿
+Subjective 
+Asking for full mouth examination
+ 
+Objective 
+1. mild gingival inflammation, and generalized plaque and calculus deposition 
+2.Tooth with probing depth > 5mm:17 16 15 37 33 45 46
+3.Tooth with plaque retained: minor, plaque index= 15%
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent 
+2. Plaque index was recorded 
+3. Probing data was recorded. 
+4.FM scaling was performed.
+Operator:
+G3張豪杰/VS陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O K12.1 Oral ulcer  
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Smile Orabase 1 mg/1 g 5 g/tube 1 XX BID OR 7 2 tube 健保  2016/08/05 已確認 已批 劉謙美  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91018C00 牙周病支持性治療 1  N 2016/08/05 執行、已批 齒位1:FM
+完成：2016/08/05
+ 劉謙美 
+ 
+
+Subjective 
+Travel hx:Denied Contact and cluster history:Denied
+Occupation: bussiness
+ Smoke: 1/2 ppd for 40 yrs, 燒香-
+PH:HTN
+
+Dyspnea for 6 months
+Copious sputum, mild cough 
+Objective 
+Consciousness:clear  
+Breath sound: clear
+Throat injection: -
+CXR: emphysema
+
+PFT 7/7
+FEV1/FVC(%)  75.3  FEV1=131.2 
+Assessment 
+COPD, stage I, ex-smoking 
+Plan 
+Standard bronchodilator test + DLCO
+OPD 3Ms 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Striverdi Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff HS IH 28 1 btl 健保 3 2016/07/28 已確認 已批 簡榮彥  
+Musco 30 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/07/28 已確認 已批 簡榮彥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 17007B0S Standard bronchodilator test-標準支氣管擴張劑試驗 1  N 2016/07/28 開立、已批  簡榮彥 
+檢查 17009B0S CO diffusing capacity-一氧化碳肺彌散量測定 1  N 2016/07/28 執行、已批 完成：2016/10/18
+ 簡榮彥 
+檢查 17004B0S 標準肺量測定(包括FRC) 1  N 2016/10/18 執行、已批 完成：2016/10/18
+ 汪采螢 
+ 
+
+Subjective 
+right scrotal pain to ER, 
+hypertenison : 120/80 mmHg, 
+Objective 
+【20160709】Abdomen:KUB :generally clear bil. psoas shadows; nonspecific bowel pattern; a tiny radiopaque density at left L2 paraspinal region; phlebolith(s) in the pelvic cavity; recommend clinical correlation.
+【20160709】Abdomen:KUB :generally clear bil. psoas shadows; nonspecific bowel pattern; a tiny radiopaque density at left L2 paraspinal region; phlebolith(s) in the pelvic cavity; recommend clinical correlation.
+【20160710】WBC(S): 0-2   /HPF
+【20160714】Serum PSA: 1.634   ng/mL
+【20160714】WBC (S): 0-2   /HPF
+【20160721】Scrotal Ultrasonography :1. Bilateral grossly normal testis and epididymis with blood flow 
+      patent
+      2. Bilateral no renal stone and no hydronephrosis
+         Right kidney 10.45 * 5.67 cm
+         Left kidney 11.27 * 6.51 cm
+         A 2.9 * 2.5 cm hypoechoic nodule over suprarenal region 
+Assessment 
+right epididymal enalrment with nodule 
+Plan 
+u/a, RTC 6m with report. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+M N20.9 Urolithiasis  
+O N45.1 Epididymitis 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 28 tab 健保 3 2016/07/28 已確認 已批 黃國皓  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/07/28 已確認 已批 黃國皓  
+Broen-C Enteric F.C. /tab 1 tab TID PO 7 21 tab 健保  2016/07/28 已確認 已批 黃國皓  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/07/28 執行、已批 Specimen:UR1
+完成：2017/01/26
+ 黃國皓 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/07/28 執行、已批 Specimen:UR1
+完成：2017/01/26
+ 黃國皓 
+ 
+
+Subjective 
+right scrotal pain to ER, 
+hypertenison : 120/80 mmHg,
+
+20160720
+came for drug refill and persistent intermittent right inguinal and scrotal pain
+PE: right mild tenderness, radiating to right inguinal area
+ no scrotal mass
+ no obvious erythematous change
+voiding hesitancy under Harnalidge 1# HS --> increase to 1# BID for symptom relief, dysuria(-) 
+Objective 
+【20160709】Abdomen:KUB :generally clear bil. psoas shadows; nonspecific bowel pattern; a tiny radiopaque density at left L2 paraspinal region; phlebolith(s) in the pelvic cavity; recommend clinical correlation.
+【20160709】Abdomen:KUB :generally clear bil. psoas shadows; nonspecific bowel pattern; a tiny radiopaque density at left L2 paraspinal region; phlebolith(s) in the pelvic cavity; recommend clinical correlation.
+【20160710】WBC(S): 0-2   /HPF
+
+【20160714】Serum PSA: 1.634   ng/mL
+【20160714】WBC (S): 0-2   /HPF
+【20160714】RBC (S): 2-5   /HPF 
+Assessment 
+right epididymal enalrment with nodule 
+Plan 
+Wait for renal echo, scrotal echo reports
+RTC to Dr. Huang's for reports and further follow-up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N20.9 Urolithiasis  
+O N45.1 Epididymitis 慢 男  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/07/20 已確認 已批 葉亭均 重復原因:短期或需要時使用
+尚有余藥1天 
+ 
+HARNALIDGE D 0.2 mg/tab 1 tab QD LZ 7 7 tab 健保  2016/07/20 已確認 已批 葉亭均 重復原因:短期或需要時使用
+尚有余藥8天 
+ 
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/07/20 已確認 已批 葉亭均 
+ 
+
+Subjective 
+right scrotal pain to ER, 
+hypertenison : 120/80 mmHg, 
+Objective 
+【20160709】Abdomen:KUB :generally clear bil. psoas shadows; nonspecific bowel pattern; a tiny radiopaque density at left L2 paraspinal region; phlebolith(s) in the pelvic cavity; recommend clinical correlation.
+【20160709】Abdomen:KUB :generally clear bil. psoas shadows; nonspecific bowel pattern; a tiny radiopaque density at left L2 paraspinal region; phlebolith(s) in the pelvic cavity; recommend clinical correlation.
+【20160710】WBC(S): 0-2   /HPF 
+Assessment 
+right epididymal enalrment with nodule 
+Plan 
+u/a, PSA, 
+renal echo, scrotal echo
+RTC with report 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M N20.9 Urolithiasis  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+O N45.1 Epididymitis 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/07/14 已確認 已批 黃國皓  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 14 14 tab 健保  2016/07/14 已確認 已批 黃國皓  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/07/14 執行、已批 Specimen:UR1
+完成：2016/07/14
+ 黃國皓 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/07/14 執行、已批 Specimen:UR1
+完成：2016/07/14
+ 黃國皓 
+檢驗 12081B0P PSA 1  N 2016/07/14 執行、已批 Specimen:BLO
+完成：2016/07/14
+ 黃國皓 
+檢查 19005BZ0 Scrotal Ultrasonography-陰囊超音波 (泌尿科) 1  N 2016/07/14 執行、已批 其他：+renal echo
+完成：2016/07/21
+ 黃國皓 
+ 
+
+Subjective 
+Travel hx:Denied Contact and cluster history:Denied
+Occupation: bussiness
+ Smoke: 1/2 ppd for 40 yrs, 燒香-
+PH:HTN
+
+Dyspnea for 6 months
+Copious sputum, mild cough 
+Objective 
+Consciousness:clear  
+Breath sound: clear
+Throat injection: -
+CXR: emphysema
+
+PFT 7/7
+FEV1/FVC(%)  75.3  FEV1=131.2 
+Assessment 
+COPD, stage I, ex-smoking 
+Plan 
+DC Phylocontin next time 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 21 42 tab 健保  2016/07/07 已確認 已批 簡榮彥  
+Striverdi Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff HS IH 21 1 btl 健保  2016/07/07 已確認 已批 簡榮彥  
+Musco 30 mg/tab 1 tab BID PO 21 42 tab 健保  2016/07/07 已確認 已批 簡榮彥 
+ 
+
+Subjective 
+Numbness over inner side of left forearm
+
+BP 110-130/70-90 mmHg in the morning
+PR 70-90/min
+
+Occasional nausea sensation. No vomiting 
+Objective 
+110/70 mmHg
+PR 90/min
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL
+
+【20150420】iFOBT: Negative(< 50)   ng/mL
+
+【20140731】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) R/O stress-induced ischemia at mid to basal septal and mid to basal anterolateral walls; (2) fair LV contractility.
+
+【20151012】T-CHO: 140   mg/dL
+【20151012】TG: 113   mg/dL
+【20151012】LDL-C: 69   mg/dL
+【20151012】HDL-C: 59   mg/dL
+【20151012】ALT: 21   U/L
+【20151012】CRE: 0.8   mg/dL
+【20151012】UA: 5.6   mg/dL
+【20151012】GLU AC: 98   mg/dL
+【20160328】T-CHO: 141   mg/dL
+【20160328】TG: 126   mg/dL
+【20160328】LDL-C: 67   mg/dL
+【20160328】HDL-C: 57   mg/dL
+【20160328】ALT: 17   U/L
+【20160328】CRE: 0.9   mg/dL
+【20160328】UA: 5.6   mg/dL
+【20160328】GLU AC: 99   mg/dL
+【20160328】HbA1c: 5.7   %
+【20160622】T-CHO: 144   mg/dL
+【20160622】TG: 148   mg/dL
+【20160622】LDL-C: 75   mg/dL
+【20160622】HDL-C: 54   mg/dL
+【20160622】ALT: 23   U/L
+【20160622】CRE: 0.8   mg/dL
+【20160622】UA: 5.9   mg/dL
+【20160622】GLU AC: 92   mg/dL 
+Plan 
+3 mo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O I25.10 Coronary atherosclerosis of native coronary artery 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Edarbi 40 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/06/30 已確認 已批 張維典  
+Zanidip FC 10 mg/tab 1 tab QN PO 28 28 tab 健保 3 2016/06/30 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/06/30 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/06/30 已確認 已批 張維典 
+ 
+Subjective 
+Travel hx:Denied Contact and cluster history:Denied
+Occupation: bussiness
+ Smoke: 1/2 ppd for 40 yrs, 燒香-
+PH:HTN
+
+Dyspnea for 6 months
+Copious sputum, mild cough 
+Objective 
+Consciousness:clear  
+Breath sound: clear
+Throat injection: -
+CXR: emphysema 
+Assessment 
+COPD 
+Plan 
+Screening (Flow-volume curve) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 7 14 tab 健保  2016/06/30 已確認 已批 簡榮彥  
+Musco 30 mg/tab 1 tab TID PO 7 21 tab 健保  2016/06/30 已確認 已批 簡榮彥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/06/30 執行、已批 完成：2016/06/30
+ 簡榮彥 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2016/06/30 執行、已批 完成：2016/07/07
+ 簡榮彥 
+ 
+
+Subjective 
+Travel hx:Denied Contact and cluster history:Denied
+Occupation: bussiness
+ Smoke: 1/2 ppd for 40 yrs, 燒香-
+PH:HTN
+
+Dyspnea for 6 months
+Copious sputum, mild cough 
+Objective 
+Consciousness:clear  
+Breath sound: clear
+Throat injection: -
+CXR: emphysema 
+Assessment 
+COPD 
+Plan 
+Screening (Flow-volume curve) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M J44.9 Chronic obstructive pulmonary disease, unspecified 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 7 14 tab 健保  2016/06/30 已確認 已批 簡榮彥  
+Musco 30 mg/tab 1 tab TID PO 7 21 tab 健保  2016/06/30 已確認 已批 簡榮彥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/06/30 執行、已批 完成：2016/06/30
+ 簡榮彥 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2016/06/30 執行、已批 完成：2016/07/07
+ 簡榮彥 
+ 
+
+Subjective 
+Asking for full mouth examination
+ 
+Objective 
+1. mild gingival inflammation, and generalized plaque and calculus deposition 
+2.Tooth with probing depth > 5mm:15 16 17 26 34 35 44 45
+3.plaque index= 15%
+4.smoking : 5 cigarette per day
+ 
+Assessment 
+Generalized hronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent 
+2. Plaque index was recorded 
+3. Probing data was recorded. 
+4.FM scaling was performed.
+
+keep 3 months follow up 
+
+G2張豪杰/VS陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91018C00 牙周病支持性治療 1  N 2016/04/18 執行、已批 齒位1:FM
+完成：2016/04/18
+ 張博鈞 
+ 
+
+Subjective 
+Numbness over inner side of left forearm
+
+BP 130/80-90 mmHg in the morning
+BP 130/90+ mmHg in the evening
+PR 60-70/min
+
+Occasional nausea sensation. No vomiting 
+Objective 
+130/88 mmHg
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL
+
+【20150420】iFOBT: Negative(< 50)   ng/mL
+
+【20140731】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) R/O stress-induced ischemia at mid to basal septal and mid to basal anterolateral walls; (2) fair LV contractility.
+【20151012】T-CHO: 140   mg/dL
+【20151012】TG: 113   mg/dL
+【20151012】LDL-C: 69   mg/dL
+【20151012】HDL-C: 59   mg/dL
+【20151012】ALT: 21   U/L
+【20151012】CRE: 0.8   mg/dL
+【20151012】UA: 5.6   mg/dL
+【20151012】GLU AC: 98   mg/dL
+【20160328】T-CHO: 141   mg/dL
+【20160328】TG: 126   mg/dL
+【20160328】LDL-C: 67   mg/dL
+【20160328】HDL-C: 57   mg/dL
+【20160328】ALT: 17   U/L
+【20160328】CRE: 0.9   mg/dL
+【20160328】UA: 5.6   mg/dL
+【20160328】GLU AC: 99   mg/dL
+【20160328】HbA1c: 5.7   % 
+Plan 
+3 mo
+(A) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O E78.5 Hyperlipidemia 慢  
+O I25.10 Coronary atherosclerosis of native coronary artery 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Edarbi 40 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/07 已確認 已批 張維典  
+Zanidip FC 10 mg/tab 1 tab QN PO 28 28 tab 健保 3 2016/04/07 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/04/07 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/04/07 已確認 已批 張維典  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09043C0P HDL 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09044C0P LDL 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09005CZP Glucose (AC) 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+檢驗 09013CZP Uric acid 1  N 2016/04/07 執行、已批 Specimen:BLO
+完成：2016/06/22
+ 張維典 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K12.0 Recurrent aphthous ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+B.C. /cap 1 cap BID PO 180 360 cap 自費  2016/03/02 已確認 已批 孫安迪 特殊醫囑:自費 
+ 
+Colchicine 0.5 mg/tab 1 tab ASORDER PO 7 28 tab 健保  2016/03/02 已確認 已批 孫安迪  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX BID OR 7 3 tube 健保  2016/03/02 已確認 已批 孫安迪 
+ 
+
+Subjective 
+BP higher when cold
+BP may be up to 140-150 mmHg 
+Objective 
+140/90+ mmHg
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL
+
+【20150420】iFOBT: Negative(< 50)   ng/mL
+
+【20140731】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) R/O stress-induced ischemia at mid to basal septal and mid to basal anterolateral walls; (2) fair LV contractility.
+【20151012】T-CHO: 140   mg/dL
+【20151012】TG: 113   mg/dL
+【20151012】LDL-C: 69   mg/dL
+【20151012】HDL-C: 59   mg/dL
+【20151012】ALT: 21   U/L
+【20151012】CRE: 0.8   mg/dL
+【20151012】UA: 5.6   mg/dL
+【20151012】GLU AC: 98   mg/dL 
+Plan 
+3 mo
+(A) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M I10 Hypertension 慢  
+O I25.10 Coronary atherosclerosis of native coronary artery 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Edarbi 40 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/14 已確認 已批 張維典  
+Zanidip FC 10 mg/tab 1 tab QN PO 28 28 tab 健保 3 2016/01/14 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/01/14 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/01/14 已確認 已批 張維典  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/01/13 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/01/13 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09043C0P HDL 1  N 2016/01/13 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09044C0P LDL 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09026CZP ALT(GPT) 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09005CZP Glucose (AC) 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09013CZP Uric acid 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+檢驗 09006C0P HbA1c 1  N 2016/01/14 執行、已批 Specimen:BLO
+完成：2016/03/28
+ 張維典 
+ 
+
+Subjective 
+Asking for  periodontal treatment
+ 
+Objective 
+1. mild gingival inflammation, and generalized plaque and calculus deposition 
+2.Tooth with probing depth > 5mm:17 16 15 26 33 44 45 
+3.plaque index= 25%
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent 
+2. Plaque index was recorded 
+3. Probing data was recorded. 
+4.FM scaling was performed. local Sc/Rp over 15 16 17 44 45 33 
+5.keep 3 months follow up 
+Operator:G2張豪杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91018C00 牙周病支持性治療 1  N 2016/01/04 執行、已批 齒位1:FM
+完成：2016/01/04
+ 王振穎 
+ 
+
+Subjective 
+Asking for full mouth examination
+ 
+Objective 
+1. mild gingival inflammation, and generalized plaque and calculus deposition
+2.Tooth with probing depth > 5mm:16 17 34 35 44 45
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent 2. Plaque index was recorded 3. Probing data was recorded. 
+4.FM scaling was performed.
+Operator:
+G2張豪杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+O 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX TID OR 7 1 tube 健保  2015/12/21 已確認 已批 陳漪紋 
+ 
+
+Subjective 
+BP 100+/60+ mmHg in the morning
+BP 120+/70+ mmHG in the afternoon
+Dizziness when standing up from squating
+ED (+), related to dilatrend 
+Objective 
+110/70 mmHg
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL
+
+【20150420】iFOBT: Negative(< 50)   ng/mL
+
+【20140731】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) R/O stress-induced ischemia at mid to basal septal and mid to basal anterolateral walls; (2) fair LV contractility.
+【20151012】T-CHO: 140   mg/dL
+【20151012】TG: 113   mg/dL
+【20151012】LDL-C: 69   mg/dL
+【20151012】HDL-C: 59   mg/dL
+【20151012】ALT: 21   U/L
+【20151012】CRE: 0.8   mg/dL
+【20151012】UA: 5.6   mg/dL
+【20151012】GLU AC: 98   mg/dL 
+Plan 
+3 mo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 414.01 Coronary atherosclerosis of native coronary artery 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/22 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/22 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/22 已確認 已批 張維典 用藥原因:LDL-C: 69 (2015/10/12) 
+ 
+
+Subjective 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+1.Oral hygiene: Fair
+2. residual PPD>=5mm:
+   17(DP) 16(MP) 15(MP) 14(MP) 26(B) 45(DL) 46(ML) :5mm
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  
+2. Plaque index was recorded 
+3. Probing data was recorded.
+4. suggest to quit smoking 
+5. arrange 3 months follow up 
+
+G2張豪杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+Subjective 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+1.Oral hygiene: Fair
+2. residual PPD>=5mm:
+   17(DP) 16(MP) 15(MP) 14(MP) 26(B) 45(DL) 46(ML) :5mm
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  
+2. Plaque index was recorded 
+3. Probing data was recorded.
+4. suggest to quit smoking 
+5. arrange 3 months follow up 
+
+G2張豪杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+主/次 診斷碼 診斷名稱 注記 
+M 528.2 Recurrent aphthous ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+B.C. /cap 1 cap BID PO 180 360 cap 自費  2015/09/09 已確認 已批 孫安迪 特殊醫囑:自費 
+ 
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX BID OR 7 3 tube 健保  2015/09/09 已確認 已批 孫安迪  
+ 
+
+
+Subjective 
+BP <120/<80 mmHg
+Dizziness when standing up from squating 
+Objective 
+110/70 mmHg
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL
+
+【20150420】iFOBT: Negative(<50)   ng/mL
+【20140731】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) R/O stress-induced ischemia at mid to basal septal and mid to basal anterolateral walls; (2) fair LV contractility. 
+Plan 
+(A), cre UA 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 414.01 Coronary atherosclerosis of native coronary artery 慢  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Edarbi 40 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/30 已確認 已批 張維典  
+6.25 DILATREND 6.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/30 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/07/30 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/07/30 已確認 已批 張維典 用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09043C0P HDL 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09044C0P LDL 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09026CZP ALT(GPT) 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09005CZP Glucose (AC) 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09013CZP Uric acid 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/07/30 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 張維典 
+ 
+
+Subjective 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+Oral hygiene: Fair
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  2. Plaque index was recorded 3. Probing data was recorded.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+O 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 15 XX BID OR 7 1 tube 健保  2015/07/14 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91018C00 牙周病支持性治療 1  N 2015/07/14 執行、已批 齒位1:FM
+完成：2015/07/14
+ 郭彥彬 
+ 
+
+
+Subjective 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+Oral hygiene: Fair
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  2. Plaque index was recorded 3. Probing data was recorded.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+O 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 15 XX BID OR 7 1 tube 健保  2015/07/14 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91018C00 牙周病支持性治療 1  N 2015/07/14 執行、已批 齒位1:FM
+完成：2015/07/14
+ 郭彥彬 
+ 
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+1.Mild gingival inflammation. 2. Deep pocket as record in charting data attached.
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+#24 25 26 mucoperiosteum surgery (with GTR )    
+< OP note >  
+Pre-OP Dx: #24 25 26 chronic periodontitis 
+Post-OP Dx: #24 25 26 chronic periodontitis s/p flap operation 
+OP method: #24 25 26flap operation 
+OP findings: deep pocket as recorded in attached data 
+OP procedure: 
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual. 
+2.Pockets depth were recorded. 
+3. UL local anesthesia was done with 6 mL 2% lidocaine (with 1:80000 epinephrine) 
+4.Incision and flap reflection was done with #15 blade and #12 blade. 
+5.Granulation tissues, subgingival calculus were removed and root surfaces were planed. 
+6.Osseous deformity was removed by alveoloplasty. 
+7.Root conditioning With EDTA. Autogenous bone and Bio-oss graft were inserted to #26 intrabony defect to even bone crest and overbuilt up at coronal area. Emdogain was applied on the #26 tooth intrabony defect. 
+8.Flap was closed by interrupted/matress sutures. 
+9.Post-OP wound care instruction was given 
+Specimen for pathology: Nil,  Next visit: f/u for wound healing
+Operator:G1張豪杰
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+O 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2015/05/25 已確認 已批 陳漪紋  
+Naposin 250 mg/tab 1 tab TIDPC PO 3 9 tab 健保  2015/05/25 已確認 已批 陳漪紋  
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX BID OR 7 1 tube 健保  2015/06/03 已確認 已批 陳漪紋  
+Corol Oral Rinse Soln 0.12% 250 mL/btl 10 mL BID GA 7 1 btl 自費  2015/05/25 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91009B00 PERIODONTAL FLAP OP:LOCALIZED(<=3 T) 1  N 2015/05/25 執行、已批 齒位1:24
+齒位2:25
+齒位3:26
+完成：2015/05/25
+ 陳漪紋 
+治療 000L0480 *Guided tissue regeneration (C) 1 自費 N 2015/05/25 執行、已批 齒位1:26
+完成：2015/05/25
+ 陳漪紋 
+治療 000L0466 *PERIO. SPECIAL CARE B 2 自費 N 2015/05/25 執行、已批 齒位1:26
+完成：2015/05/25
+ 陳漪紋 
+ 
+
+
+Subjective 
+Left occipital discomfort
+BP 120+/70+ mmHg
+
+Bil 5th digital numbness
+
+Increased sputum
+URI last week 
+Objective 
+110/69 mmHg
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL
+
+【20150420】iFOBT: Negative(<50)   ng/mL 
+Plan 
+C-spine X ray 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+O 414.01 Coronary atherosclerosis of native coronary artery 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Edarbi 40 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/30 已確認 已批 張維典 重復原因:補給天數 (至下次預約門診日);尚余 6 日藥量
+ 
+6.25 DILATREND 6.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/30 已確認 已批 張維典 重復原因:補給天數 (至下次預約門診日);尚余 7 日藥量
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/30 已確認 已批 張維典 重復原因:補給天數 (至下次預約門診日);余 7 日藥量
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/04/30 已確認 已批 張維典 重復原因:補給天數 (至下次預約門診日)
+ 
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/04/30 已確認 已批 張維典 重復原因:補給天數 (至下次預約門診日)
+ 
+Regrow SR 60 mg/tab 1 tab BID PO 5 10 tab 健保  2015/04/30 已確認 已批 張維典  
+(DC)Mucosolvan 30 mg/tab 1 tab BID PO 5 10 tab 健保  2015/04/30 已確認 已批 張維典  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP083 Spine: Cervical AP, LAT. 1  N 2015/04/30 執行、已批 小部位:.
+完成：2015/04/30
+ 張維典 
+ 
+Subjective 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+Oral hygiene: Good
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  2. Plaque index was recorded .
+ 
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+
+
+主/次 診斷碼 診斷名稱 注記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿70歲者每2年1次) 1  N 2015/04/13 執行、已批 Specimen:STO
+完成：2015/04/20
+ 盧佳文 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/04/13 執行、已批 完成：2015/04/13 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.2 Recurrent aphthous ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+B.C. /cap 1 cap BID PO 180 360 cap 自費  2015/03/04 已確認 已批 孫安迪 特殊醫囑:自費 
+ 
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX BID OR 7 2 tube 健保  2015/03/04 已確認 已批 孫安迪 
+ 
+For oral hygiene instruction and periodontal follow up
+ 
+Objective 
+1.Oral hygiene: Poor
+
+2.deep probing depth over #26 , pus(+)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.OHI with disclosing agent  
+2. Plaque index was recorded 
+3. Probing data was recorded.
+4. arrange #26 flap OP
+ 
+
+Subjective 
+Renal cyst was noted 
+Reassurance 
+Objective 
+BP: 110/80
+BS: Clear, no crackles
+Heart: RHB, no arrhythmia
+Edema: -/- 
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL
+【20140107】Follow up Abdomen Echo :Fatty liver, mild
+      Small hepatic tumor, Probably, hemangioma
+      Renal cyst with stone/calcification inside, right 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 401.9 Hypertension 慢  
+O 414.01 Coronary atherosclerosis of native coronary artery 慢  
+O 272.4 Hyperlipidemia 慢  
+M 593.2 Renal cyst, acquired 
+ 
+
+
+Subjective 
+Occasional dizziness when stanidn up 
+Objective 
+126/80 mmHg
+
+【20150128】T-CHO: 140   mg/dL
+【20150128】TG: 103   mg/dL
+【20150128】LDL-C: 74   mg/dL
+【20150128】HDL-C: 54   mg/dL
+【20150128】ALT: 21   U/L
+【20150128】GLU AC: 98   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+O 414.01 Coronary atherosclerosis of native coronary artery 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Blopress 8 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/12 已確認 已批 張維典  
+6.25 DILATREND 6.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/12 已確認 已批 張維典  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/12 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/12 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/12 已確認 已批 張維典 用藥原因:LDL-C: 74 (2015/01/28) 
+ 
+
+Subjective 
+Chest pain when prone position
+BP 110/80 mmHg at home 
+Objective 
+130/96 mmHg 
+Plan 
+(A) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+O 414.01 Coronary atherosclerosis of native coronary artery 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Blopress 8 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/20 已確認 已批 張維典  
+6.25 DILATREND 6.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/20 已確認 已批 張維典  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/20 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/11/20 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/20 已確認 已批 張維典  
+MgO 250 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/20 已確認 已批 張維典  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2014/11/20 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 張維典 
+檢驗 09004CZP Triglyceride, TG 1  N 2014/11/20 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 張維典 
+檢驗 09043C0P HDL 1  N 2014/11/20 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 張維典 
+檢驗 09044C0P LDL 1  N 2014/11/20 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 張維典 
+檢驗 09026CZP ALT(GPT) 1  N 2014/11/20 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 張維典 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2014/11/20 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 張維典 
+檢驗 09005CZP Glucose (AC) 1  N 2014/11/20 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 張維典 
+ 
+
+Subjective 
+One large nodule over right buttocks
+-->arrange one-day surgery on 10/28 
+Objective 
+There is one han-egg sized, soft, movable,subcutaneous nodule over right buttocks.
+
+
+Skin and subcutis, buttock, right, excision, epidermal cyst
+
+The specimen submitted consists of one tissue fragment measuring 6 x 3 x
+2.5 cm in size in fresh state.
+
+Grossly, it is gray and elastic. 
+Representative sections are taken and labeled as A1-3. Jar 0 
+Microscopically, it shows an epidermal cyst. 
+Assessment 
+hand eczema 
+Plan 
+remove stitches 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 692.9 Eczema 慢 職  
+M 706.2 Epidermal cyst  
+O V67.00 Post-operation follow up  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 7 1 tube 健保  2014/11/12 已確認 已批 陳昭旭  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)傷口在10CM以下 1  N 2014/11/12 執行、已批 完成：2014/11/12
+ 陳昭旭 
+ 
+
+
+Subjective 
+for 14 15 16 17 flap OP
+ 
+Objective 
+1) pre-operation evaluation:
+                    17       16          15          14       13
+   PPD:       5,5,3     3,5,3      3,3,5      3,3,3,   3,3,3
+                7,3,5     5,5,7,      7,3,5,    5,5,5,   3,3,3,
+                                                                            M  
+recession    2,2,1,   2,3,1,      1,2,1,    1,1,1,   1,1,1,
+                 0,0,1,  1,2,1,      1,1,1,    1,1,0     0,0,0 
+                                      P
+
+mobility                                  I       
+ 
+furcation       BI       MI
+involvment    DII      BII            
+
+   KG              6        3           4            5          4
+
+
+2)bone patten record:
+
+                   17        16          15         14
+                5,5,3     3,4,4,      3,3,3,    3,3,3
+CEJ-BC      5,7,7,     5,6,7,      6,6,6,    3,5,4
+
+               0,5,0,     0,2,0,      0,0,0      0,0,0 
+BC-BB       0,0,0,     0,0,2       0,1,2      0,0,0
+
+furcation M:H7,V5  M:H5,V2
+ 
+Plan 
+Pre-OP Dx: 14 15 16 17  chronic periodontitis
+Post-OP Dx: 14 15 16 17 chronic periodontitis  s/p Flap operation
+OP method: 14 15 16 17 Flap operation with osseous surgery
+OP findings: deep pocket as recorded in attached data 
+OP procedure:
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual. 
+2.Pockets depth were recorded. 
+3. UR local anesthesia was done with 6 mL 2% lidocaine (with 1:80000 epinephrine) 
+4.Incision and flap reflection was done with #15 blade and #12 blade. 
+5.Granulation tissues were removed and root surfaces were planed. 
+6.osteoplasty was performed over 15 16 17 interproximal ,buccal, and palatal area with high speed 
+7.Flap was closed by interrupted and modified vertical matress sutures. 
+8.Post-OP wound care instruction was given 
+Specimen for pathology: Nil  
+Next visit: f/u for wound healing and remove suture
+
+Assistant: Ri楊承軒  Operator:G1張豪杰 Recorded by:G1張豪杰
+ 
+
+Subjective 
+One large nodule over right buttocks 
+Objective 
+There is one han-egg sized, soft, movable,subcutaneous nodule over right buttocks. 
+Plan 
+arrange one-day surgery on 10/28 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 706.2 Epidermal cyst  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cephalexin 250 mg/cap 1 cap Q6H PO 1 4 cap 健保  2014/10/28 已確認 已批 陳柏樺  
+PARAMOL 500 mg/tab 1 tab QID PO 1 4 tab 健保  2014/10/28 已確認 已批 陳柏樺  
+C.P. Oint 5 g/tube 1 XX AS ORDER D 7 3 tube 自費  2014/10/28 已確認 已批 陳柏樺  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25003C0W Surgical pathology Level III 1  N 2014/10/27 執行、已批 每瓶(包)之檢體數量:1
+Operation findings:There is one han-egg sized, soft, movable,subcutaneous nodule over right buttock.
+術式名稱:excision
+組織來源:right buttock
+診斷名稱:epidermal cyst
+完成：2014/10/29
+ 陳柏樺 
+醫材 20450405 電刀回路板 1  N 2014/10/28 執行、已批 完成：2014/10/28
+ 古慧質 
+醫材 20300242 DEXON縫合線#4/0 1  N 2014/10/28 執行、已批 完成：2014/10/28
+ 古慧質 
+醫材 20300740 NYLON縫線(#4/0) 1  N 2014/10/28 執行、已批 完成：2014/10/28
+ 古慧質 
+手術 62012C00 皮下腫瘤摘除術大於 4CM 1  N 2014/10/28 執行、已批 刀別：1
+分側：右側
+完成：2014/10/28
+ 陳柏樺 
+ 
+Subjective 
+for pre-surgery evaluation
+ 
+Objective 
+1) oral hygiene : fair
+ 
+Plan 
+1)explain the procedure of  14-16 flap OP 
+
+2)OHI
+ 
+
+
+Subjective 
+Ulcer at right lingual base for 7-8 days
+ 
+Objective 
+疼痛評估：疼痛指數： 3分; 持續痛 ; 疼痛部位： right tongue base; 
+1. A ulcer about 0.6 x 0.4 cm previously present at right tongue base healed.
+
+2. No palpable cervical LAP bilaterally.
+
+3. Spicules of bony projections and pinpoint ulceration over spicules are noted at lingual cortex of #46 and #47.
+ 
+Plan 
+Medication and suggest p't to receive osteoplasty at lingual cortex at #46 #47 area in OMS division.
+Rx:
+1. Salcoat cap for Spray 50 mcg/cap 1# TID x 7 days
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salcoat cap for Spray 50 mcg/cap 1 cap TID AP 7 21 cap 健保  2014/10/23 已確認 已批 王逸平 
+ 
+
+
+Subjective 
+phase I re-evaluation
+ 
+Objective 
+1) PPD >5mm:
+   7654  1 |  3 6 
+----------------------------
+     5432   |  345 7 
+
+2) mobility 
+   GrI : 15 ,37 32 31 41 45
+ 
+Plan 
+1)17 16 15 14 flap OP
+
+2) SPT for other tooth
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis 
+ 
+
+
+Subjective 
+One large nodule over right buttocks 
+Objective 
+There is one han-egg sized, soft, movable,subcutaneous nodule over right buttocks. 
+Plan 
+arrange one-day surgery of Dr.chen 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 706.2 Epidermal cyst  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cephalexin 250 mg/cap 1 cap Q6H PO 7 28 cap 健保  2014/10/17 已確認 已批 紀秀華 
+ 
+
+
+Subjective 
+One large nodule over right buttocks 
+Objective 
+There is one han-egg sized, soft, movable,subcutaneous nodule over right buttocks. 
+Plan 
+arrange one-day surgery of Dr.chen 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 706.2 Epidermal cyst  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Cephalexin 250 mg/cap 1 cap Q6H PO 7 28 cap 健保  2014/10/17 已確認 已批 紀秀華 
+ 
+
+Subjective 
+Ulcer at right lingual base for 7-8 days
+ 
+Objective 
+疼痛評估：疼痛指數： 3分; 持續痛 ; 疼痛部位： right tongue base; 
+1. A ulcer about 0.6 x 0.4 cm is present at right tongue base. No induration. Friction with sharp edges at #47 retained root is noted.
+
+2. No palpable cervical LAP bilaterally.
+ 
+Plan 
+Medication and F/U 2 weeks
+Rx:
+1. Salcoat cap for Spray 50 mcg/cap 1# TID x 14days 
+2. Puvlizer /set x I
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salcoat cap for Spray 50 mcg/cap 1 cap AS ORDER AP 7 42 cap 健保  2014/10/09 已確認 已批 王逸平 特殊劑量:一天3次，一次1顆，共14天。 
+Puvlizer /set 1 set STAT AP 1 1 set 自費  2014/10/09 已確認 已批 王逸平  
+ 
+
+
+Subjective 
+Ulcer at right lingual base for 7-8 days
+ 
+Objective 
+疼痛評估：疼痛指數： 3分; 持續痛 ; 疼痛部位： right tongue base; 
+1. A ulcer about 0.6 x 0.4 cm is present at right tongue base. No induration. Friction with sharp edges at #47 retained root is noted.
+
+2. No palpable cervical LAP bilaterally.
+ 
+Plan 
+Medication and F/U 2 weeks
+Rx:
+1. Salcoat cap for Spray 50 mcg/cap 1# TID x 14days 
+2. Puvlizer /set x I
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 528.9 Oral ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salcoat cap for Spray 50 mcg/cap 1 cap AS ORDER AP 7 42 cap 健保  2014/10/09 已確認 已批 王逸平 特殊劑量:一天3次，一次1顆，共14天。 
+ 
+Puvlizer /set 1 set STAT AP 1 1 set 自費  2014/10/09 已確認 已批 王逸平 
+ 
+
+ 
+主/次 診斷碼 診斷名稱 注記 
+M 528.2 Recurrent aphthous ulcer  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+B.C. /cap 1 cap BID PO 180 360 cap 自費  2014/09/10 已確認 已批 孫安迪 特殊醫囑:自費 
+(DC)Dexaltin Oral Paste 0.1% 5 g/tube 1 XX BID OR 7 2 tube 健保  2014/09/10 已確認 已批 孫安迪 
+ 
+
+Subjective 
+phase I therapy
+ 
+Objective 
+1.牙周囊袋記錄
+======================
+第二象限
+
+    #21        #22        #23        #24    
+ 3, 2, 5    5, 2, 3    5, 2, 8    5, 2, 6   
+ 3, 2, 5    5, 3, 5    5, 5, 3    5, 5, 5   
+
+    #25        #26        #          #      
+ 7, 2, 5    8, 3, 3     ,  ,       ,  ,     
+ 4, 5, 5   10, 6, 3     ,  ,       ,  ,     
+
+======================
+牙周囊袋記錄
+======================
+第三象限
+
+    #31        #32        #33        #34    
+ 3, 1, 3    2, 3, 5    3, 3, 5    5, 4, 3   
+ 1, 1, 2    3, 2, 4    3, 6, 5    3, 4, 3   
+
+    #35        #36        #37        #38    
+ 4, 5, 5    5, 3, 7    6, 2, 5    7, 7, 3   
+ 3, 2, 3    3, 3, 3    3, 3, 5    5, 3, 3   
+
+======================
+
+
+2.38 mobility GrII
+ 
+Plan 
+1) Upper left and  lower left subgingiva curettage and root planing under local anethesia with 5.4ml 2% lidocaine and 1:80000 epinephrine .
+
+2) 38 extraction 
+ aspetic procedure was done with chlorohexdine 
+ 38 extraction was done with forceps
+ socket curettage and irrigation with normal saline 
+ gauze packing for 0.5 hr
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2014/08/29 已確認 已批 陳漪紋  
+PARAMOL 500 mg/tab 1 tab QID PO 3 12 tab 健保  2014/08/29 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92014C00 COMPLICATED EXTRATION 1  N 2014/08/29 執行、已批 齒位1:37
+完成：2014/08/29
+ 陳漪紋 
+ 
+
+Subjective 
+BP 120-130/70+ mmHg 
+Objective 
+【20140715】T-CHO: 146   mg/dL
+【20140715】TG: 164   mg/dL
+【20140715】LDL-C: 81   mg/dL
+【20140715】HDL-C: 49   mg/dL
+【20140715】GLU AC: 95   mg/dL
+【20140715】GLU AC: 95   mg/dL
+【20140715】GLU 2hr PC: 117   mg/dL
+
+Tl-201 scan
+* The initial and 4-hour delayed images showed reversible mild perfusion defects at mid to basal septal and mid to basal anterolateral walls. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 401.9 Hypertension 慢  
+O 272.4 Hyperlipidemia 慢  
+O 414.01 Coronary atherosclerosis of native coronary artery 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Blopress 8 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/08/28 已確認 已批 張維典  
+6.25 DILATREND 6.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/08/28 已確認 已批 張維典  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/08/28 已確認 已批 張維典  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/08/28 已確認 已批 張維典  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/08/28 已確認 已批 張維典 用藥原因:LDL-C: 81 (2014/07/15)
+ 
+MgO 250 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/08/28 已確認 已批 張維典 
+ 
+
+
+Subjective 
+for phase I therapy
+ 
+Objective 
+1.PPD>5mm :
+牙齒齒位記錄
+============
+7654321   ，123456
+356       ，2345678
+============
+
+2.furcation involvment :
+17 DII BII
+16 BII
+38 LI
+
+3.mobility:
+GrI: 15 14 22 23 24 25 26 , 38-31, 41,42,45
+ 
+Plan 
+1. phase I therapy 
+2.38 extraction
+
+treatment:
+1.data collection + photo
+2.full mouth scaling + OHI
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2014/08/08 執行、已批 完成：2014/08/08
+ 陳漪紋 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2014/09/17 執行、已批 完成：2014/09/17
+ 陳漪紋 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2014/10/20 執行、已批 完成：2014/10/20
+ 陳漪紋 
+ 
+
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 5 15 cap 健保  2014/11/03 已確認 已批 陳漪紋  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2014/11/03 已確認 已批 陳漪紋  
+Naposin 250 mg/tab 1 tab BIDPC PO 5 10 tab 健保  2014/11/03 已確認 已批 陳漪紋  
+Nincort Oral Gel 0.1% 6 g/tube 1 XX BID OR 7 1 tube 健保  2014/11/03 已確認 已批 陳漪紋  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91010B00 PERIODONTAL FLAP OP:1/3 ARCH (4-6 TEETH) 1  N 2014/11/03 執行、已批 齒位1:UR
+完成：2014/11/03
+ 陳漪紋 
+ 
+
+Subjective 
+for phase I therapy
+ 
+Objective 
+1.PPD>5mm :
+牙齒齒位記錄
+============
+7654321   ，123456
+356       ，2345678
+============
+
+2.furcation involvment :
+17 DII BII
+16 BII
+38 LI
+
+3.mobility:
+GrI: 15 14 22 23 24 25 26 , 38-31, 41,42,45
+ 
+Plan 
+1. phase I therapy 
+2.38 extraction
+
+treatment:
+1.data collection + photo
+2.full mouth scaling + OHI
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2014/08/08 執行、已批 完成：2014/08/08
+ 陳漪紋 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2014/09/17 執行、已批 完成：2014/09/17
+ 陳漪紋 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2014/10/20 執行、已批 完成：2014/10/20
+ 陳漪紋 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+For both sides posterior gingival discomfort for about 2 weeks.
+
+現病史：
+He stated that he felt imtermittent discomfort over both side posterior gingiva for about 2 weeks ago. It was like throbbing pain and he went to local dental clinic for help. The dentist told him it could be periodontal disease and suggested him come to our dept for further evaluation.
+
+過去病史：
+HTN under medication
+Hepatic hemangioma
+Recurent oral ulcer
+Denied all other major systemic diseases.
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：A
+
+目前用藥：
+For HTN
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：1
+
+1. Present dentition:  7 - 1   1 - 6
+                      -------+-------
+                        6 - 1  1 - 8
+2. #48 extraction socket (extracted 1 month ago)
+3. #31,#41 diastema
+4. Probing depth >=5mm:  7654 21 123456
+                        --------+-------
+                           54321 12345678
+5. Mobility Gr+:#11,12,13,14,16,17,24,25,34,35,42,45
+            GrI:#15,26,31,32,33,37,41
+6. #38 percussion: sore
+6. Mandibular torus(+)
+7. Maxillary alveolar exotosis
+8. Full mouth plaque and calculus deposition and gingival inflammation
+ 
+Assessment 
+Generalized chronic periodontitis
+Dental caries
+ 
+Plan 
+Check FM periapical and X-ray:
+1. FM moderate horizontal bony defect.
+2. #38 mesial large caries.
+
+Suggest #38 extraction and recieve phase I therapy.(簽牙統)
+Arrange to Dr.張豪杰 for further treatment.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 注記 
+O 521.0 Dental caries  
+M 523.4 Chronic periodontitis 
+ 
