@@ -1,0 +1,3 @@
+"rules","support","confidence","lift","count","lift2"
+"{PARAMOL_MEDICINE} => {Champix tablet_SMOKE}",0.2,1,1,8,1
+"{Norvasc_MEDICINE} => {Champix tablet_SMOKE}",0.15,1,1,6,1
