@@ -1,6 +1,9 @@
 import os
 import json
 import csv
+import ast
+
+allCount = {}
 
 
 def bytes_to_string(input_bytes):
@@ -35,10 +38,10 @@ def ProcessData(inputString, dataInput):
             end += 1
         nowCount[index]["sentence"].append(inputString[begin:end + 1:])
 
-    return nowCount, transaction_single
+    return nowCount
 
 
-def CombineData(nowCount, transaction_single):
+def CombineData(nowCount):
 
     for index in nowCount:
         if index not in allCount.keys():
@@ -53,15 +56,17 @@ def CombineData(nowCount, transaction_single):
             # if len(allCount[index]["sentence"]) < 2:
             allCount[index]["sentence"].append(sentence)
 
+    transaction_single = nowCount.keys()
+
     return transaction_single
 
 
 def save_dict(BioConcept):
     directory = './patients/utf8/'
 
-    for subdirectory in os.listdir(directory):
+    for subdirectory in ['class_1', 'class_4']:
         transaction = []
-        allCount = {}
+        allCount.clear()
 
         for file_name in os.listdir(os.path.join(directory, subdirectory)):
 
@@ -74,17 +79,18 @@ def save_dict(BioConcept):
                 with open(original_file_path, 'rb') as original_file:
                     original_text = bytes_to_string(original_file.read())
 
-                transaction.append(CombineData(ProcessData(original_text, tagged_text, transaction)))
+                transaction.append(CombineData(ProcessData(original_text, tagged_text)))
 
         output_file_path = os.path.join(directory, subdirectory, '%s_dict.json' % BioConcept)
         with open(output_file_path, 'w') as output_file:
             json.dump(allCount, output_file)
+
+        transaction_file = open(os.path.join(directory, subdirectory, 'transaction_Disease.csv'), 'w')
+        transaction_writer = csv.writer(transaction_file)
 
         for transaction_single in transaction:
             for i in range(len(transaction_single)):
                 transaction_single[i] = allCount[transaction_single[i]]["name"]
             transaction_writer.writerow(transaction_single)
 
-        transaction_file = open(os.path.join(directory, subdirectory, 'transaction_Disease.csv'), 'w')
-        transaction_writer = csv.writer(transaction_file)
         transaction_file.close()

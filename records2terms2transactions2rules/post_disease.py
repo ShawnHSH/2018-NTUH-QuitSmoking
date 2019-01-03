@@ -11,7 +11,7 @@ def bytes_to_string(input_bytes):
 
 def all_post(BioConcept):
     directory = './patients/utf8/'
-    for subdirectory in os.listdir(directory):
+    for subdirectory in ['class_1', 'class_4']:
         for file_name in os.listdir(os.path.join(directory, subdirectory)):
             try:
                 os.mkdir(os.path.join(directory, subdirectory, 'post'))
