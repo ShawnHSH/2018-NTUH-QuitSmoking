@@ -1,0 +1,639 @@
+﻿
+Subjective 
+fever with dry cough and 全身痠痛 since 4/5, afebrile, type-A flu(+) at 馬偕醫院
+dyspnea, dizziness
+mild costipation
+
+no systemic disease before
+no drug allergy 
+smoking for 50 years, now 2PPD
+
+TOCC:denied
+
+Occupation: constructor for 34 yr quit 20 yrs
+
+Now general condtion
+
+exertional dyspnea in progression
+no fever
+appetite OK 
+Objective 
+BT 36.1 
+BS bil basal crackles
+
+
+
+【20150412】pro-BNP: 104   pg/mL
+【20150412】WBC: 2.99   K/μL
+【20150412】RBC: 3.88   M/μL
+【20150412】Band: 1.0   %
+【20150412】PLT: 137   K/μL
+【20150412】HCT: 38.3   %
+【20150410】PO2: 53.8   mmHg
+【20150410】PH: 7.387   *
+【20150410】PCO2: 41.0   mmHg
+【20150410】ALT: 49   U/L
+【20150410】K: 3.6   mmol/L
+【20150410】Na: 139   mmol/L
+【20150410】CRE: 0.6   mg/dL
+【20150412】Chest : PA View (Standing) :borderline cardiothoracic ratio; prominent bilateral lung marking; recommend clinical correlation.
+【20150410】Chest : PA View (Standing) :cardiomegaly. patchy opacities in the bilateral lower lung fields. 
+Plan 
+explain to patient
+f/u sputum exam
+f/u PFT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 515 Interstitial pneumonitis  
+O 486 Pneumonia 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/04/14 執行、已批 Specimen:BLO
+完成：2015/04/14
+ 古世基 
+檢驗 000PP709 Acid fast stain+Mycobacterium culture (Respiratory specimen) 1  N 2015/04/14 報到、已批 Specimen:SPU
+ 古世基 
+檢驗 000PP709 Acid fast stain+Mycobacterium culture (Respiratory specimen) 1  N 2015/04/14 報到、已批 Specimen:SPU
+ 古世基 
+檢驗 000PP709 Acid fast stain+Mycobacterium culture (Respiratory specimen) 1  N 2015/04/14 報到、已批 Specimen:SPU
+ 古世基 
+檢驗 000PP715 Sputum Culture + Gram Stain 1  N 2015/04/14 報到、已批 Specimen:SPU
+是否白血球低下:.
+ 古世基 
+檢驗 12034B0P C3 1  N 2015/04/14 執行、已批 Specimen:BLO
+完成：2015/04/14
+ 古世基 
+檢驗 12038B0P C4 1  N 2015/04/14 執行、已批 Specimen:BLO
+完成：2015/04/14
+ 古世基 
+檢驗 12053B0P Anti-Nuclear Ab(ANA) 1  N 2015/04/14 執行、已批 Specimen:BLO
+完成：2015/04/14
+ 古世基 
+檢驗 12021C0P CEA 1  N 2015/04/14 執行、已批 Specimen:BLO
+完成：2015/04/14
+ 古世基 
+檢驗 12011C0P RA factor (Nephelometry) 1  N 2015/04/14 執行、已批 Specimen:BLO
+完成：2015/04/14
+ 古世基 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2015/04/14 執行、已批 Specimen:BLO
+完成：2015/04/14
+ 古世基 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/04/14 執行、已批 Indication:Follow up
+小部位:LUNGS/PLEURA
+完成：2015/04/24
+ 古世基 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2015/04/14 執行、已批 完成：2015/04/24
+ 古世基 
+檢查 17009B0S CO diffusing capacity-一氧化碳肺瀰散量測定 1  N 2015/04/14 執行、已批 完成：2015/04/24
+ 古世基 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/04/24 執行、已批 完成：2015/04/24
+ 李美惠 
+醫材 20000932 CT injection systems 1  N 2015/04/24 執行、已批 完成：2015/04/24
+ 李美惠 
+ 
+
+Subjective 
+fever with dry cough and 全身痠痛 since 4/5, afebrile, type-A flu(+) at 馬偕醫院
+dyspnea, dizziness
+mild costipation
+
+no systemic disease before
+no drug allergy 
+smoking for 50 years, now 2PPD
+
+TOCC:denied
+
+Occupation: constructor for 34 yr quit 20 yrs
+
+Now general condtion
+
+exertional dyspnea in progression
+no fever
+appetite OK
+
+******************************
+2015-4-27
+
+His daughter in law came and stated
+intermittent cough
+sputum not much
+exercise tolerance OK (now Travel) 
+Objective 
+BS bil basal crackles
+
+【20150412】pro-BNP: 104   pg/mL
+【20150412】WBC: 2.99   K/μL
+【20150412】RBC: 3.88   M/μL
+【20150412】Band: 1.0   %
+【20150412】PLT: 137   K/μL
+【20150412】HCT: 38.3   %
+【20150410】PO2: 53.8   mmHg
+【20150410】PH: 7.387   *
+【20150410】PCO2: 41.0   mmHg
+【20150410】ALT: 49   U/L
+【20150410】K: 3.6   mmol/L
+【20150410】Na: 139   mmol/L
+【20150410】CRE: 0.6   mg/dL
+【20150412】Chest : PA View (Standing) :borderline cardiothoracic ratio; prominent bilateral lung marking; recommend clinical correlation.
+
+【20150424】Pulmonary Function Test :PNEUMONIA,INTERSTITIAL PNEUMONITIS * Spirometry by CHESTAC-8800
+【20150414】Anti-Nuclear Antibody: 1:40(-)   1:N
+【20150414】C4 Quantitation: 26.10   mg/dL
+【20150414】C3 Quantitation: 111.00   mg/dL
+【20150414】CRE: 0.8   mg/dL
+【20150424】CT With/Without Contrast-Chest :COPD. Bronchiolitis. Suggest clinical correlation and follow up. 
+Plan 
+explain to patient
+f/u sputum exam
+f/u PFT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 491.9 Chronic bronchitis 慢  
+O 515 Interstitial pneumonitis  
+O 486 Pneumonia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Medicon 15 mg/tab 1 tab TIDPC PO 28 84 tab 健保  2015/04/27 已確認 已批 古世基  
+(DC)Mucosolvan 30 mg/tab 1 tab TID PO 28 84 tab 健保  2015/04/27 已確認 已批 古世基 
+ 
+
+Subjective 
+fever with dry cough and 全身痠痛 since 4/5, afebrile, type-A flu(+) at 馬偕醫院
+dyspnea, dizziness
+mild costipation
+
+no systemic disease before
+no drug allergy 
+smoking for 50 years, now 2PPD
+
+TOCC:denied
+
+Occupation: constructor for 34 yr quit 20 yrs
+
+Now general condtion
+
+exertional dyspnea in progression
+no fever
+appetite OK
+
+******************************
+2015-4-27
+
+His daughter in law came and stated
+intermittent cough
+sputum not much
+exercise tolerance OK (now Travel)
+
+*******************************
+2015-6-29
+
+ex smoke for 2 month
+exertional dyspnea fluctuation
+complanit of generalized numbness whole body ? 
+Objective 
+BS bil basal crackles
+
+BP 108/68
+
+【20150412】pro-BNP: 104   pg/mL
+【20150412】WBC: 2.99   K/μL
+【20150412】RBC: 3.88   M/μL
+【20150412】Band: 1.0   %
+【20150412】PLT: 137   K/μL
+【20150412】HCT: 38.3   %
+【20150410】PO2: 53.8   mmHg
+【20150410】PH: 7.387   *
+【20150410】PCO2: 41.0   mmHg
+【20150410】ALT: 49   U/L
+【20150410】K: 3.6   mmol/L
+【20150410】Na: 139   mmol/L
+【20150410】CRE: 0.6   mg/dL
+【20150412】Chest : PA View (Standing) :borderline cardiothoracic ratio; prominent bilateral lung marking; recommend clinical correlation.
+
+【20150424】Pulmonary Function Test :PNEUMONIA,INTERSTITIAL PNEUMONITIS * Spirometry by CHESTAC-8800
+【20150414】Anti-Nuclear Antibody: 1:40(-)   1:N
+【20150414】C4 Quantitation: 26.10   mg/dL
+【20150414】C3 Quantitation: 111.00   mg/dL
+【20150414】CRE: 0.8   mg/dL
+【20150424】CT With/Without Contrast-Chest :COPD. Bronchiolitis. Suggest clinical correlation and follow up.
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150414】CEA: 2.45   ng/mL 
+Assessment 
+Newly dx of COPD
+
+no AECOPD on 2015-6-29, start LAMA 
+Plan 
+explain to patient
+f/u sputum exam
+f/u PFT in 2015-4 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 496 Chronic obstructive pulmonary disease 慢 職  
+O 491.9 Chronic bronchitis 慢  
+O 515 Interstitial pneumonitis  
+O 486 Pneumonia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保  2015/06/29 已確認 已批 古世基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保  2015/06/29 已確認 已批 古世基  
+ 
+
+Subjective 
+fever with dry cough and 全身痠痛 since 4/5, afebrile, type-A flu(+) at 馬偕醫院
+dyspnea, dizziness
+mild costipation
+
+no systemic disease before
+no drug allergy 
+smoking for 50 years, now 2PPD
+
+TOCC:denied
+
+Occupation: constructor for 34 yr quit 20 yrs
+
+Now general condtion
+
+exertional dyspnea in progression
+no fever
+appetite OK
+
+******************************
+2015-4-27
+
+His daughter in law came and stated
+intermittent cough
+sputum not much
+exercise tolerance OK (now Travel)
+
+*******************************
+2015-6-29
+
+ex smoke for 2 month
+exertional dyspnea fluctuation
+complanit of generalized numbness whole body ?
+
+*******************************
+2015-7-27
+
+still dyspnea on exertion 
+Objective 
+BS bil basal crackles
+BP 94/60
+
+CAT (2015-7-27, one month of spiriva, poor hearing  ):
+
+【20150412】pro-BNP: 104   pg/mL
+【20150412】WBC: 2.99   K/μL
+【20150412】RBC: 3.88   M/μL
+【20150412】Band: 1.0   %
+【20150412】PLT: 137   K/μL
+【20150412】HCT: 38.3   %
+【20150410】PO2: 53.8   mmHg
+【20150410】PH: 7.387   *
+【20150410】PCO2: 41.0   mmHg
+【20150410】ALT: 49   U/L
+【20150410】K: 3.6   mmol/L
+【20150410】Na: 139   mmol/L
+【20150410】CRE: 0.6   mg/dL
+【20150412】Chest : PA View (Standing) :borderline cardiothoracic ratio; prominent bilateral lung marking; recommend clinical correlation.
+
+【20150414】Anti-Nuclear Antibody: 1:40(-)   1:N
+【20150414】C4 Quantitation: 26.10   mg/dL
+【20150414】C3 Quantitation: 111.00   mg/dL
+【20150414】CRE: 0.8   mg/dL
+【20150424】CT With/Without Contrast-Chest :COPD. Bronchiolitis. Suggest clinical correlation and follow up.
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150414】CEA: 2.45   ng/mL\
+【20150424】Pulmonary Function Test :PNEUMONIA,INTERSTITIAL PNEUMONITIS * Spirometry by CHESTAC-8800
+
+* Normal standard spirometry
+* Normal diffusion capacity
+【20150414】CEA: 2.45   ng/mL 
+Assessment 
+Newly dx of COPD
+
+no AECOPD on 2015-6-29, start LAMA 
+Plan 
+explain to patient
+f/u sputum exam
+f/u PFT in 2015-4 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 496 Chronic obstructive pulmonary disease 慢 職  
+O 491.9 Chronic bronchitis 慢  
+O 486 Pneumonia 慢  
+O 515 Interstitial pneumonitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/07/27 已確認 已批 古世基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/07/27 已確認 已批 古世基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0P ECG routine 1  N 2015/07/27 執行、已批 Specimen:ECG
+完成：2015/10/08
+ 古世基 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2015/07/27 執行、已批 完成：2015/07/27
+ 古世基 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 496 Chronic obstructive pulmonary disease 慢 職  
+O 491.9 Chronic bronchitis 慢  
+O 486 Pneumonia 慢  
+O 515 Interstitial pneumonitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/24 已確認 已批 趙瑞真  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/08/24 已確認 已批 趙瑞真 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 496 Chronic obstructive pulmonary disease 慢 職  
+O 491.9 Chronic bronchitis 慢  
+O 486 Pneumonia 慢  
+O 515 Interstitial pneumonitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/23 已確認 已批 謝欣妤  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/09/23 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+fever with dry cough and 全身痠痛 since 4/5, afebrile, type-A flu(+) at 馬偕醫院
+dyspnea, dizziness
+mild costipation
+
+no systemic disease before
+no drug allergy 
+smoking for 50 years, now 2PPD
+
+TOCC:denied
+
+Occupation: constructor for 34 yr quit 20 yrs
+
+Now general condtion
+
+exertional dyspnea in progression
+no fever
+appetite OK
+
+******************************
+2015-4-27
+
+His daughter in law came and stated
+intermittent cough
+sputum not much
+exercise tolerance OK (now Travel)
+
+*******************************
+2015-6-29
+
+ex smoke for 2 month
+exertional dyspnea fluctuation
+complanit of generalized numbness whole body ?
+
+*******************************
+2015-7-27
+
+still dyspnea on exertion
+
+***********************************
+2015-10-19
+
+dyspnea status after LAMA use, stationary
+regualr exercise 
+Objective 
+BS bil basal crackles
+
+
+CAT (2015-7-27, one month of spiriva, poor hearing  ):
+
+【20150412】pro-BNP: 104   pg/mL
+【20150412】WBC: 2.99   K/μL
+【20150412】RBC: 3.88   M/μL
+【20150412】Band: 1.0   %
+【20150412】PLT: 137   K/μL
+【20150412】HCT: 38.3   %
+【20150410】PO2: 53.8   mmHg
+【20150410】PH: 7.387   *
+【20150410】PCO2: 41.0   mmHg
+【20150410】ALT: 49   U/L
+【20150410】K: 3.6   mmol/L
+【20150410】Na: 139   mmol/L
+【20150410】CRE: 0.6   mg/dL
+【20150412】Chest : PA View (Standing) :borderline cardiothoracic ratio; prominent bilateral lung marking; recommend clinical correlation.
+
+【20150414】Anti-Nuclear Antibody: 1:40(-)   1:N
+【20150414】C4 Quantitation: 26.10   mg/dL
+【20150414】C3 Quantitation: 111.00   mg/dL
+【20150414】CRE: 0.8   mg/dL
+【20150424】CT With/Without Contrast-Chest :COPD. Bronchiolitis. Suggest clinical correlation and follow up.
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150414】CEA: 2.45   ng/mL\
+【20150424】Pulmonary Function Test :PNEUMONIA,INTERSTITIAL PNEUMONITIS * Spirometry by CHESTAC-8800
+
+* Normal standard spirometry
+* Normal diffusion capacity
+【20150414】CEA: 2.45   ng/mL 
+Assessment 
+Newly dx of COPD
+
+no AECOPD on 2015-6-29, start LAMA
+No AECOPD on 2015-10-19 mMRC 0 
+Plan 
+explain to patient
+f/u sputum exam
+f/u PFT in 2015-4, 2016-1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 515 Interstitial pneumonitis  
+O 486 Pneumonia 慢  
+O 491.9 Chronic bronchitis 慢  
+M 496 Chronic obstructive pulmonary disease 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/19 已確認 已批 古世基 重複原因:病人因素 (補給天數並延後回診)
+ 
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/10/19 已確認 已批 古世基 重複原因:病人因素 (補給天數並延後回診) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 496 Chronic obstructive pulmonary disease 慢 職  
+O 515 Interstitial pneumonitis  
+O 486 Pneumonia 慢  
+O 491.9 Chronic bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/11 已確認 已批 林威良  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/11/11 已確認 已批 林威良 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 496 Chronic obstructive pulmonary disease 慢 職  
+O 515 Interstitial pneumonitis  
+O 486 Pneumonia 慢  
+O 491.9 Chronic bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/10 已確認 已批 沈玉琴  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 3 2015/12/10 已確認 已批 沈玉琴 
+ 
+
+Subjective 
+fever with dry cough and 全身痠痛 since 4/5, afebrile, type-A flu(+) at 馬偕醫院
+dyspnea, dizziness
+mild costipation
+
+no systemic disease before
+no drug allergy 
+smoking for 50 years, now 2PPD
+
+TOCC:denied
+
+Occupation: constructor for 34 yr quit 20 yrs
+
+Now general condtion
+
+exertional dyspnea in progression
+no fever
+appetite OK
+
+******************************
+2015-4-27
+
+His daughter in law came and stated
+intermittent cough
+sputum not much
+exercise tolerance OK (now Travel)
+
+*******************************
+2015-6-29
+
+ex smoke for 2 month
+exertional dyspnea fluctuation
+complanit of generalized numbness whole body ?
+
+*******************************
+2015-7-27
+
+still dyspnea on exertion
+
+***********************************
+2015-10-19
+
+dyspnea status after LAMA use, stationary
+regualr exercise
+
+**********************************
+2016-1-11
+
+arrange PFT, PM&R 
+Objective 
+BS bil basal crackles
+
+
+CAT (2015-7-27, one month of spiriva, poor hearing  ):
+
+【20150412】pro-BNP: 104   pg/mL
+【20150412】WBC: 2.99   K/μL
+【20150412】RBC: 3.88   M/μL
+【20150412】Band: 1.0   %
+【20150412】PLT: 137   K/μL
+【20150412】HCT: 38.3   %
+【20150410】PO2: 53.8   mmHg
+【20150410】PH: 7.387   *
+【20150410】PCO2: 41.0   mmHg
+【20150410】ALT: 49   U/L
+【20150410】K: 3.6   mmol/L
+【20150410】Na: 139   mmol/L
+【20150410】CRE: 0.6   mg/dL
+【20150412】Chest : PA View (Standing) :borderline cardiothoracic ratio; prominent bilateral lung marking; recommend clinical correlation.
+
+【20150414】Anti-Nuclear Antibody: 1:40(-)   1:N
+【20150414】C4 Quantitation: 26.10   mg/dL
+【20150414】C3 Quantitation: 111.00   mg/dL
+【20150414】CRE: 0.8   mg/dL
+【20150424】CT With/Without Contrast-Chest :COPD. Bronchiolitis. Suggest clinical correlation and follow up.
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150410】ID+DS Blood.#1: No growth after 5 days   *
+【20150414】CEA: 2.45   ng/mL\
+【20150424】Pulmonary Function Test :PNEUMONIA,INTERSTITIAL PNEUMONITIS * Spirometry by CHESTAC-8800
+
+* Normal standard spirometry
+* Normal diffusion capacity
+
+
+【20150414】CEA: 2.45   ng/mL 
+Assessment 
+Newly dx of COPD
+
+no AECOPD on 2015-6-29, start LAMA
+No AECOPD on 2015-10-19 mMRC 0
+No AECOPD on 2016-1-11, mMRC 0 
+Plan 
+explain to patient
+f/u sputum exam
+f/u PFT in 2015-4, 2016-4 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O J42 Chronic bronchitis 慢  
+O J18.9 Pneumonia 慢  
+O J84.89 Interstitial pneumonitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/01/11 已確認 已批 古世基  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2016/01/11 已確認 已批 古世基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2016/01/11 執行、已批 完成：2016/02/18
+ 古世基 
+檢查 17009B0S CO diffusing capacity-一氧化碳肺瀰散量測定 1  N 2016/01/11 執行、已批 完成：2016/02/18
+ 古世基 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M J44.9 Chronic obstructive pulmonary disease 慢 職  
+O J42 Chronic bronchitis 慢  
+O J18.9 Pneumonia 慢  
+O J84.89 Interstitial pneumonitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/02/02 已確認 已批 林小琴  
+Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 1 btl 健保 2 2016/02/02 已確認 已批 林小琴 
+ 
+

@@ -1,0 +1,385 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+Thoart lumping sensation for 2-3 months
+Referred from Dr. 邱義霖
+
+現病史：
+Thoart lumping sensation for 2-3 months
+No dysphagia, hoarsness or choking 
+Denied previous trauma or UTI history
+Also, intermittent chest tightness
+More severe if after eating or lying down
+Intermittent blood tinge sputum and nasal discharge, not much
+Allergic rhinitis(+)
+GI discomfort
+過去病史：
+No DM, HTN, CAD
+Alcohol: once/week, 300c.c高梁, 10+ years
+B: 3-4days/month, 7~8 years
+C: 1+ PPD for 10+ years
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+Right buccal mucosa leukoplekia
+Boggy nasal mucosa, discharge(+)
+Postnasal drip(+)
+Uvula papilloma (noted before)
+
+Larynx: ok, injected interarytenoid area; tongue base is ok 
+NP: smooth 
+Assessment 
+Allergic rhinitis
+Post-nasal drip
+GERD
+Leukoplekia 
+Plan 
+PES
+OPD after PES 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 472.1 Chronic pharyngitis  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/12/14 已確認 已批B 何雯雅  
+(DC)Gaster D 20 mg/tab 1 tab BID LZ 14 28 tab 自費  2015/11/16 已確認 已批 陳俊男  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 14 42 tab 健保  2015/11/16 已確認 已批 陳俊男  
+Algitab Chewable 200 mg/tab 2 tab TIDPC PO 14 84 tab 健保  2015/11/16 已確認 已批 陳俊男  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 28016CZS [總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查 1  N 2015/11/16 執行、已批 完成：2015/12/14
+ 陳俊男 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+Thoart lumping sensation for 2-3 months, improved by medicaiton, for PES report
+Referred from Dr. 邱義霖
+
+現病史：
+Thoart lumping sensation for 2-3 months
+No dysphagia, hoarsness or choking 
+Denied previous trauma or UTI history
+Also, intermittent chest tightness
+More severe if after eating or lying down
+Intermittent blood tinge sputum and nasal discharge, not much
+Allergic rhinitis(+)
+GI discomfort
+過去病史：
+No DM, HTN, CAD
+Alcohol: once/week, 300c.c高梁, 10+ years
+B: 3-4days/month, 7~8 years
+C: 1+ PPD for 10+ years
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+Throat: Right buccal mucosa leukoplekia
+Uvula papilloma (noted before)
+
+Larynx: ok, injected interarytenoid area; tongue base is ok 
+NP: smooth
+
+【20151214】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD.
+ Indication :   throat discomfort.
+ Instrument :   GIF-Q260                          .15
+ Pre-medication :  Buscopan
+ Anesthesia :      Nil
+ Medicine history : Nil
+ Endoscopic Findings
+   Esophagus :
+     Several mucosal breaks and round mucosal islands were noted at lower 
+     esophagus. 
+   Stomach :
+     The mucosa over the body is hyperemic. 
+   Duodenum :
+     Some reddish hyperemic patches were noted in bulb. 
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis,body
+   Duodenum :
+     Duodenitis,Bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil 
+Assessment 
+Allergic rhinitis
+Post-nasal drip
+GERD
+Leukoplekia
+soft palatal papilloma, right 
+Plan 
+Treat as GERD
+Refer to GI man (Dr. 曾屏輝) for further treatment
+OPD 3 months (For leukoplakia and soft palatal papilloma) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 210.6 Benign neoplasm of other parts of oropharynx  
+O 528.6 Leukoplakia, oral  
+O 530.11 Reflux esophagitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保  2015/12/21 已確認 已批 陳俊男  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 28 84 tab 健保  2015/12/21 已確認 已批 陳俊男  
+Algitab Chewable 200 mg/tab 2 tab TIDPC PO 28 168 tab 健保  2015/12/21 已確認 已批 陳俊男 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+Thoart lumping sensation for 2-3 months, improved by medication, for PES report
+Referred from Dr. 邱義霖
+
+現病史：
+Thoart lumping sensation for 2-3 months
+No dysphagia, hoarsness or choking 
+Denied previous trauma or UTI history
+Also, intermittent chest tightness
+More severe if after eating or lying down
+Intermittent blood tinge sputum and nasal discharge, not much
+Allergic rhinitis(+)
+GI discomfort
+過去病史：
+No DM, HTN, CAD
+Alcohol: once/week, 300c.c高梁, 10+ years
+B: 3-4days/month, 7~8 years
+C: 1+ PPD for 10+ years
+
+20151229 PES: GERD A 
+Objective 
+Throat: Right buccal mucosa leukoplekia
+Uvula papilloma (noted before)
+
+Larynx: ok, injected interarytenoid area; tongue base is ok 
+NP: smooth
+
+【20151214】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD.
+ Indication :   throat discomfort.
+ Instrument :   GIF-Q260                          .15
+ Endoscopic Findings
+   Esophagus :
+     Several mucosal breaks and round mucosal islands were noted at lower 
+     esophagus. 
+   Stomach :
+     The mucosa over the body is hyperemic. 
+   Duodenum :
+     Some reddish hyperemic patches were noted in bulb. 
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis,body
+   Duodenum :
+     Duodenitis,Bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil 
+Assessment 
+Allergic rhinitis
+Post-nasal drip
+GERD
+Leukoplekia
+soft palatal papilloma, right 
+Plan 
+App 3w 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 210.6 Benign neoplasm of other parts of oropharynx  
+O 530.11 Reflux esophagitis 慢  
+O 528.6 Leukoplakia, oral  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 08013CZP WBC classification 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09006C0P HbA1c 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09043C0P HDL 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+檢驗 09044C0P LDL 1  N 2015/12/26 執行、已批 Specimen:BLO
+完成：2016/01/12
+ 曾屏輝 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 是 教育程度 高中(職) 嚼檳榔 >10年，每天<20顆 
+吸菸 >10年，每天>=20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 有異常，需進一步追蹤或轉介(請填原因) 
+需進一步追蹤或轉介原因 均質性薄白斑,口腔黏膜下纖維化症     
+檢查結果部位      
+確診追蹤 
+確診日期 1050112 (格式:0990101) 他院確診院所代碼  他院有做手術、放療或化療，治療醫院代碼  
+若有切片，請輸入切片日期  陽性個案於檢查後兩個月內有後續確診? 有 是否於他院進行確診 否 
+病理切片 無，請填診斷結果(非口腔癌之病變，未切片) 診斷結果 異常(請填寫診斷結果) 臨床診斷(複檢)結果(非口腔癌之其他病變) 口腔黏膜下纖維化症 
+診斷(確診)結果(病理診斷) 無 鱗狀細胞癌 無 治療 沒有(無需治療,已衛教介入) 
+異常個案是否已填答完畢 是     
+未接受確診理由 無     
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/01/12 執行、已批 完成：2016/01/12
+ 林志峰 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+Thoart lumping sensation for 2-3 months, improved by medication, for PES report
+Referred from Dr. 邱義霖
+
+現病史：
+Thoart lumping sensation for 2-3 months
+No dysphagia, hoarsness or choking 
+Denied previous trauma or UTI history
+Also, intermittent chest tightness
+More severe if after eating or lying down
+Intermittent blood tinge sputum and nasal discharge, not much
+Allergic rhinitis(+)
+GI discomfort
+過去病史：
+No DM, HTN, CAD
+Alcohol: once/week, 300c.c高梁, 10+ years
+B: 3-4days/month, 7~8 years
+C: 1+ PPD for 10+ years
+
+20151229 PES: GERD A
+20160119 mildly elevated TG 180 
+Objective 
+Throat: Right buccal mucosa leukoplekia
+Uvula papilloma (noted before)
+
+Larynx: ok, injected interarytenoid area; tongue base is ok 
+NP: smooth
+
+【20151214】[總院]UPPER G.I. PANENDOSCOPY-上消化道內視鏡檢查-(內視鏡科) :R/O GERD.
+ Indication :   throat discomfort.
+ Instrument :   GIF-Q260                          .15
+ Endoscopic Findings
+   Esophagus :
+     Several mucosal breaks and round mucosal islands were noted at lower 
+     esophagus. 
+   Stomach :
+     The mucosa over the body is hyperemic. 
+   Duodenum :
+     Some reddish hyperemic patches were noted in bulb. 
+ Endoscopic Diagnosis 
+   Esophagus :
+     Reflux esophagitis,lower esophagus,Los Angeles Classification Grade A
+   Stomach :
+     Superficial gastritis,body
+   Duodenum :
+     Duodenitis,Bulb
+ HP Test :
+   Not done
+ Complication :
+   Nil
+【20160112】PLT: 218   k/μL
+【20160112】HB: 15.8   g/dL
+【20160112】WBC: 7.85   k/μL
+【20160112】T-CHO: 159   mg/dL
+【20160112】TG: 180   mg/dL
+【20160112】GLU AC: 89   mg/dL
+【20160112】HbA1c: 5.7   %
+【20160112】CRE: 1.0   mg/dL
+【20160112】ALT: 16   U/L
+【20160112】HDL-C: 38   mg/dL
+【20160112】LDL-C: 96   mg/dL 
+Assessment 
+Allergic rhinitis
+Post-nasal drip
+GERD
+Leukoplekia
+soft palatal papilloma, right 
+Plan 
+App 2m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K21.0 Reflux esophagitis 慢  
+O D10.5 Benign neoplasm of other parts of oropharynx  
+O K13.21 Leukoplakia, oral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/01/19 已確認 已批 曾屏輝 
+ 

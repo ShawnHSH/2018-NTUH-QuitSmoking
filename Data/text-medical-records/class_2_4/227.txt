@@ -1,0 +1,2642 @@
+﻿
+Subjective 
+LMP: 2014/4; 
+Symptom improving than 2 weeks later
+menopause symptom (palpiataion) still noted
+Menopause s/s for several months:
+hot flush (+), sweating (+), palpitation (+), insomnia (+), anxiety (+), vaginal dryness (+) 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL 
+Assessment 
+no family breast cancer history 
+Plan 
+E2 FSH sonar 1 month later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 627.2 Menopause 慢 停 女  
+O 307.41 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Stilnox 10 mg/tab 1 tab HS PO 14 14 tab 健保  2014/12/05 已確認 已批 陳啟豪  
+Prozac 20 mg/tab 1 tab QD PO 28 28 tab 健保  2014/12/05 已確認 已批 陳啟豪  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保  2014/12/05 已確認 已批 陳啟豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09127C0P Estradiol, E2 1  N 2014/12/05 執行、已批 Specimen:BLO
+完成：2014/12/05
+ 陳啟豪 
+檢驗 09125C0P Follicle-stimulating hormone,FSH 1  N 2014/12/05 執行、已批 Specimen:BLO
+完成：2014/12/05
+ 陳啟豪 
+檢查 00EXGYNH [總院]婦產科超音波－健保 1  N 2014/12/05 執行、已批 Clinical Diagnosis:.
+完成：2015/01/02
+ 陳啟豪 
+治療 19003CGC SONAGRAPHY FOR FEMALE PELVIS 1  N 2014/12/05 執行、已批 完成：2015/01/02
+ 陳啟豪 
+ 
+
+Subjective 
+LMP: 2014/4; P0
+Symptom improving than 2 weeks later; and happened again after stopping Prozac for 6 days
+menopause symptom (palpiataion) still noted
+Menopause s/s for several months:
+hot flush (+), sweating (+), palpitation (+), insomnia (+), anxiety (+), vaginal dryness (+) 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL
+
+
+【20141205】E2: 67.3   pg/mL
+【20141205】FSH: 3.44   mIU/mL
+2015/1/2  Impression :
+   Myoma uteri 
+Assessment 
+no family breast cancer history 
+Plan 
+Well explain and OPD 1 month 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 627.2 Menopause 慢 停 女  
+O 307.41 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Stilnox 10 mg/tab 1 tab HS PO 28 28 tab 健保  2015/01/02 已確認 已批 陳啟豪  
+Prozac 20 mg/tab 1 tab QD PO 14 14 tab 健保  2015/01/02 已確認 已批 陳啟豪  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保  2015/01/02 已確認 已批 陳啟豪 
+ 
+
+Subjective 
+LMP: 2014/4; P0
+Symptom improving than 2 weeks later; and happened again after stopping Prozac for 6 days; vaginal dryness
+menopause symptom (palpiataion) still noted
+Menopause s/s for several months:
+hot flush (+), sweating (+), palpitation (+), insomnia (+), anxiety (+), vaginal dryness (+) 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL
+
+
+【20141205】E2: 67.3   pg/mL
+【20141205】FSH: 3.44   mIU/mL
+2015/1/2  Impression :
+   Myoma uteri 
+Assessment 
+no family breast cancer history 
+Plan 
+Well explain and OPD 2 month 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 627.2 Menopause 慢 停 女  
+O 307.41 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Stilnox 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/01/30 已確認 已批 陳啟豪  
+Prozac 20 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/01/30 已確認 已批 陳啟豪  
+Premarin Vag Cream 0.625 mg/1 g 14 g/tube 0.25 G QD V 7 1 tube 健保  2015/01/30 已確認 已批 陳啟豪  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保 2 2015/01/30 已確認 已批 陳啟豪 
+ 
+
+Subjective 
+LMP: 2014/4; P0
+Symptom improving than 2 weeks later; and happened again after stopping Prozac for 6 days; vaginal dryness
+menopause symptom (palpiataion) still noted
+Menopause s/s for several months:
+hot flush (+), sweating (+), palpitation (+), insomnia (+), anxiety (+), vaginal dryness (+) 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL
+
+【20141205】E2: 67.3   pg/mL
+【20141205】FSH: 3.44   mIU/mL
+2015/1/2  Impression :
+   Myoma uteri 
+Assessment 
+no family breast cancer history
+with HT since 2014/10; and stop Prozac for 2 weeks 
+Plan 
+Well explain and OPD followup 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 627.2 Menopause 慢 停 女  
+O 307.41 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Stilnox 10 mg/tab 0.5 tab HS PO 28 14 tab 健保  2015/03/27 已確認 已批 陳啟豪  
+Premarin Vag Cream 0.625 mg/1 g 14 g/tube 0.25 G QD V 7 1 tube 健保  2015/03/27 已確認 已批 陳啟豪  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保  2015/03/27 已確認 已批 陳啟豪 
+ 
+
+Subjective 
+Arrange for periodontal follow up.
+Complaint about food retention over upper right posterior, p't asked if it is caused by the splinted implant supported i15 and i16.
+ 
+Objective 
+1. PD>=5mm: #13, #11, #21, #24, #26. (No probing performed over implants and lower arch)
+2. i36, i37 s/p implantation at 台安 for years, s/p explantation at 台安醫院 last year.
+3. 4445X48 temp bridge fabrication at LDC yesterday.
+4. #26 palatal caries.
+ 
+Assessment 
+Chronic Periodontitis.
+ 
+Plan 
+1. Full mouth scaling, OHI. Caviton temp. filling at #26 (P)
+(P't refused full mouth scaling at first, but decided to do so afterwards.)
+2. Explain about food retention may caused by buccal resorption of alveolar ridge and inadequate buccal volume of ridge.
+3. Suggest other treatment at LDC. 6 mths F/U of perio at NTUH.
+
+G3沈中浩/VS郭彥彬
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91004C00 SCALING:FULL-MOUTH 1  N 2015/04/21 執行、已批 齒位1:FM
+完成：2015/04/21
+ 郭彥彬 
+ 
+
+Subjective 
+CC:
+For evaluation of upper anterior fixed prosthesis and further full mouth reconstruction.
+
+PI:
+The 54 y/o female complaint of upper anterior fixed prosthesis with hypermobility, and she also complaint of severe food impaction between upper anterior fixed prosthesis. P't was under regular period ontal follow up at NTUH periodontal dept. She would like to recieve full mouth reconstruction in our OPD.
+
+PMH:
+1.All systemic diseases were denied
+2.No known drug/food allergy
+ 
+Objective 
+1.Present dentition:
+  7  4321 | 1  456
+  7 54321 | 12345
+
+2.Prosthesis:
+-Implant: 15,16 (I36,I37 s/p implantation at 台安 for years, s/p explantation at 台安醫院 last year.)
+-PFM crown:11,12,13,14,17,25,26,31,32,33,34,35,41,42,43
+-PFM bridge:21x24
+-4445X48 temp bridge fabrication at LDC on 2015.4.20.
+
+3.PD>=5mm: #13, #11, #21, #24, #26. (No probing performed over implants and lower arch)
+4.26 palatal caries with Caviton temporary filling
+5.Oral hygiene:fair
+ 
+Assessment 
+Chronic periodontitis, full mouth
+Dental caries, 26
+ 
+Plan 
+1.Check pano X-ray, findings:
+-Implant: 15,16 splinted (I36,I37 s/p implantation at 台安 for years, s/p explantation at 台安醫院 last year.)
+-PFM crown:11,12,13,14,17,25,26,31,32,33,34,35,41,42,43
+-PFM bridge:21x24
+-Previous RCT: 11,12,13,21,24,25,31,32,33,34,41,42,43,45
+-Generalized horizontal bony destruction, 26 severe loss of bone support.
+
+2.Suggest consult prosthodontic dept. for further evaluation (Dr徐幼群) (upper anterior & left lower area)
+
+
+Ri王思翰/R2陳柄世/VS李正
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/04/22 執行、已批 齒位1:FM
+完成：2015/04/22
+ 李正 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 371.42 Corneal erosion 慢  
+O 375.31 Acute canaliculitis, lacrimal 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flumetholon Oph Susp 0.1% 5 mL/btl 1 gtt QD OD 7 1 btl 健保  2015/07/23 已確認 已批 鄭琪睿  
+Sinomin Oph Soln 4% 15 mL/btl 1 gtt QD OD 7 1 btl 健保  2015/07/23 已確認 已批 鄭琪睿 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 729.1 Myofascial pain  
+O 716.90 Arthritis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 14 28 cap 健保  2015/08/12 已確認 已批 韓毅雄  
+(管4) Ultracet tab /tab 1 tab TID PO 5 15 tab 健保  2015/08/12 已確認 已批 韓毅雄  
+SOLAXIN 200 mg/tab 1 tab BIDPC PO 14 28 tab 健保  2015/08/12 已確認 已批 韓毅雄  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP090 Spine: Lumbosacral AP, LAT. 1  Y 2015/08/12 執行、已批 小部位:ROUTINE
+完成：2015/08/12
+ 韓毅雄 
+Subjective 
+主要病史來源：病人
+
+主訴：
+CC: Referred from Dr.呂國勳 for evaluation of #26 oroantral fistula 
+
+現病史：
+PI: The 55 years old female received 26 extraction in 2015/05, and the socket wound was still existed for a long time. She received #26 open debridement surgery in 2015/09, but symptom didn't imporved. She was arranged to reveived 26 implantation yesterday, and OAC was noted. Therefore, she was referred to our dept. for further evaluation  
+
+過去病史：
+PMH:
+All systemic diseases were denied.
+No known food or drug allergy.
+
+Personal habits :
+A(+): sometimes, 威氏忌,葡萄酒
+B(-)
+C(+):18#/QD for 30+ years
+
+過敏史：
+藥物過敏：不清楚 
+食物過敏：不清楚 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：糖尿病
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+1. present dentition : 
+ 7 I6 I5 4321 | 1234
+ 7  54321 |  12345
+2. 
+#26 extraction socket, (s/p extraction on 2015.5),unhealing was noted(0.5cm*0.5cm in size).
+oroantral fistula was detected by probe.
+pain score= 0
+3. no signs of sinusitis or pus discharge was noted.
+ 
+Assessment 
+oroantral fistula (UL near 26 edntulous area)
+ 
+Plan 
+Tx：
+1. check panoramic, 26 periapical and waters' view radiograph, findings : 
+  (1) present dentition : 
+    7 I6 I5 43   | 1234
+    7  4321 |  12345
+  (2) thin layer of sinus floor ( < 2mm), low sinus floor was noted.  
+  (3) no cloudy image over bilateral maxillary sinus
+  (4) severe horizontal bony destruction was noted at upper anterior region.
+
+Ri 宋昱文/R2 吳蕙宇
+
+Tx. plan : 
+Explain the surgery under GA.
+Admission was arranged.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/10/27 執行、已批 齒位1:FM
+完成：2015/10/27
+ 郭生興 
+治療 32009CZL [不收費]頭顱檢查含各種角度部位 1  N 2015/10/27 執行、已批 齒位1:99
+完成：2015/10/27
+ 郭生興 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+CC: Referred from Dr.呂國勳 for evaluation of #26 oroantral fistula 
+
+現病史：
+PI: The 55 years old female received 26 extraction in 2015/05, and the socket wound was still existed for a long time. She received #26 open debridement surgery in 2015/09, but symptom didn't imporved. She was arranged to reveived 26 implantation yesterday, and OAC was noted. Therefore, she was referred to our dept. for further evaluation  
+
+過去病史：
+PMH:
+All systemic diseases were denied.
+No known food or drug allergy.
+
+Personal habits :
+A(+): sometimes, 威氏忌,葡萄酒
+B(-)
+C(+):18#/QD for 30+ years
+
+過敏史：
+藥物過敏：不清楚 
+食物過敏：不清楚 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：糖尿病
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+1. present dentition : 
+ 7 I6 I5 4321 | 1234
+ 7  54321 |  12345
+2. 
+#26 extraction socket, (s/p extraction on 2015.5),unhealing was noted(0.5cm*0.5cm in size).
+oroantral fistula was detected by probe.
+pain score= 0
+3. no signs of sinusitis or pus discharge was noted.
+ 
+Assessment 
+oroantral fistula (UL near 26 edntulous area)
+ 
+Plan 
+Tx：
+1. check panoramic, 26 periapical and waters' view radiograph, findings : 
+  (1) present dentition : 
+    7 I6 I5 43   | 1234
+    7  4321 |  12345
+  (2) thin layer of sinus floor ( < 2mm), low sinus floor was noted.  
+  (3) no cloudy image over bilateral maxillary sinus
+  (4) severe horizontal bony destruction was noted at upper anterior region.
+
+Ri 宋昱文/R2 吳蕙宇
+
+Tx. plan : 
+Explain the surgery under GA.
+Admission was arranged.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/06 已批 完成：2015/11/06  
+行政費用 00130C00 符合加強感染控制之牙科門診診察費(自行調劑)1.每位醫師每日門診量在二十人次以下... 1  N 2015/11/06 已批 完成：2015/11/06 
+ 
+
+Subjective 
+For post op follow up.
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+ 
+Plan 
+Remove partial stitches. 
+F/u 1 week.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 2 8 tab 健保  2015/11/20 已確認 已批 郭生興 
+ 
+
+Subjective 
+left hyperacusis for 2 weeks, throat discomfort 
+Objective 
+left ear drum; intact
+
+throat and larynx; n.p. 
+Plan 
+explanation and follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 388.42 Hyperacusis  
+O 472.1 Chronic pharyngitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/25 已批 完成：2015/11/25 
+ 
+
+Subjective 
+For post op follow up.
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+ 
+Plan 
+Photo taken.
+Follow up 1 month.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/27 已批 完成：2015/11/27  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/22 已批 完成：2015/12/22  
+ 
+
+Subjective 
+For post op follow up.
+Asking for implant evaluation
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+ 
+Plan 
+Consult prostho doctor for evaluation of implant of upper left and lower left site
+
+< PS dept.>
+C.C. For evaluation of implantation of upper left and lower left site
+L.F.
+1. Full mouth temporary fix prostheses fabricated at LDC, and I5I6 splinted PFM crowns
+2. Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+3. Lower left edentulous ridge severe resorption with sharp ridge
+Tx plan
+Suggest implantation further examination after finishing fix prostheses at LDC
+
+R1羅卓鈺/VS李明澍
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/25 已批 完成：2015/12/25 
+ 
+
+Subjective 
+For post op follow up.
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+ 
+Plan 
+Photo taken.
+Follow up 1 month.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/27 已批 完成：2015/11/27 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+CC: Referred from Dr.呂國勳 for evaluation of #26 oroantral fistula 
+
+現病史：
+PI: The 55 years old female received 26 extraction in 2015/05, and the socket wound was still existed for a long time. She received #26 open debridement surgery in 2015/09, but symptom didn't imporved. She was arranged to reveived 26 implantation yesterday, and OAC was noted. Therefore, she was referred to our dept. for further evaluation  
+
+過去病史：
+PMH:
+All systemic diseases were denied.
+No known food or drug allergy.
+
+Personal habits :
+A(+): sometimes, 威氏忌,葡萄酒
+B(-)
+C(+):18#/QD for 30+ years
+
+過敏史：
+藥物過敏：不清楚 
+食物過敏：不清楚 
+血型：B
+
+目前用藥：
+NA
+
+最近三個月內旅遊史：無
+
+家族病史：糖尿病
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+1. present dentition : 
+ 7 I6 I5 4321 | 1234
+ 7  54321 |  12345
+2. 
+#26 extraction socket, (s/p extraction on 2015.5),unhealing was noted(0.5cm*0.5cm in size).
+oroantral fistula was detected by probe.
+pain score= 0
+3. no signs of sinusitis or pus discharge was noted.
+ 
+Assessment 
+oroantral fistula (UL near 26 edntulous area)
+ 
+Plan 
+Tx：
+1. check panoramic, 26 periapical and waters' view radiograph, findings : 
+  (1) present dentition : 
+    7 I6 I5 43   | 1234
+    7  4321 |  12345
+  (2) thin layer of sinus floor ( < 2mm), low sinus floor was noted.  
+  (3) no cloudy image over bilateral maxillary sinus
+  (4) severe horizontal bony destruction was noted at upper anterior region.
+
+Ri 宋昱文/R2 吳蕙宇
+
+Tx. plan : 
+Explain the surgery under GA.
+Admission was arranged.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/06 已批 完成：2015/11/06  
+ 
+
+Subjective 
+For post op follow up.
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+ 
+Plan 
+Remove partial stitches. 
+F/u 1 week.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 2 8 tab 健保  2015/11/20 已確認 已批 郭生興 
+ 
+
+Subjective 
+left hyperacusis for 2 weeks, throat discomfort 
+Objective 
+left ear drum; intact
+
+throat and larynx; n.p. 
+Plan 
+explanation and follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 388.42 Hyperacusis  
+O 472.1 Chronic pharyngitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/25 已批 完成：2015/11/25 
+ 
+
+Subjective 
+For post op follow up.
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+ 
+Plan 
+Photo taken.
+Follow up 1 month.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 473.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/27 已批 完成：2015/11/27 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/22 已批 完成：2015/12/22 
+ 
+
+Subjective 
+1. for dental treatment (periodontal, prosthetic and endodontic treatment)
+2. 42 labial swelling 2 weeks ago(and I& D was performed at LDC)
+3. frequent 4445X47 temporary bridge loosening
+ 
+Objective 
+PMH:
+all major systemic diseases were denied
+no known drug or food allergy
+
+LF:
+present dentition:17-24, 47-35
+I16 I15 splinted implant-supported FPD
+1413X1121X2324 43-35 4445X47 temporary bridge with ill-fitting margin
+PD>=5mm:17 I16 13 11 21
+47 loosening, 47 PD:within normal limit
+47 EPT:15/80, cold test:(+), no lingering pain
+42 apical lesion was noted on x-ray film(facial swelling was noted 2 weeks ago, and the patient went to LDC for treatment, incision and drainage was performed)
+13 11 21 23 24 34-45 s/p RCT
+26 used to have oroantral fistula, s/p Caldwell's Luc operation on 2015-11-12(at OMS Dept)
+ 
+Assessment 
+chronic periodontitis
+ 
+Plan 
+periodontal treatment plan:
+17 flap OP 
+13 11 21 repeat SRP
+suggest adjustment of all temporary crowns for better marginal fitness(the patient didn't want to go back to the original LDC; she wanted further dental treatment at NTUH)
+
+Endo dept consultation for 42 further treatment
+
+Prosth dept consultation for adjustment of temporary prosthesis for better marginal fitness, and further final prosthesis fabrication
+
+TR3洪秀君/VS陳漪紋
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/20 已批 完成：2016/01/20 
+ 
+
+Subjective 
+CC: Asking for consultation for full mouth temporary prosthesis renew and fabrication
+
+PI: The patient 55 year-old female patient was referred to our dept for full mouth temporary prosthesis renew and fabrication before periodontal treatment.
+
+PDH:
+1. 2014-5: 15 16 implantation and prosthesis fabrication(cement type prosthesis, temporary cementation) in LDC
+2. 2014-8~9: upper and lower dentition temporary prosthesis fabrication in LDC
+3. 42 labial swelling 3 weeks ago, I& D was performed at LDC
+4. Frequent 4445X47 temporary bridge loosening 
+
+PMH:
+1. All major systemic diseases were denied
+2. No known drug or food allergy
+3. Smoking: 1PPD for >25 years
+ 
+Objective 
+疼痛評估：疼痛指數： 1-2分; 間歇痛 ; 疼痛部位： 42; 
+LF:
+1. Present dentition:
+7 I6 I5 43x1 | 1x34
+--------------------
+7x54321 | 12345
+2. Prosthesis
+-Implant: I16 I15 splinted implant-supported FPD, cement type, temporary cemented
+-1413x1121x2324, 4445X47, 333435, 314142 temporary bridge with ill-fitted margin
+-32 43 temporary crown with ill-fitted margin
+3.PD>=5mm: 17 I16 14 13 11 21 23 31 44 45
+4.Mobility: 
+-314142 Gr(II)
+-32 43 Gr(I)
+5. 47 loosening, 47 PD:within normal limit, 47 EPT:15/80, cold test:(+), no lingering pain (2016-01-20)
+6. 24, 42 Apical lesion was noted on x-ray film
+-Percussion(+), palpation pain(-)
+-Facial swelling was noted 3 weeks ago, incision and drainage was performed in LDC
+7. 26 used to have oroantral fistula, s/p Caldwell's Luc operation on 2015-11-12(at OMS Dept)
+8. 17 palatal root caries
+ 
+Assessment 
+Chronic periodontitis 
+Missing tooth
+Ill-fitted prosthesis
+ 
+Plan 
+Tx plan:
+1. Remove upper and lower all ill-fitted temporary prosthesis for further evaluation
+-Extraction of hopeless teeth is indicated (patient agree)
+-Patient prefer implant reconstruction if possible
+
+Assign to Dr.陳孝宇 for further treatment
+
+2. Periodontal treatment plan if needed after temporary restoration renew: (TR3洪琇君)
+
+R1黃大原/VS李明澍
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z46.3 Fitting and adjustment of dental prosthetic device  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/29 已批 完成：2016/01/29  
+ 
+
+Subjective 
+CC: Asking for further detailed treatment plan after 2016/01/29 OPD
+
+
+PI: The 55 year-old female patient was referred to our dept in 2016/01/19 for full mouth temporary prosthesis renew and fabrication before periodontal treatment. She stated that she still a little confused about treatment plan ,so she came today asking for further detail treatment plan after 2016/01/29 OPD.
+
+PDH:
+1. 2014-5: 15 16 implantation and prosthesis fabrication(cement type prosthesis, temporary cementation) in LDC
+2. 2014-8~9: upper and lower dentition temporary prosthesis fabrication in LDC
+3. 42 labial swelling 3 weeks ago, I& D was performed at LDC
+4. Frequent 4445X47 temporary bridge loosening 
+
+PMH:
+1. All major systemic diseases were denied
+2. No known drug or food allergy
+3. Smoking: 1PPD for >25 years
+ 
+Objective 
+疼痛評估：疼痛指數： 1-2分; 間歇痛 ; 疼痛部位： 42; 
+LF:
+1. Present dentition:
+7 I6 I5 43x1 | 1x34
+--------------------
+7x54321 | 12345
+2. Prosthesis
+-Implant: I16 I15 splinted implant-supported FPD, cement type, temporary cemented
+-1413x1121x2324, 4445X47, 333435, 314142 temporary bridge with ill-fitted margin
+-32 43 temporary crown with ill-fitted margin
+3.PD>=5mm: 17 I16 14 13 11 21 23 31 44 45
+4.Mobility: 
+-314142 Gr(II)
+-32 43 Gr(I)
+5. 47 loosening, 47 PD:within normal limit, 47 EPT:15/80, cold test:(+), no lingering pain (2016-01-20)
+6. 24, 42 Apical lesion was noted on x-ray film
+-Percussion(+), palpation pain(-)
+-Facial swelling was noted 3 weeks ago, incision and drainage was performed in LDC
+7. 26 used to have oroantral fistula, s/p Caldwell's Luc operation on 2015-11-12(at OMS Dept)
+8. 17 palatal root caries
+ 
+Assessment 
+Chronic periodontitis 
+Missing tooth
+Ill-fitted prosthesis
+ 
+Plan 
+Tx plan:
+1. Remove upper and lower all ill-fitted temporary prosthesis for further evaluation
+-Extraction of hopeless teeth is indicated (patient agree)
+-Patient prefer implant reconstruction if possible
+
+explained further detailed treatment plan, and assign patient to Dr.陳孝宇 for further treatment
+
+2. Periodontal treatment plan if needed after temporary restoration renew: (TR3洪琇君)
+
+Ri潘玳佑/VS李明澍
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z46.3 Fitting and adjustment of dental prosthetic device  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/25 已批 完成：2016/03/25  
+ 
+
+Subjective 
+CC:referred from peri dept for tooth 42 endo treatment evaluation
+
+PMH:
+1.all major systemic diseases were denied
+2.no known drug or food allergy
+3.hepatitis(-)
+4.osteoporosis(-)
+5.present medication(-)
+
+PI:This 55 year-old female had tooth 42 gingival swelling this Jun and went to LDC for treatment.She received I&D and curettage treatment.Then she came to our dept for further evaluation on 2016/01/20.She underwent periapical X ray taking and was found there was a apical lesion over tooth 42 apex.Therefore she was arranged endo dept consultation for further evaluation today.
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA
+
+LF:
+1.tooth 42 31 32 splinting temporary crown
+2.tooth 42 buccal gingiva scar s/p I&D was found
+  病人自述20年前做,10年前有腫過
+  resin core+parapost insertion with secondary caries
+  percussion pain(-)
+  palpation pain(-)
+  probing dept:WNL
+  mobility:GrII
+  X ray finding(on 2016/01/20) :
+  tooth 42 previous endo treated with post insertion 
+  apical lesion(+):about 5x7 mm
+ 
+Assessment 
+tooth 42 chronic apical periodontitis
+ 
+Plan 
+Tx:
+1.Explained to p't,informed quetionable prognosis(due to weak tooth structure, secondary dental caries, mobility and large apical radiolucency lesion) and the risk of root fracture during post removal or insufficient tooth structure after post removal about tooth 42
+
+Tx. plan: 42 secondary dental caries and post removal, then endodontic retreatment indicated if 42 was restorable, suspected lingual missing canal?
+Arrange tooth 42 endo re-treatment under R4 廖婉萱's service,informed microscope charge($8000)
+
+recorded by R1陳昭霖/R4廖婉萱
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K04.5 Chronic apical periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/26 已批 完成：2016/03/26 
+ 
+
+Subjective 
+Ask for prosthodontic tx
+
+PMH: denied
+allergy: denied
+cigaretted: 10-15/day/30yrs
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+1. present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+2. prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: moiblity I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+3. FM chronic periodontitis with moderate bone loss
+4. 42 old RCT+ post with apical lesion
+5. findings
+-dental midline shift to L't 2mm
+-no gummy smile
+-incisal show at rest 2mm
+-occlusal plane canting, right side down
+6. TMJ examiantion
+-MMO 43mm
+-clicking(-)
+-bruxism(+, in young age)
+-L't masseter m. soreness
+ 
+Assessment 
+missing tooth 
+chronic periodontitis
+ 
+Plan 
+1. take primary impression, facebow transfer, photo
+G1陳孝宇/VS李明澍
+ 
+ 
+ 
+ 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/15 已批 完成：2016/04/15 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z12.4 Encounter for screening for malignant neoplasm of cervix 女  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 0000330W Pap smear (Cytology)(預防保健) 1  N 2016/04/29 執行、已批 非月經期間是否有不正常陰道出血及分泌物:.
+診斷名稱:.
+組織來源:.
+術式名稱:.
+完成：2016/04/30
+ 陳啟豪 
+治療 0000310I 子宮頸抹片採樣（三十歲以上每年乙次）及骨盤腔檢查 1  N 2016/04/29 執行、已批 完成：2016/04/29
+ 陳啟豪 
+ 
+
+Subjective 
+Ask for prosthodontic tx
+
+PMH: denied
+allergy: denied
+cigaretted: 10-15/day/30yrs
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+1. present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+2. prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: moiblity I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+3. FM chronic periodontitis with moderate bone loss
+4. 42 old RCT+ post with apical lesion
+5. findings
+-dental midline shift to L't 2mm
+-no gummy smile
+-incisal show at rest 2mm
+-occlusal plane canting, right side down
+6. TMJ examiantion
+-MMO 43mm
+-clicking(-)
+-bruxism(+, in young age)
+-L't masseter m. soreness
+ 
+Assessment 
+missing tooth 
+chronic periodontitis
+ 
+Plan 
+1. removal of all temporary prosthesis then evaluation of abutment condition. Take abutment level impression
+G1陳孝宇/VS李明澍
+ 
+ 
+ 
+ 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/04 已批 完成：2016/05/04 
+ 
+
+Subjective 
+LMP: 2014/4; P0; insomnia for half a month;
+symptom improving after medication, WDB: 2016/5/6
+menopause symptome treated in 2014 
+generation weakness 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL
+
+【20141205】E2: 67.3   pg/mL
+【20141205】FSH: 3.44   mIU/mL
+
+2015/1/2  Impression :
+   Myoma uteri
+
+2016/4/29 PV: np 
+Assessment 
+no family breast cancer history
+with HT since 2014/10; and stop Prozac for 2 weeks 
+Plan 
+Well explain and sonar followup 2 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+婦 Ergometrine 0.2 mg/tab 1 tab TID PO 2 6 tab 健保  2016/05/13 已確認 已批 陳啟豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 00EXGYNH [總院]婦產科超音波－健保 1  N 2016/05/13 執行、已批 Clinical Diagnosis:Myoma uteri
+Menopause:NO
+LMP(YYYY/MM/DD):2014/04/XX
+G:1
+P:1
+完成：2016/05/25
+ 陳啟豪 
+治療 19003CGC SONAGRAPHY FOR FEMALE PELVIS 1  N 2016/05/13 執行、已批 完成：2016/05/25
+ 陳啟豪 
+ 
+
+Subjective 
+Ask for prosthodontic tx
+
+PMH: denied
+allergy: denied
+cigaretted: 10-15/day/30yrs
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+1. present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+2. prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: moiblity I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+3. FM chronic periodontitis with moderate bone loss
+4. 42 old RCT+ post with apical lesion
+5. findings
+-dental midline shift to L't 2mm
+-excessive gingival display about 1mm while broad smile
+-incisal show at rest 2mm
+-occlusal plane canting, right side down
+6. TMJ examiantion
+-MMO 43mm
+-clicking(-)
+-bruxism(+, in young age)
+-L't masseter m. soreness
+ 
+Assessment 
+missing tooth 
+chronic periodontitis
+ 
+Plan 
+Tx plan:
+(A)extraction of 11,21,23,32,31,42,41
+-implant of I12x21x23, I42xx32, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43,33,34,35,14,15,24 crown
+(B)extraction of 11,21,23,42
+-implant of I12x21x23, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43x41313233,34,35,14,15,24 crown
+(C)extraction of 11,21,23,32,31,42,41
+-4445x47,43,33,34,35,14,15,24 crown
+-upper and lower RPD
+
+p't prefer option (A),病患對美觀要求，擔心上顎前牙植牙後會有美觀不好看的問題。已告知需照CBCT並做esthetic分析才能評估風險性。 
+G1陳孝宇/VS李明澍
+ 
+ 
+ 
+ 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/20 已批 完成：2016/05/20 
+ 
+
+Subjective 
+LMP: 2014/4; P0; insomnia for half a month;
+spotting on 5/13
+symptom improving after medication, WDB: 2016/5/6
+menopause symptome treated in 2014 
+generation weakness 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL
+
+【20141205】E2: 67.3   pg/mL
+【20141205】FSH: 3.44   mIU/mL
+
+2015/1/2  Impression :
+   Myoma uteri
+
+2016/4/29 PV: np
+
+2016/5/27  Impression :
+   Myoma uteri 4 cm
+   Adenomyosis
+ENDOMETRIUM : TYPE II thickness : 6.0 mm 
+Assessment 
+no family breast cancer history
+with HT since 2014/10; and stop Prozac for 2 weeks 
+Plan 
+Well explain and OPD followup 3 months; DEXA (spine; cash); GOP, liplid profile; breast echo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Stilnox 10 mg/tab 0.5 tab HS PO 28 14 tab 健保  2016/05/27 已確認 已批 陳啟豪  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保 3 2016/05/27 已確認 已批 陳啟豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2016/05/27 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 陳啟豪 
+檢驗 09001CZP T-CHO 1  N 2016/05/27 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 陳啟豪 
+檢驗 09004CZP TG 1  N 2016/05/27 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 陳啟豪 
+檢驗 09043C0P HDL 1  N 2016/05/27 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 陳啟豪 
+影醫 000M2806 BONE MINERAL DENSITY:BMD By Lumbar Spine 自費 1 自費 N 2016/05/27 執行、已批 完成：2016/06/24
+ 陳啟豪 
+ 
+
+Subjective 
+s/p silicon injection at age 30-year-old
+right breast lump noted for 2-3 months noted after trauma ( hit by bicycle ) 
+
+Menopause: 41-42 years old, P1
+HRT (+) 
+no family history of breast cancer 
+Objective 
+PE: mass over bilateral breast
+疼痛評估：疼痛指數： 7-8分; 間歇痛 ; 疼痛部位： breast; 
+Assessment 
+right breast lump 
+Plan 
+breast sono 
+mammogram 
+RTC 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.3 Breast tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Votan SR 100 mg/tab 1 tab QDPC PO 3 3 tab 健保  2016/05/31 已確認 已批 羅喬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33005B0M Mammography 1  N 2016/05/31 開立、已批 小部位:.
+ 羅喬 
+檢查 19005BMB [總院]Breast Echo-超音波檢查（乳房） 1  N 2016/05/31 執行、已批 檢查項目:篩檢
+位置:其他部位, 左側腋下淋巴, 乳房左側, 乳房右側, 右側腋下淋巴
+完成：2016/06/07
+ 羅喬 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保 3 2016/06/15 已確認 已批 林小琴 
+ 
+Subjective 
+Ask for prosthodontic tx
+病患抱怨嘴角容易有口水堆積，下唇乾燥且黏膜很容易受到刺激且脆弱
+目前為更年期
+
+PMH: denied
+allergy: denied
+cigaretted: 10-15/day/30yrs
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+1. present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+2. prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: moiblity I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+3. FM chronic periodontitis with moderate bone loss
+4. 42 old RCT+ post with apical lesion
+5. findings
+-dental midline shift to L't 2mm
+-excessive gingival display about 1mm while broad smile
+-incisal show at rest 2mm
+-occlusal plane canting, right side down
+6. TMJ examiantion
+-MMO 43mm
+-clicking(-)
+-bruxism(+, in young age)
+-L't masseter m. soreness
+7. current VD: acceptable facial profile. lip incompetence(-), 
+8. menopause status(+)
+9. 病患抱怨嘴角容易有口水堆積，下唇乾燥且黏膜很容易受到刺激且脆弱
+>>angular chelitis?, no redness or ulceration noted over mouth angle
+>>thin mucosa noted over lower vermilion border, limited saliva secretion from the mouth floor, 黏膜會黏口鏡
+ 
+Assessment 
+missing tooth 
+chronic periodontitis
+ 
+Plan 
+Tx plan:
+(A)extraction of 11,21,23,32,31,42,41
+-implant of I12x21x23, I42xx32, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43,33,34,35,14,15,24 crown
+(B)extraction of 11,21,23,42
+-implant of I12x21x23, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43x41313233,34,35,14,15,24 crown
+(C)extraction of 11,21,23,32,31,42,41
+-4445x47,43,33,34,35,14,15,24 crown
+-upper and lower RPD
+p't prefer option (A),病患對美觀要求，擔心上顎前牙植牙後會有美觀不好看的問題。已告知需照CBCT並做esthetic分析才能評估風險性。 
+今次與丈夫一起就診:
+1. 解釋目前的三種治療計畫，針對治療計畫做討論
+2. 病患預算為NTD 500,000左右。因預算考量，植牙的顆數可能無法按照預期option A 進行，病患與丈夫尚未決定lower anterior teeth要以植牙或是以牙橋做復。病患不接受活動假牙的治療選項。
+3. 有告知如果上顎不拔牙，想使用long span bridge的方式做復，則須找原本的醫師做處理，本院提供的治療計畫並不提供這個選項
+4. p't對於下唇黏膜脆弱刺激，且嘴角容易流口水的問題很在意。病患自述在做舊假牙時，下顎牙齒的高度變低才造成這個結果。已告知目前就facial profile來看，VD為acceptible，此一主訴與目前口內假牙是否有相關性無法肯定，是否須提高VD或是keep current VD需與instructor Dr李明澍討論後再決定。因病患目前進入更年期，有一些更年期的症狀，建議病患治口腔診斷科檢查口腔粘膜的變化極易受刺激是否為全身性的賀爾蒙變化造成。
+
+G1陳孝宇/VS李明澍
+
+2016/07 
+因p't對於治療計畫仍有疑慮，且有一些無法接受拔牙和植牙的情緒問題，預算也較不足(NTD 500,000左右)，建議回門診與主治醫師討論，已掛 2016/9/9 am 李明澍醫師OPD
+
+G1陳孝宇/VS李明澍
+ 
+
+Subjective 
+Subjective 
+Ask for prosthodontic tx
+病患抱怨嘴角容易有口水堆積，下唇乾燥且黏膜很容易受到刺激且脆弱
+menopause status now
+PMH: denied
+allergy: denied
+cigaretted: 10-15/day/30yrs
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+1. present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+2. prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: moiblity I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+3. FM chronic periodontitis with moderate bone loss
+4. 42 old RCT+ post with apical lesion
+5. findings
+-dental midline shift to L't 2mm
+-excessive gingival display about 1mm while broad smile
+-incisal show at rest 2mm
+-occlusal plane canting, right side down
+6. TMJ examiantion
+-MMO 43mm
+-clicking(-)
+-bruxism(+, in young age)
+-L't masseter m. soreness
+7. current VD: acceptable facial profile. lip incompetence(-), 
+8. menopause status(+)
+9. 病患抱怨嘴角容易有口水堆積，下唇乾燥且黏膜很容易受到刺激且脆弱
+>>angular chelitis?, no redness or ulceration noted over mouth angle
+>>thin mucosa noted over lower vermilion border, limited saliva secretion from the mouth floor, 黏膜會黏口鏡
+ 
+Assessment 
+Assessment 
+missing tooth 
+chronic periodontitis
+ 
+Plan 
+Tx plan:
+(A)extraction of 11,21,23,32,31,42,41
+-implant of I12x21x23, I42xx32, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43,33,34,35,14,15,24 crown
+(B)extraction of 11,21,23,42
+-implant of I12x21x23, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43x41313233,34,35,14,15,24 crown
+(C)extraction of 11,21,23,32,31,42,41
+-4445x47,43,33,34,35,14,15,24 crown
+-upper and lower RPD
+p't prefer option (A),病患對美觀要求，擔心上顎前牙植牙後會有美觀不好看的問題。已告知需照CBCT並做esthetic分析才能評估風險性。 
+p't對於下唇黏膜脆弱刺激，且嘴角容易流口水的問題很在意。病患自述在做舊假牙時，下顎牙齒的高度變低才造成這個結果。已告知目前就facial profile來看，VD為acceptible，此一主訴與目前口內假牙是否有相關性無法肯定，是否須提高VD或是keep current VD需與instructor Dr李明澍討論後再決定。因病患目前進入更年期，有一些更年期的症狀，建議病患治口腔診斷科檢查口腔粘膜的變化極易受刺激是否為全身性的賀爾蒙變化造成。
+
+**Because the p't was hesitated about the tx plan given, refer back to Dr李明澍 OPD for tx plan discussion and confirmation
+
+G1陳孝宇/VS李明澍
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K12.1 Stomatitis  
+O K14.0 Glossitis  
+O K11.7 Xerostomia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+B.C. /cap 1 cap BID PO 30 60 cap 自費  2016/06/24 已確認 已批 孫安迪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+檢驗 09035C0P Iron & TIBC 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+檢驗 09129B0P Vitamin B12 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+檢驗 09130B0P Folic Acid 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+檢驗 12151B0P Homocysteine 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+檢驗 12058B0P Gastric parietal cell antibody 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+檢驗 12068BZP TA (Thyroglobulin antibody) 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+檢驗 12134B0P Anti-TPO Ab 1  N 2016/06/24 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 孫安迪 
+治療 92073C00 口腔黏膜難症特別處置 1  N 2016/06/24 執行、已批 齒位1:99
+完成：2016/06/24
+ 孫安迪 
+ 
+
+Subjective 
+s/p silicon injection at age 30-year-old
+right breast lump noted for 2-3 months noted after trauma ( hit by bicycle ) 
+
+Menopause: 41-42 years old, P1
+HRT (+) 
+no family history of breast cancer 
+Objective 
+PE: mass over bilateral breast
+疼痛評估：疼痛指數： 7-8分; 間歇痛 ; 疼痛部位： breast;
+
+【20160607】Breast Echo :BI-RADS 0
+    Right breast lesion R/o silicon granuloma
+ Advice or Comment :
+    correlated with Mammography
+   技術員:     李紹榛放射師
+   檢查者:                                 /                              /  郭文宏主治醫師
+
+BI-RADS 0 for siliconoma
+suggest Breast MRI 
+Assessment 
+right breast lump 
+Plan 
+Cre
+Breast MRI 
+RTC 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.3 Breast tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/06/28 執行、已批 Specimen:BLO
+完成：2016/06/29
+ 羅喬 
+影醫 33085B09 MRI With/Without Contrast--Breast 1  N 2016/06/28 執行、已批 Indication:Follow up
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+小部位:For breast mass,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/07/08
+ 羅喬 
+醫材 20000939 MRI SYRINGE SET 1  N 2016/07/08 執行、已批 完成：2016/07/08
+ 劉持瑜 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保 3 2016/07/21 已確認 已批 林淑珍 
+ 
+
+Subjective 
+s/p silicon injection at age 30-year-old
+right breast lump noted for 2-3 months noted after trauma ( hit by bicycle ) 
+
+Menopause: 41-42 years old, P1
+HRT (+) 
+no family history of breast cancer 
+Objective 
+PE: mass over bilateral breast
+疼痛評估：疼痛指數： 7-8分; 間歇痛 ; 疼痛部位： breast;
+
+【20160607】Breast Echo :BI-RADS 0
+    Right breast lesion R/o silicon granuloma
+ Advice or Comment :
+    correlated with Mammography
+   技術員:     李紹榛放射師
+   檢查者:                                 /                              /  郭文宏主治醫師
+
+BI-RADS 0 for siliconoma
+suggest Breast MRI
+
+【20160708】MRI With/Without Contrast--Breast :BI-RADS 3, probably benign breast MR finding, suggest 6-month MR f/u. (best followed at the second week of the menstrual cycle). 
+Assessment 
+right breast lump 
+Plan 
+suggest regular follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.3 Breast tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/07/21 已批 完成：2016/07/21 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O K14.0 Glossitis  
+M K12.1 Stomatitis  
+O K11.7 Xerostomia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+B.C. /cap 1 cap BID PO 135 270 cap 自費  2016/07/29 已確認 已批 孫安迪 特殊醫囑:自費 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92073C00 口腔黏膜難症特別處置 1  N 2016/07/29 執行、已批 齒位1:99
+完成：2016/07/29
+ 孫安迪 
+ 
+
+Subjective 
+nasal discomfort for half a year
+nasal obstruction(+), 2 months ago
+lumping throat
+dryness
+hoarseness(-)
+sneezing+, itching+
+
+dental procedure(+) last November, left maxillary tooth 
+Objective 
+Nose:
+    Nasal discharge: watery, mucoid
+    Hypertrophic turbinates, congested
+Ear: intact ear drum
+Oral cavity: no lesion
+Nasophaynx: smooth
+   Post-nasal discharge: mucoid discharge
+Larynx: failed/symmetric movement of bilateral vocal folds
+Neck: no neck mass 
+Plan 
+OPD 2 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M J32.9 Chronic sinusitis, unspecified 慢  
+O J30.9 Allergic rhinitis, unspecified 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Avamys Nasal Spray 27.5 mcg/1 dose 120 doses/btl 1 spra BID IN 28 1 btl 健保  2016/08/01 已確認 已批 林怡岑  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 30022CWD Mast 1  N 2016/08/01 執行、已批 Specimen:BLO
+完成：2016/08/01
+ 林怡岑 
+影醫 000MP061 Skull: Paranasal Sinuses 1  Y 2016/08/01 執行、已批 完成：2016/08/01
+ 林怡岑 
+ 
+
+Subjective 
+nasal discomfort for half a year
+nasal obstruction(+), 2 months ago
+lumping throat
+dryness
+hoarseness(-)
+sneezing+, itching+
+
+dental procedure(+) last November, left maxillary tooth 
+Objective 
+Nose:
+    Nasal discharge: watery, mucoid
+    Hypertrophic turbinates, congested
+Ear: intact ear drum
+Oral cavity: no lesion
+Nasophaynx: smooth
+   Post-nasal discharge: mucoid discharge
+Larynx: failed/symmetric movement of bilateral vocal folds
+Neck: no neck mass
+
+【20160801】Skull: Paranasal Sinuses :No definite abnormal bony change.
+The sinus is clear. 
+Plan 
+Sinus X-ray 3 wks later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O J00 Acute nasopharyngitis [common cold] 呼  
+M J30.9 Allergic rhinitis, unspecified 慢  
+O J31.0 Chronic rhinitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 5 10 tab 健保  2016/08/15 已確認 已批 林怡岑  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP061 Skull: Paranasal Sinuses 1  Y 2016/08/15 執行、已批 完成：2016/09/05
+ 林怡岑 
+ 
+
+Subjective 
+LMP: 2014/4; P0; insomnia for half a month;
+spotting on 5/13
+symptom improving after medication, WDB: 2016/5/6
+menopause symptome treated in 2014; sweating (++) still noted
+generation weakness 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL
+【20141205】E2: 67.3   pg/mL
+【20141205】FSH: 3.44   mIU/mL
+
+2015/1/2  Impression :
+   Myoma uteri
+
+2016/4/29 PV: np
+
+【20160624】BONE MINERAL DENSITY:BMD By Lumbar Spine 自費 :osteopenia. 骨質疏少
+(low bone density. 低骨密度.)
+【20160607】Breast Echo :BI-RADS 0
+    Right breast lesion R/o silicon granuloma
+ Advice or Comment :
+    correlated with Mammography
+   技術員:     李紹榛放射師
+   檢查者:                                 /                              /  郭文宏主治醫師
+
+【20160629】T-CHO: 179   mg/dL
+【20160629】TG: 169   mg/dL
+【20160629】AST: 17   U/L 
+Assessment 
+no family breast cancer history
+with HT since 2014/10; and stop Prozac for 2 weeks;
+看牙醫治療已經造成壓力來源 
+Plan 
+Well explain and OPD 3 months, E2 FSH 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Stilnox 10 mg/tab 0.5 tab HS PO 28 14 tab 健保  2016/08/19 已確認 已批 陳啟豪  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保 3 2016/08/19 已確認 已批 陳啟豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09127C0P Estradiol, E2 1  N 2016/08/19 執行、已批 Specimen:BLO
+完成：2016/11/03
+ 陳啟豪 
+檢驗 09125C0P Follicle-stimulating hormone,FSH 1  N 2016/08/19 執行、已批 Specimen:BLO
+完成：2016/11/03
+ 陳啟豪 
+ 
+
+Subjective 
+nasal discomfort for half a year
+nasal obstruction(+), 2 months ago
+lumping throat
+dryness
+hoarseness(-)
+sneezing+, itching+
+
+dental procedure(+) last November, left maxillary tooth 
+Objective 
+Nose:
+    Nasal discharge: watery, mucoid
+    Hypertrophic turbinates, congested
+Ear: intact ear drum
+Oral cavity: no lesion
+Nasophaynx: smooth
+   Post-nasal discharge: mucoid discharge
+Larynx: failed/symmetric movement of bilateral vocal folds
+Neck: no neck mass
+
+【20160801】Skull: Paranasal Sinuses :No definite abnormal bony change.
+The sinus is clear.
+
+
+【20160802】Pork 豬肉: 1   * 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M J30.9 Allergic rhinitis, unspecified 慢  
+O J31.0 Chronic rhinitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Avamys Nasal Spray 27.5 mcg/1 dose 120 doses/btl 1 spra QD IN 28 1 btl 健保 2 2016/09/05 已確認 已批 林怡岑 
+ 
+
+Subjective 
+CC: Asking for re-evaluation of prosthodontic treatment plan
+ 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+LF:
+1. Present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+2. Prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: mobility I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+3. Full mouth chronic periodontitis with moderate bone loss
+4. Tooth 47 palpation/percussion pain (-)
+ 
+Assessment 
+Dx.: Chronic periodontitis
+ 
+Plan 
+Tx.:
+1. Explained throughtly about patient's prosthodontic treatment plan and prognosis to patient and her husband.
+
+Tx. plan:
+Arranged Dr. 陳孝宇 for further treatment
+
+Ri姜智涵/VS李明澍
+2016/09/09 13:32
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保 3 2016/09/14 已確認 已批 賴婉玲 
+ 
+
+Subjective 
+asking for periodontal evaluation and treatment
+ 
+Objective 
+LF:
+1. Present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+
+2. Prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: mobility I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+
+3. tooth 42 buccal gingiva scar s/p I&D was found
+  病人自述20年前做,10年前有腫過
+  X ray finding(on 2016/01/20) :
+  tooth 42 previous endo treated with post insertion, apical lesion(+):about 5x7 mm 
+
+4. tooth 24(左上倒數第二顆)
+   DB probing depth > 5mm, suspected endo-perio combine lesion
+   X ray finding(on 2016/01/20) :
+   tooth 24 previous endo treated, apical lesion(+)
+
+5. tooth 17 probing depth>5mm
+ 
+Assessment 
+chronic periodontitis
+tooth 24,42 chronic apical periodontitis 
+mutiple missing tooth
+ 
+Plan 
+Tx. plan:
+1. tooth 17 periodontal 3 M f/u
+2. tooth 24(endo-perio combine lesion), 42 apical lesion -> 已安排endodontic dept.廖醫師治療
+3. Consult PS. dept. for FM prosthodontic treatment plan
+(病人之前都給李明澍醫師看，病人自述:想要做全口fixed prosthesis, 但李醫師無法答應病人要求，想尋求其他醫師的意見)
+
+By 2016/09/20 VS李明澍 tx. plan:
+(A)extraction of 11,21,23,32,31,42,41
+-implant of I12x21x23, I42xx32, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43,33,34,35,14,15,24 crown
+(B)extraction of 11,21,23,42
+-implant of I12x21x23, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43x41313233,34,35,14,15,24 crown
+(C)extraction of 11,21,23,32,31,42,41
+-4445x47,43,33,34,35,14,15,24 crown
+-upper and lower RPD
+
+
+
+R1尤俐文/VS陳漪紋
+2016/10/12  17:49
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/12 已批 完成：2016/10/12  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Covina F.C. 28 tab/pack 1 tab QD PO 28 1 pack 健保 3 2016/10/13 已確認 已批 陳靜宜 
+ 
+
+Subjective 
+Asking for tooth 23 and tooth 48 evaluation.
+(病人表示tooth 48目前咬起來沒有什麼力氣)
+ 
+Objective 
+疼痛評估:疼痛指數:0
+Tooth 23
+ Status post endodontic treatment with provisional prosthesis
+ Buccal side with suspected bony torus
+ Abscess (-)
+ Sinus tract (-)
+ Percussion pain (-)
+ Palpation pain (-)
+ Probing depth:
+  MB 3 2 6
+     3 2 7
+Tooth 48 prepared tooth with provisional prosthesis fabricated at LDC
+ Abscess (-)
+ Sinus tract (-)
+ Percussion pain (-)
+ Palpation pain (-)
+ Spontaneous pain (-)
+ 
+Assessment 
+Tooth 23 pulpless tooth
+ 
+Plan 
+1. Check tooth 23 periapical x-ray, x-ray findings:
+Tooth 23 
+ Status post endodontic treatment with post and provisional prosthesis
+ Distal side with vertical bony destruction
+2. Treatment plan:
+(1) Tooth 23 suspected periodontal problem, endodontic retreatment is not suggested currently.
+(2) Suggested tooth 48 keep f/u due to no obvious S/S 只是咬東西較無力.
+(3) According to 2016年3月26日 chart, arranged tooth 42 treatment:
+Explained to p't,informed quetionable prognosis(due to weak tooth structure, secondary dental caries, mobility and large apical radiolucency lesion) and the risk of root fracture during post removal or insufficient tooth structure after post removal about tooth 42
+Tooth 42 secondary dental caries and post removal, then endodontic retreatment indicated if tooth 42 was restorable, suspected lingual missing canal?
+Arrange tooth 42 endo re-treatment under Dr. 廖婉萱's service,informed microscope charge($8000)
+
+VS廖婉萱 2016/10/21 17:39
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K04.99 Pulpless tooth 
+ 
+
+Subjective 
+Ask for prosthodontic tx
+病患抱怨食物都咬不爛
+目前為更年期
+
+PMH: denied
+allergy: denied
+cigaretted: 10-15/day/30yrs
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+1. present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+2. prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: moiblity I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+3. TMJ examiantion
+-R't masseter m. soreness
+ 
+Assessment 
+missing tooth 
+chronic periodontitis
+ 
+Plan 
+Tx plan:
+先移除44 45x47 provisional bridge，改善 temp morphology，重做一組provisional bridge，讓病人先適用看看這樣有沒有增加咀嚼功能
+--如果有改善，再討論看看是否需要植牙46,46' (two implants due to large mesio-distal space) 或是直接做44 45x47 bridge
+--如果沒有改善，跟病人討論implant的必要性，有可能implant會改善或是不會增加support
+已告知病人有關provisional restoration 的費用, 等右下provisional restoration 做完後評估狀況再擬定治療計畫與預估的費用
+
+病人想先重建右邊，左側慢慢來
+arranged to G2陳孝宇
+Ri張筑緯/VS王東美
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/25 已批 完成：2016/10/25 
+ 
+
+Subjective 
+Asking for tooth 42 endodontic retreatment.
+
+PMH: Denied major systemic disease
+Allergy: Denied food/drug allergic
+Cigarette smoking: (+), 22 cigarette per day, for 30+ years
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+疼痛評估:疼痛指數:0
+Tooth 42
+ Prepared tooth with provisional prosthesis
+ Previous endodontic treated with post (病人自述20年前做的,10年前有腫過, 之前診所醫師有幫他從tooth 42 buccal gingival swelling的地方清過I&D?)
+  Buccal ginigval swelling tissue
+   Pink to red color
+   Elastic to firm consistency, gingival hyperplasia? or scar tissue?
+   Pus (-)
+   Well-defined border
+   Palpation tenderness (-)
+   Size: 6mmx6mm
+ Sinus tract (-)
+ Percussion pain (-)
+ Palpation pain (-)
+ Probing depth: WNL
+ Mobility: Grade II
+ 
+Assessment 
+Tooth 42 Chronic alveolar abscess, pulpless tooth
+ 
+Plan 
+Tooth 42
+-Remove provisional prosthesis
+-Rubber dam application (I) (Clamp 9)
+-Remove previous filling material
+-Access opening
+-Canal enlargement and debridement
+-Remove previous canal filling GP with Eucalyptus and #15 K-file
+-Try to remove post under microscope with ultrasonic (CPR4D)
+Did not remove the post yet
+-Cotton and caviton temporary filling
+-Provisional prosthesis temporary cementation with Tempack
+
+Explained to p't,informed questionable prognosis(due to weak tooth structure, secondary dental caries, mobility and large apical radiolucency lesion) and the risk of root fracture during post removal or insufficient tooth structure after post removal about tooth 42
+Tooth 42 secondary dental caries and post removal, then endodontic retreatment indicated if tooth 42 was restorable, suspected lingual missing canal?
+Informed patient tooth 42 extraction may still be possible in the future.
+Informed microscope charge($8000)
+
+Suggested patient quit smoking
+Suggested consult OMS for tooth 42 buccal gingival swelling tissue (elastic to firm lesion, gingival hyperplasia? or scar tissue? may not be a typical endodontic origin lesion,且病人有抽菸習慣 因此consult OMS dept. to confirm if biopsy was indicated.)
+
+VS廖婉萱 2016/11/8
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K04.7 Abscess, chronic alveolar  
+O K04.99 Pulpless tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 90012C00 RUBBER DAM APPLICATION 1  N 2016/11/08 執行、已批 齒位1:42
+完成：2016/11/08
+ 廖婉萱 
+治療 90015C00 CANAL ENLARGE & DEBRIDEMENT 1  N 2016/11/08 執行、已批 齒位1:42
+完成：2016/11/08
+ 廖婉萱 
+ 
+Subjective 
+apppoint for LA gingival biopsy
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+Patho(20161117)Oral cavity, gingiva, lower, anterior, excisional biopsy, (1) inflamed granulation tissue, consistent with a fistula (2) fibrous hyperplasia (3) melanosis, consistent with smoker's melanosis
+ 
+Plan 
+suture removal and OHI 
+explan the pathological report
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M J32.0 Oroantral fistula 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/11/25 已批 完成：2016/11/25 
+ 
+
+Subjective 
+Asking for tooth 42 endodontic retreatment.
+
+PMH: Denied major systemic disease
+Allergy: Denied food/drug allergic
+Cigarette smoking: (+), 22 cigarette per day, for 30+ years
+ 
+Objective 
+疼痛評估:疼痛指數:0
+Tooth 42
+ Prepared tooth with provisional prosthesis
+ Previous endodontic treated with post (病人自述20年前做的,10年前有腫過, 之前診所醫師有幫他從tooth 42 buccal gingival swelling的地方清過I&D?)
+ Buccal ginigval status post biopsy at 2016年11月16日
+ Sinus tract (-)
+ Percussion pain (-)
+ Palpation pain (-)
+ Probing depth: WNL
+ Mobility: Grade II
+ 
+Assessment 
+Tooth 42 Chronic alveolar abscess, pulpless tooth
+ 
+Plan 
+Tooth 42
+-Remove provisional prosthesis
+-Rubber dam application (II) (Clamp 9)
+-Remove previous filling material
+-Remove post under microscope with ultrasonic (CPR4D)
+-Remove previous canal filling GP with Eucalyptus and #15 K-file
+-Irrigation with NaOCl
+-Cotton and caviton temporary filling
+-Provisional prosthesis temporary cementation with Tempack
+
+Explained to p't,informed questionable prognosis of tooth 42 (due to weak tooth structure, secondary dental caries, mobility and large apical radiolucency lesion) and the risk of root fracture during post removal or insufficient tooth structure after post removal about tooth 42
+Tooth 42 secondary dental caries and post removal, then endodontic retreatment indicated if tooth 42 was restorable, suspected lingual missing canal?
+Informed patient tooth 42 extraction may still be possible in the future.
+Informed microscope charge($8000)
+
+Suggested patient quit smoking
+
+VS廖婉萱 2016/11/29 11:15
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K04.7 Abscess, chronic alveolar  
+O K04.99 Pulpless tooth 
+ 
+
+Subjective 
+LMP: 2014/4; P0; insomnia for half a month;
+spotting on 2016/10 using covina
+symptom improving after medication, WDB: 2016/5/6
+menopause symptome treated in 2014; sweating (++) still noted
+generation weakness 
+Objective 
+【20141006】RIA:TSH: 1.76   μIU/ml
+【20141003】E2: 556   pg/mL
+【20141003】FSH: 3.87   mIU/mL
+【20141205】E2: 67.3   pg/mL
+【20141205】FSH: 3.44   mIU/mL
+
+2015/1/2  Impression :
+   Myoma uteri
+
+2016/4/29 PV: np
+
+【20160629】T-CHO: 179   mg/dL
+【20160629】TG: 169   mg/dL
+【20160629】AST: 17   U/L
+【20161103】E2: 33.5   pg/mL
+【20161103】FSH: 8.67   mIU/mL 
+Assessment 
+*
+no family breast cancer history
+with HT since 2014/10; and stop Prozac for 2 weeks;
+看牙醫治療已經造成壓力來源 
+Plan 
+Well explain and OPD 1 months, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N95.1 Menopause 慢 停 女  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 安柏寧 Alpraline 0.5 mg/tab 0.5 tab QD PO 28 14 tab 健保  2016/11/11 已確認 已批 陳啟豪  
+(管4) Stilnox 10 mg/tab 0.5 tab HS PO 28 14 tab 健保  2016/11/11 已確認 已批 陳啟豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/11/11 已批 完成：2016/11/11  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/11/11 已批 完成：2016/11/11  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/11/11 已批 完成：2016/11/11 
+ 
+Subjective 
+For OMS dept. consultation for tooth 42 buccal gingival swelling tissue (elastic to firm lesion, gingival hyperplasia? or scar tissue? may not be a typical endodontic origin lesion,且病人有抽菸習慣 因此consult OMS dept. to confirm if biopsy was indicated.)
+
+PMH: Denied major systemic disease
+Allergy: Denied food/drug allergic
+Cigarette smoking: (+), 22 cigarette per day, for 30+ years
+
+Previous dental history (according to the patient's statement)
+-Previous FM FPD
+-104年初: I15,I16 植牙及假牙
+-104/07 開始在本院進行perio tx
+-104/8-10 將18年前種植的I36,I37取出 (中興診所,@LDC1)
+-105/7-9 @LDC2,因美觀(gingival recession) & mobility 將全口原本FPD拆掉,改成splinted temp prosthesis
+-105/05: 26 extraction in 2015/05 @LDC2, wound debridement 2015/09,>>oroantral communication
+-105/11/12 Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair
+ 
+Objective 
+疼痛評估:疼痛指數:0
+Tooth 42
+ Prepared tooth with provisional prosthesis
+ Previous endodontic treated with post (病人自述20年前做的,10年前有腫過, 之前診所醫師有幫他從tooth 42 buccal gingival swelling的地方清過I&D?)
+  Buccal ginigval swelling tissue
+   Pink to red color
+   Elastic to firm consistency, gingival hyperplasia? or scar tissue?
+   Pus (-)
+   Well-defined border
+   Palpation tenderness (-)
+   Size: 6mmx6mm
+ Sinus tract (-)
+ Percussion pain (-)
+ Palpation pain (-)
+ Probing depth: WNL
+ Mobility: Grade II
+ 目前Tooth 42正在做Endo retreatment
+ 
+Assessment 
+Tooth 42 Chronic alveolar abscess, pulpless tooth
+ 
+Plan 
+Suggested patient quit smoking
+Suggested consult OMS for tooth 42 buccal gingival swelling tissue (elastic to firm lesion, gingival hyperplasia? or scar tissue? may not be a typical endodontic origin lesion,且病人有抽菸習慣 因此consult OMS dept. to confirm if biopsy was indicated.)
+
+目前正在Endo做Tooth 42 retreatment
+
+VS廖婉萱 Check periapical/pano X ray
+Check periapical/pano X ray
+finding:
+1.generalized periodontal destruction
+2.no other obvious bony pathology
+3.no impacted tooth or supernumerary tooth were found
+
+Tx:
+1.explained to p't
+2.Arrange biopsy for the lesion
+
+recorded by Ri/R
+supervisor:VS郭生興
+2016/08/18 09:40
+ 
+
+Subjective 
+apppoint for LA gingival biopsy
+ 
+Objective 
+1.No significant inflammation
+2.Wound healing:good.
+3.Swallowing function:good
+4.Facial swelling(-)
+5.Fever(-)
+6.Pain(+): mild, occationally in morning 
+
+(20151112) 
+Bone, maxilla, left, debridement, chronic inflamed granulation tissue, consistent with oroantral fistula
+Sinus, maxillary, left, debridement, (1) chronic sinusitis (2) chronic inflamed granulation tissue
+Gingiva, upper, left, debridement, chronic inflammation
+ 
+Assessment 
+Tooth 26 oroantral fistula s/p Caldwell's Luc operation and palatal rotational flap repair (20151112)
+ 
+Plan 
+Biopsy
+Pre-OP Dx:fistula on lower anterior buccal gingiva
+Post-OP Dx:fistula on lower anterior buccal gingiva status post biopsy.
+OP method:excisional biopsy and fistuloectomy.
+OP findings:fistula on lower anterior buccal gingiva.
+OP procedures: 
+1.Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual 
+2.Local anesthesia was done with 3.4 mL 2% xylocaine (with 1:80000 epinephrine) 
+3.Biopsy was done with #15 scapel and tissue forceps.
+4.Sutured with 3-0 black silk. 
+5.Gauze packing for 1 hour 
+6.Post-OP wound care instruction was given Prophylaxis for pain control Specimen for pathology:Pending 
+Operator: G1項家寧
+Arrange for suture removal and follow up.
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M J32.0 Oroantral fistula 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap QID PO 3 12 cap 健保  2016/11/16 已確認 已批 郭生興  
+PARAMOL 500 mg/tab 1 tab Q8H PO 3 9 tab 健保  2016/11/16 已確認 已批 郭生興 重複原因:短期或需要時使用
+ 
+(DC)Smile Orabase 1 mg/1 g 5 g/tube 1 XX ASORDER OR 1 1 tube 健保  2016/11/16 已確認 已批 郭生興  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W Surgical pathology Level IV 1  N 2016/11/15 執行、已批 每瓶(包)之檢體數量:１
+Operation findings:fistula on lower anterior alveolar mucosa about 2mm in diameter
+術式名稱:excisional biopsy and fistuloectomy
+組織來源:lower anterior alveolar mucosa
+診斷名稱:fistula suspect dental origin
+完成：2016/11/17
+ 郭生興 
+治療 92020B00 INTRAORAL EXCISION OF SOFT TISSIUE TUMOR 1  N 2016/11/15 執行、已批 齒位1:99
+完成：2016/11/16
+ 郭生興 
+ 
+
+Subjective 
+nasal discomfort for half a year
+nasal obstruction(+), 2 months ago
+lumping throat
+dryness
+hoarseness(-)
+sneezing+, itching+
+
+dental procedure(+) last November, left maxillary tooth
+
+smoking+ 
+Objective 
+Nose:
+    Nasal discharge: watery, mucoid
+    Hypertrophic turbinates, congested
+Ear: intact ear drum
+Oral cavity: no lesion
+Nasophaynx: smooth
+   Post-nasal discharge: mucoid discharge
+Larynx: failed/symmetric movement of bilateral vocal folds
+Neck: no neck mass
+
+【20160801】Skull: Paranasal Sinuses :No definite abnormal bony change.
+The sinus is clear.
+
+
+【20160802】Pork 豬肉: 1   * 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M J30.9 Allergic rhinitis, unspecified 慢  
+O J31.0 Chronic rhinitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Avamys Nasal Spray 27.5 mcg/1 dose 120 doses/btl 1 spra QD IN 28 1 btl 健保 2 2016/11/21 已確認 已批 林怡岑 
+ 
+
+Subjective 
+Asking for tooth 42 endodontic retreatment.
+
+PMH: Denied major systemic disease
+Allergy: Denied food/drug allergic
+Cigarette smoking: (+), 22 cigarette per day, for 30+ years
+ 
+Objective 
+疼痛評估:疼痛指數:0
+Tooth 42
+ Prepared tooth with provisional prosthesis
+ Previous endodontic treated with post (病人自述20年前做的,10年前有腫過, 之前診所醫師有幫他從tooth 42 buccal gingival swelling的地方清過I&D?)
+ Buccal ginigval status post biopsy at 2016年11月16日
+ Sinus tract (-)
+ Percussion pain (-)
+ Palpation pain (-)
+ Probing depth: WNL
+ Mobility: Grade II
+ 
+Assessment 
+Tooth 42 Chronic alveolar abscess, pulpless tooth
+ 
+Plan 
+Tooth 42
+-Remove provisional prosthesis
+-Rubber dam application (II) (Clamp 9)
+-Remove previous filling material
+-Remove post under microscope with ultrasonic (CPR4D)
+-Remove previous canal filling GP with Eucalyptus and #15 K-file
+-Irrigation with NaOCl
+-Cotton and caviton temporary filling
+-Provisional prosthesis temporary cementation with Tempack
+
+Explained to p't,informed questionable prognosis of tooth 42 (due to weak tooth structure, secondary dental caries, mobility and large apical radiolucency lesion) and the risk of root fracture during post removal or insufficient tooth structure after post removal about tooth 42
+Tooth 42 secondary dental caries and post removal, then endodontic retreatment indicated if tooth 42 was restorable, suspected lingual missing canal?
+Informed patient tooth 42 extraction may still be possible in the future.
+Informed microscope charge($8000)
+
+Suggested patient quit smoking
+
+VS廖婉萱 2016/11/29 11:15
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K04.7 Abscess, chronic alveolar  
+O K04.99 Pulpless tooth  
+ 
+ 
+ 
+
+Subjective 
+Referred form Perio Dept for evaluation of full mouth reconstruction with fixed prostheses
+ 
+Objective 
+LF:
+1. Present dentition
+ 7I6I543 1|1 34
+ 7   54321|123 5
+
+2. Prosthesis (all provisional crown are with ill-fitted margin)
+-17 metal crown
+-I16I15 implant supported splinted PFM crown, cement type with temporary cement in LDC
+-provisional 43x11x34: mobility WNL
+-provisional 333435: mobility I
+-provisional 32: mobility II
+-provisional 314142: mobility II
+-provisional 43: mobility II
+-provisional 4445x47: mobility WNL
+
+3. tooth 42 buccal gingiva scar s/p I&D was found
+  病人自述20年前做,10年前有腫過
+  X ray finding(on 2016/01/20) :
+  tooth 42 previous endo treated with post insertion s/p post removal, apical lesion(+)
+
+4. tooth 23(左上倒數第二顆)
+   DB probing depth > 5mm, suspected endo-perio combine lesion
+   X ray finding(on 2016/01/20) :
+   tooth 23 previous endo treated, apical lesion(+)
+
+5. tooth 17 probing depth>5mm
+ 
+Assessment 
+chronic periodontitis
+tooth 24,42 chronic apical periodontitis 
+mutiple missing tooth
+ 
+Plan 
+Tx. plan:
+The patient wanted to keep present teeth and resconstruction with full mouth fixed prostheses
+=>Arranged G2陳孝宇 for further treatment
+*Informed the patient the poor prognosis of tooth 11,21,23,42 and the risk of failure, the patient accepted it
+
+By 2016/09/20 VS李明澍 tx. plan:
+(A)extraction of 11,21,23,32,31,42,41
+-implant of I12x21x23, I42xx32, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43,33,34,35,14,15,24 crown
+(B)extraction of 11,21,23,42
+-implant of I12x21x23, I26I27,I36I37 (如果bone condition無法植牙，則左側只做到5，不種I26I27,I36I37，搭配活動假牙或short dental arch )
+-4445x47,43x41313233,34,35,14,15,24 crown
+(C)extraction of 11,21,23,32,31,42,41
+-4445x47,43,33,34,35,14,15,24 crown
+-upper and lower RPD
+
+R1魏緯昕/VS徐幼群
+2016/12/01  10:33
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/12/01 執行、已批 齒位1:FM
+完成：2016/12/01
+ 魏緯昕 
+ 
+

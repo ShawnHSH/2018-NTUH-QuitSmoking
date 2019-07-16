@@ -1,0 +1,45 @@
+
+Subjective 
+60 years old man
+perianal mass; noted for weeks;
+bloody to pus like fluid drained as squeeze the mass;
+Also ask for smoking cessation 
+Chest apin and tightness also noted
+Came for further evaluation and management
+
+Family history:
+Father:
+Mother: DM
+Siblings: 3
+1 E Brother ; 1 Y Brother
+E Sister ; 1 Y Sister
+
+Medical Hx: CVA without sequale 
+Objective 
+Pain scale: 0/10
+BP: 138/80 mmHg
+Throat: injected
+Neck: supple
+RHB, no murmur
+BS: clear
+Abdomen: soft and flat,
+A induration mass noted at the perineum area 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O R07.9 Chest pain 慢  
+M K61.0 Perianal abscess 慢  
+O R03.0 Elevated blood-pressure reading, without diagnosis of hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/06/04 已確認 已批 張皓翔  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0P ECG routine 1  N 2016/06/04 執行、已批 Specimen:ECG
+完成：2016/06/04
+ 張皓翔 
+ 

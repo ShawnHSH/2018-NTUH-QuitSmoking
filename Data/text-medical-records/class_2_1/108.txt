@@ -1,0 +1,1146 @@
+﻿
+Subjective 
+提醒個案血糖與血脂肪須追蹤
+-----Stable
+白天 
+規律生活重心，規則服藥下狀況穩定無明顯症狀 一減藥就不行 
+Objective 
+【20130305】HbA1c: 8.6   %
+【20130305】LDL-C: 136   mg/dL
+【20130305】GLU AC: 230   mg/dL
+【20130305】LDL-C: 136   mg/dL
+【20130305】HbA1c: 8.6   %
+【20130305】GLU AC: 230   mg/dL
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+今日處方種類4
+
+---+++@@@本次開藥12 weeks,預約12weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 300.4 Dysthymia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2014/12/04 已確認 已批 謝明憲  
+3 Risperdal FC 3 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/12/04 已確認 已批 謝明憲  
+Zoloft 50 mg/tab 1.5 tab HS PO 28 42 tab 健保 3 2014/12/04 已確認 已批 謝明憲  
+舊 (DC)Bipiden 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/12/04 已確認 已批 謝明憲 
+ 
+
+Subjective 
+Several itchy erythematous papules and crusted papules on the trunk and 4 limbs for 1+ years
+
+Flare up of the generalized dermatitis in the past 1 months. New itching papules on the right lower leg and left temporal scalp.
+PH:DM, stroke, depression
+
+c/o dysuria; dry mouth 
+Objective 
+The nodular lesions became flat. 
+Some excoriated wounds are noted on the chest.
+
+08/31: still very itchy on the old lesions, not enough topical medication
+
+IMP: prurigo nodularis
+20130118 the prurigo improved.
+
+20140924
+Excoriated papules on the right lower leg and left temporal scalp 
+Plan 
+Keep current management; taper Esperson use; encourage UH use and CB strong use for severe pruritus
+Add Septon soln for scalp lesions.DC Lonzumin; keep Xyzal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 686.00 Pyoderma  
+O 698.3 Prurigo nodularis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/12/24 已確認 已批 朱家瑜  
+C.B. Strong Oint 5 g/tube 1 XX AS ORDER D 28 8 tube 健保 3 2014/12/24 已確認 已批 朱家瑜  
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 28 3 tube 健保 3 2014/12/24 已確認 已批 朱家瑜  
+Septon Sol 0.064% 10 g/btl 1 XX BID D 28 1 btl 健保 3 2014/12/24 已確認 已批 朱家瑜  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 2 tube 健保 3 2014/12/24 已確認 已批 朱家瑜 
+ 
+
+Subjective 
+Right middle cerebellar peduncle infarct on 2011/05/27 
+Right limb dysmetria, ataxia
+HT, HLP, DM
+Schizophrenia with medication of Risperidal, Zoloft, Akineton, Ativan
+dizziness(+)
+unsteady gait with ever falls 
+Objective 
+BP: 130/70
+Home sugar 130
+【20110527】MRI Without Contrast--Brain: A small recent infarct at right middle cerebellar peduncle. Mild nonspecific white matter change. 
+NIHSS=5 (sensory 1, R arm 1, dysmetria 2, dysarthria 1)
+mRS: 3
+ABI: R 1.10, L 1.11 
+【20140714】T-CHO: 199   mg/dL
+【20140714】TG: 149   mg/dL
+【20140714】HDL-C: 27   mg/dL
+【20140714】LDL-C: 142   mg/dL
+【20140714】GLU AC: 98   mg/dL
+【20140714】GLU 2hr PC: 190   mg/dL
+【20140714】HbA1c: 6.0   %
+【20140714】CRE: 1.2   mg/dL
+【20140714】UA: 4.9   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 434.91 Cerebral infarction 重 慢 腦  
+O 272.4 Hyperlipidemia 慢  
+O 401.9 (HT)自發性高血壓，未明示為惡性或良性 慢  
+O 721.1 Cervical myelopathy 慢  
+O 250.00 DM 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/09 已確認 已批 鄭建興  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/09 已確認 已批 鄭建興  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/01/09 已確認 已批 鄭建興  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/01/09 已確認 已批 鄭建興  
+Sinemet 25/100 /tab 0.5 tab BID PO 28 28 tab 健保 3 2015/01/09 已確認 已批 鄭建興  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/01/09 已確認 已批 鄭建興  
+Loditon 500 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/01/09 已確認 已批 鄭建興  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/09 已確認 已批 鄭建興 
+ 
+
+Subjective 
+提醒個案血糖與血脂肪須追蹤
+Cerebral infarction DM 
+Hyperlipidemia Cervical myelopathy (HT)自發性高血壓，未明示為惡性或良性 Dermatitis, generalized 
+與太太兒子住板橋
+白天 
+規律生活重心，規則服藥下狀況穩定無明顯症狀 一減藥就不行 
+Objective 
+【20130305】HbA1c: 8.6   %
+【20130305】LDL-C: 136   mg/dL
+【20130305】GLU AC: 230   mg/dL
+【20130305】LDL-C: 136   mg/dL
+【20130305】HbA1c: 8.6   %
+【20130305】GLU AC: 230   mg/dL
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+今日處方種類4
+
+---+++@@@本次開藥12 weeks,預約12weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 300.4 Dysthymia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/02/26 已確認 已批 謝明憲  
+3 Risperdal FC 3 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/02/26 已確認 已批 謝明憲  
+Zoloft 50 mg/tab 1.5 tab HS PO 28 42 tab 健保 3 2015/02/26 已確認 已批 謝明憲  
+舊 (DC)Bipiden 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/26 已確認 已批 謝明憲 
+ 
+
+Subjective 
+Several itchy erythematous papules and crusted papules on the trunk and 4 limbs for 1+ years
+
+Flare up of the generalized dermatitis in the past 1 months. New itching papules on the right lower leg and left temporal scalp.
+PH:DM, stroke, depression
+
+c/o dysuria; dry mouth 
+Objective 
+The nodular lesions became flat. 
+Some excoriated wounds are noted on the chest.
+
+08/31: still very itchy on the old lesions, not enough topical medication
+
+IMP: prurigo nodularis
+20130118 the prurigo improved.
+
+20140924
+Excoriated papules on the right lower leg and left temporal scalp 
+Plan 
+Keep current management; taper Esperson use; encourage UH use and CB strong use for severe pruritus
+Add Septon soln for scalp lesions.DC Lonzumin; keep Xyzal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 698.3 Prurigo nodularis  
+O 686.00 Pyoderma  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/18 已確認 已批 朱家瑜  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 8 tube 健保 3 2015/03/18 已確認 已批 朱家瑜  
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 28 3 tube 健保 3 2015/03/18 已確認 已批 朱家瑜  
+Septon Sol 0.064% 10 g/btl 1 XX BID D 28 1 btl 健保 3 2015/03/18 已確認 已批 朱家瑜  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 2 tube 健保 3 2015/03/18 已確認 已批 朱家瑜 
+ 
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 000ICF01 身心障礙鑑定功能檢查(一)(門診)含接受心智功能(第一類)之鑑定者 1  N 2015/04/01 執行、已批 注意事項:無
+緊急連絡電話或手機:0910330326
+完成：2015/04/08
+ 鄭建興 
+治療 000Z3288 一般身體功能和結構之鑑定 1  N 2015/04/01 執行、已批 完成：2015/04/01
+ 鄭建興 
+治療 000Z3291 功能量表鑑定(新制身心障礙者鑑定) 1  N 2015/04/01 執行、已批 完成：2015/04/08
+ 鄭建興 
+
+
+Subjective 
+Right middle cerebellar peduncle infarct on 2011/05/27 
+Right limb dysmetria, ataxia
+HT, HLP, DM
+Schizophrenia with medication of Risperidal, Zoloft, Akineton, Ativan
+dizziness(+)
+unsteady gait with ever falls 
+Objective 
+BP: 130/70
+Home sugar 130
+【20110527】MRI Without Contrast--Brain: A small recent infarct at right middle cerebellar peduncle. Mild nonspecific white matter change. 
+NIHSS=5 (sensory 1, R arm 1, dysmetria 2, dysarthria 1)
+mRS: 3
+ABI: R 1.10, L 1.11 
+【20140714】T-CHO: 199   mg/dL
+【20140714】TG: 149   mg/dL
+【20140714】HDL-C: 27   mg/dL
+【20140714】LDL-C: 142   mg/dL
+【20140714】GLU AC: 98   mg/dL
+【20140714】GLU 2hr PC: 190   mg/dL
+【20140714】HbA1c: 6.0   %
+【20140714】CRE: 1.2   mg/dL
+【20140714】UA: 4.9   mg/dL 
+Plan 
+Disability certificate 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 434.91 Cerebral infarction 重 慢 腦  
+O 721.1 Cervical myelopathy 慢  
+O 250.00 DM 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 401.9 (HT)自發性高血壓，未明示為惡性或良性 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Sinemet 25/100 /tab 0.5 tab BID PO 28 28 tab 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Loditon 500 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/01 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09006C0P *HbA1c 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09013CZP UA 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09044C0P LDL 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09001CZP T-CHO 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09004CZP TG 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+檢驗 09043C0P HDL 1  N 2015/04/01 執行、已批 Specimen:BLO
+完成：2015/06/17
+ 鄭建興 
+ 
+Subjective 
+提醒個案血糖與血脂肪須追蹤
+Cerebral infarction DM 
+Hyperlipidemia Cervical myelopathy (HT)自發性高血壓，未明示為惡性或良性 Dermatitis, generalized 
+與太太兒子住板橋
+白天 
+規律生活重心，規則服藥下狀況穩定無明顯症狀 一減藥就不行 
+Objective 
+【20130305】HbA1c: 8.6   %
+【20130305】LDL-C: 136   mg/dL
+【20130305】GLU AC: 230   mg/dL
+【20130305】LDL-C: 136   mg/dL
+【20130305】HbA1c: 8.6   %
+【20130305】GLU AC: 230   mg/dL
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+今日處方種類4
+
+---+++@@@本次開藥12 weeks,預約12weeks 
+Plan 
+45087特殊心理治療
+Target Symptom：＼情緒低落，造成沒有生活重心、緊繃
+目前Insight: positive 願意規則服藥，以及配合生活調整
+具體內容：『家人對我均關懷照顧』、『未來之生活規劃』
+心理治療技巧：
+1. 回溯其病史：缺乏情緒溝通之對象。
+2. 未來之生活目標討論
+3. 傾洩(catharsis)：使其長期對於家人之inhibited anger，能夠有所調適。
+4. 指導其尋找適度的生活安排，降低不良發洩行為。
+5. （使用角色扮演之方式教導）建議其尋找適度情緒溝通之對象，發展適應環境的技巧。
+6. 繼續在門診規律服藥，建立自信，改善其症狀 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 300.4 Dysthymia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/05/21 已確認 已批 謝明憲  
+3 Risperdal FC 3 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/05/21 已確認 已批 謝明憲  
+Zoloft 50 mg/tab 1.5 tab HS PO 28 42 tab 健保 3 2015/05/21 已確認 已批 謝明憲  
+Akinfree 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/21 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45087C00 特殊心理治療–成人 1  N 2015/05/21 執行、已批 完成：2015/05/21
+ 謝明憲 
+ 
+
+Subjective 
+Several itchy erythematous papules and crusted papules on the trunk and 4 limbs for 1+ years
+
+Flare up of the generalized dermatitis in the past 1 months. New itching papules on the right lower leg and left temporal scalp.
+PH:DM, stroke, depression
+
+c/o dysuria; dry mouth 
+Objective 
+The nodular lesions became flat. 
+Some excoriated wounds are noted on the chest.
+
+08/31: still very itchy on the old lesions, not enough topical medication
+
+IMP: prurigo nodularis
+20130118 the prurigo improved.
+
+20140924
+Excoriated papules on the right lower leg and left temporal scalp 
+Plan 
+Keep current management; taper Esperson use; encourage UH use and CB strong use for severe pruritus
+Add Septon soln for scalp lesions.DC Lonzumin; keep Xyzal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 686.00 Pyoderma  
+O 698.3 Prurigo nodularis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/17 已確認 已批 朱家瑜  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 8 tube 健保 3 2015/06/17 已確認 已批 朱家瑜  
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 28 3 tube 健保 3 2015/06/17 已確認 已批 朱家瑜  
+Septon Sol 0.064% 10 g/btl 1 XX BID D 28 1 btl 健保 3 2015/06/17 已確認 已批 朱家瑜  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 2 tube 健保 3 2015/06/17 已確認 已批 朱家瑜 
+ 
+
+Subjective 
+Right middle cerebellar peduncle infarct on 2011/05/27 
+Right limb dysmetria, ataxia
+HT, HLP, DM
+Schizophrenia with medication of Risperidal, Zoloft, Akineton, Ativan
+dizziness(+)
+unsteady gait with ever falls 
+Objective 
+BP: 130/70
+Home sugar 130
+【20110527】MRI Without Contrast--Brain: A small recent infarct at right middle cerebellar peduncle. Mild nonspecific white matter change. 
+NIHSS=5 (sensory 1, R arm 1, dysmetria 2, dysarthria 1)
+mRS: 3
+ABI: R 1.10, L 1.11 
+
+【20150617】GLU AC: 106   mg/dL
+【20150617】GLU 2hr PC: 290   mg/dL
+【20150617】HbA1c: 5.8   %
+【20150617】T-CHO: 223   mg/dL
+【20150617】TG: 182   mg/dL
+【20150617】HDL-C: 29   mg/dL
+【20150617】LDL-C: 160   mg/dL
+【20150617】CRE: 0.9   mg/dL
+【20150617】UA: 3.5   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 434.91 Cerebral infarction 重 慢 腦  
+O 272.4 Hyperlipidemia 慢  
+O 401.9 (HT)自發性高血壓，未明示為惡性或良性 慢  
+O 721.1 Cervical myelopathy 慢  
+O 250.00 DM 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Lipitor 20 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/06/26 已確認 已批 鄭建興  
+Sinemet 25/100 /tab 0.5 tab BID PO 28 28 tab 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Loditon 500 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日)
+ 
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/26 已確認 已批 鄭建興 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+Subjective 
+提醒個案血糖與血脂肪須追蹤
+Cerebral infarction DM Hyperlipidemia Cervical myelopathy (HT)自發性高血壓，未明示為惡性或良性 Dermatitis, generalized 
+與太太兒子住板橋
+白天 ：運動＝＝＝ 
+規律生活重心，規則服藥下狀況穩定無明顯症狀 一減藥就不行 
+Objective 
+【20130305】HbA1c: 8.6   %
+【20130305】LDL-C: 136   mg/dL
+【20130305】GLU AC: 230   mg/dL
+【20130305】LDL-C: 136   mg/dL
+【20130305】HbA1c: 8.6   %
+【20130305】GLU AC: 230   mg/dL
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+今日處方種類4
+---+++@@@本次開藥12 weeks,預約12weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 300.4 Dysthymia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/08/13 已確認 已批 謝明憲  
+3 Risperdal FC 3 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/08/13 已確認 已批 謝明憲  
+Zoloft 50 mg/tab 1.5 tab HS PO 28 42 tab 健保 3 2015/08/13 已確認 已批 謝明憲  
+Akinfree 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/13 已確認 已批 謝明憲 
+ 
+
+Subjective 
+Several itchy erythematous papules and crusted papules on the trunk and 4 limbs for 1+ years
+
+Flare up of the generalized dermatitis in the past 1 months. New itching papules on the right lower leg and left temporal scalp.
+PH:DM, stroke, depression
+
+c/o dysuria; dry mouth 
+Objective 
+The nodular lesions became flat. 
+Some excoriated wounds are noted on the chest.
+
+08/31: still very itchy on the old lesions, not enough topical medication
+
+IMP: prurigo nodularis
+20130118 the prurigo improved.
+
+20140924
+Excoriated papules on the right lower leg and left temporal scalp 
+Plan 
+Keep current management; taper Esperson use; encourage UH use and CB strong use for severe pruritus
+Add Septon soln for scalp lesions.DC Lonzumin; keep Xyzal 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 698.3 Prurigo nodularis  
+O 686.00 Pyoderma  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/02 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 8 tube 健保 3 2015/09/02 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 28 3 tube 健保 3 2015/09/02 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+Septon Sol 0.064% 10 g/btl 1 XX BID D 28 1 btl 健保 3 2015/09/02 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 2 tube 健保 3 2015/09/02 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診) 
+ 
+
+Subjective 
+Right middle cerebellar peduncle infarct on 2011/05/27 
+Right limb dysmetria, ataxia
+HT, HLP, DM
+Schizophrenia with medication of Risperidal, Zoloft, Akineton, Ativan
+dizziness(+)
+unsteady gait with ever falls 
+Objective 
+BP: 134/80
+Home sugar 130
+【20110527】MRI Without Contrast--Brain: A small recent infarct at right middle cerebellar peduncle. Mild nonspecific white matter change. 
+NIHSS=5 (sensory 1, R arm 1, dysmetria 2, dysarthria 1)
+mRS: 3
+ABI: R 1.10, L 1.11 
+【20150617】GLU AC: 106   mg/dL
+【20150617】GLU 2hr PC: 290   mg/dL
+【20150617】HbA1c: 5.8   %
+【20150617】T-CHO: 223   mg/dL
+【20150617】TG: 182   mg/dL
+【20150617】HDL-C: 29   mg/dL
+【20150617】LDL-C: 160   mg/dL
+【20150617】CRE: 0.9   mg/dL
+【20150617】UA: 3.5   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 434.91 Cerebral infarction 重 慢 腦  
+O 721.1 Cervical myelopathy 慢  
+O 250.00 DM 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 401.9 (HT)自發性高血壓，未明示為惡性或良性 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/18 已確認 已批 鄭建興  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/18 已確認 已批 鄭建興  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/09/18 已確認 已批 鄭建興  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/09/18 已確認 已批 鄭建興  
+Lipitor 20 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/09/18 已確認 已批 鄭建興 用藥原因:LDL-C: 160 (2015/06/17)
+ 
+Sinemet 25/100 /tab 0.5 tab BID PO 28 28 tab 健保 3 2015/09/18 已確認 已批 鄭建興  
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/18 已確認 已批 鄭建興  
+Loditon 500 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/09/18 已確認 已批 鄭建興  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/18 已確認 已批 鄭建興  
+ 
+
+Subjective 
+多種身體疾病，295加上腦中風後遺症
+Cerebral infarction DM Hyperlipidemia Cervical myelopathy (HT)自發性高血壓，未明示為惡性或良性 Dermatitis, generalized 
+
+與太太兒子住板橋
+白天 ：運動＝
+服用Zoloft下情緒穩定
+規律生活重心，規則服藥Risperdal下狀況穩定無明顯症狀 一減藥就不行 
+Objective 
+-----精神症狀於服藥與生活調整下穩定, 但是對於自己的未來心情低落
+【20130305】HbA1c: 8.6   %
+【20130305】LDL-C: 136   mg/dL
+【20130305】GLU AC: 230   mg/dL
+【20130305】LDL-C: 136   mg/dL
+【20130305】HbA1c: 8.6   %
+【20130305】GLU AC: 230   mg/dL
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+今日處方種類4
+---+++@@@本次開藥12 weeks,預約12weeks 
+Plan 
+提醒個案血糖與血脂肪須追蹤
+協助病人了解疾病及相關治療，提醒生活安排對於情緒與三高改善之重要性
+引導病人面對現實的生活,作出自主參與改善的行為。 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Psychosis Schizophrenia 重 慢  
+O 300.4 Dysthymia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/11/05 已確認 已批 謝明憲  
+3 Risperdal FC 3 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/11/05 已確認 已批 謝明憲  
+Zoloft 50 mg/tab 1.5 tab HS PO 28 42 tab 健保 3 2015/11/05 已確認 已批 謝明憲  
+Akinfree 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/05 已確認 已批 謝明憲 
+ 
+
+Subjective 
+Several itchy erythematous papules and crusted papules on the trunk and 4 limbs for 1+ years
+
+Flare up of the generalized dermatitis in the past 1 months. New itching papules on the right lower leg and left temporal scalp.
+PH:DM, stroke, depression
+
+c/o dysuria; dry mouth 
+Objective 
+The nodular lesions became flat. 
+Some excoriated wounds are noted on the chest.
+
+08/31: still very itchy on the old lesions, not enough topical medication
+
+IMP: prurigo nodularis
+20130118 the prurigo improved.
+
+20140924
+Excoriated papules on the right lower leg and left temporal scalp 
+Plan 
+Keep current management; taper Esperson use; encourage UH use and CB strong use for severe pruritus
+Add Septon soln for scalp lesions; keep Xyzal; RTC 3 months later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 692.9 Dermatitis, generalized 慢 職  
+O 686.00 Pyoderma  
+O 698.3 Prurigo nodularis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/25 已確認 已批 朱家瑜  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 8 tube 健保 3 2015/11/25 已確認 已批 朱家瑜  
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 28 3 tube 健保 3 2015/11/25 已確認 已批 朱家瑜  
+Septon Sol 0.064% 10 g/btl 1 XX BID D 28 1 btl 健保 3 2015/11/25 已確認 已批 朱家瑜  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 2 tube 健保 3 2015/11/25 已確認 已批 朱家瑜 
+ 
+
+Subjective 
+Right middle cerebellar peduncle infarct on 2011/05/27 
+Right limb dysmetria, ataxia
+HT, HLP, DM
+Schizophrenia with medication of Risperidal, Zoloft, Akineton, Ativan
+dizziness(+)
+unsteady gait with ever falls
+just can walk for some short distance 
+Objective 
+BP: 134/80
+Home sugar 130
+NIHSS=5 (sensory 1, R arm 1, dysmetria 2, dysarthria 1)
+mRS: 3~4
+ABI: R 1.10, L 1.11 
+【20110527】MRI Without Contrast--Brain: A small recent infarct at right middle cerebellar peduncle. Mild nonspecific white matter change. 
+【20150617】GLU AC: 106   mg/dL
+【20150617】GLU 2hr PC: 290   mg/dL
+【20150617】HbA1c: 5.8   %
+【20150617】T-CHO: 223   mg/dL
+【20150617】TG: 182   mg/dL
+【20150617】HDL-C: 29   mg/dL
+【20150617】LDL-C: 160   mg/dL
+【20150617】CRE: 0.9   mg/dL
+【20150617】UA: 3.5   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 434.91 Cerebral infarction 重 慢 腦  
+O 272.4 Hyperlipidemia 慢  
+O 401.9 (HT)自發性高血壓，未明示為惡性或良性 慢  
+O 721.1 Cervical myelopathy 慢  
+O 250.00 DM 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/11 已確認 已批 鄭建興  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/11 已確認 已批 鄭建興  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/12/11 已確認 已批 鄭建興  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/11 已確認 已批 鄭建興  
+Lipitor 20 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/12/11 已確認 已批 鄭建興 用藥原因:LDL-C: 160 (2015/06/17)
+ 
+Sinemet 25/100 /tab 0.5 tab BID PO 28 28 tab 健保 3 2015/12/11 已確認 已批 鄭建興  
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/11 已確認 已批 鄭建興  
+Loditon 500 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/12/11 已確認 已批 鄭建興  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/11 已確認 已批 鄭建興  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/11 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 鄭建興 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/12/11 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 鄭建興 
+檢驗 09006C0P *HbA1c 1  N 2015/12/11 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 鄭建興 
+檢驗 09044C0P LDL 1  N 2015/12/11 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 鄭建興 
+檢驗 09001CZP T-CHO 1  N 2015/12/11 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 鄭建興 
+檢驗 09004CZP TG 1  N 2015/12/11 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 鄭建興 
+檢驗 09043C0P HDL 1  N 2015/12/11 執行、已批 Specimen:BLO
+完成：2016/02/25
+ 鄭建興 
+ 
+
+Subjective 
+多種身體疾病，295加上腦中風後遺症
+Cerebral infarction DM Hyperlipidemia Cervical myelopathy (HT)自發性高血壓，未明示為惡性或良性 Dermatitis, generalized 
+
+與太太兒子住板橋
+白天 ：運動＝
+服用Zoloft下情緒穩定
+規律生活重心，規則服藥Risperdal下狀況穩定無明顯症狀 一減藥就不行 
+Objective 
+-----精神症狀於服藥與生活調整下穩定, 但是對於自己的未來心情低落
+【20130305】HbA1c: 8.6   %
+【20130305】LDL-C: 136   mg/dL
+【20130305】GLU AC: 230   mg/dL
+【20130305】LDL-C: 136   mg/dL
+【20130305】HbA1c: 8.6   %
+【20130305】GLU AC: 230   mg/dL
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+今日處方種類4
+---+++@@@本次開藥12 weeks,預約12weeks 
+Plan 
+提醒個案血糖與血脂肪須追蹤
+協助病人了解疾病及相關治療，提醒生活安排對於情緒與三高改善之重要性
+引導病人面對現實的生活,作出自主參與改善的行為。 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O F34.1 Dysthymic disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/01/28 已確認 已批 謝明憲  
+3 Risperdal FC 3 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/01/28 已確認 已批 謝明憲  
+Zoloft 50 mg/tab 1.5 tab HS PO 28 42 tab 健保 3 2016/01/28 已確認 已批 謝明憲  
+Akinfree 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/28 已確認 已批 謝明憲 
+ 
+
+Subjective 
+Several itchy erythematous papules and crusted papules on the trunk and 4 limbs for 1+ years
+
+Flare up of the generalized dermatitis in the past 1 months. New itching papules on the right lower leg and left temporal scalp.
+PH:DM, stroke, depression
+
+c/o dysuria; dry mouth 
+Objective 
+The nodular lesions became flat. 
+Some excoriated wounds are noted on the chest.
+
+08/31: still very itchy on the old lesions, not enough topical medication
+
+IMP: prurigo nodularis
+20130118 the prurigo improved.
+
+20140924
+Excoriated papules on the right lower leg and left temporal scalp 
+Plan 
+Keep current management; taper Esperson use; encourage UH use and CB strong use for severe pruritus
+Add Septon soln for scalp lesions; keep Xyzal; RTC 3 months later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L30.9 Dermatitis, generalized 慢 職  
+O L28.1 Prurigo nodularis 慢  
+O L08.0 Pyoderma  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/16 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 8 tube 健保 3 2016/02/16 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 28 3 tube 健保 3 2016/02/16 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+Septon Sol 0.064% 10 g/btl 1 XX BID D 28 1 btl 健保 3 2016/02/16 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診)
+ 
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 2 tube 健保 3 2016/02/16 已確認 已批 朱家瑜 重複原因:病人因素(補給天數並延後回診) 
+ 
+
+Subjective 
+Right middle cerebellar peduncle infarct on 2011/05/27 
+Right limb dysmetria, ataxia
+HT, HLP, DM
+Schizophrenia with medication of Risperidal, Zoloft, Akineton, Ativan
+dizziness(+)
+unsteady gait with ever falls
+just can walk for some short distance
+nodule on the neck -> ENT evaluation 
+Objective 
+BP: 134/80
+Home sugar 130
+NIHSS=5 (sensory 1, R arm 1, dysmetria 2, dysarthria 1)
+mRS: 3~4
+ABI: R 1.10, L 1.11 
+【20110527】MRI Without Contrast--Brain: A small recent infarct at right middle cerebellar peduncle. Mild nonspecific white matter change. 
+【20150617】GLU AC: 106   mg/dL
+【20150617】GLU 2hr PC: 290   mg/dL
+【20150617】HbA1c: 5.8   %
+【20150617】T-CHO: 223   mg/dL
+【20150617】TG: 182   mg/dL
+【20150617】HDL-C: 29   mg/dL
+【20150617】LDL-C: 160   mg/dL
+【20150617】CRE: 0.9   mg/dL
+【20150617】UA: 3.5   mg/dL
+【20160225】GLU AC: 112   mg/dL
+【20160225】GLU 2hr PC: 289   mg/dL
+【20160225】HbA1c: 5.7   %
+【20160225】T-CHO: 155   mg/dL
+【20160225】TG: 111   mg/dL
+【20160225】HDL-C: 34   mg/dL
+【20160225】LDL-C: 106   mg/dL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I63.9 Cerebral infarction 重 慢 腦  
+O M47.12 Cervical myelopathy 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/04 已確認 已批 鄭建興  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/04 已確認 已批 鄭建興  
+Ceretal SC 400 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/03/04 已確認 已批 鄭建興  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/03/04 已確認 已批 鄭建興  
+Lipitor 20 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/03/04 已確認 已批 鄭建興  
+Sinemet 25/100 /tab 0.5 tab BID PO 28 28 tab 健保 3 2016/03/04 已確認 已批 鄭建興  
+Amaryl 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/04 已確認 已批 鄭建興  
+Loditon 500 mg/tab 2 tab BID PO 28 112 tab 健保 3 2016/03/04 已確認 已批 鄭建興  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/04 已確認 已批 鄭建興 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+left neck swelling noted for 1 year
+
+現病史：
+71M, underlying: stroke, DM, HTN
+Fever(-), local tendereness(-), dysphagia(-), dyspnea(-), AB(-)C(+), BW loss(+, 12KGs in 6 month), hoarseness(-)
+
+
+過去病史：
+stroke, DM, HTN
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：A
+
+目前用藥：
+anticoagulant, For HTN, DM
+
+最近三個月內旅遊史：無
+
+家族病史：不清楚/不便回答
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+left level IV mass 
+Plan 
+echo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R22.1 Neck mass 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 15007BZP Thyroid aspiration cytology 1  N 2016/05/20 執行、已批 SITE:left
+Specimen:THY
+完成：2016/05/20
+ 陳俊男 
+檢查 19005BEH ENT Head Neck Echo-耳鼻喉頭頸部超音波 1 內含 N 2016/03/30 執行、已批 檢查項目:篩檢, 穿刺
+位置:淋巴結, 其他
+完成：2016/05/20
+ 婁培人 
+治療 19007BZS Ultrasonic guidance for needle placement 1  N 2016/05/20 執行、已批 完成：2016/05/20
+ 陳俊男 
+治療 29011C0A Thyroid puncture 1  N 2016/05/20 執行、已批 完成：2016/05/20
+ 陳俊男 
+ 
+
+Subjective 
+多種身體疾病，295加上腦中風後遺症
+Cerebral infarction DM Hyperlipidemia Cervical myelopathy (HT)自發性高血壓，未明示為惡性或良性 Dermatitis, generalized 
+
+與太太兒子住板橋
+白天 ：運動＝
+服用Zoloft下情緒穩定
+規律生活重心，規則服藥Risperdal下狀況穩定無明顯症狀 一減藥就不行 
+Objective 
+-----精神症狀於服藥與生活調整下穩定, 但是對於自己的未來心情低落
+【20130305】HbA1c: 8.6   %
+【20130305】LDL-C: 136   mg/dL
+【20130305】GLU AC: 230   mg/dL
+【20130305】LDL-C: 136   mg/dL
+【20130305】HbA1c: 8.6   %
+【20130305】GLU AC: 230   mg/dL
+
+CGI-Severity☆3, mildly ill 
+CGI-I -Improvement scale■2, much improved 
+Assessment 
+今日處方種類4
+---+++@@@本次開藥12 weeks,預約12weeks 
+Plan 
+提醒個案血糖與血脂肪須追蹤
+協助病人了解疾病及相關治療，提醒生活安排對於情緒與三高改善之重要性
+引導病人面對現實的生活,作出自主參與改善的行為。 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophreina unspecified 重 慢  
+O F34.1 Dysthymic disorder 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ativan 0.5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/04/21 已確認 已批 謝明憲  
+3 Risperdal FC 3 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/04/21 已確認 已批 謝明憲  
+Zoloft 50 mg/tab 1.5 tab HS PO 28 42 tab 健保 3 2016/04/21 已確認 已批 謝明憲  
+Akinfree 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/21 已確認 已批 謝明憲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45087C00 特殊心理治療 - 成人 1  N 2016/04/21 執行、已批 完成：2016/04/21
+ 謝明憲 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/21 已批 完成：2016/04/21  
+行政費用 00181B00 精神科門診診察費－２次以上慢性病連續處方，每次２８天，本院調劑 1  N 2016/04/21 已批 完成：2016/04/21  
+行政費用 05209A00 門診藥事服務費(一般性處方給藥２８天以上) 1  N 2016/04/21 已批 完成：2016/04/21 
+ 
+
+Subjective 
+Several itchy erythematous papules and crusted papules on the trunk and 4 limbs for more than 1+ years
+
+Flare up of the generalized dermatitis in the past 1 months. New itching papules on the right lower leg and left temporal scalp.
+PH:DM, stroke, depression
+
+c/o dysuria; dry mouth 
+Objective 
+The nodular lesions became flat. 
+Some excoriated wounds are noted on the chest.
+
+08/31: still very itchy on the old lesions, not enough topical medication
+
+IMP: prurigo nodularis
+20130118 the prurigo improved.
+
+
+There are numerous ill defined, variously sized, scaling patches on the trunk and 4 limbs.
+Severe pruritus(+)
+Scratch marks(+) 
+BSA>30% 
+Assessment 
+improved now 
+Plan 
+Keep current management; taper Esperson use; encourage UH use and CB strong use for severe pruritus
+Add Septon soln for scalp lesions; keep Xyzal; RTC 3 months later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L30.9 Dermatitis, generalized 慢 職  
+O L08.0 Pyoderma  
+O L28.1 Prurigo nodularis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/10 已確認 已批 朱家瑜  
+C.B. Strong Oint 5 g/tube 1 XX PRN D 28 8 tube 健保 3 2016/05/10 已確認 已批 朱家瑜  
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 28 3 tube 健保 3 2016/05/10 已確認 已批 朱家瑜  
+Septon Sol 0.064% 10 g/btl 1 XX BID D 28 1 btl 健保 3 2016/05/10 已確認 已批 朱家瑜  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 28 2 tube 健保 3 2016/05/10 已確認 已批 朱家瑜 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 小學 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌症? 無 檢驗定量試劑 Eiken 
+請問您有無腸道不適症狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 有     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/05/12 執行、已批 Specimen:STO
+完成：2016/05/13
+ 王維典 
+ 
+
+個人病史 
+個人病史 高血壓,糖尿病,腦中風,精神疾病     
+是否長期服藥 有     
+長期服藥原因 高血壓,糖尿病     
+家族病史 高血壓,糖尿病,腦中風     
+健康行為 
+最近半年，【吸菸】情形？ 平均一天一包煙以上     
+最近半年，【飲酒】情形？ 不喝酒     
+最近半年，【嚼檳榔】情形？ 不嚼檳榔     
+最近兩週，【運動】習慣？ 有，但未達每週150分鐘以上(2.5小時)     
+您是否出現咳嗽超過二週的情形？ 有     
+憂鬱檢測 
+1. 最近兩週，你是否感覺情緒低落、沮喪或沒有希望？ 是 2. 最近兩週，你是否感覺做事情失去興趣或樂趣？ 是   
+身體檢查 
+身高 162.4 公分 體重 63.6 公斤 收縮壓 132 毫米汞柱 
+舒張壓 72 毫米汞柱 脈搏 89 次/分鐘 腰圍 92 公分 
+右眼裸視視力 <0.05  左眼裸視視力 0.5  右眼矯正視力  
+左眼矯正視力      
+耳鼻喉及口腔 無明顯異常     
+頸部淋巴腺腫大      
+甲狀腺腫大 無     
+胸部 無明顯異常     
+心臟聽診 無明顯異常     
+腹部 無明顯異常     
+四肢 無明顯異常     
+呼吸聽診 無明顯異常     
+其他      
+健康諮詢 
+健康諮詢 維持正常體重     
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 N 2016/05/12 執行、已批 Specimen:UR1
+完成：2016/05/13
+ 王維典 
+檢驗 06012CZP MULTISTIX (Routine) 1 內含 N 2016/05/12 執行、已批 Specimen:UR1
+完成：2016/05/13
+ 王維典 
+檢驗 09001CZP Cholesterol, Total 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+檢驗 09004CZP Triglyceride, TG 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+檢驗 09005CZP Glucose (AC) 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+檢驗 09025CZP AST(GOT) 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+檢驗 09026CZP ALT(GPT) 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+檢驗 09043C0P HDL 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+檢驗 09044C0P LDL 1 內含 N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 王維典 
+治療 000022Y0 成人預防保健（６５歲以上第一階段） 1  N 2016/05/12 執行、已批 完成：2016/05/12
+ 王維典 
+治療 000I0005 體檢證明書費 1 內含 N 2016/05/12 執行、已批 完成：2016/05/12
+ 王維典 
+治療 000I0010 體檢診察費（一般理學檢查） 1 內含 N 2016/05/12 執行、已批 完成：2016/05/12
+ 王維典 
+治療 000I0211 體檢判讀費 1 內含 N 2016/05/12 執行、已批 完成：2016/05/12
+ 王維典 
+ 
+
+Subjective 
+BW loss noted for 6 months 
+Objective 
+【20160225】GLU AC: 112   mg/dL
+【20160225】GLU 2hr PC: 289   mg/dL
+
+BW :74 kg 6 months ago
+64 kg now 
+intake decrease
+
+insomnia+
+stressful life event++ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R63.4 Body weight loss 
+ 檢驗 09106C0P Free T4 1  N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 康佑德 
+檢驗 18001C0P ECG routine 1  N 2016/05/12 執行、已批 Specimen:ECG
+完成：2016/05/12
+ 康佑德 
+檢驗 08011CZP CBC & platelet 1  N 2016/05/12 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 康佑德 
+檢驗 07001CZP Stool: occult blood (O-tolidine普通件、化學法) 1  N 2016/05/12 執行、已批 Specimen:STO
+完成：2016/05/13
+ 康佑德 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/05/12 執行、已批 完成：2016/05/12
+ 康佑德 
+
+

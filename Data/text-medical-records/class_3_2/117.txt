@@ -1,0 +1,552 @@
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.7 Healthy Volunteer  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 08013CZP WBC differential count 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 11001C0P ABO Typing 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 11003CYP Rh Typing 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09005CZP Glucose (AC) 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09005CYP Glucose (PC 2h) 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 000PP204 B.C.S. 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09031CZP Gamma-GT, GGT 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09032CZP Creatine Kinase, CK 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09017CZP Amylase 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09043C0P HDL 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09044C0P LDL 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 27049C0P Alpha-FetoProtein(AFP) 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 14051C0P Anti-HCV Ab 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09022CZP Potassium, K 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09021CZP Sodium, Na 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09023CZP Chloride, Cl 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 12001C0P Syphilis (VDRL) 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 12081B0P PSA 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 06012CZP 尿一般檢查 1 內含 Y 2015/01/16 執行、已批 檢體： UR1
+完成：2015/01/16
+ 吳明賢 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 Y 2015/01/16 執行、已批 檢體： UR1
+完成：2015/01/16
+ 吳明賢 
+檢驗 09134CZP 糞便潛血免疫分析 1 內含 Y 2015/01/16 執行、已批 檢體： STO
+完成：2015/01/16
+ 吳明賢 
+檢驗 09006C0P HbA1c 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 14032C0P HBsAg (EIA) 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 14033CZP Anti-HBs Ab quantification 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 12015CWP Ｃ反應性蛋白試驗（生化室） 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 27027B0P Free T4 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 27004C0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 27050BZT CEA (RIA) (Serum) 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+檢驗 12079B0P CA-199 1 內含 Y 2015/01/16 執行、已批 檢體： BLO
+完成：2015/01/16
+ 吳明賢 
+影醫 32011CZM L Spine (Lateral View) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+影醫 32006C0M Abdomen:KUB 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+影醫 000M4A02 Low dose lung cancer screening CT 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000036TH EKG(Electrocardiography) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000017TH SCREENING SPIROMETRY 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000029TH BODY COMPOSITION ANALYSIS 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000012TH CONSULTATION 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000003TH CONSULTATION 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000037TH Uroflow 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000E0404 Best corrected visual acuity 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000E0407 Autorefraction 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 23401C00 Slit lamp exam 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 23501C00 Funduscopic exam 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 23305CZ0 氣壓式眼壓測定 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 02005B00 住院會診費 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000032TH AUDIOMETRY(PURE TONE) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000020TH SONOGRAPHY: ABDOMEN 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000033TH UPPER G. I. PANENDOSCOPY 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000035TH COLONOSCOPY 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000001TH NUTRITIONAL CONSULTANT(GROUP) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000002TH NUTRITIONAL CONSULTANT(INDIVIDUAL) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000013TH REPORT(1) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000014TH CONSULTATION 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 00022265 Health check lunch 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000019TH CAROTID SONOGRAPHY 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+治療 000048TH Anesthesia, for endoscopy(Gastroscope+Colonscope) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 吳明賢 
+ 
+ 
+
+預約日期 時段 序號 院區 檢查室 地點 
+2015/1/16 上午 40 總院區 台大總院東址(新大樓)超高速電腦斷層室 台大總院東址(新大樓)超高速電腦斷層室 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 211.3 Colon polyp 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/01/16 已確認 已批B 陳雅琪  
+內含 Niflec Powder 137.155 g/pack 檢查附帶用藥 1 pack AS ORDER PO 1 1 pack 內含  2015/01/16 已確認 已批 曾屏輝  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 25004C0W 病理切片 3  N 2015/01/16 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/01/16
+ 陳雅琪 
+檢查 28017CTH Colon fiberoscopy ( HMC only) 1 內含 Y 2015/01/16 執行、已批 完成：2015/01/16
+ 曾屏輝 
+治療 49027C00 polypectomy 1  N 2015/01/16 執行、已批 完成：2015/01/16
+ 陳雅琪 
+治療 000Z3043 中文診斷書 1 自費 N 2015/01/16 執行、已批 完成：2015/01/16
+ 曾屏輝 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2015/01/16 執行、已批 完成：2015/01/16
+ 曾屏輝 
+醫材 20435204 腸胃道止血處置夾釘 3 自費 N 2015/01/16 執行、已批 完成：2015/01/16
+ 陳雅琪 
+醫材 20255204 INJECTION NEEDLE 1 自費 N 2015/01/16 執行、已批 完成：2015/01/16
+ 陳雅琪 
+ 
+
+Subjective 
+DM, hyperlipidemia and mild hypothyroidism noted on health exam. Abnormal liver function. 
+Objective 
+【20150116】HbA1c: 6.7   %  GLU AC: 122   mg/dL  GLU 2hr PC: 335   mg/dL
+【20150116】Free T4(CIA): 0.963   ng/dL  hsTSH(CIA): 4.28   μIU/mL
+【20150116】LDL-C: 163   mg/dL  HDL-C: 36   mg/dL  TG: 246   mg/dL  T-CHO: 229   mg/dL
+【20150116】CRE: 0.7   mg/dL
+【20150116】AST: 70   U/L  ALT: 88   U/L
+
+BP 152/90 mmHg 
+Plan 
+RTC one month; next 83 kg. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 780.4 Dizziness and vertigo  
+O 272.4 Hyperlipidemia 慢  
+O 244.9 Hypothyroidism 慢  
+O 794.8 Abnormal liver function  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+160 Diovan FC 160 mg/tab 1 tab QD PO 28 28 tab 健保  2015/02/14 已確認 已批 呂金盈  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/02/14 已確認 已批 呂金盈  
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 28 tab 健保  2015/02/14 已確認 已批 呂金盈  
+脂 Crestor 10 mg/tab 1 tab QD PO 28 28 tab 健保  2015/02/14 已確認 已批 呂金盈  
+Diamicron MR 30 mg/tab 1 tab QD PO 28 28 tab 健保  2015/02/14 已確認 已批 呂金盈  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2015/02/14 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09043C0P HDL 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2015/02/14 開立、已批 Specimen:UR1
+ 呂金盈 
+檢驗 09112B0P *Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/02/14 開立、已批 Specimen:BLO
+採檢時機:.
+ 呂金盈 
+檢驗 12134B0P Anti-TPO Ab 1  N 2015/02/14 開立、已批 Specimen:BLO
+ 呂金盈 
+ 
+
+Subjective 
+For HBV vaccination
+Never had HBV vaccination before
+
+2016/4 health exam at NTUH HMC:
+HTN, DM, DysL, abnormal LFT, elevated CEA
+已掛 Dr.呂金盈, 賴祐平
+
+Smoking 1+ PPD
+Home BP: not regularly checked
+Exercise: rare
+Long-term medication(-) 
+Objective 
+36.8 C
+
+【20160408】Low dose lung cancer screening CT :Minor or non-specific lung findings. Suggest follow up. 
+Fatty liver.
+Please refer to the text above for detailed findings.
+
+【20160408】RIA:CEA (Serum): 6.64   ng/ml
+
+【20160408】Anti-HBs: Negative(0.00)   mIU/mL
+【20160408】HBsAg: Negative(0.01)   IU/mL
+【20160408】Anti-HCV Ab: Negative   *
+
+【20160408】LDL-C: 162   mg/dL
+【20160408】HDL-C: 35   mg/dL
+
+【20160408】HbA1c: 8.8   %
+【20160408】GLU AC: 151   mg/dL
+【20160408】GLU 2hr PC: 306   mg/dL
+【20160408】UA: 5.2   mg/dL
+【20160408】TG: 184   mg/dL
+【20160408】T-CHO: 220   mg/dL
+
+【20160408】AST: 84   U/L
+【20160408】ALT: 110   U/L 
+Plan 
+HBV 1st dose
+6/28 AM for 2nd dose
+Refer to smoking cessation OPD
+Suggest home BP record
+
+R3李伊真/VS陳晶瑩 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z23 Vaccination  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+自費 Engerix-B 20 mcg/1 mL /vial 疫苗 1 vial STAT IM 1 1 vial 自費  2016/05/24 已確認 已批 黃喬煜 劑別:第一劑
+批號:AHBVC498AB
+
+
+Subjective 
+HBeAg(+) CH-B documented in 2003
+Loss follow-up for 1+ year 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M B18.1 Chronic viral hepatitis B without delta-agent 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2016/05/13 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 陳介章 
+檢驗 09026CZP ALT(GPT) 1  N 2016/05/13 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 陳介章 
+檢驗 09025CZP AST(GOT) 1  N 2016/05/13 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 陳介章 
+檢驗 14035C0P HBeAg 1  N 2016/05/13 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 陳介章 
+檢驗 14036C0P Anti-HBe Ab 1  N 2016/05/13 執行、已批 Specimen:BLO
+完成：2016/05/13
+ 陳介章 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2016/05/13 執行、已批 Reason for abodominal echo:Hepatitis B
+完成：2016/06/07
+ 陳介章 
+
+
+Subjective 
+1. Right ureteral stone with hydronephrosis status post ESWL,status post right
+ureterorenoscopic stone manipulation (URS-SM)
+2. Gallbladder stone status post laparoscopic Cholecystectomy
+3. Hepatitis B
+4. Fatty liver cirrhosis
+5. Past history of right UPJ stone s/p URSSM in 2008
+
+CC: 
+Objective 
+【20151216】Abdomen:KUB :retention of surgical clip(s) or suture materials over the right upper quadrant of abdomen. clear bilateral psoas shadows. no definite radiopaque stones. unremarkable small bowel gas pattern. no evidence of destructive bony lesion at the spine.
+【20151216】WBC(S): 5-10   /HPF
+【20151216】RBC(S): >100   /HPF
+【20141202】Follow up Abdomen Echo :Fatty liver, moderate
+       Liver cyst
+       Post-cholecystectomy 
+Assessment 
+r.o LUS 
+Plan 
+RTC 2 w 12/31
+renal echo stat next time 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 592.9 Urolithiasis  
+O 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap QD PO 14 14 cap 健保  2015/12/19 已確認 已批 張奕凱  
+Votan SR 100 mg/tab 1 tab QDPC PO 7 7 tab 健保  2015/12/19 已確認 已批 張奕凱  
+Nacid 500 mg/tab 1 tab TID PO 7 21 tab 自費  2015/12/19 已確認 已批 張奕凱 
+ 
+
+Subjective 
+snoring noted for years
+nasal obstruction-
+observed sleep apnea+
+arousal+
+daytime somnolence+
+
+HTN- DM- CAD-
+
+NKDA 
+Objective 
+164 cm
+86 kg
+
+LF; tonsils Gr2
+mallampati Gr2
+
+PSG on 2013/09/10
+AHI: 11/hr
+LSAT 84
+saturation <90: 2 
+Plan 
+well explain 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 786.09 Snoring  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/11/02 執行、已批 完成：2015/11/02
+ 李正�� 
+ 
+
+Subjective 
+CC: low back pain for 8+ months
+PI: he had low back pain (sacral) for six months and pain occurred in sitting longer duration. He needed to sit and stand for longer duration . When riding motercycle will also cause pain (尾椎頂到). No leg numbness. routine x-ray showed degenerative spine.
+Improved pain after PT. 
+Objective 
+疼痛評估：疼痛指數： 3-4分; 間歇痛 ; 疼痛部位： low back; 
+bending forward: ok, extension; ok, negative in SLRT, Patric sign or FIRA test. No knocking pain, No  local tenderness.
+Local tenderness at midline sacral area.
+【20140107】L Spine (Lateral View) :mildly degenerative change of lumbar spine. 輕微脊椎退化性病變. 
+Assessment 
+Back muscle chronic strain
+Coccydynia 
+Plan 
+PT: 1.posture training. 2. therapeutic exercise 
+ reh goal: reduce pain to VAS: 1 and increase spine stability
+Xray: coccyx AP LAT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 724.79 Coccydynia  
+M 847.9 Back sprain 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 7 14 cap 自費  2015/03/05 已確認 已批 郭正雅 重複原因:自費買藥
+ 
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 7 14 cap 健保  2015/03/05 已確認 已批 郭正雅  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP082 Spine: Sacrum Coccyx 2-Views 1  N 2015/03/05 執行、已批 完成：2015/03/05
+ 郭正雅 
+治療 42007A0N 物理治療－中度治療－中度 1 內含 N 2015/03/05 執行、已批 其他：☆PTM7_運動治療 ☆PTM13_姿態訓練(含步態及姿勢)
+完成：2015/03/05
+ 郭正雅 
+治療 PTM7 運動治療 1  N 2015/03/05 執行  郭正雅 
+治療 PTM13 姿態訓練(含步態及姿勢) 1  N 2015/03/05 執行  郭正雅 
+治療 42007A0N 物理治療－中度治療－中度 1  N 2015/03/05 執行、已批 其他：☆PTM7_運動治療 ☆PTM13_姿態訓練(含步態及姿勢)
+療程次數：01
+完成：2015/03/05
+ 張騏安 
+治療 PTM7 運動治療 1  N 2015/03/05 執行  張騏安 
+治療 PTM13 姿態訓練(含步態及姿勢) 1  N 2015/03/05 執行  張騏安 
+治療 42007A0N 物理治療－中度治療－中度 1  N 2015/03/17 執行、已批 其他：☆PTM7_運動治療 ☆PTM13_姿態訓練(含步態及姿勢)
+療程次數：02
+完成：2015/03/17
+ 黃筱凌 
+治療 PTM7 運動治療 1  N 2015/03/17 執行  黃筱凌 
+治療 PTM13 姿態訓練(含步態及姿勢) 1  N 2015/03/17 執行  黃筱凌 
+治療 42007A0N 物理治療－中度治療－中度 1  N 2015/03/24 執行、已批 其他：☆PTM7_運動治療 ☆PTM13_姿態訓練(含步態及姿勢)
+療程次數：03
+完成：2015/03/24
+ 張騏安 
+治療 PTM7 運動治療 1  N 2015/03/24 執行  張騏安 
+治療 PTM13 姿態訓練(含步態及姿勢) 1  N 2015/03/24 執行  張騏安 
+ 
+
+Subjective 
+CC: low back pain for half year
+PI: he had low back pain for six months and pain occurred in sitting longer duration. He needed to sit and stand for longer duration . When riding motercycle will also cause pain. No leg numbness. routine x-ray showed degenerative spine. 
+Objective 
+疼痛評估：疼痛指數： 3-4分; 間歇痛 ; 疼痛部位： low back; 
+bending forward: ok, extension; ok, negative in SLRT, Patric sign or FIRA test. No knocking pain, No  local tenderness. 
+Assessment 
+Back muscle chronic strain 
+Plan 
+PT: 1.posture training. 2. therapeutic exercise 3. Endurance ( focus on educate back exercise)
+ reh goal: reduc epain to VAS: 1 and increase spine stability 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 847.9 Back sprain 外  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 42010A0N 物理治療－中度治療－複雜 1 內含 N 2015/01/21 執行、已批 其他：☆PTM7_運動治療 ☆PTM10_耐力訓練 ☆PTM13_姿態訓練(含步態及姿勢)
+完成：2015/01/21
+ 王亭貴 
+治療 PTM7 運動治療 1  N 2015/01/21 執行  王亭貴 
+治療 PTM10 耐力訓練 1  N 2015/01/21 執行  王亭貴 
+治療 PTM13 姿態訓練(含步態及姿勢) 1  N 2015/01/21 執行  王亭貴 
+治療 42010A0N 物理治療－中度治療－複雜 1  N 2015/02/02 執行、已批 其他：☆PTM7_運動治療 ☆PTM10_耐力訓練 ☆PTM13_姿態訓練(含步態及姿勢)
+療程次數：01
+完成：2015/02/02
+ 張騏安 
+治療 PTM7 運動治療 1  N 2015/02/02 執行  張騏安 
+治療 PTM10 耐力訓練 1  N 2015/02/02 執行  張騏安 
+治療 PTM13 姿態訓練(含步態及姿勢) 1  N 2015/02/02 執行  張騏安 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 574.20 Gallbladder stone ( GB stone )  
+O 571.8 Fatty Liver 慢  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12007C0P Alpha-FetoProtein(AFP) 1  N 2014/12/11 執行、已批 Specimen:BLO
+完成：2015/05/14
+ 王錦堂 
+檢驗 09026CZP ALT(GPT) 1  N 2014/12/11 執行、已批 Specimen:BLO
+完成：2015/05/14
+ 王錦堂 
+檢驗 09025CZP AST(GOT) 1  N 2014/12/11 執行、已批 Specimen:BLO
+完成：2015/05/14
+ 王錦堂 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 574.20 Gallbladder stone ( GB stone )  
+O 571.8 Fatty Liver 慢  
+O 070.32 Chronic hepatitis B (HBV) 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 19009C0B F/U Abdomen Echo(Ultrasound)-追蹤性腹部超音波 (超音波科) 1  N 2014/11/27 執行、已批 Reason for abodominal echo:Gallbladder stone ( GB stone )
+完成：2014/12/02
+ 王錦堂 
+ 
+
+
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z1026 肌肉注射（限預防注射及美容等自費項目） 1 自費 N 2016/05/24 執行、已批 完成：2016/05/24
+ 黃喬煜 
+ 

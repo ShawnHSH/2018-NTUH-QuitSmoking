@@ -1,0 +1,1016 @@
+
+主/次 診斷碼 診斷名稱 註記 
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2014/11/22 已確認 已批 林淑珍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/11/22 已確認 已批 林淑珍  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2014/11/22 已確認 已批 林淑珍  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/22 已確認 已批 林淑珍 用藥原因:LDL-C: 81 (2014/07/31)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/22 已確認 已批 林淑珍  
+Loditon 500 mg/tab 2 tab AS ORDER PO 28 112 tab 健保 3 2014/11/22 已確認 已批 林淑珍 特殊劑量:一天 3 次，早飯後1 錠, 中飯後1 錠, 晚飯後2 錠. 
+ 
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/22 已確認 已批 林淑珍  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/22 已確認 已批 林淑珍  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2014/11/22 已確認 已批 林淑珍  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/11/22 已確認 已批 林淑珍  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2014/11/22 已確認 已批 林淑珍  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/22 已確認 已批 林淑珍 用藥原因:LDL-C: 81 (2014/07/31)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/22 已確認 已批 林淑珍  
+Loditon 500 mg/tab 2 tab AS ORDER PO 28 112 tab 健保 3 2014/11/22 已確認 已批 林淑珍 特殊劑量:一天 3 次，早飯後1 錠, 中飯後1 錠, 晚飯後2 錠. 
+ 
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/22 已確認 已批 林淑珍  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/22 已確認 已批 林淑珍 
+ 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. 
+Objective 
+【20141120】Anti-TPO Ab.(AMA): <3.00   IU/mL
+【20141120】Protein(C): -   mg/dL  pH: 5.5   *  O.B.(C): +/-   mg/dL  Nitrite(C): -   *
+【20141120】hsTSH(CIA): 1.78   μIU/mL  Free T4(CIA): 1.28   ng/dL  CK: 141   U/L  UA: 4.9   mg/dL  HbA1c: 7.8   %  GLU AC: 133   mg/dL
+
+【20140731】Serum PSA: 1.704   ng/ml  LDL-C: 81   mg/dL  ALT: 23   U/L  CRE: 1.3   mg/dL  HbA1c: 7.9   %  GLU AC: 168   mg/dL  TG: 114   mg/dL
+
+【20140528】HbA1c: 8.0   %
+【20140528】GLU AC: 153   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 9.3   mg/L  CRE(U): 215   mg/dL
+
+【20140211】HbA1c: 8.5   %
+【20140210】LDL-C: 90   mg/dL  CK: 141   U/L  ALT: 24   U/L  GLU AC: 158   mg/dL  TG: 152   mg/dL
+
+BP 128/70--> 128/86  --> 116/70 --> 126/70--> 112/78-> 122/70-> 122/70 -> 128/72 mmhg
+Grade IB goiter
+PR 80/min 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months; DM screen; refer to cardiologist; stool OB before RTC 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2014/11/22 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2014/11/22 已確認 已批 呂金盈  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2014/11/22 已確認 已批 呂金盈  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/11/22 已確認 已批 呂金盈 用藥原因:LDL-C: 81 (2014/07/31)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2014/11/22 已確認 已批 呂金盈  
+Loditon 500 mg/tab 2 tab AS ORDER PO 28 112 tab 健保 3 2014/11/22 已確認 已批 呂金盈 特殊劑量:一天 3 次，早飯後1 錠, 中飯後1 錠, 晚飯後2 錠. 
+ 
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/22 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/11/22 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09004CZP Triglyceride, TG 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 呂金盈 
+檢驗 09043C0P HDL 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2014/11/21 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 呂金盈 
+檢驗 09013CZP Uric acid 1  N 2014/11/21 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2014/11/21 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2014/11/21 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2014/11/21 報到、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2014/11/21 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 呂金盈 
+檢驗 09134CZP Stool: occult blood (IA定量法) 1  N 2014/11/22 執行、已批 Specimen:STO
+完成：2015/02/12
+ 呂金盈 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2015/02/09 執行、已批 Specimen:UR1
+完成：2015/02/09
+ 汪宜靜 
+檢查 000CMED1 糖尿病變篩檢檢查(含眼底、視力、尿液微量白蛋白、面神經刺激、動脈分段血流壓力檢查) 1  N 2014/11/22 執行、已批 完成：2015/02/09
+ 呂金盈 
+治療 18009B0A 動脈分段血流及壓力之測定 1  N 2015/02/09 執行、已批 完成：2015/02/09
+ 汪宜靜 
+治療 23502C00 眼底彩色攝影（每張） 1  N 2015/02/09 執行、已批 完成：2015/02/09
+ 汪宜靜 
+治療 23501C00 眼底檢查 1  N 2015/02/09 執行、已批 完成：2015/02/09
+ 汪宜靜 
+治療 000E0404 V A CHECK 1 自費 N 2015/02/09 執行、已批 完成：2015/02/09
+ 汪宜靜 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary arterial disease (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 21 42 tab 健保  2014/11/24 已確認 已批 簡國龍  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 25 1 btl 健保  2014/11/24 已確認 已批 簡國龍  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0P ECG routine 1  N 2014/11/24 執行、已批 Specimen:ECG
+完成：2014/11/24
+ 簡國龍 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2014/11/24 執行、已批 完成：2014/11/24
+ 簡國龍 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2014/11/24 執行、已批 完成：2014/12/02
+ 簡國龍 
+檢查 000JEX04 神經部超音波檢查 1  N 2014/11/24 執行、已批 完成：2014/12/02
+ 簡國龍 
+核醫 000TP135 Dipyridamole & Resting 1  N 2014/11/24 執行、已批 完成：2014/12/04
+ 簡國龍 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2014/11/24 執行、已批 完成：2014/12/02
+ 簡國龍 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2014/11/24 執行、已批 完成：2014/12/02
+ 簡國龍 
+治療 18010B00 頸動脈頸動脈聲圖檢查 1  N 2014/11/24 執行、已批 完成：2014/12/02
+ 簡國龍 
+治療 20013B0J 頸動脈超音波檢查(Dopscan) 1  N 2014/11/24 執行、已批 完成：2014/12/02
+ 簡國龍 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2014/11/24 執行、已批 完成：2014/12/04
+ 簡國龍 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary arterial disease (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 21 21 tab 健保  2015/01/22 已確認 已批 簡國龍  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 21 1 btl 健保  2015/01/22 已確認 已批 簡國龍  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1 自費 N 2015/01/22 執行、已批 Specimen:BLO
+完成：2015/01/28
+ 簡國龍 
+影醫 000M4008 Coronary CT Angiography(自費) 1 自費 N 2015/01/22 執行、已批 Indication:CAD
+完成：2015/02/02
+ 簡國龍 
+ 
+
+Subjective 
+65__________y/o man a case of DM, work in 上海
+chest tightness just received coronary CT 
+loud disruptive snore
+witnessed apnea by wife
+unrefresh sleep
+frequent awake from sleep
+nocturia 2___ times/N which poorly respond to medication for BPH
+Dozing at:quiet sitting, reading, meeting, playing computer
+attention deficit
+Smoking: _1___PPD for ___30____year
+Sleep duration :__11_pm to__6_am
+coffee twice a day 
+Objective 
+Facial profile: neutrognathis________
+Mandibular length
+Hyoid bone position:Neutral
+Tongue ridge____negative________
+macroglossia__3__
+Palatal elevation ___negative ___
+Palatoglossal space grade _3____
+Tonsillar grade _1____ 
+Assessment 
+R/O OSA 
+Plan 
+PSG
+instruct patient with alcohol restriction and quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.57 Sleep apnea  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 門診用 Stilnox 10 mg/tab 常備藥 1 tab STAT PO 1 1 tab 健保  2015/05/24 已確認 已批B 李佩玲  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/02/05 刪除、刪除 Specimen:BLO
+ 李佩玲 
+檢驗 09002CZP (Blood)UN 1  N 2015/02/05 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李佩玲 
+檢驗 09026CZP ALT(GPT) 1  N 2015/02/05 刪除、刪除 Specimen:BLO
+ 李佩玲 
+檢驗 09025CZP AST(GOT) 1  N 2015/02/05 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李佩玲 
+檢驗 09029CZP Bilirubin, total 1  N 2015/02/05 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李佩玲 
+檢驗 08011CZP CBC & platelet 1  N 2015/02/05 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李佩玲 
+檢驗 08013CZP WBC classification 1  N 2015/02/05 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李佩玲 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/02/05 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李佩玲 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2015/02/05 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李佩玲 
+ 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/02/05 執行、已批 完成：2015/02/12
+ 李佩玲 
+檢查 17008B99 [總院]Polysomnography-睡眠生理多項功能檢查 1  N 2015/02/05 執行、已批 Indication:obstructive sleep apnea
+連絡電話:0926288355
+有無氣切:無
+有無居家使用呼吸器:無
+是否願意被立刻通知前往檢查:是
+其他：3/9-4/17不在台灣，其他時間請隨call
+完成：2015/05/23
+ 李佩玲 
+檢查 17003C0S Flow-volume curve-流量容積圖形檢查 1  N 2015/02/05 執行、已批 完成：2015/02/12
+ 李佩玲 
+檢查 34005B00 測顱Ｘ光攝影 1  N 2015/02/05 執行、已批 完成：2015/02/12
+ 李佩玲 
+治療 17008B0A Polysomnography 1  N 2015/02/05 執行、已批 完成：2015/05/23
+ 李佩玲 
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary arterial disease (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/14 已確認 已批 賴婉玲 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/14 已確認 已批 賴婉玲  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/14 已確認 已批 賴婉玲 
+ 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. 
+Objective 
+【20150212】Stool O.B.(EIA): Negative(<50)   ng/mL
+【20150209】HbA1c: 7.5   %
+【20150209】CRP: 0.04   mg/dL  HDL-C: 48   mg/dL  T-BIL: 0.62   mg/dL  ALT: 14   U/L  AST: 16   U/L  CRE: 1.3   mg/dL  UA: 5.2   mg/dL  GLU AC: 98   mg/dL  TG: 129   mg/dL  UN: 18.9   mg/dL  T-CHO: 140   mg/dL  Microalbumin/CRE(U): 0.005   *  Microalbumin: 5.7   mg/L  CRE(U): 126   mg/dL
+【20150128】CRE: 1.3   mg/dL
+
+【20141120】Anti-TPO Ab.(AMA): <3.00   IU/mL
+【20141120】Protein(C): -   mg/dL  pH: 5.5   *  O.B.(C): +/-   mg/dL  Nitrite(C): -   *
+【20141120】hsTSH(CIA): 1.78   μIU/mL  Free T4(CIA): 1.28   ng/dL  CK: 141   U/L  UA: 4.9   mg/dL  HbA1c: 7.8   %  GLU AC: 133   mg/dL
+
+【20140731】Serum PSA: 1.704   ng/ml  LDL-C: 81   mg/dL  ALT: 23   U/L  CRE: 1.3   mg/dL  HbA1c: 7.9   %  GLU AC: 168   mg/dL  TG: 114   mg/dL
+
+【20140528】HbA1c: 8.0   %
+【20140528】GLU AC: 153   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 9.3   mg/L  CRE(U): 215   mg/dL
+
+【20140211】HbA1c: 8.5   %
+【20140210】LDL-C: 90   mg/dL  CK: 141   U/L  ALT: 24   U/L  GLU AC: 158   mg/dL  TG: 152   mg/dL
+
+BP 128/70--> 128/86  --> 116/70 --> 126/70--> 112/78-> 122/70-> 122/70 -> 128/72-> 142/90 mmhg
+Grade IB goiter
+PR 80/min 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months; DM screen; refer to cardiologist; stool OB before RTC 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/02/14 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/14 已確認 已批 呂金盈  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/02/14 已確認 已批 呂金盈  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/14 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/14 已確認 已批 呂金盈  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/14 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/14 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/14 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/02/10 執行、已批 Specimen:BLO
+完成：2015/05/27
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/02/10 報到、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/02/10 執行、已批 Specimen:BLO
+完成：2015/05/27
+ 呂金盈 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/05/30 已確認 已批 陳滿汝 用藥原因:HDL-C: 48 (2015/02/09)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/30 已確認 已批 陳滿汝 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/05/30 已確認 已批 陳滿汝 用藥原因:HDL-C: 48 (2015/02/09)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/30 已確認 已批 陳滿汝  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/30 已確認 已批 陳滿汝 
+ 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. 
+Objective 
+【20150527】HbA1c: 7.9   %  GLU AC: 140   mg/dL
+
+【20150212】Stool O.B.(EIA): Negative(<50)   ng/mL
+【20150209】HbA1c: 7.5   %
+【20150209】CRP: 0.04   mg/dL  HDL-C: 48   mg/dL  T-BIL: 0.62   mg/dL  ALT: 14   U/L  AST: 16   U/L  CRE: 1.3   mg/dL  UA: 5.2   mg/dL  GLU AC: 98   mg/dL  TG: 129   mg/dL  UN: 18.9   mg/dL  T-CHO: 140   mg/dL  Microalbumin/CRE(U): 0.005   *  Microalbumin: 5.7   mg/L  CRE(U): 126   mg/dL
+【20150128】CRE: 1.3   mg/dL
+
+【20141120】Anti-TPO Ab.(AMA): <3.00   IU/mL
+【20141120】Protein(C): -   mg/dL  pH: 5.5   *  O.B.(C): +/-   mg/dL  Nitrite(C): -   *
+【20141120】hsTSH(CIA): 1.78   μIU/mL  Free T4(CIA): 1.28   ng/dL  CK: 141   U/L  UA: 4.9   mg/dL  HbA1c: 7.8   %  GLU AC: 133   mg/dL
+
+【20140731】Serum PSA: 1.704   ng/ml  LDL-C: 81   mg/dL  ALT: 23   U/L  CRE: 1.3   mg/dL  HbA1c: 7.9   %  GLU AC: 168   mg/dL  TG: 114   mg/dL
+
+【20140528】HbA1c: 8.0   %
+【20140528】GLU AC: 153   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 9.3   mg/L  CRE(U): 215   mg/dL
+
+【20140211】HbA1c: 8.5   %
+【20140210】LDL-C: 90   mg/dL  CK: 141   U/L  ALT: 24   U/L  GLU AC: 158   mg/dL  TG: 152   mg/dL
+
+BP 128/70--> 128/86  --> 116/70 --> 126/70--> 112/78-> 122/70-> 122/70 -> 128/72-> 142/90 -> 116/70 mmhg
+Grade IB goiter
+PR 80/min 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/05/30 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/05/30 已確認 已批 呂金盈  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/05/30 已確認 已批 呂金盈  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/05/30 已確認 已批 呂金盈 用藥原因:HDL-C: 48 (2015/02/09)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/30 已確認 已批 呂金盈  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/30 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/30 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/30 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+檢驗 09013CZP Uric acid 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+ 
+檢驗 09006C0P HbA1c 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/05/25 執行、已批 Specimen:BLO
+完成：2015/08/20
+ 呂金盈 
+
+
+Subjective 
+able to climb 5th floor 
+Objective 
+【20150527】HbA1c: 7.9   %
+【20150527】GLU AC: 140   mg/dL
+【20150212】Pulmonary Function Test :SLEEP APNEA SYNDROME * Spirometry by CHESTAC-8800
+
+* Mild obstructive ventilatory defect
+【20150212】Chest : PA View (Standing) :Chest PA shows:
+Normal cardiac size. No definite focal lung lesion. Degenerative lumbar spine.
+PSG __2015.5.23_____: AHI _33.4___/hr, lowest SPO2: 71___%, TisPO2< 90%:__7.3___ 
+Assessment 
+Severe OSA
+R/O COPD
+advise p't with quit smoking 
+Plan 
+Bronchodilator+Standard
+CPAP titration 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.57 Sleep apnea  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 17007B0S Standard bronchodilator test-標準支氣管擴張劑試驗 1  N 2015/07/20 執行、已批 完成：2015/07/29
+ 李佩玲 
+檢查 57023B99 [總院]CPAP-非侵襲性陽壓呼吸治療 1  N 2015/07/20 執行、已批 Indication:CPAP titration
+有無氣切:無
+有無居家使用呼吸器:無
+其他：隨CALL~0926288355
+完成：2015/11/19
+ 李佩玲 
+治療 17008B0A Overnight Polysomnography 1  N 2015/07/20 執行、已批 完成：2015/11/19
+ 李佩玲 
+治療 57023B00 Non-invasive positive presure(Na 1  N 2015/07/20 執行、已批 完成：2015/11/19
+ 李佩玲 
+醫材 20456503 全覆式面罩 1 內含 N 2015/07/20 執行、已批 完成：2015/11/19
+ 李佩玲 
+醫材 20457800 頭罩式綁帶 1 內含 N 2015/07/20 執行、已批 完成：2015/11/19
+ 李佩玲 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/08/22 已確認 已批 林偉翔  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/22 已確認 已批 林偉翔  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/08/22 已確認 已批 林偉翔  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/22 已確認 已批 林偉翔 用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/22 已確認 已批 林偉翔  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/22 已確認 已批 林偉翔  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/22 已確認 已批 林偉翔  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/22 已確認 已批 林偉翔  
+ 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. 
+Objective 
+【20150820】LDL-C: 69   mg/dL  CK: 145   U/L  ALT: 13   U/L  CRE: 1.3   mg/dL  UA: 4.3   mg/dL  HbA1c: 7.6   %  GLU AC: 115   mg/dL  TG: 107   mg/dL
+
+【20150527】HbA1c: 7.9   %  GLU AC: 140   mg/dL
+
+【20150212】Stool O.B.(EIA): Negative(<50)   ng/mL
+【20150209】HbA1c: 7.5   %
+【20150209】CRP: 0.04   mg/dL  HDL-C: 48   mg/dL  T-BIL: 0.62   mg/dL  ALT: 14   U/L  AST: 16   U/L  CRE: 1.3   mg/dL  UA: 5.2   mg/dL  GLU AC: 98   mg/dL  TG: 129   mg/dL  UN: 18.9   mg/dL  T-CHO: 140   mg/dL  Microalbumin/CRE(U): 0.005   *  Microalbumin: 5.7   mg/L  CRE(U): 126   mg/dL
+【20150128】CRE: 1.3   mg/dL
+
+【20141120】Anti-TPO Ab.(AMA): <3.00   IU/mL
+【20141120】Protein(C): -   mg/dL  pH: 5.5   *  O.B.(C): +/-   mg/dL  Nitrite(C): -   *
+【20141120】hsTSH(CIA): 1.78   μIU/mL  Free T4(CIA): 1.28   ng/dL  CK: 141   U/L  UA: 4.9   mg/dL  HbA1c: 7.8   %  GLU AC: 133   mg/dL
+
+【20140731】Serum PSA: 1.704   ng/ml  LDL-C: 81   mg/dL  ALT: 23   U/L  CRE: 1.3   mg/dL  HbA1c: 7.9   %  GLU AC: 168   mg/dL  TG: 114   mg/dL
+
+【20140528】HbA1c: 8.0   %
+【20140528】GLU AC: 153   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 9.3   mg/L  CRE(U): 215   mg/dL
+
+【20140211】HbA1c: 8.5   %
+【20140210】LDL-C: 90   mg/dL  CK: 141   U/L  ALT: 24   U/L  GLU AC: 158   mg/dL  TG: 152   mg/dL
+
+BP 128/70--> 128/86  --> 116/70 --> 126/70--> 112/78-> 122/70-> 122/70 -> 128/72-> 142/90 -> 116/70 mmhg
+Grade IB goiter
+PR 80/min 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/08/22 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/22 已確認 已批 呂金盈  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/08/22 已確認 已批 呂金盈  
+Lipitor 20 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/08/22 已確認 已批 呂金盈 用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂)
+ 
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/22 已確認 已批 呂金盈  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/22 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/22 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/22 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/08/22 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/08/22 報到、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/08/22 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 呂金盈 
+ 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. Severe insomnia. Edema. 
+Objective 
+【20151112】HbA1c: 8.0   %
+【20151112】GLU AC: 80   mg/dL
+
+【20150820】LDL-C: 69   mg/dL  CK: 145   U/L  ALT: 13   U/L  CRE: 1.3   mg/dL  UA: 4.3   mg/dL  HbA1c: 7.6   %  GLU AC: 115   mg/dL  TG: 107   mg/dL
+
+【20150527】HbA1c: 7.9   %  GLU AC: 140   mg/dL
+
+【20150212】Stool O.B.(EIA): Negative(<50)   ng/mL
+【20150209】HbA1c: 7.5   %
+【20150209】CRP: 0.04   mg/dL  HDL-C: 48   mg/dL  T-BIL: 0.62   mg/dL  ALT: 14   U/L  AST: 16   U/L  CRE: 1.3   mg/dL  UA: 5.2   mg/dL  GLU AC: 98   mg/dL  TG: 129   mg/dL  UN: 18.9   mg/dL  T-CHO: 140   mg/dL  Microalbumin/CRE(U): 0.005   *  Microalbumin: 5.7   mg/L  CRE(U): 126   mg/dL
+【20150128】CRE: 1.3   mg/dL
+
+【20141120】Anti-TPO Ab.(AMA): <3.00   IU/mL
+【20141120】Protein(C): -   mg/dL  pH: 5.5   *  O.B.(C): +/-   mg/dL  Nitrite(C): -   *
+【20141120】hsTSH(CIA): 1.78   μIU/mL  Free T4(CIA): 1.28   ng/dL  CK: 141   U/L  UA: 4.9   mg/dL  HbA1c: 7.8   %  GLU AC: 133   mg/dL
+
+【20140731】Serum PSA: 1.704   ng/ml  LDL-C: 81   mg/dL  ALT: 23   U/L  CRE: 1.3   mg/dL  HbA1c: 7.9   %  GLU AC: 168   mg/dL  TG: 114   mg/dL
+
+BP 128/72-> 142/90 -> 116/70 -> 128/75mmhg
+Grade IB goiter
+PR 80-> 72/min 
+Assessment 
+Actos related edema? 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months (W3), self use Lipitor 1# hs; Actos 1/2#qd 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+M 250.00 DM 慢 糖  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 307.41 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/11/14 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/11/14 已確認 已批 呂金盈  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/11/14 已確認 已批 呂金盈  
+(管4) Stilnox 10 mg/tab 1 tab HS PO 28 28 tab 健保  2015/11/14 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/14 已確認 已批 呂金盈  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/14 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/14 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/11/12 執行、已批 Specimen:BLO
+完成：2016/02/22
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/11/12 執行、已批 Specimen:BLO
+完成：2016/02/22
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/11/14 執行、已批 Specimen:BLO
+完成：2016/02/22
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2015/11/14 執行、已批 Specimen:BLO
+完成：2016/02/22
+ 呂金盈 
+ 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/11/14 執行、已批 Specimen:BLO
+完成：2016/02/22
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2015/11/14 執行、已批 Specimen:BLO
+完成：2016/02/22
+ 呂金盈 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2015/11/14 執行、已批 Specimen:UR1
+完成：2016/02/22
+ 呂金盈 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 DM 慢 糖  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+O 307.41 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/14 已確認 已批 蕭凱真 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 272.4 Hyperlipidemia 慢  
+O 436 Cerebrovascular accident (CVA) 重 慢 腦  
+O 600.0 Benign prostatic hypertrophy ( BPH ) 慢 男  
+O 307.41 Insomnia, nonorganic 慢  
+M 250.00 DM 慢 糖  
+O 250.60 Diabetes mellitus with neuropathy (DM) 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/14 已確認 已批 蕭凱真  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/14 已確認 已批 蕭凱真 
+ 
+
+Subjective 
+referred from sleep center for treatment of OSA
+ 
+Objective 
+AHI: 32/h
+CPAP pressure: 11 cm
+BMI: 23
+ 
+Plan 
+t-MAD has been explained
+patient needs to consider
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.57 Sleep apnea syndrome  
+ 
+
+Subjective 
+sleep refresh similar as usual in the morning next to CPAP titration 
+Objective 
+【20150212】Pulmonary Function Test :SLEEP APNEA SYNDROME * Spirometry by CHESTAC-8800
+
+* Mild obstructive ventilatory defect
+【20150729】Pulmonary Function Test :Sleep apnea * Spirometry by Elite DX
+
+* R/O Mild obstructive ventilatory defect
+* Bronchodilator test: No response to Fenoterol 100mcg 4 puff 
+Assessment 
+patient prefer OA 
+Plan 
+refer to orthodontist 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.57 Sleep apnea  
+ 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. Severe insomnia. Edema. 
+Objective 
+20160222】HbA1c: 8.8   %
+【20160222】LDL-C: 140   mg/dL  ALT: 18   U/L  CRE: 1.4   mg/dL  GLU AC: 105   mg/dL  TG: 170   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 7.8   mg/L  CRE(U): 209   mg/dL
+
+【20151112】HbA1c: 8.0   %
+【20151112】GLU AC: 80   mg/dL
+
+【20150820】LDL-C: 69   mg/dL  CK: 145   U/L  ALT: 13   U/L  CRE: 1.3   mg/dL  UA: 4.3   mg/dL  HbA1c: 7.6   %  GLU AC: 115   mg/dL  TG: 107   mg/dL
+
+【20150527】HbA1c: 7.9   %  GLU AC: 140   mg/dL
+
+【20150212】Stool O.B.(EIA): Negative(<50)   ng/mL
+【20150209】HbA1c: 7.5   %
+【20150209】CRP: 0.04   mg/dL  HDL-C: 48   mg/dL  T-BIL: 0.62   mg/dL  ALT: 14   U/L  AST: 16   U/L  CRE: 1.3   mg/dL  UA: 5.2   mg/dL  GLU AC: 98   mg/dL  TG: 129   mg/dL  UN: 18.9   mg/dL  T-CHO: 140   mg/dL  Microalbumin/CRE(U): 0.005   *  Microalbumin: 5.7   mg/L  CRE(U): 126   mg/dL
+【20150128】CRE: 1.3   mg/dL
+
+BP 128/72-> 142/90 -> 116/70 -> 128/75 -> 139/75 mmhg; PR 92/min;
+Grade IB goiter 
+Assessment 
+Actos related edema? 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months (W3), self use Lipitor 1# hs; Actos 1/2#qd; 加入衛教照護網 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O N40.0 Enlarged prostate without lower urinary tract symptoms 慢 男  
+O F51.01 Insomnia, nonorganic 慢  
+O I67.89 Cerebrovascular accident 重 慢 腦  
+O E11.40 Diabetes mellitus with neuropathy, non-insulin dependent 慢 複 糖  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2016/02/24 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/02/24 已確認 已批 呂金盈  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保 3 2016/02/24 已確認 已批 呂金盈  
+(管4) Stilnox 10 mg/tab 1 tab HS PO 28 28 tab 健保  2016/02/24 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/24 已確認 已批 呂金盈  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/02/24 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/24 已確認 已批 呂金盈 
+ 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2016/02/24 執行、已批 Specimen:UR1
+完成：2016/05/12
+ 呂金盈 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/02/24 執行、已批 Specimen:UR1
+完成：2016/05/12
+ 呂金盈 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/02/24 執行、已批 Specimen:UR1
+完成：2016/05/12
+ 呂金盈 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09043C0P HDL 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2016/02/24 執行、已批 Specimen:BLO
+完成：2016/05/12
+ 呂金盈 
+檢查 000CMED1 糖尿病變篩檢檢查(含眼底、視力、尿液微量白蛋白、面神經刺激、動脈分段血流壓力檢查) 1  N 2016/02/24 執行、已批 完成：2016/05/18
+ 呂金盈 
+治療 18009B0A 動脈分段血流及壓力之測定 1  N 2016/05/18 執行、已批 完成：2016/05/18
+ 黃秀芬 
+治療 23502C00 眼底彩色攝影（每張） 1  N 2016/05/18 執行、已批 完成：2016/05/18
+ 黃秀芬 
+治療 23501C00 眼底檢查 1  N 2016/05/18 執行、已批 完成：2016/05/18
+ 黃秀芬 
+治療 000E0404 V A CHECK 1 自費 N 2016/05/18 執行、已批 完成：2016/05/18
+ 黃秀芬 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. Severe insomnia. Edema. 
+Objective 
+【20160512】Protein(C): -   mg/dL  pH: 5.0   *  O.B.(C): -   *  Nitrite(C): -   *  Ketone body (U): -   *
+【20160512】LDL-C: 128   mg/dL  HDL-C: 41   mg/dL  ALT: 24   U/L  CRE: 1.4   mg/dL  HbA1c: 7.2   %  GLU AC: 104   mg/dL  GLU 2hr PC: 110   mg/dL  TG: 154   mg/dL  T-CHO: 197   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 6.0   mg/L  CRE(U): 134   mg/dL
+
+【20160222】HbA1c: 8.8   %
+【20160222】LDL-C: 140   mg/dL  ALT: 18   U/L  CRE: 1.4   mg/dL  GLU AC: 105   mg/dL  TG: 170   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 7.8   mg/L  CRE(U): 209   mg/dL
+
+【20151112】HbA1c: 8.0   %
+【20151112】GLU AC: 80   mg/dL
+
+【20150820】LDL-C: 69   mg/dL  CK: 145   U/L  ALT: 13   U/L  CRE: 1.3   mg/dL  UA: 4.3   mg/dL  HbA1c: 7.6   %  GLU AC: 115   mg/dL  TG: 107   mg/dL
+
+【20150527】HbA1c: 7.9   %  GLU AC: 140   mg/dL
+
+【20150212】Stool O.B.(EIA): Negative(< 50)   ng/mL
+【20150209】HbA1c: 7.5   %
+【20150209】CRP: 0.04   mg/dL  HDL-C: 48   mg/dL  T-BIL: 0.62   mg/dL  ALT: 14   U/L  AST: 16   U/L  CRE: 1.3   mg/dL  UA: 5.2   mg/dL  GLU AC: 98   mg/dL  TG: 129   mg/dL  UN: 18.9   mg/dL  T-CHO: 140   mg/dL  Microalbumin/CRE(U): 0.005   *  Microalbumin: 5.7   mg/L  CRE(U): 126   mg/dL
+【20150128】CRE: 1.3   mg/dL
+
+BP 128/72-> 142/90 -> 116/70 -> 128/75 -> 139/75 -> 118/73 mmhg; PR 92/min;
+Grade IB goiter 
+Assessment 
+Actos related edema? 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months (W3), self use Lipitor 1# hs; Actos 1/2#qd 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O E11.40 Diabetes mellitus with neuropathy, non-insulin dependent 慢 複 糖  
+O E78.5 Hyperlipidemia 慢  
+O I67.89 Cerebrovascular accident 重 慢 腦  
+O N40.0 Enlarged prostate without lower urinary tract symptoms 慢 男  
+O F51.01 Insomnia, nonorganic 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2016/05/18 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/05/18 已確認 已批 呂金盈  
+Lipitor 20 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/05/18 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/05/18 已確認 已批 呂金盈  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/05/18 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/05/18 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/08/05
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/08/05
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2016/05/18 執行、已批 Specimen:BLO
+完成：2016/08/05
+ 呂金盈 
+檢驗 09013CZP Uric acid 1  N 2016/05/18 執行、已批 Specimen:BLO
+完成：2016/08/05
+ 呂金盈 
+治療 P1407C00 糖尿病第一階段新收案管理照護費 1  N 2016/05/16 執行、已批 完成：2016/05/18
+ 呂金盈 
+ 
+
+Subjective 
+Change to Chinese medication recently. Abdominal cramping after taking Glibudon. BIlateral leg and foot cold sensation, right thumb numbness. DM noted for 17 years. Weight 65 kg. Urine decreased. BPH symptoms aggravated. High free T4 levels. Severe insomnia. Edema. 
+Objective 
+【20160805】eGFR: 53.9   mL/min/1.73 m^2  CRE: 1.4   mg/dL  UA: 5.1   mg/dL  HbA1c: 7.8   %  GLU AC: 204   mg/dL
+
+【20160512】Protein(C): -   mg/dL  pH: 5.0   *  O.B.(C): -   *  Nitrite(C): -   *  Ketone body (U): -   *
+【20160512】LDL-C: 128   mg/dL  HDL-C: 41   mg/dL  ALT: 24   U/L  CRE: 1.4   mg/dL  HbA1c: 7.2   %  GLU AC: 104   mg/dL  GLU 2hr PC: 110   mg/dL  TG: 154   mg/dL  T-CHO: 197   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 6.0   mg/L  CRE(U): 134   mg/dL
+
+【20160222】HbA1c: 8.8   %
+【20160222】LDL-C: 140   mg/dL  ALT: 18   U/L  CRE: 1.4   mg/dL  GLU AC: 105   mg/dL  TG: 170   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: 7.8   mg/L  CRE(U): 209   mg/dL
+
+【20151112】HbA1c: 8.0   %
+【20151112】GLU AC: 80   mg/dL
+
+【20150820】LDL-C: 69   mg/dL  CK: 145   U/L  ALT: 13   U/L  CRE: 1.3   mg/dL  UA: 4.3   mg/dL  HbA1c: 7.6   %  GLU AC: 115   mg/dL  TG: 107   mg/dL
+
+【20150527】HbA1c: 7.9   %  GLU AC: 140   mg/dL
+
+【20150212】Stool O.B.(EIA): Negative(< 50)   ng/mL
+【20150209】HbA1c: 7.5   %
+【20150209】CRP: 0.04   mg/dL  HDL-C: 48   mg/dL  T-BIL: 0.62   mg/dL  ALT: 14   U/L  AST: 16   U/L  CRE: 1.3   mg/dL  UA: 5.2   mg/dL  GLU AC: 98   mg/dL  TG: 129   mg/dL  UN: 18.9   mg/dL  T-CHO: 140   mg/dL  Microalbumin/CRE(U): 0.005   *  Microalbumin: 5.7   mg/L  CRE(U): 126   mg/dL
+【20150128】CRE: 1.3   mg/dL
+
+BP 128/72-> 142/90 -> 116/70 -> 128/75 -> 139/75 -> 118/73 mmhg; PR 92/min;
+Grade IB goiter 
+Assessment 
+Actos related edema? 
+Plan 
+Suggest quit smoking and drinking.
+RTC 3 months (W3), self use Lipitor 1# hs; Actos 1/2#qd; refer to 戒菸門診 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O F51.01 Insomnia, nonorganic 慢  
+O I67.89 Cerebrovascular accident 重 慢 腦  
+O E11.40 Diabetes mellitus with neuropathy, non-insulin dependent 慢 複 糖  
+O E78.5 Hyperlipidemia 慢  
+O N40.1 Enlarged prostate with lower urinary tract symptoms 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 56 tab 健保 3 2016/08/10 已確認 已批 呂金盈  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2016/08/10 已確認 已批 呂金盈  
+Lipitor 20 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/08/10 已確認 已批 呂金盈  
+Glucobay 50 mg/tab 1 tab QN POMEAL 28 28 tab 健保 3 2016/08/10 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/08/10 已確認 已批 呂金盈  
+Loditon 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/08/10 已確認 已批 呂金盈  
+Januvia 100 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/08/10 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/08/08 執行、已批 Specimen:BLO
+完成：2016/10/29
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2016/08/08 執行、已批 Specimen:BLO
+完成：2016/10/29
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2016/08/08 執行、已批 Specimen:BLO
+完成：2016/10/29
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/08/10 報到、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2016/08/10 執行、已批 Specimen:BLO
+完成：2016/10/29
+ 呂金盈 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/08/10 執行、已批 Specimen:BLO
+完成：2016/10/29
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2016/08/10 報到、已批 Specimen:BLO
+ 呂金盈 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/08/10 執行、已批 Specimen:BLO
+完成：2016/10/29
+ 呂金盈 
+治療 P1408C00 糖尿病第一階段追蹤管理照護費 1  N 2016/08/08 執行、已批 完成：2016/08/10
+ 呂金盈 
+ 

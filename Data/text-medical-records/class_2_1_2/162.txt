@@ -1,0 +1,1113 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+dysphagia in recent few days
+
+現病史：
+esophageal cancer 30 cm from incisor, SCC found by EGD at 永和耕莘
+
+poor appetite, body weight loss(+)
+stress(+)
+smoking(+)
+Alcohol(+)
+
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+chinese hood
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA 
+Assessment 
+admission 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R13.10 Dysphagia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 14 14 tab 自費  2016/05/03 已確認 已批 林明燦  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 14 42 tab 健保  2016/05/03 已確認 已批 林明燦 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31), clear consciousness 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC 
+Plan 
+1. Definite PF or TP CCRT is suggested.
+2. CBC/DC, Cre, ALT, SCC. The risk of massive bleeding and pneumonia was also informed. Suggest family member accompany next OPD.
+3. RTC 1 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/05/31 執行、已批 Specimen:BLO
+完成：2016/06/06
+ 郭哲銓 
+檢驗 08013CZP WBC classification 1  N 2016/05/31 執行、已批 Specimen:BLO
+完成：2016/06/06
+ 郭哲銓 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/05/31 執行、已批 Specimen:BLO
+完成：2016/06/06
+ 郭哲銓 
+檢驗 09026CZP ALT(GPT) 1  N 2016/05/31 執行、已批 Specimen:BLO
+完成：2016/06/06
+ 郭哲銓 
+檢驗 12080B0P SCC 1  N 2016/05/31 執行、已批 Specimen:BLO
+完成：2016/06/06
+ 郭哲銓 
+ 
+
+Subjective 
+advanced esophageal cancer cT4N2M0 
+s/p jejunostomy 2016-5-20
+arrange CCRT 
+Objective 
+wound of jejunostomy: well healed 
+Plan 
+removal of stitches 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)(小於10CM) 1  N 2016/05/31 執行、已批 完成：2016/05/31
+ 黃培銘 
+ 
+
+Subjective 
+advanced esophageal cancer cT4N2M0 
+s/p jejunostomy 2016-5-20
+arrange CCRT 
+Objective 
+wound of jejunostomy: well healed 
+Plan 
+removal of stitches 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)(小於10CM) 1  N 2016/05/31 執行、已批 完成：2016/05/31
+ 黃培銘 
+ 
+
+Subjective 
+For simulation
+Dysphagia 
+Objective 
+【20160518】[總院]BRONCHOSCOPY-支氣管鏡檢查－(內視鏡科) :esophageal cancer for staging 
+Indication :
+ Evaluation of airway morphology
+Premedication :
+  
+Bronchoscopic findings :
+  Vocal cords and above area :
+     no vocal cord palsy
+  Trachea :
+     1. No obvious endotracheal lesion
+     2. Fair mucosa
+  Carina :
+     sharp
+  Right side bronchial trees :
+     1. No endobronchial lesion
+     2. Fair mucosa 
+     3. Scanty sputum
+  Left side brochial tree :
+     1. No endobronchial lesion
+     2. Fair mucosa 
+     3. Scanty sputum
+  Bronchoscopic Diagnosis :
+     No obvious endotracheal or endobronchial lesion was noted 
+  Specimens :
+     Bronchial washing to RB6 for cytology; bacterial, TB & fungal culture
+【20160516】ESO.+Upper GI Barium Meal :Esophageal cancer, middle esophagus.
+【20160513】. :Esophagus,labeled as 28 cm, endoscopic biopsy,squamous cell carcinoma     Esophagus,labeled as 20-25 cm, endoscopic biopsy,mild to moderate dysplasia     
+【20160513】Whole body FDG (健保) :1. Middle esophageal cancer with metastatic lymph nodes at subcar
+inal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion. Please correlate with recent CT. 
+Assessment 
+Esophageal cancer, 25-30cm below incisors, squamous cell carcinoma, T4aN2M0, stage IIIC 
+Plan 
+Simulation done
+Start RT on 6/7 LA3N 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 36005B00 定位照相(2張)放射照野片(2張) 1  N 2016/06/01 執行、已批 完成：2016/06/01
+ 成佳憲 
+治療 36015B00 電腦治療規劃-複雜 1  N 2016/06/01 執行、已批 完成：2016/06/01
+ 成佳憲 
+治療 36021C00 3D電腦斷層模擬攝影 1  N 2016/06/01 執行、已批 完成：2016/06/01
+ 成佳憲 
+治療 37046B0Y 多葉型準直儀合金模塊之設計及製作-每一照野 6  N 2016/06/01 執行、已批 完成：2016/06/01
+ 成佳憲 
+治療 37016B00 固定模具設計製作-大 1  N 2016/06/01 執行、已批 完成：2016/06/01
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/07
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/08
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/13
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/14
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/15
+ 成佳憲 
+治療 36019B00 劑量計算驗證(每週) 1  N 2016/07/03 執行、已批 完成：2016/06/15
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/16
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/17
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/20
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/21
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/22
+ 成佳憲 
+治療 36019B00 劑量計算驗證(每週) 1  N 2016/07/03 執行、已批 完成：2016/06/22
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/23
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/24
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/28
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/29
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/06/30
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/03 執行、已批 診療部位:C
+完成：2016/07/01
+ 成佳憲 
+治療 36019B00 劑量計算驗證(每週) 1  N 2016/07/03 執行、已批 完成：2016/06/30
+ 成佳憲 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/06
+ 蔡巧琳 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/07
+ 蔡巧琳 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/11
+ 蔡巧琳 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/12
+ 蔡巧琳 
+治療 36019B00 劑量計算驗證(每週) 1  N 2016/07/19 執行、已批 完成：2016/07/12
+ 蔡巧琳 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/13
+ 蔡巧琳 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/14
+ 蔡巧琳 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/15
+ 蔡巧琳 
+治療 36012B00 直線加速器遠隔放射治療-複 6  N 2016/07/19 執行、已批 診療部位:C
+完成：2016/07/18
+ 蔡巧琳 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07- PF-CCRT (1, 6/8) 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31), clear consciousness 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC under PF-CCRT (2016/06/07-) 
+Plan 
+1. PF (1) = 06/08
+2. The risk of massive bleeding and pneumonia was also informed. Suggest family member accompany next OPD.
+3. RTC 1 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline inj 0.9% 250 mL/bag 常備藥 250 mL STAT IF 1 1 bag 健保  2016/06/07 已確認 已批B 郭哲銓  
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL QD IF 1 1 bag 健保  2016/06/07 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+門診用 Saline Inj 0.9% 1000 mL/bag 常備藥 1000 mL QD IF 1 1 bag 健保  2016/06/07 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+Kemoplat 50 mg/50 mL /vial 化療注射 40 mg QD IF 1 1 vial 健保  2016/06/07 已確認 已批 郭哲銓 in: NS 250 mL (總體積290mL)(濃度: 0.1379 mg/mL) keep 流速: 145 mL/時 for 120 分 (速度: 0.333333 mg/分) 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+(DC)Fluoro-uracil Valeant (5-FU) 1000 mg/20 mL /vial 化療注射 600 mg QD IF 1 1 vial 健保  2016/06/07 已確認 已批 郭哲銓 in: NS 50 mL (總體積62mL)(濃度: 9.6774 mg/mL) keep 流速: 372 mL/時 for 10 分 (速度: 60 mg/分) 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 100 mL/btl 化療稀釋用 50 mL QD IF 1 1 btl 健保  2016/06/07 已確認 已批 郭哲銓 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 250 mL/btl 化療稀釋用 250 mL QD IF 1 1 btl 健保  2016/06/07 已確認 已批 郭哲銓 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+Kytril Inj 3 mg/3 mL /amp 3 mg QD IV 1 1 amp 健保  2016/06/07 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+Rinderon Inj 4 mg/1 mL /amp 4 mg QD IV 1 1 amp 健保  2016/06/07 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/06/07 執行、已批 Specimen:BLO
+完成：2016/06/13
+ 郭哲銓 
+檢驗 08013CZP WBC classification 1  N 2016/06/07 執行、已批 Specimen:BLO
+完成：2016/06/13
+ 郭哲銓 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/06/07 執行、已批 Specimen:BLO
+完成：2016/06/13
+ 郭哲銓 
+檢驗 09026CZP ALT(GPT) 1  N 2016/06/07 執行、已批 Specimen:BLO
+完成：2016/06/13
+ 郭哲銓 
+檢查 000CCHE0 治療項目5-8小時(請勿預約下午) 1  N 2016/06/07 開立、已批 治療項目:化療
+ 郭哲銓 
+治療 000YP009 化療(IV CATH用)1-4小時 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+治療 37039B0Y Intravenous chemotherapy 1-4 hou 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+治療 39016B0Y INFUSION PUMP (PER DAY) 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20000907 Disposable Plastic Syringe#10CC 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20003700 3 Way Stopcock 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20004112 INFUSION SET 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20004122 PLUM PUMP SET 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20005525 Protectin IV Catheter 24G 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20525301 T-Adapter with Extension set 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20525703 BAG SPIKE ADAPTER /NON-DEHP TUBING 1  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+醫材 20525705 BAG SPIKE VENTED CLAVE 2  N 2016/06/07 執行、已批 完成：2016/06/07
+ 郭哲銓 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07- PF-CCRT (1, 2 6/8, 6/15) 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14), clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+Nausea : Gr.1 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC under PF-CCRT (2016/06/07-)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. PF (2) = 06/15
+2. CXR, CBC/DC, Cre, ALT
+3. RTC 1 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline inj 0.9% 250 mL/bag 常備藥 250 mL STAT IF 1 1 bag 健保  2016/06/14 已確認 已批B 郭哲銓  
+MgO 250 mg/tab 1 tab TID PO 7 21 tab 健保  2016/06/14 已確認 已批 郭哲銓  
+Novamin 5 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/06/14 已確認 已批 郭哲銓  
+門診用 Saline Inj 0.9% 1000 mL/bag 常備藥 1000 mL QD IF 1 1 bag 健保  2016/06/14 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL QD IF 1 1 bag 健保  2016/06/14 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+Kemoplat 50 mg/50 mL /vial 化療注射 40 mg QD IF 1 1 vial 健保  2016/06/14 已確認 已批 郭哲銓 in: NS 250 mL (總體積290mL)(濃度: 0.1379 mg/mL) keep 流速: 145 mL/時 for 120 分 (速度: 0.333333 mg/分) 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+(DC)Fluoro-uracil Valeant (5-FU) 1000 mg/20 mL /vial 化療注射 600 mg QD IF 1 1 vial 健保  2016/06/14 已確認 已批 郭哲銓 in: NS 50 mL (總體積62mL)(濃度: 9.6774 mg/mL) keep 流速: 372 mL/時 for 10 分 (速度: 60 mg/分) 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 250 mL/btl 化療稀釋用 250 mL QD IF 1 1 btl 健保  2016/06/14 已確認 已批 郭哲銓 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 100 mL/btl 化療稀釋用 50 mL QD IF 1 1 btl 健保  2016/06/14 已確認 已批 郭哲銓 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+針 Primperan Inj 10 mg/2 mL /amp 10 mg QD IV 1 1 amp 健保  2016/06/14 已確認 已批 郭哲銓 for 2 分 特殊醫囑:D1; before cisplatin 
+ 
+Kytril Inj 3 mg/3 mL /amp 3 mg QD IV 1 1 amp 健保  2016/06/14 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+Rinderon Inj 4 mg/1 mL /amp 4 mg QD IV 1 1 amp 健保  2016/06/14 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/06/14 執行、已批 Specimen:BLO
+完成：2016/06/20
+ 郭哲銓 
+檢驗 08013CZP WBC classification 1  N 2016/06/14 執行、已批 Specimen:BLO
+完成：2016/06/20
+ 郭哲銓 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/06/14 執行、已批 Specimen:BLO
+完成：2016/06/20
+ 郭哲銓 
+檢驗 09026CZP ALT(GPT) 1  N 2016/06/14 執行、已批 Specimen:BLO
+完成：2016/06/20
+ 郭哲銓 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/06/14 執行、已批 完成：2016/06/20
+ 郭哲銓 
+檢查 000CCHE0 治療項目5-8小時(請勿預約下午) 1  N 2016/06/14 開立、已批 治療項目:化療
+ 郭哲銓 
+治療 000YP009 化療(IV CATH用)1-4小時 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+治療 37039B0Y Intravenous chemotherapy 1-4 hou 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+治療 39016B0Y INFUSION PUMP (PER DAY) 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20525705 克萊福接頭 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20000904 SAFETY SYRINGE 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20003700 3 Way Stopcock 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20004112 INFUSION SET 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20004122 PLUM PUMP SET 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20005525 Protectin IV Catheter 24G 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20525301 T-Adapter with Extension set 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20525703 BAG SPIKE ADAPTER /NON-DEHP TUBING 1  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+醫材 20525705 BAG SPIKE VENTED CLAVE 2  N 2016/06/14 執行、已批 完成：2016/06/14
+ 郭哲銓 
+ 
+
+Subjective 
+Dysphagia
+Nausea/vomiting 
+Objective 
+Radiotherapy at 10Gy/5fx (planned 55Gy/25fx)
+BW: 36.4 (6/14)
+
+No RT reaction
+常見放射治療副作用 Acute Toxicity 
+No side effect 
+Assessment 
+Esophageal cancer, 25-30cm below incisors, squamous cell carcinoma, T4aN2M0, stage IIIC 
+Plan 
+Go on RT
+RTC two weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab QIDPRN PO 14 15 tab 健保  2016/06/14 已確認 已批 成佳憲 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07- PF-CCRT (1, 2, 3; 6/8, 6/15, 6/23)
+improving nausea/vomiting, CXR (06/21): smaller right hilar shadow and air-fluid level 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14) => 36kg (06/21), clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+Nausea/thrombocytopenia : Gr.1 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC under PF-CCRT (2016/06/07-)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. PF (3) = 06/23
+2. CBC/DC, Cre, ALT
+3. RTC 1 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline inj 0.9% 250 mL/bag 常備藥 250 mL STAT IF 1 1 bag 健保  2016/06/21 已確認 已批B 郭哲銓  
+Novamin 5 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/06/21 已確認 已批 郭哲銓  
+門診用 Saline Inj 0.9% 1000 mL/bag 常備藥 1000 mL QD IF 1 1 bag 健保  2016/06/21 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL QD IF 1 1 bag 健保  2016/06/21 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+Kemoplat 50 mg/50 mL /vial 化療注射 40 mg QD IF 1 1 vial 健保  2016/06/21 已確認 已批 郭哲銓 in: NS 250 mL (總體積290mL)(濃度: 0.1379 mg/mL) keep 流速: 145 mL/時 for 120 分 (速度: 0.333333 mg/分) 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+(DC)Fluoro-uracil Valeant (5-FU) 1000 mg/20 mL /vial 化療注射 600 mg QD IF 1 1 vial 健保  2016/06/21 已確認 已批 郭哲銓 in: NS 50 mL (總體積62mL)(濃度: 9.6774 mg/mL) keep 流速: 372 mL/時 for 10 分 (速度: 60 mg/分) 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 100 mL/btl 化療稀釋用 50 mL QD IF 1 1 btl 健保  2016/06/21 已確認 已批 郭哲銓 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 250 mL/btl 化療稀釋用 250 mL QD IF 1 1 btl 健保  2016/06/21 已確認 已批 郭哲銓 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+針 Primperan Inj 10 mg/2 mL /amp 10 mg QD IV 1 1 amp 健保  2016/06/21 已確認 已批 郭哲銓 for 2 分 特殊醫囑:D1; before cisplatin 
+ 
+Kytril Inj 3 mg/3 mL /amp 3 mg QD IV 1 1 amp 健保  2016/06/21 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+Rinderon Inj 4 mg/1 mL /amp 4 mg QD IV 1 1 amp 健保  2016/06/21 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/06/21 執行、已批 Specimen:BLO
+完成：2016/06/28
+ 郭哲銓 
+檢驗 08013CZP WBC classification 1  N 2016/06/21 執行、已批 Specimen:BLO
+完成：2016/06/28
+ 郭哲銓 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/06/21 執行、已批 Specimen:BLO
+完成：2016/06/28
+ 郭哲銓 
+檢驗 09026CZP ALT(GPT) 1  N 2016/06/21 執行、已批 Specimen:BLO
+完成：2016/06/28
+ 郭哲銓 
+檢查 000CCHE0 治療項目5-8小時(請勿預約下午) 1  N 2016/06/21 開立、已批 治療項目:化療
+ 郭哲銓 
+檢查 000CCHE6 治療項目1-2小時 1  N 2016/06/21 刪除、刪除、未看完 治療項目:化療
+ 郭哲銓 
+治療 000YP009 化療(IV CATH用)1-4小時 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+治療 37039B0Y Intravenous chemotherapy 1-4 hou 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+治療 39016B0Y INFUSION PUMP (PER DAY) 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20525705 克萊福接頭 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20000904 SAFETY SYRINGE 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20003700 3 Way Stopcock 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20004112 INFUSION SET 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20004122 PLUM PUMP SET 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20005525 Protectin IV Catheter 24G 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20525301 T-Adapter with Extension set 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20525703 BAG SPIKE ADAPTER /NON-DEHP TUBING 1  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+醫材 20525705 BAG SPIKE VENTED CLAVE 2  N 2016/06/21 執行、已批 完成：2016/06/21
+ 郭哲銓 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07- PF-CCRT (1, 2, 3; 6/8, 6/15, 6/23)
+improving nausea/vomiting, CXR (06/21): smaller right hilar shadow and air-fluid level
+odynophagia and pain, suspicious mucositis-related 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14) => 36kg (06/21, 06/28), clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+Nausea/thrombocytopenia : Gr.1 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC under PF-CCRT (2016/06/07-)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. PF (4) = 06/29
+2. CBC/DC, Cre, ALT
+3. RTC 1 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline inj 0.9% 250 mL/bag 常備藥 250 mL STAT IF 1 1 bag 健保  2016/06/28 已確認 已批B 郭哲銓  
+Novamin 5 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/06/28 已確認 已批 郭哲銓  
+門診用 Saline Inj 0.9% 1000 mL/bag 常備藥 1000 mL QD IF 1 1 bag 健保  2016/06/28 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL QD IF 1 1 bag 健保  2016/06/28 已確認 已批 郭哲銓 特殊醫囑:D1; hydration 
+ 
+Kemoplat 50 mg/50 mL /vial 化療注射 40 mg QD IF 1 1 vial 健保  2016/06/28 已確認 已批 郭哲銓 in: NS 250 mL (總體積290mL)(濃度: 0.1379 mg/mL) keep 流速: 145 mL/時 for 120 分 (速度: 0.333333 mg/分) 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+(DC)Fluoro-uracil Valeant (5-FU) 1000 mg/20 mL /vial 化療注射 600 mg QD IF 1 1 vial 健保  2016/06/28 已確認 已批 郭哲銓 in: NS 50 mL (總體積62mL)(濃度: 9.6774 mg/mL) keep 流速: 372 mL/時 for 10 分 (速度: 60 mg/分) 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 100 mL/btl 化療稀釋用 50 mL QD IF 1 1 btl 健保  2016/06/28 已確認 已批 郭哲銓 特殊醫囑:D1; 5-FU 450 mg/m2, 10 -min IVF, Qweek 
+ 
+Norm-Saline (Otsuka) Inj 0.9% 250 mL/btl 化療稀釋用 250 mL QD IF 1 1 btl 健保  2016/06/28 已確認 已批 郭哲銓 特殊醫囑:D1; cispaltin 30 mg/m2, 2-h IVF, Qweek 
+ 
+針 Primperan Inj 10 mg/2 mL /amp 10 mg QD IV 1 1 amp 健保  2016/06/28 已確認 已批 郭哲銓 for 2 分 特殊醫囑:D1; before cisplatin 
+ 
+Kytril Inj 3 mg/3 mL /amp 3 mg QD IV 1 1 amp 健保  2016/06/28 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+Rinderon Inj 4 mg/1 mL /amp 4 mg QD IV 1 1 amp 健保  2016/06/28 已確認 已批 郭哲銓 for 1 分 特殊醫囑:D1; 30 minute before cisplatin, Qweek 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/06/28 執行、已批 Specimen:BLO
+完成：2016/07/12
+ 郭哲銓 
+檢驗 08013CZP WBC classification 1  N 2016/06/28 執行、已批 Specimen:BLO
+完成：2016/07/12
+ 郭哲銓 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/06/28 執行、已批 Specimen:BLO
+完成：2016/07/12
+ 郭哲銓 
+檢驗 09026CZP ALT(GPT) 1  N 2016/06/28 執行、已批 Specimen:BLO
+完成：2016/07/12
+ 郭哲銓 
+檢查 000CCHE0 治療項目5-8小時(請勿預約下午) 1  N 2016/06/28 開立、已批 治療項目:化療
+ 郭哲銓 
+ 治療 000YP009 化療(IV CATH用)1-4小時 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+治療 37039B0Y Intravenous chemotherapy 1-4 hou 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+治療 39016B0Y INFUSION PUMP (PER DAY) 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20525705 克萊福接頭 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20000904 SAFETY SYRINGE 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20003700 3 Way Stopcock 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20004112 INFUSION SET 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20004122 PLUM PUMP SET 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20005525 Protectin IV Catheter 24G 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20525301 T-Adapter with Extension set 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20525703 BAG SPIKE ADAPTER /NON-DEHP TUBING 1  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+醫材 20525705 BAG SPIKE VENTED CLAVE 2  N 2016/06/28 執行、已批 完成：2016/06/28
+ 郭哲銓 
+
+Subjective 
+Dysphagia, odynophagia, VAS: 4/10 
+Nausea and vomiting 
+Objective 
+Radiotherapy at 30.8Gy/14fx (planned 55Gy/25fx)
+BW: 36.4 (6/14), 36.4 (6/28)
+
+
+常見放射治療副作用 Acute Toxicity 
+Esophagitis：Gr. 1
+【20160628】WBC: 3.08   k/μL 
+Assessment 
+Esophageal cancer, 25-30cm below incisors, squamous cell carcinoma, T4aN2M0, stage IIIC 
+Plan 
+Go on RT
+RTC 1 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab QIDPRN PO 7 15 tab 健保  2016/06/28 已確認 已批 成佳憲 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07- PF-CCRT (1, 2, 3; 6/8, 6/15, 6/23)
+2016/06/20 CXR: smaller right hilar shadow and air-fluid level
+odynophagia and pain, suspicious mucositis-related 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14) => 36kg (06/21, 06/28) => 35.7 kg (07/12), clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+Nausea/thrombocytopenia : Gr.1 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC under PF-CCRT (2016/06/07-)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. PF (5) = 07/13
+2. CBC/DC, Cre, ALT, CXR
+3. RTC 1 wk 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Novamin 5 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/07/12 已確認 已批 郭哲銓 
+ 
+
+檢驗 08011CYP CBC & platelet(STAT) 1  Y 2016/07/12 執行、已批 Specimen:BLO
+完成：2016/07/19
+ 郭哲銓 
+檢驗 08013CYP WBC Classification(STAT) 1  Y 2016/07/12 執行、已批 Specimen:BLO
+完成：2016/07/19
+ 郭哲銓 
+檢驗 09026CYP ALT(STAT) 1  Y 2016/07/12 執行、已批 Specimen:BLO
+完成：2016/07/19
+ 郭哲銓 
+檢驗 09015CYP Creatinine (Blood)(STAT) 1  Y 2016/07/12 執行、已批 Specimen:BLO
+完成：2016/07/19
+ 郭哲銓 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/07/12 執行、已批 完成：2016/07/19
+ 郭哲銓 
+檢查 000CCHE7 治療項目3-4小時 1  N 2016/07/12 開立、已批 治療項目:化療
+ 郭哲銓 
+
+Subjective 
+fall down last week, head contusion
+Dysphagia, odynophagia, VAS: 4/10 
+Nausea and vomiting 
+No fever 
+Objective 
+Radiotherapy at 46.2Gy/21fx (planned 55Gy/25fx). RT will complete on 7/18 (next Monday)
+BW: 36.4 (6/14), 36.4 (6/28), 35.9 (7/12)
+
+
+常見放射治療副作用 Acute Toxicity 
+Esophagitis：Gr. 1
+
+【20160628】WBC: 3.08   k/μL
+【20160628】HB: 12.1   g/dL 
+Assessment 
+Esophageal cancer, 25-30cm below incisors, squamous cell carcinoma, T4aN2M0, stage IIIC 
+Plan 
+Go on RT
+RTC 2 weeks 
+RT will complete on 7/18 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab QID PO 7 28 tab 健保  2016/07/12 已確認 已批 成佳憲 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07-07/18 PF-CCRT (1, 2, 3, 4; 6/8, 6/15, 6/23, 06/29)
+2016/06/20 CXR: smaller right hilar shadow and air-fluid level
+odynophagia and pain, suspicious mucositis-related, no fever 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14) => 36kg (06/21, 06/28) => 35.7 kg (07/12) => 36+ kg (07/14) , clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+leucopenia : Gr.3
+thrmobocytopenia: Gr. 2 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC under PF-CCRT (2016/06/07-)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. Hold PF (5) due to grade 3 leucopenia. Encourage intake and monitor BW.
+2. Granulocyte 100mcg SC (ONCE) (cash)
+3. RTC on 07/19 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Granocyte 100 mcg/vial 100 mcg ONCE SC 1 1 vial 自費  2016/07/14 已確認 已批 郭哲銓 
+ 
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.
+2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07-07/18 PF-CCRT (1, 2, 3, 4; 6/8, 6/15, 6/23, 06/29)
+2016/06/20, 07/19 CXR: smaller right hilar shadow and air-fluid level
+increased intake, vomiting 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14) => 36kg (06/21, 06/28) => 35.7 kg (07/12) => 36+ kg (07/14) , clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+leucopenia : Gr.3
+thrmobocytopenia: Gr. 2
+【20160719】抗癌藥品治療副作用 (化療) Acute Toxicity 
+Leucopenia : Gr.2 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC under PF-CCRT (2016/06/07-)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. PF (5) = 2016/07/20. Encourage intake and monitor BW.
+2. CBC/DC
+3. RTC on 07/26 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline inj 0.9% 250 mL/bag 常備藥 250 mL STAT IF 1 1 bag 健保  2016/07/19 已確認 已批B 郭哲銓  
+500 Lactulose Liquid 600 mg/1 mL 500 mL/btl 10 mL TID PO 7 1 btl 健保  2016/07/19 已確認 已批 郭哲銓  
+Novamin 5 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/07/19 已確認 已批 郭哲銓  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  Y 2016/07/19 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 郭哲銓 
+檢驗 08013CYP WBC Classification(STAT) 1  Y 2016/07/19 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 郭哲銓 
+檢查 000CCHE7 治療項目3-4小時 1  N 2016/07/19 開立、已批 治療項目:化療
+ 郭哲銓 
+ 
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esphageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07-07/18 PF-CCRT (1, 2, 3, 4; 6/8, 6/15, 6/23, 06/29)
+2016/06/20, 07/19 CXR: smaller right hilar shadow and air-fluid level
+increased intake, no fever 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14) => 36kg (06/21, 06/28) => 35.7 kg (07/12) => 36+ kg (07/14) => 37.4 kg (07/21) , clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+leucopenia : Gr.3
+thrmobocytopenia: Gr. 2
+【20160719】抗癌藥品治療副作用 (化療) Acute Toxicity 
+Leucopenia : Gr.2 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC s/p definite PF-CCRT (2016/06/07-07/18)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. Granocyte 100mcg SC once (cash)
+2. CBC/DC
+3. RTC on 07/26 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Granocyte 100 mcg/vial 100 mcg ONCE SC 1 1 vial 自費  2016/07/21 已確認 已批 郭哲銓 
+ 
+
+
+Subjective 
+Eating and drinking food since 3 months ago; PH: (-), smoking: 1PPD for 20 yrs, alcohol: 50ml 高粱 for 3-5 yrs
+==耕莘醫院==
+2016/04 EGD: esophageus cancer suspected
+==NTUH==
+2016/05/10 CT: Esophageal cancer, tentative staging T4a(pleura/pericardium)N2Mx; No definite intraabdominal metastasis
+2016/05/12 EUS:
+1. Advanced esophageal cancer, middle esophagus, with luminal stenosis, at least cT4a (adventita interrupted with invasion to pericardium) N2Mx, s/p biopsy. Pathology:squamous cell carcinoma
+2. Suspected dysplasia, 20-25cm below the incisors, s/p biopsy. Pathology:mild to moderate dysplasia
+2016/05/13 PET:
+1. Middle esophageal cancer with metastatic lymph nodes at subcarinal, thoracic paraaortic and possibly right paratracheal regions.
+2. Hypermetabolic cavitary lesion at RLL adjacent to middle esophageal tumor, suspect active inflammation due to direct tumor invasion.2016/5/16 UGI series: Esophageal cancer, middle esophagus.
+Occupation: 翻譯電影
+2016/06/07-07/18 PF-CCRT (1, 2, 3, 4; 6/8, 6/15, 6/23, 06/29)
+2016/06/20, 07/19 CXR: smaller right hilar shadow and air-fluid level
+increased intake, no fever 
+Objective 
+【20160518】Anti-HCV Ab: Negative   *
+【20160518】Anti-HBc: Negative   *
+【20160518】Anti-HBs: Positive(33.67)   mIU/mL
+【20160518】HBsAg: Negative(0.00)   IU/mL
+BW: 50 => 38 kg (05/31) => 36.8 kg (06/14) => 36kg (06/21, 06/28) => 35.7 kg (07/12) => 36+ kg (07/14) => 37.4 kg (07/21, 07/26) , clear consciousness
+【20160614】抗癌藥品治療副作用 (化療) Acute Toxicity 
+leucopenia : Gr.3
+thrmobocytopenia: Gr. 2
+【20160719】抗癌藥品治療副作用 (化療) Acute Toxicity 
+Leucopenia : Gr.2 
+Assessment 
+Esophageal cancer, middle esophagus (25-30cm), squamous cell carcinoma, with luminal stenosis, at least cT4a(pleura, pericardium, and lung)N2M0, stage IIIC s/p definite PF-CCRT (2016/06/07-07/18)
+【20160614】癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+Plan 
+1. CT scan (neck to abd, 08/30)
+3. RTC on 09/06 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophagus cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Novamin 5 mg/tab 1 tab TIDPC PO 14 42 tab 健保  2016/07/26 已確認 已批 郭哲銓  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2016/07/26 執行、已批 Indication:Neoplasm
+小部位:Lung and mediastinum, from sternum to diaphragm,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/08/30
+ 郭哲銓 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2016/07/26 執行、已批 Indication:Neoplasm
+小部位:From diaphragm to kidney lower pole,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/08/30
+ 郭哲銓 
+影醫 33072B1M CT With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2016/07/26 執行、已批 小部位:For tumor staging, from skull base to lower neck,
+Indication:Neoplasm
+其他：※不清楚病人是否對顯影劑過敏
+完成：2016/08/30
+ 郭哲銓 
+治療 000Z3043 中文診斷書 1 自費 N 2016/07/26 執行、已批 完成：2016/07/26
+ 郭哲銓 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/08/30 執行、已批 完成：2016/08/30
+ 李美惠 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/08/30 執行、已批 完成：2016/08/30
+ 李美惠 
+ 
+
+Subjective 
+PF-CCRT C5D1 = 7/20
+Dysphagia, odynophagia, VAS: 4/10, can tolerate oral intake
+Nausea and vomiting 
+No fever 
+Objective 
+1 week s/p RT 55Gy/25fx to FDG-avid esophageal tumor and LAPs, 45 Gy/ 25 fx to mediastinal/SCF lymphatics during 2016/06/07 to 2016/07/18  
+
+BW: 36.4 (6/14), 36.4 (6/28), 35.9 (7/12), 37(7/26)
+
+
+常見放射治療副作用 Acute Toxicity 
+Esophagitis：Gr. 1
+
+【20160628】WBC: 3.08   k/μL
+【20160628】HB: 12.1   g/dL
+
+【20160719】Chest : PA View (Standing) :chest X ray shows: normal heart size. sharp bilateral costophrenic angles. bilateral clear lung fields. mild degenerative change with marginal spur of thoracic spine. 
+Assessment 
+Esophageal cancer, 25-30cm below incisors, squamous cell carcinoma, T4aN2M0, stage IIIC 
+Plan 
+RTC 1 month
+certificate*1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C15.9 Esophageal cancer 重 慢 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab QID PO 7 28 tab 健保  2016/07/26 已確認 已批 
+ 

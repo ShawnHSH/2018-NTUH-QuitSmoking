@@ -1,0 +1,381 @@
+
+Subjective 
+For management of infection of rhinoplasty, for 3 years
+and for evaluation of intra-oral mass, hard palate 
+Objective 
+Pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate 
+Assessment 
+Infection of rhinoplasty
+Intra-oral mass, hard palate 
+Plan 
+Removal of nasal implant and oral antibiotic
+Arrange MRI study of oral cavity 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 682.9 Cellulitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 14 28 tab 健保  2015/01/14 已確認 已批 戴浩志  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 戴浩志 
+影醫 33085B0M MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 1  N 2015/01/14 執行、已批 Indication:For management of infection of rhinoplasty, for 3 years and for evaluation of intra-oral mass, hard palate
+小部位:NASOPHARYNX and all
+有顱內動脈瘤血管夾:否
+有心律調整器(CEID):否
+完成：2015/01/23
+ 戴浩志 
+ 
+
+Subjective 
+For management of infection of rhinoplasty, for 3 years
+and for evaluation of intra-oral mass, hard palate 
+Objective 
+Pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate
+
+
+【20150123】MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) : Compatible with inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Assessment 
+Inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Plan 
+Suggestion of removal of nasal prosthesis and consider removal of palatal exostosis. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 682.9 Cellulitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/28 已批 完成：2015/01/28 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+其他醫令 000M1005 醫學影像光碟(單筆) 1 自費 N 2015/02/13 已批 完成：2015/02/13  
+ 
+ 
+
+Subjective 
+For management of infection of rhinoplasty, for 3 years
+and for evaluation of intra-oral mass, hard palate 
+Objective 
+Pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate
+
+
+【20150123】MRI With / Without Contrast-Head and Neck(Skull Base to Clavicle) : Compatible with inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Assessment 
+Inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Plan 
+Suggestion of removal of nasal prosthesis and consider surgical removal of palatal exostosis. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 682.9 Cellulitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/25 已批 完成：2015/02/25  
+ 
+
+Subjective 
+For management of infection of rhinoplasty, for 3 years
+and for evaluation of intra-oral mass, hard palate 
+Objective 
+Pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate
+
+
+【20150123】MRI With / Without Contrast-Head and Neck(Skull Base to Clavicle) : Compatible with inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Assessment 
+Inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Plan 
+Suggestion of removal of nasal prosthesis and consider surgical removal of palatal exostosis. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 682.9 Cellulitis 
+ 
+
+Subjective 
+For management of infection of rhinoplasty, for 3 years
+and for evaluation of intra-oral mass, hard palate 
+Objective 
+Pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate
+
+【20150123】MRI With / Without Contrast-Head and Neck(Skull Base to Clavicle) : Compatible with inflammatory change around the rhinoplasty. 
+Bony mass at hard palate, likely exostosis. 
+Assessment 
+Inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Plan 
+Suggestion of removal of nasal prosthesis and consider surgical removal of palatal exostosis. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L03.90 Cellulitis  
+ 
+ 
+ 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 高中(職) 嚼檳榔 無 
+吸菸 >10年，每天<20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/04/08 執行、已批 完成：2016/04/08
+ 陳信銘 
+ 
+
+Objective 
+Discharge:(＋, white, cheese-like）
+Vulva: grossly normal（＋） 
+Vagina: grossly normal（＋）, polyp（－）
+Cervix: smooth（＋）, erosion（－）, lifting tenderness（－）, polyp（－）
+Uterus: normal size（＋） 
+Adnexa: palpable mass（－）
+Papanicolaou smear was performed
+R1 黃宣諭, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z12.4 Encounter for screening for malignant neoplasm of cervix 女  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+病理 0000330W Pap smear (Cytology)(預防保健) 1  N 2016/04/08 執行、已批 非月經期間是否有不正常陰道出血及分泌物:.
+診斷名稱:.
+組織來源:.
+術式名稱:.
+完成：2016/04/09
+ 王維典 
+治療 0000310I 子宮頸抹片採樣（三十歲以上每年乙次）及骨盤腔檢查 1  N 2016/04/08 執行、已批 完成：2016/04/08
+ 王維典 
+ 
+
+Subjective 
+For management of infection of rhinoplasty, for 3 years
+and for evaluation of intra-oral mass, hard palate
+
+20160408
+Itchy skin lesions on the abdomen for 1 month
+Initially on the neck s/p fragrance use 
+Objective 
+Pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate
+
+【20150123】MRI With / Without Contrast-Head and Neck(Skull Base to Clavicle) : Compatible with inflammatory change around the rhinoplasty. 
+Bony mass at hard palate, likely exostosis.
+
+20160408
+Many erythematous papules and macules on the abdomen with some scales
+Some crusted erosions on the lip
+There are numerous ill defined, variously sized, scaling patches on the trunk and 4 limbs.
+Severe pruritus(+)
+Scratch marks(+)
+BSA > 30 
+Assessment 
+Eczema, abdomen
+Herpes simplex 
+Plan 
+EPO for the abdomen eczema; TC for herpes simplex; xyzal for severe pruritus; check CBC/DC + IgE 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L30.9 Eczema 慢 職  
+O B00.9 Herpes simplex  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 21 21 tab 健保  2016/04/08 已確認 已批 朱家瑜  
+Esperson Oint 0.25% 5 g/tube 1 XX BID D 21 4 tube 健保  2016/04/08 已確認 已批 朱家瑜  
+眼 Tetracycline Oph Oint 10 mg/1 g 1% 5 g/tube 1 XX QD D 7 1 tube 健保  2016/04/08 已確認 已批 朱家瑜  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/04/08 執行、已批 Specimen:BLO
+完成：2016/04/08
+ 朱家瑜 
+檢驗 08013CZP WBC classification 1  N 2016/04/08 執行、已批 Specimen:BLO
+完成：2016/04/08
+ 朱家瑜 
+檢驗 12031C0P IgE 1  N 2016/04/08 執行、已批 Specimen:BLO
+完成：2016/04/08
+ 朱家瑜 
+ 
+
+Subjective 
+For augmentation rhinoplasty, 
+
+and for evaluation of intra-oral mass, hard palate
+
+Operative Method:
+Nasal prosthesis removal
+Operative Findings:
+Nasal prosthesis was removed 
+Objective 
+mild depressed nasal dorsum
+
+No pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate
+
+【20150123】MRI With / Without Contrast-Head and Neck(Skull Base to Clavicle) : Compatible with inflammatory change around the rhinoplasty. 
+Bony mass at hard palate, likely exostosis. 
+Assessment 
+Inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Plan 
+Arrange augmentation rhinoplasty 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z41.1 For cosmetic surgery  
+O L03.90 Cellulitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/20 已批 完成：2016/04/20 
+ 
+
+Subjective 
+For post op wound care, nose,
+s/paugmentation rhinoplasty, 
+
+and for evaluation of intra-oral mass, hard palate
+
+Operative Method:
+Nasal prosthesis removal
+Operative Findings:
+Nasal prosthesis was removed 
+Objective 
+Normal nasal dorsum, no deviation
+Healed wound, bilateral nostril rims
+
+No pus discharge via inner surface, columella,
+s/p augmentation rhinoplasty
+
+A intra-oral mass, bulging, hard, 3 x 2 cm, hard palate
+
+【20150123】MRI With / Without Contrast-Head and Neck(Skull Base to Clavicle) : Compatible with inflammatory change around the rhinoplasty. 
+Bony mass at hard palate, likely exostosis. 
+Assessment 
+Inflammatory change around the rhinoplasty.
+Bony mass at hard palate, likely exostosis. 
+Plan 
+Removal of stitches 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z41.1 For cosmetic surgery  
+O L03.90 Cellulitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/05/11 已確認 已批 戴浩志  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)(小於10CM) 1  N 2016/05/11 執行、已批 完成：2016/05/11
+ 戴浩志 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/11 已批 完成：2016/05/11  
+ 
+
+Subjective 
+Itchy skin lesions on the abdomen for 1 month
+Initially on the neck s/p fragrance use
+Not itchy now 
+Objective 
+Many erythematous papules and macules on the abdomen with some scales
+Some crusted erosions on the lip
+There are numerous ill defined, variously sized, scaling patches on the trunk and 4 limbs.
+Severe pruritus(+)
+Scratch marks(+)
+BSA > 30
+--> Hyperpimented patches on the abdomen
+
+【20160501】WBC: 8.53   k/μL
+【20160501】HB: 12.2   g/dL
+【20160501】Mg: 0.63   mmol/L
+【20160501】CRE: 0.5   mg/dL
+【20160408】IgE: 1100.00   IU/mL
+【20160408】Eos.: 2.0   % 
+Assessment 
+Eczema, abdomen 
+Plan 
+UH for xerosis and hyperpigmentation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L30.9 Eczema 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Sinpharderm Cream 10% 30 g/tube 1 XX BID D 7 1 tube 健保  2016/05/13 已確認 已批 朱家瑜  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/13 已批 完成：2016/05/13  
+ 

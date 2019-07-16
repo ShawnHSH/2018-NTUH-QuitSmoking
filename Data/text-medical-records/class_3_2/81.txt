@@ -1,0 +1,204 @@
+
+個人病史 
+個人病史 高血壓     
+是否長期服藥 有     
+長期服藥原因 高血壓     
+家族病史 高血壓     
+健康行為 
+最近半年，【吸菸】情形？ 平均一天一包煙(含以下)     
+最近半年，【飲酒】情形？ 偶爾喝酒     
+最近半年，【嚼檳榔】情形？ 不嚼檳榔     
+最近兩週，【運動】習慣？ 沒有     
+您是否出現咳嗽超過二週的情形？ 沒有     
+憂鬱檢測 
+1. 最近兩週，你是否感覺情緒低落、沮喪或沒有希望？ 否 2. 最近兩週，你是否感覺做事情失去興趣或樂趣？ 否   
+身體檢查 
+身高 169.5 公分 體重 79.8 公斤 收縮壓 130 毫米汞柱 
+舒張壓 86 毫米汞柱 脈搏 61 次/分鐘 腰圍 94 公分 
+右眼裸視視力 <0.05  左眼裸視視力 <0.05  右眼矯正視力 0.8  
+左眼矯正視力 0.8      
+耳鼻喉及口腔 牙結石或牙周病     
+頸部淋巴腺腫大 無     
+甲狀腺腫大 無     
+胸部 無明顯異常     
+心臟聽診 無明顯異常     
+腹部 無明顯異常     
+四肢 無明顯異常     
+呼吸聽診 無明顯異常     
+其他      
+健康諮詢 
+健康諮詢 戒菸,規律運動,維持正常體重,健康飲食,口腔保健     
+檢查結果說明 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 N 2016/03/19 執行、已批 Specimen:UR1
+完成：2016/03/19
+ 陳恆順 
+檢驗 06012CZP MULTISTIX (Routine) 1 內含 N 2016/03/19 執行、已批 Specimen:UR1
+完成：2016/03/19
+ 陳恆順 
+檢驗 09001CZP Cholesterol, Total 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+檢驗 09004CZP Triglyceride, TG 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+檢驗 09005CZP Glucose (AC) 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+檢驗 09025CZP AST(GOT) 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+檢驗 09026CZP ALT(GPT) 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+檢驗 09043C0P HDL 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+檢驗 09044C0P LDL 1 內含 N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 陳恆順 
+治療 000021R0 成人預防保健（４０－６５歲第一階段） 1  N 2016/03/19 執行、已批 完成：2016/03/19
+ 陳恆順 
+治療 000I0005 體檢證明書費 1 內含 N 2016/03/19 執行、已批 完成：2016/03/19
+ 陳恆順 
+治療 000I0010 體檢診察費（一般理學檢查） 1 內含 N 2016/03/19 執行、已批 完成：2016/03/19
+ 陳恆順 
+治療 000I0211 體檢判讀費 1 內含 N 2016/03/19 執行、已批 完成：2016/03/19
+ 陳恆順 
+ 
+
+Subjective 
+49 years old man
+Hypertension with CCB+b-blocker
+amlodipine 5+ bisoprolol 5 for 2+ years
+Palpitation; noted for weeks
+Poor sleep condition;
+
+Came for further evaluation and management
+
+Family history:
+Father:
+Mother 
+Siblings:
+E Brother ; Y Brother
+E Sister ; Y Sister
+
+Medical Hx:, 
+Objective 
+Pain scale: 0/10
+BP: 141/88; HR:78/min
+Throat: injected
+Neck: supple
+RHB, no murmur
+BS: clear
+Abdomen: soft and flat, 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+O R00.2 Palpitations 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 14 14 tab 健保  2016/03/19 已確認 已批 張皓翔  
+Norvasc 5 mg/tab 1 tab QD PO 14 14 tab 健保  2016/03/19 已確認 已批 張皓翔  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09013CZP Uric acid 1  N 2016/03/19 執行、已批 Specimen:BLO
+完成：2016/03/19
+ 張皓翔 
+檢驗 18001C0P ECG routine 1  N 2016/03/19 執行、已批 Specimen:ECG
+完成：2016/03/19
+ 張皓翔 
+ 
+
+Subjective 
+49 years old man
+Hypertension with CCB+b-blocker
+amlodipine 5+ bisoprolol 5 for 2+ years
+Palpitation; noted for weeks
+Poor sleep condition;
+
+Came for further evaluation and management
+
+Family history:
+Father:
+Mother 
+Siblings:
+E Brother ; Y Brother
+E Sister ; Y Sister
+
+Medical Hx:, 
+Objective 
+Pain scale: 0/10
+BP: 130/86; HR:78/min
+Throat: injected
+Neck: supple
+RHB, no murmur
+BS: clear
+Abdomen: soft and flat,
+T-CHO-- 176 mg/dL(20160319) , TG-- 237 mg/dL(20160319) , GLU AC-- 109 mg/dL(20160319) , CRE-- 0.9 mg/dL(20160319) , AST-- 33 U/L(20160319) , ALT-- 53 U/L(20160319) , HDL-C-- 42 mg/dL(20160319) , LDL-C-- 97 mg/dL(20160319) , 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+O R00.2 Palpitations 慢  
+O R80.9 Proteinuria  
+O R73.02 Impairment of glucose tolerance  
+O E78.2 Mixed hyperlipidemia 慢  
+O R94.5 Abnormal liver function test  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/02 已確認 已批 張皓翔  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/02 已確認 已批 張皓翔  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2016/04/02 執行、已批 Specimen:UR1
+完成：2016/06/18
+ 張皓翔 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2016/04/02 執行、已批 Specimen:UR1
+完成：2016/06/18
+ 張皓翔 
+檢驗 09005CZP Glucose (AC) 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+檢驗 09006C0P HbA1c 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+檢驗 09043C0P HDL 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+檢驗 09025CZP AST(GOT) 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/02 執行、已批 Specimen:BLO
+完成：2016/06/18
+ 張皓翔 
+ 

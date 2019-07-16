@@ -1,0 +1,357 @@
+
+Subjective 
+No respiratory symptoms. 
+Objective 
+BP: 120/80 mmHg,
+VR: 84/min,
+Lung is clear, No murmur,
+Liver and spleen not palpable,
+Leg edema.
+【20121025】CT Without Contrast-Chest :Bilateral lung fibrosis, stationary. 
+Plan 
+RTC 12 WK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 515 Pulmonary fibrosis  
+O 516.1 Idiopathic pulmonary hemosiderosis 複  
+O 493.90 Asthma 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 2 tab QOD PO 28 28 tab 健保 3 2015/01/26 已確認 已批 楊泮池  
+250 Seretide Evohaler 120 doses/box 1 puff BID IH 28 1 box 健保 3 2015/01/26 已確認 已批 楊泮池  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2015/01/26 執行、已批 完成：2015/01/26
+ 楊泮池 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2015/01/26 執行、已批 Indication:Follow up
+小部位:LUNGS/PLEURA
+其他：low dose
+完成：2015/04/09
+ 楊泮池 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2015/01/26 執行、已批 完成：2015/01/27
+ 楊泮池 
+檢查 17009B0S CO diffusing capacity-一氧化碳肺瀰散量測定 1  N 2015/01/26 執行、已批 完成：2015/01/27
+ 楊泮池 
+ 
+
+Subjective 
+No respiratory symptoms. 
+Objective 
+BP: 136/78 mmHg,
+VR: 84/min,
+Lung is clear, No murmur,
+Liver and spleen not palpable,
+Leg edema.
+
+【20150127】Pulmonary Function Test : * Spirometry by Elite DX
+帳號  4564598  肺功能號  201500678  檢驗查報狀況  已完成  
+科別  MED  床號   本帳號檢查日  2015/01/27  
+病患身高  160.8  病患體重  73.7  病患年齡  66  
+1 Flow-Volume-Test(BTPS,Sitting-Position)  
+ Observed  Predicted  % Predicted  Post-Test  Change %  
+FVC(L)  2.94  2.86  102.9    
+FEV1(L)  2.45  2.25  108.8    
+FEV1/FVC(%)  83.3  78.1     
+FEF25-75%(L/S)  2.8  1.88  149.2    
+PEFR(L/S)  8.86  6.25  141.8    
+FEF25%(L/S)  8.89  6.06  146.6    
+FEF50%(L/S)  3.95  2.8  140.9    
+FEF75%(L/S)  0.96  1.06  90.8    
+2 Lung-Volume Test(L,BTPS,Sitting Poistion)  
+ Observed  Predicted  % Predicted  Post-Test  Change %  
+VC  2.98  2.86  104.33    
+IC  2.16      
+ERV  0.82  1.38  59.57    
+FRC  2.55  2.9  88.07    
+RV  1.72  1.57  109.26    
+TLC  4.7  4.43  106.09    
+RV/TLC(%)  36.6  35.4     
+3 Ventilation  
+MVV(L/min)  107  92.24  116  
+ TV: 0.84L  RR: 12.02/min  MV: 10L/min  
+4 Diffusion Capacity (ml/min/mmHg, STPD)  
+ Observed  Predicted  % Predicted    
+DLCO  16.72  19.83  84.33  
+VA  4.78  4.76  100.4  
+DLCO/VA  3.5  4.56  76.71  
+HB   
+DLCOcorr     
+5 Interpretation  
+* Spirometry by Elite DX * Normal standard spirometry * Normal diffusion capacity  
+
+* Normal standard spirometry
+* Normal diffusion capacity
+
+
+【20150409】CT Without Contrast-Chest 
+Plan 
+RTC 12 WK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 515 Pulmonary fibrosis  
+O 493.90 Asthma 慢  
+O 516.1 Idiopathic pulmonary hemosiderosis 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 2 tab QOD PO 28 28 tab 健保 3 2015/04/20 已確認 已批 楊泮池  
+250 Seretide Evohaler 120 doses/box 1 puff BID IH 28 1 box 健保 3 2015/04/20 已確認 已批 楊泮池 
+ 
+
+Subjective 
+No respiratory symptoms. CT chest is stationary 
+Objective 
+BP: 122/80 mmHg,
+VR: 84/min,
+Lung is clear, No murmur,
+Liver and spleen not palpable,
+Leg edema. 
+Plan 
+RTC 12 WK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 515 Pulmonary fibrosis  
+O 516.1 Idiopathic pulmonary hemosiderosis 複  
+O 493.90 Asthma 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 2 tab QOD PO 28 28 tab 健保 3 2015/07/13 已確認 已批 楊泮池  
+250 Seretide Evohaler 120 doses/box 1 puff BID IH 28 1 box 健保 3 2015/07/13 已確認 已批 楊泮池  
+ 
+
+Subjective 
+No respiratory symptoms. CT chest is stationary, Cough with whitish sputum. 
+Objective 
+BP: 122/80 mmHg,
+VR: 84/min,
+Lung is clear, No murmur,
+Liver and spleen not palpable,
+Leg edema. 
+Plan 
+RTC 12 WK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 515 Pulmonary fibrosis  
+O 493.90 Asthma 慢  
+O 516.1 Idiopathic pulmonary hemosiderosis 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 2 tab QOD PO 28 28 tab 健保 3 2015/10/05 已確認 已批 楊泮池  
+250 Seretide Evohaler 120 doses/box 1 puff BID IH 28 1 box 健保 3 2015/10/05 已確認 已批 楊泮池  
+Regrow SR 60 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/05 已確認 已批 楊泮池  
+Actein Effervescent Tablet 600 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/05 已確認 已批 楊泮池  
+Allegra 60 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/10/05 已確認 已批 楊泮池 
+ 
+
+Subjective 
+No respiratory symptoms. CT chest is stationary, Cough is mild with scanty whitish sputum. 
+Objective 
+BP: 128/80 mmHg,
+VR: 84/min,
+Lung is clear, No murmur,
+Liver and spleen not palpable,
+Leg edema. 
+Plan 
+RTC 12 WK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 515 Pulmonary fibrosis  
+O 516.1 Idiopathic pulmonary hemosiderosis 複  
+O 493.90 Asthma 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 2 tab QOD PO 28 28 tab 健保 3 2015/12/28 已確認 已批 楊泮池  
+250 Seretide Evohaler 120 doses/box 1 puff BID IH 28 1 box 健保 3 2015/12/28 已確認 已批 楊泮池  
+Regrow SR 60 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/28 已確認 已批 楊泮池  
+Actein Effervescent Tablet 600 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/28 已確認 已批 楊泮池  
+Allegra 60 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/12/28 已確認 已批 楊泮池 
+ 
+
+Subjective 
+hip and thigh pain at specific posture for 2 months
+long time painting 2 months ago 
+Objective 
+SLRT (-) 
+Assessment 
+pulmonary fibrosis 
+Plan 
+symptom F/U
+refer for weight reducing 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M79.1 Myofascial pain 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/03/17 已確認 已批 王維慶  
+SOLAXIN 200 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/03/17 已確認 已批 王維慶 
+ 
+
+Subjective 
+Increased dyspnea recently. BW: 74 Kgs.
+
+No respiratory symptoms. CT chest is stationary, Cough is mild with scanty whitish sputum. 
+Objective 
+BP: 128/80 mmHg,
+VR: 84/min,
+Lung is clear, No murmur,
+Liver and spleen not palpable,
+Leg edema. 
+Plan 
+RTC 12 WK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M J84.10 Pulmonary fibrosis  
+O J45.909 Asthma 慢  
+O J84.03 Idiopathic pulmonary hemosiderosis 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Predonine 5 mg/tab 2 tab QOD PO 28 28 tab 健保 3 2016/03/21 已確認 已批 楊泮池  
+250 Seretide Evohaler 120 doses/box 1 puff BID IH 28 1 box 健保 3 2016/03/21 已確認 已批 楊泮池  
+Regrow SR 60 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/21 已確認 已批 楊泮池  
+Actein Effervescent Tablet 600 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/21 已確認 已批 楊泮池  
+Allegra 60 mg/tab 1 tab HS PO 28 28 tab 健保 3 2016/03/21 已確認 已批 楊泮池  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09026CZP ALT(GPT) 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09002CZP BUN 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09013CZP Uric acid 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09043C0P HDL 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09044C0P LDL 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09005CZP Glucose (AC) 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 09006C0P HbA1c 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 12053B0P Anti-Nuclear Ab(ANA) 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+檢驗 08005C0P ESR: 1HR 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/03/30
+ 楊泮池 
+ 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2016/03/21 執行、已批 Indication:Follow up
+小部位:LUNGS/PLEURA
+完成：2016/05/25
+ 楊泮池 
+檢查 17009B0S CO diffusing capacity-一氧化碳肺瀰散量測定 1  N 2016/03/21 執行、已批 完成：2016/05/25
+ 楊泮池 
+
+Subjective 
+hip and thigh pain at specific posture for 2 months
+long time painting 2 months ago
+improving with our Mx 
+Objective 
+SLRT (-) 
+Assessment 
+pulmonary fibrosis on steroid 
+Plan 
+symptom F/U
+refer for weight reducing 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M79.1 Myofascial pain 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/03/24 已確認 已批 王維慶  
+SOLAXIN 200 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/03/24 已確認 已批 王維慶 
+ 
+
+Subjective 
+疾病:()無()高血壓()糖尿病()心臟病()腎臟病()關節炎()氣喘()血脂異常()痛風()脂肪肝(V)其他:肺纖維化
+藥物:()無()降血壓()降血糖()降血脂()避孕藥()停經用荷爾蒙(V)類固醇()精神科藥物(V)其他:吸劑,止痛藥
+症狀:(V)爬樓梯會喘()膝蓋酸痛(V)睡眠時打呼()便秘()全身痠痛()睡眠呼吸中止(V)疲勞易累,精神不濟(V)其他:睡眠時腳震顫
+生活習慣:()抽菸()喝酒()檳榔
+兒時體型是否肥胖:(V)是()否
+月經史:()規則()不規則()已停經
+減重史:()無(V)自行飲食控制()運動(V)代餐()減肥班(v)減肥西藥()中藥()針灸()其他:
+自覺成效:()好(V)不好()普通
+成年後體重最重:74kg,67歲;最輕:58kg,28歲
+成年後60 歲體重增加,原因:(V)缺乏運動()吃太多()開刀(v)情緒壓力影響()產後()更年期後(v)其他:工作常時間靜止,固定動作
+早餐:麥片,鰻頭,麵包,豆漿 
+中餐:魚,肉,湯,菜(偶有應酬)
+晚餐:自己煮
+點心或宵夜:
+運動習慣:(V)無()有，類型: 頻率 次/週， 分鐘/次
+減肥動機:(V)親友建議()不美觀()準備參加某種場合()負擔太重(v)為了健康考量()因體重持續增加()心理因素,(v)其他:主要是腰痛,負荷不了
+期望減重: 公斤或達成目標體重 70公斤,用藥可 
+Objective 
+BH: 160cm
+BW:72.2 kg
+BMI:28.2
+Body fat: 30.4 %
+IBW:56.3 kg
+RMR: kcal/day 
+Assessment 
+smoking cessation(+) 2 years ago 
+Plan 
+Dietary consultation
+Exercise 30 minutes/day 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E66.9 Obesity 慢  
+O J84.10 Pulmonary fibrosis  
+O J84.03 Idiopathic pulmonary hemosiderosis 複  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xenical 120 mg/cap 1 cap AS ORDER PO 28 56 cap 自費  2016/03/30 已確認 已批 黃國晉 特殊劑量:一天 2 次，中飯後1 顆, 晚飯後1 顆.  
+ 

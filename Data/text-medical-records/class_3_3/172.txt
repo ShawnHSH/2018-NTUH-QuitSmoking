@@ -1,0 +1,151 @@
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+Referred from LDC for full mouth periodontal treatment
+
+現病史：
+This 54 y/o male patient was referred from LDC for full mouth periodontal treatment. He stated he had bilateral posterior teeth chewing pain and sensitivity to cold water. He went to LDC and 長庚H for evaluation. Mutiple teeth extraction and implantation was suggested. He was worried about the treatment plan; therefore, he came to our dept for second opinion.
+
+過去病史：
+Denied all major systemic diseases
+No known food or drug allergy
+Cigarette (+): >30yrs, 1 pack/day
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：AB
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：NA
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：NA
+
+身體檢查：
+1. present dentition:
+  7654321|12345678
+------------------------------
+ 87654321|12345678
+2. gingival inflammation and probing depth>=5mm:
+  765     |     678
+------------------------------
+ 87654   |     678
+3. mobility:
+  I I     I       I I I
+  7 6    2 |   6 7 8
+------------------------------
+ 8 7        |   5 6  7  8
+ I  I            I   I  II  II
+4. full mouth gingival swelling with plaque and calculus deposition
+5. oral hygiene poor
+6. tooth 36 Distal large decay
+-percussion pain (-)
+-palpation pain (-)
+-EPT: 42/80 (ref: tooth 37: EPT: 46/80)
+7. tooth 27 Distal cervical decay
+-percussion pain (-)
+-palpation pain (-)
+-EPT: 37/80 (ref: tooth 26: EPT: 33/80)
+8. tooth 16 26 pus discharge upon probing at Palatal side
+9. tooth 37 severe lingual tilting, lingual crossbite with upper teeth
+ 
+Assessment 
+Full mouth chronic periodontitis
+tooth 27 36 dental caries
+ 
+Plan 
+初始治療計劃：
+1. Check panoramic, bitewing and periapical X-ray, findings:
+-intact TMJ cortical bone
+-generalized moderate periodontal destruction
+-generalized calculus deposition
+-tooth 16 26 28 38 37 36 48 with moderate to severe periodontal destruction
+-tooth 27 36 distal large decay, tooth 36 decay close to pulp
+-no other obvious bony pathology noted
+2. Arrange full mouth phase I therapy to G1楊育豪, 37 local debridement with 0.12% CHX irrigation
+3. tooth 28 48 extraction and tooth 27 36 OD is indicated
+4. lower left posterior treatment need further discussion with patient and consultation to ortho dept:
+option 1: extraction of tooth 37, tooth 38 re-evaluation after phase I therapy
+option 2: extraction of tooth 38, tooth 37 upright with orthodontic treatment
+
+R1李冠瑩/VS王振穎 2016/6/29 13:23
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/06/29 執行、已批 齒位1:FM
+完成：2016/06/29
+ 李冠瑩 
+治療 92001C00 Nonspecific local treatment 1  N 2016/06/29 執行、已批 齒位1:37
+完成：2016/06/29
+ 王振穎 
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+
+Personal habits: Smoking(+) 1 PPD for 30+ years, AB(-)
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+4. tooth 36: distal deep caries, EPT(+), cold test(+), no percussion pain nor palpation pain was noted, mobility grade:I
+5. tooth 37,38: mesial and lingual tilting
+6. tooth 27: distal cervical caries
+ 
+Assessment 
+Generalized chronic periodontitis
+Tooth 27,36: caries
+ 
+Plan 
+1. full mouth charting and photo records were taken, 
+2. plaque control(術前) was done with application of disclosing agent, 
+3. oral hygiene instruction was done, 
+4. explained treatment plan to the patient:
+  a. FM phase I therapy
+  b. Extract tooth 28,48
+  c. Consult OD dept. for 27 distal caries
+  d. Consult ED dept. for 36 RCT
+  e. Consult OT dept. for evaluating possibility of uprighting and 37/38 (if upright 37, then extract 38, if upright 38, extract 37.)
+5. signed consent
+
+G1楊育豪/VS王振穎
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2016/07/27 執行、已批 完成：2016/07/27
+ 王振穎 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2016/10/31 執行、已批 完成：2016/10/31
+ 王振穎 
+ 

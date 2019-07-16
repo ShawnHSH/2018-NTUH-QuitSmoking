@@ -1,0 +1,167 @@
+﻿
+個人病史 
+個人病史 糖尿病     
+是否長期服藥 有     
+長期服藥原因 糖尿病     
+家族病史      
+健康行為 
+最近半年，【吸菸】情形？ 平均一天一包菸(含以下)     
+最近半年，【飲酒】情形？ 不喝酒     
+最近半年，【嚼檳榔】情形？ 不嚼檳榔     
+最近兩週，【運動】習慣？ 有，且每週達150分鐘以上(2.5小時)     
+您是否出現咳嗽超過二週的情形？ 沒有     
+憂鬱檢測 
+1. 最近兩週，你是否感覺情緒低落、沮喪或沒有希望？ 否 2. 最近兩週，你是否感覺做事情失去興趣或樂趣？ 否   
+身體檢查 
+身高 176.4 公分 體重 84.7 公斤 收縮壓 125 毫米汞柱 
+舒張壓 74 毫米汞柱 脈搏 83 次/分鐘 腰圍 92.5 公分 
+右眼裸視視力 0.1  左眼裸視視力 <0.05  右眼矯正視力 0.8  
+左眼矯正視力 0.6      
+耳鼻喉及口腔 牙結石或牙周病     
+頸部淋巴腺腫大 無     
+甲狀腺腫大 無     
+胸部 無明顯異常     
+心臟聽診 無明顯異常     
+腹部 無明顯異常     
+四肢 無明顯異常     
+呼吸聽診 無明顯異常     
+其他      
+健康諮詢 
+健康諮詢 戒菸,規律運動,維持正常體重,健康飲食,口腔保健     
+檢查結果說明 
+B型肝炎表面抗原 未檢查     
+C型肝炎抗體 未檢查     
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 N 2016/11/07 執行、已批 Specimen:UR1
+完成：2016/11/11
+ 劉文俊 
+檢驗 06012CZP MULTISTIX (Routine) 1 內含 N 2016/11/07 執行、已批 Specimen:UR1
+完成：2016/11/11
+ 劉文俊 
+檢驗 09001CZP Cholesterol, Total 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+檢驗 09004CZP Triglyceride, TG 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+檢驗 09005CZP Glucose (AC) 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+檢驗 09025CZP AST(GOT) 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+檢驗 09026CZP ALT(GPT) 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+檢驗 09043C0P HDL 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+檢驗 09044C0P LDL 1 內含 N 2016/11/07 執行、已批 Specimen:BLO
+完成：2016/11/11
+ 劉文俊 
+治療 000021R0 成人預防保健（４０－６５歲第一階段） 1  N 2016/11/07 執行、已批 完成：2016/11/07
+ 劉文俊 
+治療 000I0005 體檢證明書費 1 內含 N 2016/11/07 執行、已批 完成：2016/11/07
+ 劉文俊 
+治療 000I0010 體檢診察費（一般理學檢查） 1 內含 N 2016/11/07 執行、已批 完成：2016/11/07
+ 劉文俊 
+治療 000I0211 體檢判讀費 1 內含 N 2016/11/07 執行、已批 完成：2016/11/07
+ 劉文俊 
+ 
+
+Subjective 
+57 years old man
+DM with medical control
+Hyperlipidemia on dietary control
+Weight loss 5 Kg in the past 2 months
+Came for further evaluation and management
+
+Family history:
+Father:
+Mother 
+Siblings:
+E Brother ; Y Brother
+E Sister ; Y Sister
+
+Medical Hx:, 
+Objective 
+Pain scale: 0/10
+BP: 118/80 mmHg
+Throat: injected
+Neck: supple
+RHB, no murmur
+BS: clear
+Abdomen: soft and flat 
+Assessment 
+unitentional weight loss, nature to be determined 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R63.4 Abnormal weight loss  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2016/11/07 執行、已批 Reason for abodominal echo:Abnormal weight loss
+完成：2016/11/11
+ 張皓翔 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 高中(職) 嚼檳榔 無 
+吸菸 >10年，每天<20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因      
+檢查結果部位      
+確診追蹤 
+確診日期 (格式:0990101) 他院確診院所代碼  他院有做手術、放療或化療，治療醫院代碼  
+若有切片，請輸入切片日期  陽性個案於檢查後兩個月內有後續確診? 有 是否於他院進行確診 否 
+病理切片 無，請填診斷結果(非口腔癌之病變，未切片) 診斷結果 正常 臨床診斷(複檢)結果(非口腔癌之其他病變) 無 
+診斷(確診)結果(病理診斷) 無 鱗狀細胞癌 無 治療 沒有(無需治療,已衛教介入) 
+異常個案是否已填答完畢 否     
+未接受確診理由 無     
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/11/21 執行、已批 完成：2016/11/21
+ 李正 
+ 
+
+個人病史 
+健康行為 
+身體檢查 
+病人主訴 
+長期服藥 
+成人健檢結果與建議 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.01 Encounter for general adult medical examination with abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000023R0 第二階段之檢驗結果判讀（４０–６５歲） 1  N 2016/11/21 執行、已批 完成：2016/11/21
+ 劉文俊 
+ 

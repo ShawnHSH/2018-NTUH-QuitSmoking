@@ -1,0 +1,578 @@
+﻿
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 專科,大學 嚼檳榔 無 
+吸菸 >10年，每天<20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/11/17 執行、已批 完成：2015/11/17
+ 陳俊男 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 專科,大學 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌症? 無 請問您有無腸道不適症狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2015/11/17 執行、已批 Specimen:STO
+完成：2015/11/17
+ 陳晶瑩 
+
+
+Subjective 
+CRAM SCHOOL MEATH TEACHER RETIRED 
+1. Blurred vision for one year
+2. left heal wound pool healing
+3. chest tightness with wheezing
+4.smoking+
+5. post neck lipoma
+6. LLQ pain
+7. left heal numbness 
+
+DAD C VA gone
+MOM Colon cancer gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Productive cough for more than 6 weeks, yellowish sputum
+Nocturnal cough bothered much 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+Chest:Coarse BS with wheezing over RLL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.79 Malaise, fatigue  
+O 272.4 Hyperlipidemia 慢  
+O 785.1 Palpitations  
+O 790.6 Hyperuricemia 糖  
+O 786.2 Chronic cough  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2015/11/17 執行、已批 Specimen:BLO
+完成：2015/11/17
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/11/17 執行、已批 Specimen:UR1
+完成：2015/11/17
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/11/17 執行、已批 Specimen:UR1
+完成：2015/11/17
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2015/11/17 執行、已批 Specimen:ECG
+完成：2015/11/17
+ 蔡詩力 
+ 
+
+Subjective 
+Left heel/calf pain for 3-4 weeks, mild left leg numbness, low back pain:-, pain on walking, 
+[PH]
+1. heart disease(+), right distal neuropathy (due to compartment syndrome?) from 1968, severe right leg atrophy and no motion of right ankle. walking without device, 
+Objective 
+Tenderness at left calf and achillis tendon. pain of left hind foot at ankle motion, no motor weakness at left foot, SLRT: -/-. 
+right ankle: contracture, with no motion of ankle motion, severe right lower leg atrophy. 
+Plan 
+Arrange soft tissue echography for left achillis tendon. home program for stretching. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 728.71 Plantar fasciitis 慢  
+M 726.71 Achilles tendinitis 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Votan SR 100 mg/tab 1 tab QDPC PO 6 6 tab 健保  2015/11/24 已確認 已批 梁蕙雯  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 19005BJN 體表軟組織超音波檢查(復健部) 1  N 2015/11/24 執行、已批 連絡電話:0932008502
+檢查部位:Arrange soft tissue echography for left achillis tendon.
+完成：2015/11/30
+ 梁蕙雯 
+ 
+
+Subjective 
+CRAM SCHOOL MEATH TEACHER RETIRED 
+1. Blurred vision for one year
+2. left heal wound pool healing
+3. chest tightness with wheezing
+4.smoking+
+5. post neck lipoma
+6. LLQ pain
+7. left heal numbness 
+
+DAD C VA gone
+MOM Colon cancer gone
+Palpitation for two weeks
+Fatigue and malaise for two months
+Polydipsia and polyuria for one month
+Occasional tea-colored urine+
+Foamy urine+
+Appetite decreased much for one month
+Hx of hyperlipidemia, hyperuricemia
+Productive cough for more than 6 weeks, yellowish sputum
+Nocturnal cough bothered much 
+Objective 
+T: 36.6 P: 78 R: 16
+BP: 138/70 mmHg
+Pain Scale: 0/10
+Consciousness: clear E4M6V5
+HEENT: grossly normal, conjunctiva:mild pale,sclera:mild icteric
+Neck: supple, JVE (-) LAP (-) Chest: symmetric expansion, 
+       breath sounds: clear
+Heart: RHB,
+Abdomen: soft and flat, 
+bowel sound: normoactive
+Tenderness(-),Rebound tenderness(-),Murphy`s sign (-), 
+Liver/ spleen: 0.5fb below RCM/impalpable.
+Back: No CV knocking tenderness
+Extremities: Freely movable, Pitting edema(+);
+Skin: Skin rash(-)
+Peripheral pulsation: intact
+Pain scale: 0/10
+Chest:Coarse BS with wheezing over RLL 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 785.1 Palpitations  
+M 780.79 Malaise, fatigue  
+O 790.6 Hyperuricemia 糖  
+O 786.2 Chronic cough  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/24 已確認 已批 蔡詩力  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/24 已確認 已批 蔡詩力  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 09026CZP ALT(GPT) 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 09013CZP Uric acid 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 09005CZP Glucose (AC) 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 09044C0P LDL 1  N 2015/11/24 執行、已批 Specimen:BLO
+完成：2016/02/12
+ 蔡詩力 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/11/24 執行、已批 Specimen:UR1
+完成：2016/02/12
+ 蔡詩力 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/11/24 執行、已批 Specimen:UR1
+完成：2016/02/12
+ 蔡詩力 
+檢驗 18001C0P ECG routine 1  N 2015/11/24 執行、已批 Specimen:ECG
+完成：2016/02/12
+ 蔡詩力 
+ 
+
+Subjective 
+Progressive BV ou for months 
+Objective 
+see sheet 
+Assessment 
+HTN(-),DM(-)
+
+以前台大實習助教
+
+penicillin allergy 
+Plan 
+arrange cataract op od 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 366.9 Cataract  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/11/27 執行、已批 完成：2015/11/27
+ 傅柏元 
+治療 000E0407 屈光檢查（電腦驗光） 1 自費 N 2015/11/27 執行、已批 完成：2015/11/27
+ 傅柏元 
+ 
+
+ 
+Subjective 
+Left heel/calf pain improved much after medication. low back pain:-, less pain on walking, 
+Right leg distal coldness with skin color change, 
+[PH]
+1. heart disease(+), right distal neuropathy (due to compartment syndrome?) from 1968, severe right leg atrophy and no motion of right ankle. walking without device, 
+Objective 
+Tenderness at left calf and achillis tendon. pain of left hind foot at ankle motion, no motor weakness at left foot, SLRT: -/-. 
+right ankle: contracture, with no motion of ankle motion, severe right lower leg atrophy.
+Right leg: diminished pulse? mild coldness. 
+pain: 2-3/10. left ankle
+Soft tissue echography on 2015/11/30: 
+Chronic left retrocalcaneal bursitis. 
+Plan 
+Arrange right leg vascular duplex, artery, to rule out PAOD. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 726.71 Achilles tendinitis 慢 職  
+O 728.71 Plantar fasciitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Votan SR 100 mg/tab 1 tab QDPC PO 7 7 tab 健保  2015/11/30 已確認 已批 梁蕙雯  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 18041B00 Vascular Duplex-周邊血管動脈及靜脈超音波檢查 1  N 2015/11/30 執行、已批 Lesion Location:Site:Rt Lower extremities
+動脈或靜脈:動脈
+其他：to rule out PAOD.
+完成：2015/12/03 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 366.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+V-Genta inj 80 mg/2 mL /vial 80 mg PRN IF 1 1 vial 內含  2015/12/08 已確認 已批 謝易庭  
+Acetazolamide 250 mg/tab 0.5 tab Q6H PO 1 2 tab 內含  2015/12/08 已確認 已批 謝易庭  
+PARAMOL 500 mg/tab 1 tab QID PO 2 8 tab 內含  2015/12/08 已確認 已批 謝易庭  
+Rinderon Inj 4 mg/1 mL /amp 1 mg PRN IF 1 1 amp 內含  2015/12/08 已確認 已批 謝易庭  
+Mydrin-M Oph Soln 0.4% 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2015/12/08 已確認 已批 謝易庭  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2015/12/08 已確認 已批 謝易庭  
+Gentamicin Eye Drops 3 mg/1 mL 5 mL/btl 1 gtt QID XX 7 1 btl 內含  2015/12/08 已確認 已批 謝易庭  
+Maxitrol Oph Oint 3.5 g/tube 1 gtt HS XX 7 1 tube 內含  2015/12/08 已確認 已批 謝易庭 
+ 
+治療 97605K00 水晶體囊內（外）摘除術及人工水晶體置入術（單側） 1  N 2015/12/08 執行、已批 診療部位:R
+主副刀:1
+手術起時:2015/12/08 08:17
+手術迄時:2015/12/08 08:47
+完成：2015/12/08
+ 謝易庭 
+治療 05201AZ0 門診藥事服務費（一般性處方七天以內） 1 內含 N 2015/12/08 執行、已批 完成：2015/12/08
+ 謝易庭 
+治療 23305C00 Penumotonometry 1 內含 N 2015/12/08 執行、已批 完成：2015/12/08
+ 謝易庭 
+治療 23501C00 眼底檢查 1 內含 N 2015/12/08 執行、已批 完成：2015/12/08
+ 謝易庭 
+治療 23803C00 Pupil dilataion 1 內含 N 2015/12/08 執行、已批 完成：2015/12/08
+ 謝易庭 
+治療 23807C00 DBR 1 內含 N 2015/12/08 執行、已批 完成：2015/12/08
+ 謝易庭 
+治療 86008C00 ICCE (ECCE) , with IOL implantation 1 內含 N 2015/12/08 執行、已批 診療部位:R
+主副刀:1
+手術起時:2015/12/08 08:17
+手術迄時:2015/12/08 08:47
+完成：2015/12/08
+ 謝易庭 
+治療 96009C00 Conduction anesthesia--Retrobulb 1 內含 N 2015/12/08 執行、已批 手術起時:2015/12/08 08:17
+手術迄時:2015/12/08 08:47
+完成：2015/12/08
+ 謝易庭 
+
+
+Subjective 
+Left heel/calf pain still off and on, heaviness sensation, especially after walking, improved after taking medication, right distal foot discomfort and skin color change improved some, 
+[PH]
+1. heart disease(+), right distal neuropathy (due to compartment syndrome?) from 1968, severe right leg atrophy and no motion of right ankle. walking without device,
+2.Cataract s/p 
+Objective 
+Tenderness at left calf and achillis tendon. pain of left hind foot at ankle motion, no motor weakness at left foot, SLRT: -/-. 
+right ankle: contracture, with no motion of ankle motion, severe right lower leg atrophy.
+Right leg: diminished pulse? mild coldness. 
+pain: 2-3/10. left ankle
+Soft tissue echography on 2015/11/30: 
+Chronic left retrocalcaneal bursitis.
+Carotid duplex of right leg:
+            No flow was detected at right ATA.
+            All waveforms of right leg were monophasic, higher level stenosis 
+            should be R/O. 
+Plan 
+Medication and stretching exercise for achillis tendinitis,
+Refer to CVS for PAOD. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 726.71 Achilles tendinitis 慢 職  
+O 728.71 Plantar fasciitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Votan SR 100 mg/tab 1 tab QDPC PO 14 14 tab 健保  2015/12/10 已確認 已批 梁蕙雯 
+ 
+
+Subjective 
+Rigth leg drop feet for 40 years
+Progresseive right leg discoloration
+Left leg sciatica 
+Objective 
+63 y/o male
+
+PMH:H/T
+PSH: cata s/p
+Meds:norvasc, livalo
+Social Hx: smoking(+), drinking(-)
+Allergy:penicillin
+
+【20151203】Vascular Duplex :No flow was detected at right ATA.All waveforms of right leg were monophasic, higher level stenosis 
+            should be R/O. 
+Plan 
+r/o right iliac artery occlusive disease 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 726.71 Achilles tendinitis 慢 職  
+O 728.71 Plantar fasciitis 慢  
+M 444.22 Periperal arterial occlusive disease 慢  
+O 366.9 Cataract  
+O 305.1 Drug abuse, tobacco 慢  
+O 790.6 Hyperuricemia 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B2M CT With/Without Contrast-Chest 1  N 2015/12/14 執行、已批 Indication:Cardiovascular lesion
+小部位:For whole aorta,
+其他：r/o iliac artery occlusive disease
+完成：2016/01/26
+ 吳毅暉 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2015/12/14 執行、已批 Indication:Cardiovascular lesion
+小部位:From diaphragm to kidney lower pole,
+其他：r/o iliac artery occlusive disease
+完成：2016/01/26
+ 吳毅暉 
+影醫 33072B5M CT With/Without Contrast-Pelvis 1  N 2015/12/14 執行、已批 Indication:Cardiovascular lesion
+小部位:From lower kidney to the whole pelvic cavity,
+其他：r/o iliac artery occlusive disease
+完成：2016/01/26
+ 吳毅暉 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2016/01/26 執行、已批 完成：2016/01/26
+ 黃琬婷 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2016/01/26 執行、已批 完成：2016/01/26
+ 黃琬婷 
+ 
+
+Subjective 
+cat od s/p op 2015/12/08 , for f/u 
+Objective 
+see sheet 
+Assessment 
+penicilin allergy 
+Plan 
+arrange YAG capsulotomy od
+OPD f/u 1 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 366.9 Cataract  
+O V43.1 Pseudophakia  
+O 366.50 After-cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt QID OD 3 1 btl 健保  2015/12/17 已確認 已批 傅柏元 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 780.79 Malaise, fatigue  
+O 790.6 Hyperuricemia 糖  
+O 786.2 Chronic cough  
+O 272.4 Hyperlipidemia 慢  
+O 785.1 Palpitations  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/22 已確認 已批 謝欣妤  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/22 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+cat od s/p op 2015/12/08 , for f/u 
+Objective 
+see sheet 
+Assessment 
+penicilin allergy 
+Plan 
+OPD 2015/01/05 
+排cata os OP 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 366.9 Cataract  
+O 366.50 After-cataract  
+O V43.1 Pseudophakia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Votan SR 100 mg/tab 1 tab BID PO 7 14 tab 健保  2015/12/24 已確認 已批 傅柏元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/12/24 執行、已批 完成：2015/12/24
+ 傅柏元 
+ 
+
+Subjective 
+cat od s/p op 2015/12/08 , for f/u 
+Objective 
+see sheet 
+Assessment 
+penicilin allergy 
+Plan 
+排cata os OP , 希望過年後開 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M H26.9 Cataract  
+O Z96.1 Pseudophakia  
+O H26.40 After-cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt QID OD 7 1 btl 健保  2016/01/05 已確認 已批 傅柏元  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 790.6 Hyperuricemia 糖  
+O 786.2 Chronic cough  
+O 272.4 Hyperlipidemia 慢  
+O 785.1 Palpitations  
+M 780.79 Malaise, fatigue  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/18 已確認 已批 劉雅芳  
+脂 Livalo 2 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/18 已確認 已批 劉雅芳  
+ 
+
+Subjective 
+Rigth leg drop feet for 40 years
+Progresseive right leg discoloration and claduication
+Left leg sciatica
+Right CIA and EIA angioplastu with stent graft 
+Objective 
+63 y/o male
+
+PMH:H/T
+PSH: cata s/p
+Meds:norvasc, livalo
+Social Hx: smoking(+), drinking(-)
+Allergy:penicillin
+
+【20151203】Vascular Duplex :No flow was detected at right ATA.All waveforms of right leg were monophasic, higher level stenosis should be R/O.
+
+
+【20160126】CT With/Without Contrast-Abdomen :A tiny hemangioma at S8. Right CIA and EIA total occlusion with recanalization of right femoral artery.
+ a 5mm nodule at right lower lung (SE:8, IM:56). atherosclerosis of aorta and coronary arteries. 
+Plan 
+RCIA and EIA total occlusion
+Rigth CIA to EIA stent grafing is indicated
+Refer to Dr Huang OPD for lung nodule f/u 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I74.3 Periperal arterial occlusive disease 慢  
+O F17.200 Drug abuse, tobacco 慢  
+O E78.5 Hyperlipidemia 慢  
+O E79.0 Hyperuricemia 慢 糖  
+O M72.2 Plantar fasciitis 慢  
+O H26.9 Cataract 
+ 
+

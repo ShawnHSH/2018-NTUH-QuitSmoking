@@ -1,0 +1,905 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+RUL lung tumor, noted at 和平 hospital
+
+現病史：
+smoking history (+) 
+已離婚 自己一個人住
+
+過去病史：
+no operation history 
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+SpO2: 99, HR: 97 
+Assessment 
+1. RUL lung tumor, cause unknown
+2. several small lung nodules (RUL SE3, IM 16, SE3, IM 34;RLL SE500, IM 14; LUL SE3, IM 23) 
+Plan 
+初始治療計劃：
+1. check PAH blood test and CEA
+2. contrast brain CT, bone scan, cardiac echo, spirometry 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09027CZP ALP 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09026CZP ALT(GPT) 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09025CZP AST(GOT) 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09030CZP Bilirubin, direct 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09029CZP Bilirubin, total 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09002CZP UN (Blood) 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 09013CZP UA 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 08011CZP CBC & platelet 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/14
+ 徐紹勛 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2015/01/14 執行、已批 Specimen:BLO
+完成：2015/01/15
+ 徐紹勛 
+影醫 33072B0M CT With/Without Contrast-Brain 1  N 2015/01/14 執行、已批 Indication:LUNG TUMOR
+小部位:ALL
+完成：2015/01/28
+ 徐紹勛 
+影醫 P2103C0M Requesting CT Film and Report 1  N 2015/01/14 開立、已批 欲借片之醫院:[台北市]臺北市立聯合醫院(0101090517)
+特殊照影檢查名稱:CT
+它院照片日期:2015-1-9
+它院病歷號碼:A101461697
+影像檔案格式:DICOM檔
+ 徐紹勛 
+檢查 17003C0S Screen (Flow-volume curve)-一般肺量測定 1  N 2015/01/14 執行、已批 完成：2015/01/28
+ 徐紹勛 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2015/01/14 執行、已批 完成：2015/02/23
+ 徐紹勛 
+核醫 000TP811 Whole body bone 1  N 2015/01/14 執行、已批 完成：2015/02/04
+ 徐紹勛 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2015/01/14 執行、已批 完成：2015/02/04
+ 徐紹勛 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2015/01/14 執行、已批 完成：2015/02/23
+ 徐紹勛 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2015/01/14 執行、已批 完成：2015/02/23
+ 徐紹勛 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/01/28 執行、已批 完成：2015/01/28
+ 吳寬展 
+ 
+Subjective 
+主要病史來源：病人
+
+主訴：
+RUL lung tumor, noted at 和平 hospital
+
+現病史：
+smoking history (+) 
+已離婚 自己一個人住
+
+過去病史：
+no operation history 
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+SpO2: 99, HR: 97
+【20150204】Whole body bone :No definite osteoblastic metastatic bone lesion was noted.
+【20150128】CT With/Without Contrast-Brain :old insults
+【20150128】Pulmonary Function Test 
+FVC(L)  2.34  2.83  82.6%    
+FEV1(L)  1.68  2.2  76.4%  
+【20150115】RIA:CEA (Serum): 5.63   ng/ml
+【20150223】Transthoracic UCG
+LVEF: 71.6%, TR PG: 19.3 mmHg 
+Assessment 
+1. RUL lung tumor, cause unknown
+2. several small lung nodules (RUL SE3, IM 16, SE3, IM 34;RLL SE500, IM 14; LUL SE3, IM 23)
+2015-02-25 詳細說明影像醫學檢查報告,建議後續追蹤治療 
+Plan 
+1. Suggest P't to receive surgical resection, but P't still hesitated about it. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/02/25 已批 完成：2015/02/25  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/02/25 已批 完成：2015/02/25  
+ 
+ 
+ 
+
+應繳金額 已繳金額 最後繳費日期 社補金額 尚應繳金額 
+100 100 2015/02/25 16:00:05 0 0 
+ 
+
+Subjective 
+traffic accident with ocular blunt injury (od)
+lid laceration s/p primary repair
+orbit CT showed nornal eyeball contour 
+traumatic mydriasis, ocular hypertension (od) noted at ER, 
+Cosopt bid was prescribed 
+Objective 
+CVA: (od) ND 20 cm  (os) 0.8 
+Tp: (od) 11.9(os) 15.8
+Cornea: (od) blood stain (os) clear 
+AC: 
+(od)very shallow/microhyphema 
+(os)shallow/clear
+Pupil:(od) fixed, no reverse RAPD
+
+Lens:(od) NS3+  (os) NS2+ 
+Fundus: 
+(od) blurred due to AC reaction,mild VH
+       grossly attached
+(os) disc:80%, pinkish, NP 
+Plan 
+arrange UBM, B-scan (ou) 
+keep current topical medications
+f/u 1/29, Tp 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H26.9 Cataract  
+M S05.11XA Contusion of eyeball and orbital tissues, right eye, initial encounter 外  
+O H21.01 Hyphema, right 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+ 檢查 23504C00 Echo exam (B.scan) 超音波檢查(B掃瞄) 1  Y 2016/01/26 執行、已批 檢查部位:雙眼
+完成：2016/01/26
+ 蘇乾嘉 
+治療 000E0404 視力檢查 1 自費 N 2016/01/26 執行、已批 完成：2016/01/26
+ 蘇乾嘉 
+
+Subjective 
+traffic accident with ocular blunt injury (od)
+lid laceration s/p primary repair
+orbit CT showed nornal eyeball contour 
+traumatic mydriasis, ocular hypertension (od) noted at ER, 
+Cosopt bid was prescribed 
+Objective 
+CVA: (od) ND 20 cm  (os) 0.8 
+Tp: (od) 10.5(os) 15.5
+Cornea: (od) blood stain (os) clear 
+AC: 
+(od)very shallow/microhyphema 
+(os)shallow/clear
+Pupil:(od) fixed, no reverse RAPD
+
+Lens:(od) NS3+  (os) NS2+ 
+Fundus: 
+(od) blurred due to AC reaction,mild VH
+       grossly attached
+(os) disc:80%, pinkish, NP 
+Plan 
+f/u 2/5, CVA, 眼皮拆線 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M S05.11XA Contusion of eyeball and orbital tissues, right eye, initial encounter 外  
+O H21.01 Hyphema, right 慢  
+O H26.9 Cataract  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CYZ 前房 OCT (ANTERIOR SEGMENT OCT) 1  Y 2016/01/29 執行、已批 是否須散瞳?:不需散瞳
+左眼或右眼?:右眼
+掃描?:青光眼
+完成：2016/01/29
+ 蘇乾嘉 
+ 
+
+Subjective 
+headi njury, IOL
+no neck pain
+mild right ant chest pain 
+Objective 
+【20160125】CT Without Contrast-Brain :Brain atrophy. Old insults. Leukoaraiosis.
+Facial bone fractures.
+Retrolisthesis at the C5-6 level with severe spinal canal stenosis.
+r/o persistent ossiculum terminale, os odontoideum or odontoid fracture.
+Subcutaneous hematoma at the right cheek.
+RUL tumor, r/o malignancy. Suggest follow up and further evaluation. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M S05.11XA Contusion of eyeball and orbital tissues, right eye, initial encounter 外  
+O S05.10XA Contusion,unspecified orbital 外  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 5 20 tab 健保  2016/01/29 已確認 已批 王國川 
+ 
+
+Subjective 
+traffic accident with ocular blunt injury (od)
+lid laceration s/p primary repair
+orbit CT showed nornal eyeball contour 
+traumatic mydriasis, ocular hypertension (od) noted at ER, 
+Cosopt bid was prescribed 
+Objective 
+CVA: (od) 0.3(os) 0.8 
+Cornea: (od) clear (os) clear 
+AC: 
+(od)shallow/ clear 
+(os)shallow/clear
+Pupil:(od) fixed, no reverse RAPD
+
+Lens:(od) NS3+  (os) NS2+ 
+Fundus: 
+(od) disc:80%, pinkish, NP
+(os) disc:80%, pinkish, NP 
+Plan 
+乙診2診
+f/u 1.5m (w1).,cva, Tp 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M S05.11XA Contusion of eyeball and orbital tissues, right eye, initial encounter 外  
+O H26.9 Cataract  
+O H21.01 Hyphema, right 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000Z3043 中文診斷書 1 自費 N 2016/02/05 執行、已批 完成：2016/02/05
+ 蘇乾嘉 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2016/02/05 執行、已批 完成：2016/02/05
+ 蘇乾嘉 
+治療 000E0404 視力檢查 1 自費 N 2016/02/05 執行、已批 完成：2016/02/05
+ 蘇乾嘉 
+醫材 20000113 清淨綿 1 自費 N 2016/02/05 執行、已批 完成：2016/02/05
+ 蘇乾嘉 
+ 
+
+Subjective 
+head injury, IOL
+no neck pain
+mild right ant chest pain 
+Objective 
+right cheek swelling with hard mass about 4 cm
+hematoma is likely
+
+
+【20160125】CT Without Contrast-Brain :Brain atrophy. Old insults. Leukoaraiosis.
+Facial bone fractures.
+Retrolisthesis at the C5-6 level with severe spinal canal stenosis.
+r/o persistent ossiculum terminale, os odontoideum or odontoid fracture.
+Subcutaneous hematoma at the right cheek.
+RUL tumor, r/o malignancy. Suggest follow up and further evaluation. 
+Plan 
+Patient decides to observe
+hot packing 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M S05.11XA Contusion of eyeball and orbital tissues, right eye, initial encounter 外  
+O S05.10XA Contusion,unspecified orbital 外  
+ 
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/02/13 已批 完成：2016/02/13  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/02/13 已批 完成：2016/02/13  
+ 
+ 
+ 
+
+應繳金額 已繳金額 最後繳費日期 社補金額 尚應繳金額 
+100 100 2016/02/13 10:03:38 0 0 
+ 
+Subjective 
+traffic accident with ocular blunt injury (od)
+lid laceration s/p primary repair
+orbit CT showed nornal eyeball contour 
+traumatic mydriasis, ocular hypertension (od) noted at ER, 
+Cosopt bid was prescribed 
+Objective 
+CVA: (od) 0.8(os) 0.8 
+Tp:(od) 5.9 (os) 9.5
+Cornea: (od) clear (os) clear 
+AC: 
+(od)shallow/ clear 
+(os)shallow/clear
+Pupil:(od) mydriasis
+
+Lens:(od) NS3+  (os) NS2+ 
+Fundus: 
+(od) disc:50%, pinkish, NP
+(os) disc:50%, pinkish, NP 
+Plan 
+well explain
+f/u 6m, CVA+Tp 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M S05.11XA Contusion of eyeball and orbital tissues, right eye, initial encounter 外  
+O H21.01 Hyphema, right 慢  
+O H26.9 Cataract  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 視力檢查 1 自費 N 2016/03/14 執行、已批 完成：2016/03/14
+ 蘇乾嘉 
+ 
+
+Subjective 
+主訴：RUL lung tumor, noted at 和平 hospital
+現病史：
+smoking history (+) 
+已離婚 自己一個人住
+過去病史：no operation history 
+1. RUL lung tumor, cause unknown
+2. several small lung nodules (RUL SE3, IM 16, SE3, IM 34;RLL SE500, IM 14; LUL SE3, IM 23)
+2015-02-25 詳細說明影像醫學檢查報告,建議後續追蹤治療 
+Objective 
+SpO2: 99, HR: 97
+【20150204】Whole body bone :No definite osteoblastic metastatic bone lesion was noted.
+【20150128】CT With/Without Contrast-Brain :old insults
+【20150128】Pulmonary Function Test 
+FVC(L)  2.34  2.83  82.6%    
+FEV1(L)  1.68  2.2  76.4%  
+【20150115】RIA:CEA (Serum): 5.63   ng/ml
+【20150223】Transthoracic UCG
+LVEF: 71.6%, TR PG: 19.3 mmHg
+CEA: 7.8 at 和平醫院 
+Plan 
+1. Upload the chest CT image on 2016-08-11
+2. check CEA, spirometry8/22
+3. Still smoking, 建議病患戒菸 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2016/08/17 執行、已批 Specimen:BLO
+完成：2016/08/17
+ 徐紹勛 
+影醫 P2103C0M Requesting CT Film and Report 1  N 2016/08/17 執行、已批 欲借片之醫院:[台北市]臺北市立聯合醫院(0101090517)
+特殊照影檢查名稱:CT
+它院照片日期:2016-08-11
+它院病歷號碼:61828109
+影像檔案格式:DICOM檔
+完成：2016/08/18
+ 徐紹勛 
+檢查 17003C0S Screen (Flow-volume curve)-一般肺量測定 1  N 2016/08/17 執行、已批 完成：2016/08/22
+ 徐紹勛 
+ 
+
+Subjective 
+blurring (od) 
+Objective 
+CVA: (od) 0.2(os) 0.5 
+Tp:(od)6.4 (os) 13.6
+Cornea: (od) clear (os) clear 
+AC: 
+(od)very shallow/ clear, weak zonule; phacodonesis  
+(os)shallow/clear
+Pupil:(od) mydriasis
+
+Lens:(od) NS3+  (os) NS2+ 
+Fundus: 
+(od) disc:50%, pinkish, no break
+(os) disc:50%, pinkish, NP 
+Assessment 
+ECD 2394/2160
+well explain
+waek zonule, explain the possibility of second IOL implant 
+Plan 
+Arrange phaco+PCIOL (od 
+Date:10-/22, 8AM
+IOL power :24D 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M S05.11XA Contusion of eyeball and orbital tissues, right eye, initial encounter 外  
+O H26.9 Cataract  
+O H21.01 Hyphema, right 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23404C00 角膜內皮細胞顯微檢查(Confocal) 1  Y 2016/08/29 執行、已批 完成：2016/08/29
+ 蘇乾嘉 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/08/29 執行、已批 完成：2016/08/29
+ 蘇乾嘉 
+治療 000E0407 屈光檢查（電腦驗光） 1 自費 N 2016/08/29 執行、已批 完成：2016/08/29
+ 蘇乾嘉 
+ 
+
+Subjective 
+主訴：RUL lung tumor, noted at 和平 hospital
+現病史：
+smoking history (+) 
+已離婚 自己一個人住
+過去病史：no operation history 
+1. RUL lung tumor, cause unknown
+2. several small lung nodules (RUL SE3, IM 16, SE3, IM 34;RLL SE500, IM 14; LUL SE3, IM 23)
+2015-02-25 詳細說明影像醫學檢查報告,建議後續追蹤治療 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+SpO2: 99, HR: 97
+【20150204】Whole body bone :No definite osteoblastic metastatic bone lesion was noted.
+【20150128】CT With/Without Contrast-Brain :old insults
+【20150128】Pulmonary Function Test 
+FVC(L)  2.34  2.83  82.6%    
+FEV1(L)  1.68  2.2  76.4%  
+【20150115】RIA:CEA (Serum): 5.63   ng/ml
+【20150223】Transthoracic UCG
+LVEF: 71.6%, TR PG: 19.3 mmHg
+CEA: 7.8 at 和平醫院
+【20160818】RIA:CEA (Serum): 5.54   ng/ml
+【20160822】Pulmonary Function Test :
+FVC(L)    2.1  2.77  75.7    
+FEV1(L)  1.47  2.13  68.9
+【20160822】Pulmonary Function Test :LUNG TUMOR * Spirometry by CHESTAC-8800
+
+* R/O Mild obstructive ventilatory defect 
+Assessment 
+2016-08-31 Well explained the disease to patient and his daughter 
+Plan 
+1. Upload the chest CT image on 2016-08-11
+2. check CEA, spirometry8/22
+3. Still smoking, 建議病患戒菸
+Admission for CT guided biopsy. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.1 Lung tumor  
+ 
+ 
+
+Subjective 
+主訴：RUL lung tumor, noted at 和平 hospital
+現病史：
+smoking history (+) 
+已離婚 自己一個人住
+過去病史：no operation history 
+1. RUL lung tumor, cause unknown
+2. several small lung nodules (RUL SE3, IM 16, SE3, IM 34;RLL SE500, IM 14; LUL SE3, IM 23)
+2015-02-25 詳細說明影像醫學檢查報告,建議後續追蹤治療 
+Objective 
+SpO2: 99, HR: 97
+【20150204】Whole body bone :No definite osteoblastic metastatic bone lesion was noted.
+【20150128】CT With/Without Contrast-Brain :old insults
+【20150128】Pulmonary Function Test 
+FVC(L)  2.34  2.83  82.6%    
+FEV1(L)  1.68  2.2  76.4%  
+【20150115】RIA:CEA (Serum): 5.63   ng/ml
+【20150223】Transthoracic UCG
+LVEF: 71.6%, TR PG: 19.3 mmHg
+CEA: 7.8 at 和平醫院
+【20160818】RIA:CEA (Serum): 5.54   ng/ml
+【20160822】Pulmonary Function Test :
+FVC(L)    2.1  2.77  75.7    
+FEV1(L)  1.47  2.13  68.9 
+Assessment 
+2016-08-31 Well explained the disease to patient and his daughter 
+Plan 
+1. Upload the chest CT image on 2016-08-11
+2. check CEA, spirometry8/22
+3. Still smoking, 建議病患戒菸
+4. Refer to medical doctor for diagnosis first 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/31 已批 完成：2016/08/31  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/08/31 已批 完成：2016/08/31 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/09/25 開立、已批  洪琬婷 
+病理 25012B0W Immunohistochemical stains, each antibody 3  N 2016/09/29 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2016/09/29
+ 李婉婷 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/08/31 已批 完成：2016/08/31  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/08/31 已批 完成：2016/08/31  
+ 
+
+
+Subjective 
+ambulation: fair without device 
+visited our OPD with family(daughter)
+
+C.C.: Poor memory for months
+easily lost during admission, resolved after discharge
+easily forgetful 
+
+PH& current medication: 
+1. Lung adenocarcinoma, NSCLC with T1N0M0 stage IA, status post nonintubated VATS RUL wedge resection on Gr. 3/4,7 on 2016/9/22
+lymph node dissection.
+-theophylline BIDPC
+-acetin 1# BID
+-delpan 1# BID
+
+2.Hypertension under medication since 2016/9/11
+-Nisidipin 1# QD
+-valsartan 1#QN
+
+3. Traumatic SAH 7-8 yrs ago
+4. insomnia
+-xanax QDHS
+
+allergy:denied
+
+Body weight: 58kg-> 57kg 
+appetite: mild decreased 
+
+Function review
+-Dementia(+/-)/delirium(-)/depression(-)
+-Eye:(L/R) 0.5/0.25 cararact, decreased vision after car accident
+-Ear: intact, hearing:
+-performance
+(1)ADL: independent
+(2)IADL: independent
+
+fall: denied
+
+polypharmacy(-)
+pain(-)
+
+sleep: 12-7,7 hours/day
+
+incontinence:intact
+costipation:intact
+
+socioeconomic issues
+-已離婚 自己一個人住
+
+smoking history 
+1PPD for 40+ years 
+Objective 
+consciousness: clear
+vital signs BP 135/70   HR 75
+grossly looking:fair
+
+HENNT:conjunctiva pink, , goiter(-), mild right ptosis
+Heart: RHB 
+Chest: coarse breath sounds, symmetric expansion
+Abdomen: soft, no local tenderness
+bowel sounds: nomo
+
+muscle power:full
+
+cognitive impairment since 2016/10/4, 
+-MMSE: 28(education 9 yrs) 
+Assessment 
+r/o dementia, MMSE 28 
+Plan 
+survey dementia
+encourage quit smoking
+education for medication compliance 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.1 Lung tumor  
+O F03.90 Dementia without behavioral disturbance 重 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04
+ 王智瑩 
+檢驗 09106C0P Free T4 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04
+ 王智瑩 
+ 檢驗 09038CZP Albumin(Blood) 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04 
+
+檢驗 09011CZP Calcium, Ca 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04
+ 王智瑩 
+檢驗 09012CZP Phosphate, P 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04
+ 王智瑩 
+檢驗 12001C0P S.T.S (VDRL/RPR) 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04
+ 王智瑩 
+檢驗 09130B0P Folic Acid 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04
+ 王智瑩 
+檢驗 09129B0P Vitamin B12 1  N 2016/10/04 執行、已批 Specimen:BLO
+完成：2016/10/04
+ 王智瑩 
+治療 45046C0J 生理心理功能檢查－成人 1  N 2016/10/04 執行、已批 完成：2016/10/04
+ 王智瑩 
+
+
+Subjective 
+主訴：RUL lung tumor, noted at 和平 hospital
+現病史：
+smoking history (+) 
+已離婚 自己一個人住
+過去病史：no operation history 
+1. RUL lung tumor, cause unknown
+2. several small lung nodules (RUL SE3, IM 16, SE3, IM 34;RLL SE500, IM 14; LUL SE3, IM 23)
+2015-02-25 詳細說明影像醫學檢查報告,建議後續追蹤治療
+2016-10-04 RUL wedge resection for adenocarcinoma 
+Objective 
+SpO2: 99, HR: 97
+【20150204】Whole body bone :No definite osteoblastic metastatic bone lesion was noted.
+【20150128】CT With/Without Contrast-Brain :old insults
+【20150128】Pulmonary Function Test 
+FVC(L)  2.34  2.83  82.6%    
+FEV1(L)  1.68  2.2  76.4%  
+【20150115】RIA:CEA (Serum): 5.63   ng/ml
+【20150223】Transthoracic UCG
+LVEF: 71.6%, TR PG: 19.3 mmHg
+CEA: 7.8 at 和平醫院
+【20160818】RIA:CEA (Serum): 5.54   ng/ml
+【20160822】Pulmonary Function Test :
+FVC(L)    2.1  2.77  75.7    
+FEV1(L)  1.47  2.13  68.9
+2016-10-04 CxR : stationary 
+Assessment 
+2016-08-31 Well explained the disease to patient and his daughter 
+Plan 
+1. Still smoking, 建議病患至戒菸門診求治
+2. Take off some stitches
+3. OPD F/U next week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.11 Malignant neoplasm of upper lobe, right bronchus or lung 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/10/04 已確認 已批 徐紹勛  
+Dexilant delayed release 60 mg/cap 1 cap QD PO 7 7 cap 健保  2016/10/04 已確認 已批 徐紹勛  
+Meptin 25 mcg/tab 1 tab BID PO 7 14 tab 健保  2016/10/04 已確認 已批 徐紹勛  
+Sindine Aque Soln 10% 200 mL/btl 1 XX AS ORDER D 7 1 btl 自費  2016/10/04 已確認 已批 徐紹勛  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/10/04 執行、已批 完成：2016/10/04
+ 徐紹勛 
+治療 48025C00 拆線(次)(小於10CM) 1  N 2016/10/04 執行、已批 完成：2016/10/04
+ 徐紹勛 
+ 
+
+Subjective 
+主訴：RUL lung tumor, noted at 和平 hospital
+現病史：
+smoking history (+) 
+已離婚 自己一個人住
+過去病史：no operation history 
+1. RUL lung tumor, cause unknown
+2. several small lung nodules (RUL SE3, IM 16, SE3, IM 34;RLL SE500, IM 14; LUL SE3, IM 23)
+2015-02-25 詳細說明影像醫學檢查報告,建議後續追蹤治療
+2016-10-04 RUL wedge resection for adenocarcinoma 
+Objective 
+SpO2: 99, HR: 97
+【20150204】Whole body bone :No definite osteoblastic metastatic bone lesion was noted.
+【20150128】CT With/Without Contrast-Brain :old insults
+【20150128】Pulmonary Function Test 
+FVC(L)  2.34  2.83  82.6%    
+FEV1(L)  1.68  2.2  76.4%  
+【20150115】RIA:CEA (Serum): 5.63   ng/ml
+【20150223】Transthoracic UCG
+LVEF: 71.6%, TR PG: 19.3 mmHg
+CEA: 7.8 at 和平醫院
+【20160818】RIA:CEA (Serum): 5.54   ng/ml
+【20160822】Pulmonary Function Test :
+FVC(L)    2.1  2.77  75.7    
+FEV1(L)  1.47  2.13  68.9
+2016-10-04 CxR : stationary
+【20161011】癌症治療效果追蹤評估 Disease Status:
+No evidence of recurrence or metastases 
+Assessment 
+2016-08-31 Well explained the disease to patient and his daughter 
+Plan 
+1. Still smoking, refer 病患 至 戒菸門診 求治
+2. Take off all stitches
+3. OPD F/U 3 months later 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.11 Malignant neoplasm of upper lobe, right bronchus or lung 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab TID PO 7 21 tab 健保  2016/10/11 已確認 已批 徐紹勛  
+Dexilant delayed release 60 mg/cap 1 cap QD PO 7 7 cap 健保  2016/10/11 已確認 已批 徐紹勛  
+Meptin 25 mcg/tab 1 tab BID PO 7 14 tab 健保  2016/10/11 已確認 已批 徐紹勛  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)(小於10CM) 1  N 2016/10/11 執行、已批 完成：2016/10/11
+ 徐紹勛 
+ 
+
+Subjective 
+ambulation: fair without device 
+visited our OPD with family(daughter)
+
+Poor memory for months (since 201608)
+easily lost during admission, resolved after discharge
+easily forgetful 
+
+PH& current medication: 
+1. Lung adenocarcinoma, NSCLC with T1N0M0 stage IA, status post nonintubated VATS RUL wedge resection on Gr. 3/4,7 on 2016/9/22
+lymph node dissection.
+-theophylline BIDPC
+-acetin 1# BID
+-delpan 1# BID
+
+2.Hypertension under medication since 2016/9/11
+-Nisidipin 1# QD
+-valsartan 1#QN
+
+3. Traumatic SAH 7-8 yrs ago
+4. insomnia
+-xanax QDHS
+
+allergy:denied
+
+Body weight: 58kg-> 57kg 
+appetite: mild decreased 
+
+Function review
+-Dementia(+/-)/delirium(-)/depression(-)
+-Eye:(L/R) 0.5/0.25 cararact, decreased vision after car accident
+-Ear: intact, hearing:
+-performance
+(1)ADL: independent
+(2)IADL: independent
+
+fall: denied
+
+polypharmacy(-)
+pain(-)
+
+sleep: 12-7,7 hours/day
+
+incontinence:intact
+costipation:intact
+
+socioeconomic issues
+-已離婚 自己一個人住
+
+smoking history 
+1PPD for 40+ years 
+Objective 
+BP: 101/47  PR: 102
+HENNT:conjunctiva pink, , goiter(-), mild right ptosis
+Heart: RHB 
+Chest: coarse breath sounds, symmetric expansion
+Abdomen: soft, no local tenderness
+bowel sounds: nomor
+BW: 58 kg 
+ADL: independent, IADL: independent 
+muscle power:full
+cognitive impairment since 2016/10/4, 
+-MMSE: 28 (education 9 yrs)
+【20161004】Folic Acid: 4.66   ng/mL
+【20161004】VIT. B12: 674   pg/mL
+【20161004】S.T.S. (VDRL/RPR Test): Non-Reactive   *
+【20161004】hsTSH(CIA): 2.31   μIU/mL
+【20161004】Free T4(CIA): 0.963   ng/dL
+【20161004】Alb: 4.3   g/dL
+【20161004】P: 3.5   mg/dL
+【20161004】Ca: 2.29   mmol/L 
+Assessment 
+cognitive impairment, MMSE 28, suspect MCI 
+Plan 
+survey dementia
+encourage quit smoking
+education for medication compliance 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F03.90 Dementia without behavioral disturbance 重 慢  
+O D49.1 Lung tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/10/14 已批 完成：2016/10/14  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2016/10/14 已批 完成：2016/10/14 
+ 

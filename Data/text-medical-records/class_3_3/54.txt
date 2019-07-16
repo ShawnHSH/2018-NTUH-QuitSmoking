@@ -1,0 +1,674 @@
+
+Subjective 
+43F monopause, under hormone replacement therapy
+visited ED on 2014/11/8 due to left breast pain for months
+Tearing sharp breast pain radiating to back since 2014/11/5; radiates to jaw and Lt arm
+No nausea, no vomting, no cold sweating, no dyspnea
+s/p PARAMOL 1 tab, QIDPRN, 3days
+improving when taking medication
+but recurred later.
+
+LMP 2012
+smoking: 0.5-1PPD for 10+ years 
+Objective 
+BP: 100/72 mmHg, HR: 88/min, RR: 18/min
+pain: 5/10 left chest and left back
+Consciousness: clear, E4M6V5 
+HEENT: grossly normal 
+Throat: no injected 
+Chest: symmetric expansion, breath sounds: clear 
+Heart: RHB, no murmur 
+
+Breast: vague nodularity, vague tenderness+
+
+【20141030】breast echo
+Sonar Diagnosis :
+    Fibrocystic disease
+    Fibroadenoma
+    BI-RADS "3"
+ Advice or Comment :
+    Follow-up of ultrasound in six months is recommended
+【20141108】Troponin I: <0.012   ng/mL
+【20141108】CK-MB: 14   U/L
+【20141108】CK: 165   U/L
+【20141108】ALT: 9   U/L
+【20141108】K: 4.1   mmol/L
+【20141108】Na: 139   mmol/L
+【20141108】CRE: 0.6   mg/dL
+【20141108】WBC: 9.27   K/μL
+【20141108】HB: 13.7   g/dL
+
+【20141108】Chest : PA View (Standing) :Chest PA shows normal heart size and no definite lung lesion.
+
+2014/11/8 EKG: NSR 
+Plan 
+1. symptomatic treatment. RTC next week.
+2. suggest smoking cassation.
+R3 王維理/ VS劉文俊 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 786.50 Chest pain  
+M 239.3 Breast tumor  
+O 729.2 Neuralgia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+10 (DC)TONE 10 mg/tab 1 tab HS PO 7 7 tab 健保  2014/11/10 已確認 已批 王維理 
+ 
+
+Subjective 
+left sintrascapular and chest pain esp in the midnight since 14 days ago, intermittent mild pain for two monthsaxila numbness and breast pain also 
+neck extension not to initiate pain 
+Chext X ray OK, aorta OK not dissecting aneurysm
+CT scan (Location?) done at VGH, negative 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 786.50 Chest pain 
+ 
+
+Subjective 
+left sintrascapular and chest pain esp in the midnight since 14 days ago, intermittent mild pain for two monthsaxila numbness and breast pain also 
+neck extension not to initiate pain 
+Chext X ray OK, aorta OK not dissecting aneurysm
+CT scan (Location?) done at VGH, negative
+
+20141120 CT of C and T spine: no definite lesion 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 786.50 Chest pain 
+ 
+
+Subjective 
+for results 
+Objective 
+【20141108】Troponin I: <0.012   ng/mL
+【20141108】CK-MB: 14   U/L
+【20141108】%CKMB: 8.5   %
+【20141108】CK: 165   U/L
+【20141108】ALT: 9   U/L
+
+【20141108】CRE: 0.6   mg/dL
+【20141108】WBC: 9.27   K/μL
+【20141108】RBC: 4.40   M/μL
+【20141108】PLT: 258   K/μL
+【20141108】HCT: 39.9   %
+【20141108】HB: 13.7   g/dL
+【20141108】Chest : PA View (Standing) :Chest PA shows normal heart size and no definite lung lesion. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 217 Benign neoplasm of breast  
+ 
+ 
+
+Subjective 
+CC:
+1.Left interscapular pain/anterior chest wall(乳房下方深部,非乳房) pain since 2014/9, aggravate since 2014/11/5(開車突然胸痛)
+Breast exams showed no problem
+Orthopeist at VGH suggest PT
+2.Left SI area pain since 2012~2013
+ Pain when prolonged sitting or lying
+ less pain when standing
+PH:Bilateral breast benign tumor s/p Lt opeartin 10+ years ago 
+Objective 
+疼痛評估：疼痛指數： 8->4分; 持續痛 ; 疼痛部位： Left interscapular and ant chest wall; 
+
+【20141108】Chest : PA View (Standing) :Chest PA shows normal heart size and no definite lung lesion.
+
+【20141108】CK: 165   U/L
+【20141108】CK-MB: 14   U/L
+【20141108】Troponin I: <0.012   ng/mL 
+Assessment 
+r/o Rt iliocostalis thoracis MFPS
+r/o Lt Sacroilitis 
+Plan 
+Check X-ray for Lt SI joint
+PT(11/25):Stretching+HP+IFC-Lt iliocostalis thoracis 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 729.1 Myofascial pain syndrome  
+O 720.2 Sacroiliitis  
+O 721.3 Lumbar spondylosis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 14 56 tab 健保  2014/11/25 已確認 已批 林昀毅  
+10 Tofranil 10 mg/tab 1 tab BID PO 14 28 tab 健保  2014/11/25 已確認 已批 林昀毅  
+SOLAXIN 200 mg/tab 1 tab TIDPC PO 14 42 tab 健保  2014/11/25 已確認 已批 林昀毅  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32012CZM Pelvis:Sacroiliac Joint 1  N 2014/11/25 執行、已批 其他：for Lt SI joint
+完成：2014/11/25
+ 林昀毅 
+治療 42007A0N 物理治療－中度治療－中度 1 內含 N 2014/11/25 執行、已批 其他：☆PTM6_牽拉運動 ☆PTS2_治療性醫令冷 \ 熱 ☆PTS8_向量干擾
+完成：2014/11/25
+ 林昀毅 
+治療 PTM6 牽拉運動 1  N 2014/11/25 執行  林昀毅 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2014/11/25 執行  林昀毅 
+治療 PTS8 向量干擾 1  N 2014/11/25 執行  林昀毅 
+治療 42007A0N 物理治療－中度治療－中度 1  N 2014/11/27 執行、已批 其他：☆PTM6_牽拉運動 ☆PTS2_治療性醫令冷 \ 熱 ☆PTS8_向量干擾
+療程次數：01
+完成：2014/11/27
+ 李佳品 
+治療 PTM6 牽拉運動 1  N 2014/11/27 執行  李佳品 
+治療 PTS2 治療性醫令冷 \ 熱 1  N 2014/11/27 執行  李佳品 
+治療 PTS8 向量干擾 1  N 2014/11/27 執行  李佳品 
+ 
+
+Subjective 
+Posterior occipital and neck persistent soreness and distension pain since 2014/12
+mild nausea and sleep
+no photophobia or phonophobia, no weight change, not related valsalva maneurver or posture
+VAS:3-4
+
+PMH: denied systemic disease
+menopause under hormone therapy for 1+ yr
+Alcohol-, vegetarian-, smoking:+
+
+NKDA 
+Objective 
+BT:36.7
+No neck rigidity
+
+Cranial nerves grossly intact
+MP: RUE/RLE/LUE/LLE:5/5/5/5
+FNF no dysmetria
+Gait and tandem gait fair
+Romberg sign:-
+
+Three item recall:
+0/3 free recall
+cue:3/3 
+Assessment 
+tension type headache 
+Plan 
+EEG 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 729.9 Soft tissue pain 慢  
+O 784.0 Headache  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 14 28 cap 健保  2015/01/30 已確認 已批 李君右  
+MgO 250 mg/tab 1 tab BID PO 14 28 tab 健保  2015/01/30 已確認 已批 李君右  
+Befon 5 mg/tab 1 tab HS PO 14 14 tab 健保  2015/01/30 已確認 已批 李君右  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 20001C0J 清醒期腦波 1  N 2015/01/30 執行、已批 完成：2015/02/13
+ 李君右 
+ 
+
+Subjective 
+Posterior occipital and neck persistent soreness and distension pain since 2014/12
+mild nausea and sleepy
+no photophobia or phonophobia, no weight change, not related valsalva maneurver or posture
+VAS:3-4, espeicially while standing
+PMH: denied systemic disease
+menopause under hormone therapy for 1+ yr
+Alcohol-, vegetarian-, smoking:+
+Nonvegetarian
+NKDA 
+Objective 
+BT:36.7
+No neck rigidity
+
+Cranial nerves grossly intact
+MP: RUE/RLE/LUE/LLE:5/5/5/5
+FNF no dysmetria
+Gait and tandem gait fair
+Romberg sign:-
+
+Three item recall:
+0/3 free recall
+cue:3/3
+
+2015/2 EEG :Normal EEG with mild hypersomnolent tendency 
+Assessment 
+tension type headache 
+Plan 
+C-spine X-ray 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 729.9 Soft tissue pain 慢  
+O 784.0 Headache  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab BID PO 14 28 tab 健保  2015/03/06 已確認 已批 李君右  
+Indoy 25 mg/cap 1 cap BID PO 14 28 cap 健保  2015/03/06 已確認 已批 李君右  
+SOLAXIN 200 mg/tab 1 tab BID PO 14 28 tab 健保  2015/03/06 已確認 已批 李君右  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP083 Spine: Cervical AP, LAT. 1  N 2015/03/06 執行、已批 小部位:.
+完成：2015/03/06
+ 李君右 
+影醫 000MP111 C1-C2: AP(Open Mouth), LAT 1  N 2015/03/06 執行、已批 完成：2015/03/06
+ 李君右 
+ 
+
+Subjective 
+Posterior occipital and neck persistent soreness and distension pain since 2014/12
+mild nausea and sleepy
+no photophobia or phonophobia, no weight change, not related valsalva maneurver or posture
+VAS:3-4, espeicially while standing
+PMH: denied systemic disease
+menopause under hormone therapy for 1+ yr
+Alcohol-, vegetarian-, smoking:+
+Nonvegetarian
+NKDA 
+Objective 
+BT:36.7
+No neck rigidity
+
+Cranial nerves grossly intact
+MP: RUE/RLE/LUE/LLE:5/5/5/5
+FNF no dysmetria
+Gait and tandem gait fair
+Romberg sign:-
+
+Three item recall:
+0/3 free recall
+cue:3/3
+
+2015/2 EEG :Normal EEG with mild hypersomnolent tendency
+【20150306】Spine: Cervical AP, LAT. :mild spondylosis and mild retrolithesis at multiple levels of cervical spine.
+【20150306】C1-C2: AP(Open Mouth), LAT :no definite fracture or bone lesion. 
+Assessment 
+tension type headache, nuchalgenic headache 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 729.9 Soft tissue pain 慢  
+O 784.0 Headache  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+25 Tofranil 25 mg/tab 1 tab HS PO 28 28 tab 健保  2015/03/20 待決 已退 李君右  
+SOLAXIN 200 mg/tab 1 tab HS PO 14 14 tab 健保  2015/03/20 待決 已退 李君右  
+Indol Gel 1% 10 g/tube 1 XX BID D 28 1 tube 健保  2015/03/20 待決 已退 李君右 
+ 
+
+Subjective 
+gastric SM tumor for EUS 
+Objective 
+1 1.6cm SM lesion at the cardia 
+Plan 
+EUS 5/13 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.0 Gastric tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/05/13 已確認 已批B 彭珍齡  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 000SP001 E.U.S.內視鏡超音波檢查－上消化道 1  N 2015/04/20 執行、已批 Symptom:Epigastralgia
+有無使用抗凝血藥物:無
+有無使用抗排斥藥物:無
+完成：2015/05/13
+ 張毓廷 
+治療 28016CVS Upper GI panendoscopy 1  N 2015/04/20 執行、已批 完成：2015/05/13
+ 張毓廷 
+治療 28029CZS ENDOSCOPIC ULTRASOUND OF ABDOMEN 1  N 2015/04/20 執行、已批 完成：2015/05/13
+ 張毓廷 
+ 
+
+Subjective 
+CC:
+1.Left interscapular pain/anterior chest wall(乳房下方深部,非乳房) pain since 2014/9, aggravate since 2014/11/5(開車突然胸痛)
+Breast exams showed no problem
+Orthopeist at VGH suggest PT
+2.Left SI area pain since 2012~2013
+ Pain when prolonged sitting or lying
+ less pain when standing
+PH:Bilateral breast benign tumor s/p Lt opeartin 10+ years ago
+
+Ultracet can relieve it partially 
+Objective 
+疼痛評估：疼痛指數： 8->4分; 持續痛 ; 疼痛部位： Left interscapular and ant chest wall; 
+
+【20141108】Chest : PA View (Standing) :Chest PA shows normal heart size and no definite lung lesion.
+
+【20141108】CK: 165   U/L
+【20141108】CK-MB: 14   U/L
+【20141108】Troponin I: <0.012   ng/mL 
+Assessment 
+r/o Rt iliocostalis thoracis MFPS
+r/o Lt Sacroilitis 
+Plan 
+Keep ultracet, try lyrica
+Refer to pain specialist 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 729.1 Myofascial pain syndrome  
+O 721.3 Lumbar spondylosis 慢  
+O 720.2 Sacroiliitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab QID PO 7 28 tab 健保  2015/04/28 已確認 已批 蕭輔仁  
+Lyrica 75 mg/cap 1 cap HS PO 7 7 cap 自費  2015/04/28 已確認 已批 蕭輔仁 
+ 
+
+Subjective 
+gastric SM tumor for EUS 
+Objective 
+1 1.6cm SM lesion at the cardia
+【20150513】E.U.S.內視鏡超音波檢查－上消化道( 內視鏡科 ) :gastric submucosal tumor,
+Indication :
+  gastric submucosal tumor,
+Organ :
+  stomach
+Instrument :
+  UM-2R        
+Pre-medication :
+  Buscopan [Hyoscine]
+Sedation / Anesthesia :
+  Nil
+Endoscopic Findings :
+  Mucosa breaks less than 5mm long were noted at the EG junction. A 1.2cm SM  
+  lesion in the cardia was noted. 
+Endoscopic Ultrasound Findings :
+  EUS with Olympus 2R probe showed a 1.7mm hypoechoic lesion in the 4th layer 
+  of cardia.
+Fine-Needle Aspiration :
+Nil              
+Diagnosis :
+  Gastric myogenic tumor r/o GIST, cardia
+  Reflux esophagitis LA(A)
+Preliminary Cytology Diagnosis : 
+Assessment 
+gastric SM tumor r/o GIST size ? o out of renage of EUS 
+Plan 
+AB CT scan 6/5 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.0 Gastric tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 33072B3M CT With/Without Contrast-Abdomen 1  N 2015/05/18 執行、已批 Indication:Follow up
+小部位:From diaphragm to kidney lower pole,
+其他：※不清楚病人是否對顯影劑過敏
+完成：2015/06/05
+ 張毓廷 
+治療 33090B0M NON-IONIC CONTRAST MEDIUM(健保) 1  N 2015/06/05 執行、已批 完成：2015/06/05
+ 鄭慧君 
+醫材 20000943 DISPOSABLE SYRINGE KIT 1  N 2015/06/05 執行、已批 完成：2015/06/05
+ 鄭慧君 
+ 
+
+Subjective 
+gastric SM tumor for follow up ( for CT report)
+並人因掛不進GI,由掛號櫃台掛入家醫科門診 
+Objective 
+1 1.6cm SM lesion at the cardia
+【20150513】E.U.S.內視鏡超音波檢查－上消化道( 內視鏡科 ) :gastric submucosal tumor,
+Indication :
+  gastric submucosal tumor,
+Organ :
+  stomach
+Instrument :
+  UM-2R        
+Pre-medication :
+  Buscopan [Hyoscine]
+Sedation / Anesthesia :
+  Nil
+Endoscopic Findings :
+  Mucosa breaks less than 5mm long were noted at the EG junction. A 1.2cm SM  
+  lesion in the cardia was noted. 
+Endoscopic Ultrasound Findings :
+  EUS with Olympus 2R probe showed a 1.7mm hypoechoic lesion in the 4th layer 
+  of cardia.
+Fine-Needle Aspiration :
+Nil              
+Diagnosis :
+  Gastric myogenic tumor r/o GIST, cardia
+  Reflux esophagitis LA(A)
+Preliminary Cytology Diagnosis :
+
+【20150605】CT With/Without Contrast-Abdomen :submucosal tumor at the gastric cardia. 
+Assessment 
+gastric SM tumor r/o GIST 
+Plan 
+1. refered to GI OPD for further evaluation and follow up
+
+R2楊志尊/VS呂碧鴻 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.0 Gastric tumor 
+ 
+
+Subjective 
+gastric SM tumor for EUS 
+Objective 
+【20150513】E.U.S.內視鏡超音波檢查－上消化道( 內視鏡科 ) :gastric submucosal tumor,
+Indication :
+  gastric submucosal tumor,
+Organ :
+  stomach
+Instrument :
+  UM-2R        
+Pre-medication :
+  Buscopan [Hyoscine]
+Sedation / Anesthesia :
+  Nil
+Endoscopic Findings :
+  Mucosa breaks less than 5mm long were noted at the EG junction. A 1.2cm SM  
+  lesion in the cardia was noted. 
+Endoscopic Ultrasound Findings :
+  EUS with Olympus 2R probe showed a 1.7mm hypoechoic lesion in the 4th layer 
+  of cardia.
+Fine-Needle Aspiration :
+Nil              
+Diagnosis :
+  Gastric myogenic tumor r/o GIST, cardia
+  Reflux esophagitis LA(A)
+Preliminary Cytology Diagnosis :
+【20150605】CT With/Without Contrast-Abdomen :submucosal tumor at the gastric cardia. 
+Assessment 
+probable GIST 2.3cm 
+Plan 
+refer to GS for evaluation of surgical intervention 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.0 Gastric tumor  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 530.81 Gastroesophageal reflux disease (GERD)  
+O 536.8 Gastrointestinal upset 慢  
+M 239.0 Gastric tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Gaster D 20 mg/tab 1 tab BID LZ 28 56 tab 健保  2015/07/02 已確認 已批 楊卿堯  
+ 
+
+Subjective 
+gastric SM tumor for EUS
+ abdominal pain persisted after Gaster 
+Objective 
+【20150605】CT With/Without Contrast-Abdomen :submucosal tumor at the gastric cardia.
+【20150513】E.U.S.內視鏡超音波檢查－上消化道( 內視鏡科 ) :gastric submucosal tumor,
+Indication :
+  gastric submucosal tumor,
+Organ :
+  stomach
+Instrument :
+  UM-2R        
+Pre-medication :
+  Buscopan [Hyoscine]
+Sedation / Anesthesia :
+  Nil
+Endoscopic Findings :
+  Mucosa breaks less than 5mm long were noted at the EG junction. A 1.2cm SM  
+  lesion in the cardia was noted. 
+Endoscopic Ultrasound Findings :
+  EUS with Olympus 2R probe showed a 1.7mm hypoechoic lesion in the 4th layer 
+  of cardia.
+Fine-Needle Aspiration :
+Nil              
+Diagnosis :
+  Gastric myogenic tumor r/o GIST, cardia
+  Reflux esophagitis LA(A)
+Preliminary Cytology Diagnosis :
+【20150605】CT With/Without Contrast-Abdomen :submucosal tumor at the gastric cardia. 
+Assessment 
+probable GIST 2.3cm 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 530.11 Reflux esophagitis 慢  
+O 239.0 Gastric tumor  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Pariet EC 20 mg/tab 1 tab QD PO 28 28 tab 健保  2015/07/06 已確認 已批 張毓廷 重複原因:欲轉換藥品
+ 
+(DC)Gascon 40 mg/tab 1 tab TIDPC PO 28 84 tab 健保  2015/07/06 已確認 已批 張毓廷  
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 239.0 Gastric tumor  
+O 530.81 Gastroesophageal reflux disease (GERD)  
+O 536.8 Gastrointestinal upset 慢  
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.0 Gastric tumor  
+O 530.81 Gastroesophageal reflux disease (GERD)  
+O 536.8 Gastrointestinal upset 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Gaster D 20 mg/tab 1 tab BID LZ 28 56 tab 健保  2015/08/18 已確認 已批 楊卿堯  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48025C00 拆線(次)(小於10CM) 1  N 2015/08/18 執行、已批 完成：2015/08/18
+ 楊卿堯 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 530.81 Gastroesophageal reflux disease (GERD)  
+O 536.8 Gastrointestinal upset 慢  
+M 239.0 Gastric tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 48011C00 小換藥(小於10CM) 1  N 2015/09/22 執行、已批 完成：2015/09/22
+ 楊卿堯 
+ 
+
+Subjective 
+as scan 
+Objective 
+as scan 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 836.3 Patellar subluxation, closed 外  
+O 721.3 Lumbar spondylosis 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP090 Spine: Lumbosacral AP, LAT. 1  Y 2015/09/30 執行、已批 小部位:ROUTINE
+完成：2015/09/30
+ 江清泉 
+檢查 000JEX09 針極肌電圖檢查 1  N 2015/09/30 開立、已批 其他：LEFT LEG
+ 江清泉 
+治療 20014B0J 針極肌電圖檢查(Needle EMG) 1  N 2015/09/30 執行、已批  江清泉 
+治療 20016B0J 運動神經傳導速度測定-下肢(Motor nerve conduction velocity-lower) 1  N 2015/09/30 執行、已批  江清泉 
+治療 20019B0J 感覺神經傳導速度測定(Sensory nerve conduction velocity) 1  N 2015/09/30 執行、已批  江清泉 
+醫材 20290101 可棄式肌電圖用針 1 自費 N 2015/09/30 執行、已批  江清泉 
+ 
+
+Subjective 
+Epigastralgia 
+Poor bowel movement
+Received laparoscopic tumor excision for leiomyoma 
+Objective 
+NP 
+Plan 
+OPD 1M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Normacol Plus Granule 7 g/pack 1 pack QDPC PO 28 28 pack 健保  2016/01/06 已確認 已批 邱瀚模  
+(DC)Gascon 40 mg/tab 2 tab TIDPC PO 28 168 tab 健保  2016/01/06 已確認 已批 邱瀚模  
+Mopride FC 5 mg/tab 1 tab TID PO 28 84 tab 健保  2016/01/06 已確認 已批 邱瀚模 
+ 
+
+Subjective 
+Now BM every other day 
+Objective 
+NP 
+Plan 
+OPD 3M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K59.00 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Gascon 40 mg/tab 2 tab TIDPC PO 28 168 tab 健保 3 2016/02/03 已確認 已批 邱瀚模  
+Mopride FC 5 mg/tab 1 tab TID PO 28 84 tab 健保 3 2016/02/03 已確認 已批 邱瀚模 
+ 

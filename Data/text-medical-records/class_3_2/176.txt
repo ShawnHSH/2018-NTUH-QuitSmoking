@@ -1,0 +1,452 @@
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HTN noteed last Nov.He visitedLMD where AC 108,CHO 207,HDL 40, LDL147, GOT 24,K 4.7 URIC ACID 6.9,Cr 0.9
+
+現病史：
+hE WAS TREATED WITH MICARDIS ,but still occassional HTN. Current BP at home are normal
+
+過去病史：
+Hx of Graves'dis Tx for 2 yrs
+
+過敏史：
+
+
+目前用藥：
+micardis
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓、心臟病、糖尿病、腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0 分(0分或無法表達之病人，以下請填NA)
+2.疼痛區間：NA 
+3.疼痛部位：n/a
+
+身體檢查：
+BP 120/90 
+Assessment 
+hypertension 
+Plan 
+初始治療計劃：
+freeT4,hsTSH,,HbA1C, coronary CT(cash) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/03/12 已確認 已批 黃天祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2015/03/12 執行、已批 Specimen:BLO
+完成：2015/03/12
+ 黃天祥 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/03/12 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/03/12
+ 黃天祥 
+檢驗 09006C0P HbA1c 1  N 2015/03/12 執行、已批 Specimen:BLO
+完成：2015/03/12
+ 黃天祥 
+檢驗 09015CZP Creatinine (Blood) 1 自費 N 2015/03/12 執行、已批 Specimen:BLO
+完成：2015/03/12
+ 黃天祥 
+影醫 000M4008 Coronary CT Angiography(自費) 1 自費 N 2015/03/12 執行、已批 Indication:Pain (please specify location)
+完成：2015/04/01
+ 黃天祥 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HTN noteed last Nov.He visitedLMD where AC 108,CHO 207,HDL 40, LDL147, GOT 24,K 4.7 URIC ACID 6.9,Cr 0.9
+
+現病史：
+hE WAS TREATED WITH MICARDIS ,but still occassional HTN. Current BP at home are normal
+
+過去病史：
+Hx of Graves'dis Tx for 2 yrs
+
+過敏史：
+
+
+目前用藥：
+micardis
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓、心臟病、糖尿病、腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+【20150401】Coronary CT Angiography(自費) :Coronary artery: Patent.
+Ventricular function: Normal. 
+心臟冠狀動脈總鈣化積分(Agatston score): 0 
+冠狀動脈管腔直徑變化狀況：無異常發現 
+左心室功能：無異常發現
+【20150312】hsTSH(CIA): 0.907   μIU/mL
+【20150312】Free T4(CIA): 1.24   ng/dL
+【20150312】HbA1c: 5.8   %
+【20150312】CRE: 0.8   mg/dL
+BP 120/86 
+Assessment 
+hypertension 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/09 已確認 已批 黃天祥 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V70.0 Health examination  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2015/07/02 執行、已批 完成：2015/07/02
+ 章浩宏 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HTN noteed last Nov.He visitedLMD where AC 108,CHO 207,HDL 40, LDL147, GOT 24,K 4.7 URIC ACID 6.9,Cr 0.9
+
+現病史：
+hE WAS TREATED WITH MICARDIS ,but still occassional HTN. Current BP at home are normal
+
+過去病史：
+Hx of Graves'dis Tx for 2 yrs
+
+過敏史：
+
+
+目前用藥：
+micardis
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓、心臟病、糖尿病、腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+【20150401】Coronary CT Angiography(自費) :Coronary artery: Patent.
+Ventricular function: Normal. 
+心臟冠狀動脈總鈣化積分(Agatston score): 0 
+冠狀動脈管腔直徑變化狀況：無異常發現 
+左心室功能：無異常發現
+【20150312】hsTSH(CIA): 0.907   μIU/mL
+【20150312】Free T4(CIA): 1.24   ng/dL
+【20150312】HbA1c: 5.8   %
+【20150312】CRE: 0.8   mg/dL
+BP 120/80 
+Assessment 
+hypertension 
+Plan 
+CHO,LDL,TG,GOT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/02 已確認 已批 黃天祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/07/02 執行、已批 Specimen:BLO
+完成：2015/07/02
+ 黃天祥 
+檢驗 09044C0P LDL 1  N 2015/07/02 執行、已批 Specimen:BLO
+完成：2015/07/02
+ 黃天祥 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/07/02 執行、已批 Specimen:BLO
+完成：2015/07/02
+ 黃天祥 
+檢驗 09025CZP AST(GOT) 1  N 2015/07/02 執行、已批 Specimen:BLO
+完成：2015/07/02
+ 黃天祥 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HTN noteed last Nov.He visitedLMD where AC 108,CHO 207,HDL 40, LDL147, GOT 24,K 4.7 URIC ACID 6.9,Cr 0.9
+
+現病史：
+hE WAS TREATED WITH MICARDIS ,but still occassional HTN. Current BP at home are normal
+
+過去病史：
+Hx of Graves'dis Tx for 2 yrs
+
+過敏史：
+
+
+目前用藥：
+micardis
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓、心臟病、糖尿病、腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+【20150702】LDL-C: 128   mg/dL
+【20150702】AST: 22   U/L
+【20150702】TG: 96   mg/dL
+【20150702】T-CHO: 189   mg/dL
+BP 110/80 
+Assessment 
+hypertension 
+Plan 
+TG.HDL,K 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/24 已確認 已批 黃天祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/09/24
+ 黃天祥 
+檢驗 09043C0P HDL 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/09/24
+ 黃天祥 
+檢驗 09022CZP Potassium, K 1  N 2015/09/24 執行、已批 Specimen:BLO
+完成：2015/09/24
+ 黃天祥 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HTN noteed last Nov.He visitedLMD where AC 108,CHO 207,HDL 40, LDL147, GOT 24,K 4.7 URIC ACID 6.9,Cr 0.9
+
+現病史：
+hE WAS TREATED WITH MICARDIS ,but still occassional HTN. Current BP at home are normal
+
+過去病史：
+Hx of Graves'dis Tx for 2 yrs
+
+過敏史：
+
+
+目前用藥：
+micardis
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓、心臟病、糖尿病、腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+【20150924】HDL-C: 43   mg/dL
+【20150924】K: 4.2   mmol/L
+【20150924】TG: 75   mg/dL
+【20150702】LDL-C: 128   mg/dL
+【20150702】AST: 22   U/L
+【20150702】TG: 96   mg/dL
+【20150702】T-CHO: 189   mg/dL
+BP 110/80 
+Assessment 
+hypertension 
+Plan 
+RTC 11 WK 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/17 已確認 已批 黃天祥 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HTN noteed last Nov.He visitedLMD where AC 108,CHO 207,HDL 40, LDL147, GOT 24,K 4.7 URIC ACID 6.9,Cr 0.9
+
+現病史：
+hE WAS TREATED WITH MICARDIS ,but still occassional HTN. Current BP at home are normal
+
+過去病史：
+Hx of Graves'dis Tx for 2 yrs
+
+過敏史：
+
+
+目前用藥：
+micardis
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓、心臟病、糖尿病、腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+【20150924】HDL-C: 43   mg/dL
+【20150924】K: 4.2   mmol/L
+【20150924】TG: 75   mg/dL
+【20150702】LDL-C: 128   mg/dL
+【20150702】AST: 22   U/L
+【20150702】TG: 96   mg/dL
+【20150702】T-CHO: 189   mg/dL
+BP 120/86 
+Assessment 
+hypertension 
+Plan 
+RTC 13 WK freeT4,hsTSH 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/03 已確認 已批 黃天祥 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2016/03/03 執行、已批 Specimen:BLO
+完成：2016/03/03
+ 黃天祥 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2016/03/03 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/03/03
+ 黃天祥 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+HTN noteed last Nov.He visitedLMD where AC 108,CHO 207,HDL 40, LDL147, GOT 24,K 4.7 URIC ACID 6.9,Cr 0.9
+
+現病史：
+hE WAS TREATED WITH MICARDIS ,but still occassional HTN. Current BP at home are normal
+
+過去病史：
+Hx of Graves'dis Tx for 2 yrs
+
+過敏史：
+
+
+目前用藥：
+micardis
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓、心臟病、糖尿病、腦中風
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+chest pain 
+Objective 
+【20160303】hsTSH(CIA): 2.19   μIU/mL
+【20160303】Free T4(CIA): 1.06   ng/dL
+【20150924】HDL-C: 43   mg/dL
+【20150924】K: 4.2   mmol/L
+【20150924】TG: 75   mg/dL
+【20150702】LDL-C: 128   mg/dL
+【20150702】AST: 22   U/L
+【20150702】TG: 96   mg/dL
+【20150702】T-CHO: 189   mg/dL
+BP 130/86 
+Assessment 
+hypertension 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/06/02 已確認 已批 黃天祥  
+PARAMOL 500 mg/tab 1 tab TID PO 5 15 tab 健保  2016/06/02 已確認 已批 黃天祥 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼  陽性轉診院所電話(轉他院者必填) 格式:(02)23123456#61234 教育程度 專科,大學 
+父母、兄弟姐妹或子女有無得過大腸直腸癌? 無 父母、兄弟姐妹或子女有無得過其他癌症? 無 請問您有無腸道不適症狀?如腹瀉、便秘、糞便便稠、排泄黏液、便血或黃便帶血等 無 
+檢驗定量試劑 Eiken     
+篩檢陽性個案是否轉他院確診      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 00008500 定量免疫法糞便潛血檢查(50歲以上至未滿75歲者每2年1次) 1  N 2016/06/17 執行、已批 Specimen:STO
+完成：2016/06/24
+ 盧佳文 
+醫材 20053801 iFOBT糞便潛血採集管 1 自費 N 2016/06/17 執行、已批 完成：2016/06/17
+ 張文瓅 
+ 
+ 
+
+Subjective 
+PIGMENTED MACULES ON BOTH ARMS 
+Objective 
+ECZEMA VULGARIS 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M L30.9 Eczema, chronic 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Salic Oint 2.5% 10 g/tube 1 XX BID D 7 1 tube 自費  2016/06/24 已確認 已批 許郡安  
+Dermovate Oint 0.05% 25 g/tube 1 XX BID D 7 1 tube 健保  2016/06/24 已確認 已批 許郡安 
+ 

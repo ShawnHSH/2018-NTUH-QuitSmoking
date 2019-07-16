@@ -1,0 +1,951 @@
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-) 
+Plan 
+AC sugar HbA1C BCS Mg K Ca
+Treadmill EKG
+Cardiac echo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保  2014/11/19 已確認 已批 周迺寬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09006C0P HbA1c 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09038CZP Alb(Albumin) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09027CZP ALP 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09030CZP BIL-D(DIRECT BILIRUBIN) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09002CZP BUN 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09011CZP Calcium, Ca 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09001CZP CHOLESTEROL 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09015CZP Creatinine(Blood) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09031CZP GAMA-GT 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09025CZP GOT 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09026CZP GPT 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09043C0P HDL 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09044C0P LDL 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09046BZP Magnesium, Mg 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09022CZP Potassium, K 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09029CZP T BIL 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09040CZP Total Protein (Blood) 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢驗 09013CZP Uric acid 1  N 2014/11/19 執行、已批 Specimen:BLO
+完成：2014/12/04
+ 周迺寬 
+檢查 18015B0S Treadmill Exercise ECG-複次階段運動心電圖 1  N 2014/11/19 執行、已批 Indications for treadmill exercise test:.
+完成：2014/12/22
+ 周迺寬 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2014/11/19 執行、已批 完成：2014/12/22
+ 周迺寬 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2014/11/19 執行、已批 完成：2014/12/22
+ 周迺寬 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2014/11/19 執行、已批 完成：2014/12/22
+ 周迺寬 
+ 
+
+Subjective 
+主要病史來源：病人
+
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-) 
+Plan 
+thallium treadmill test 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保  2014/12/31 已確認 已批 周迺寬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+核醫 000TP132 Treadmill & Resting 1  N 2014/12/31 執行、已批 完成：2015/01/22
+ 周迺寬 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2014/12/31 執行、已批 完成：2015/01/22
+ 周迺寬 
+ 
+
+Subjective 
+主要病史來源：病人
+Post-stress = 43%, rest = 51%
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/28 已確認 已批 周迺寬  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/01/28 已確認 已批 周迺寬  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 25 1 btl 健保  2015/01/28 已確認 已批 周迺寬  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/01/28 已確認 已批 周迺寬 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/11 已確認 已批 彭婉柔  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/02/11 已確認 已批 彭婉柔  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/02/11 已確認 已批 彭婉柔  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/25 已確認 已批 謝欣妤  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/03/25 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/03/25 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+主要病史來源：病人
+Post-stress = 43%, rest = 51%
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+主要病史來源：病人
+
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-)
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-) 
+Plan 
+Cardiac echo
+proBNP 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/22 已確認 已批 周迺寬  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/04/22 已確認 已批 周迺寬  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/04/22 已確認 已批 周迺寬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09006C0P HbA1c 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09002CZP BUN 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09011CZP Calcium, Ca 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09001CZP CHOLESTEROL 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09025CZP GOT 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09026CZP GPT 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09043C0P HDL 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09044C0P LDL 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09046BZP Magnesium, Mg 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09022CZP Potassium, K 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 09013CZP Uric acid 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢驗 12193B00 BNP(Pro-BNP)(STAT)(急) 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/09
+ 周迺寬 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2015/04/22 執行、已批 完成：2015/07/09
+ 周迺寬 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2015/04/22 執行、已批 完成：2015/07/09
+ 周迺寬 
+治療 18006B0S U.C.G. (DOPPLER) 1  N 2015/04/22 執行、已批 完成：2015/07/09
+ 周迺寬 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/20 已確認 已批 宋美雯  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/20 已確認 已批 宋美雯  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/05/20 已確認 已批 宋美雯 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/17 已確認 已批 謝欣妤  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/06/17 已確認 已批 謝欣妤  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/06/17 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+主要病史來源：病人
+Post-stress = 43%, rest = 51%
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+主要病史來源：病人
+
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-)
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/15 已確認 已批 周迺寬  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/07/15 已確認 已批 周迺寬  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/07/15 已確認 已批 周迺寬 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/15 已確認 已批 蘇盈妃  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/08/15 已確認 已批 蘇盈妃  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/08/15 已確認 已批 蘇盈妃 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/11 已確認 已批 劉秋蘭  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/11 已確認 已批 劉秋蘭  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/09/11 已確認 已批 劉秋蘭 
+ 
+
+Subjective 
+主要病史來源：病人
+Post-stress = 43%, rest = 51%
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+主要病史來源：病人
+
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-)
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/08 已確認 已批 周迺寬 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/08 已確認 已批 周迺寬 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/10/08 已確認 已批 周迺寬 重複原因:醫師停診(抽審時需舉證並延後回診) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/11/05 已確認 已批 沈玉琴  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/05 已確認 已批 沈玉琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/11/05 已確認 已批 沈玉琴 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1.25 Concor 1.25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/12/04 已確認 已批 沈玉琴  
+Sigmart 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/12/04 已確認 已批 沈玉琴  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保 3 2015/12/04 已確認 已批 沈玉琴 
+ 
+
+Subjective 
+主要病史來源：病人
+Post-stress = 43%, rest = 51%
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+主要病史來源：病人
+
+主訴：
+chest pain
+
+現病史：
+chest pain for one month
+
+過去病史：
+NA
+
+過敏史：
+
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：有
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-)
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+NBP 121/84 HR 91
+HEENT
+Scalp: no visible trauma, no deformity, 
+Eye: Pupils: isocoric and both reactive promptly, + / +, 2mm / 2mm
+Conjunctiva: pink Sclera: anicteric
+Ear: no low-set ear, no deformity
+Nose: no rhinorrhea, no deformity
+Oral cavity: oral thrush (-), oral ulcer (-), tonsillar enlargement (-), gum bleeding (-)
+Neck Jugular vein engorgement: negative
+Thyroid goiter: negative
+Carotid bruit: negative
+Lymphadenopathy: no palpable
+Chest Symmetric expansion, no retraction, no deformity
+Breathe sound: clear
+Heart Heart beat: regular
+Murmur: negative
+Abd. Bowel sound: hypo active
+Palpation: distended, no tenderness, no rebound pain
+RUQ tenderness, no rebounding tenderness
+Liver and spleen: impalpable 
+Back no costo-vertebral angle tenderness
+Skin Abnormal pigmentation: negative
+Petechiae (-), Ecchymoses(-), Purpurae(-) Tenlagiectasia(-), 
+Rash(-) Plaque(-) Wound(-) Ulcer(-) 
+Plan 
+thallium scan dipyridamole 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.00 Coronary atherosclerosis, coronary artery disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/12/30 已確認 已批 周迺寬 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+Aprovel FC 150 mg/tab 1 tab QD PO 28 28 tab 健保  2015/12/30 已確認 已批 周迺寬  
+Nitrostat Sublingual 0.6 mg/1 tab 25 tab/btl 1 tab PRN SL 25 1 btl 健保  2015/12/30 已確認 已批 周迺寬  
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 28 cap 健保  2015/12/30 已確認 已批 周迺寬 重複原因:醫師停診(抽審時需舉證並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09044C0P LDL 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09046BZP Magnesium, Mg 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09022CZP Potassium, K 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09004CZP TRIGLYCERIDE 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09013CZP Uric acid 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09006C0P HbA1c 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09002CZP BUN 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09011CZP Calcium, Ca 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09001CZP CHOLESTEROL 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09025CZP GOT 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09026CZP GPT 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 09043C0P HDL 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+檢驗 12193B00 BNP(Pro-BNP)(STAT)(急) 1  N 2015/12/30 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 周迺寬 
+ 
+核醫 000TP135 Dipyridamole & Resting 1  N 2015/12/30 執行、已批 完成：2016/01/26
+ 周迺寬 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2015/12/30 執行、已批 完成：2016/01/26
+ 周迺寬 

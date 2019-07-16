@@ -1,0 +1,1241 @@
+
+Subjective 
+BV(os>od) RD s/p op (os) 12yrs go in Cathay H, no improvement after Tear Nature, DR ERM (os) for f/u
+DM+ HTN- CAD+ 
+Objective 
+Cornea: clear (ou)
+Conj: mildly injected (ou)
+AC: d/clear (ou)
+Lens: mild NS (od) mild NS (os)
+C/D: 40%(od) 50%(os)
+Fundus: no DR (od) mild NPDR, ERM, peripheral retinal scar at 1.5oc (os)
+OCT 2014-97: fovea ok (od) ERM with flat fovea, CRT414 (os)
+CVA 2015-1: 0.5/0.5
+Suggest PG for computer, Refresh Lutein 
+Plan 
+f/u6m CVA IOP m (ou) OCT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.56 Macular pucker, Epiretinal membrane 慢  
+O 362.01 Background diabetic retinopathy 慢 複  
+O 375.15 Dry eye 慢  
+ 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/01/26 執行、已批 完成：2015/01/26
+ 謝易庭 
+治療 23702C00 間接式眼底鏡檢查 1  N 2015/01/26 執行、已批 完成：2015/01/26
+ 謝易庭 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. 
+Objective 
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: <5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80  mmHg 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 3 months; self use Glucophage; suggest refer back to Dr. Huang. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 789.06 Epigastralgia  
+O 401.9 Hypertension 慢  
+O 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/28 已確認 已批 呂金盈  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/28 已確認 已批 呂金盈  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/28 已確認 已批 呂金盈  
+Ismo-20 20 mg/tab 1/2 tab BID PO 28 28 tab 健保 3 2015/01/28 已確認 已批 呂金盈  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/28 已確認 已批 呂金盈 用藥原因:A.置放金屬支架3個月內得與aspirin合併使用，放置支架(stent)之日期為 2015/01/28
+ 
+脂 Crestor 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/28 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/01/28 已確認 已批 呂金盈  
+警 Levemir FlexPen 300 U/3 mL /pen 25 U ASORDER SC 28 7 pen 自費  2015/01/28 已確認 已批 呂金盈 用藥原因:6) T2DM Patients：Insulin-treated patients. Patient A1C < 8% but have been exprienced ≧2 episode of hypoglycaemia/month
+ 
+Victoza 6 mg/1 mL 3 mL/pen 1.8 mg QD SC 28 3 pen 健保 3 2015/01/28 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/28 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/01/27 執行、已批 Specimen:BLO
+完成：2015/04/21
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/01/27 執行、已批 Specimen:BLO
+完成：2015/04/21
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/01/27 執行、已批 Specimen:BLO
+完成：2015/04/21 
+ 
+治療 000Z3028 COPY FOR EXAMINIZATION REPORT<10 1 自費 N 2015/01/28 執行、已批 完成：2015/01/28 
+
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. 
+Objective 
+【20150421】GLU AC: 66   mg/dL  GLU 2hr PC: 134   mg/dL
+【20150421】HbA1c: 7.1   %
+
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: <5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70  mmHg 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 3 months; self use Glucophage; suggest refer back to Dr. Huang. Self use Norvasc 1# qd; 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 401.9 Hypertension 慢  
+O 789.06 Epigastralgia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/22 已確認 已批 呂金盈  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/22 已確認 已批 呂金盈  
+Ismo-20 20 mg/tab 1/2 tab BID PO 28 28 tab 健保 3 2015/04/22 已確認 已批 呂金盈  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/22 已確認 已批 呂金盈 用藥原因:A.置放金屬支架3個月內得與aspirin合併使用，放置支架(stent)之日期為 2015/01/28
+ 
+脂 Crestor 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/22 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/04/22 已確認 已批 呂金盈  
+警 Levemir FlexPen 300 U/3 mL /pen 25 U ASORDER SC 28 5 pen 自費  2015/04/22 已確認 已批 呂金盈 用藥原因:6) T2DM Patients：Insulin-treated patients. Patient A1C < 8% but have been exprienced ≧2 episode of hypoglycaemia/month
+ 
+Victoza 6 mg/1 mL 3 mL/pen 1.8 mg QD SC 28 3 pen 健保 3 2015/04/22 已確認 已批 呂金盈  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/04/22 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/22 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09013CZP Uric acid 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/04/22 執行、已批 Specimen:BLO
+完成：2015/07/14
+ 呂金盈 
+ 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage.
+No angina 
+Objective 
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70  mmHg
+132/72 mmHg
+heart: RHB, no murmur
+
+ECG: 1st degree AV block, susp old inferior wall MI
+TXT: borderline, V4, V5 -1.1 mm 
+Plan 
+ECG, TXT stat
+Oct 19 PM clinic 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 789.06 Epigastralgia  
+O 401.9 Hypertension 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/13 已確認 已批 黃瑞仁  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/13 已確認 已批 黃瑞仁  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/13 已確認 已批 黃瑞仁  
+Ismo-20 20 mg/tab 1/2 tab BID PO 28 28 tab 健保 3 2015/07/13 已確認 已批 黃瑞仁  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/13 已確認 已批 黃瑞仁 用藥原因:近期發生中風，心肌梗塞或週邊動脈血管的粥狀動脈硬化者，且G. 臨床確診為aspirin所導致之消化性潰瘍或上消化道出血，穿孔者．發生時間102年3月14日
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0J [金山]一般心電圖檢查 1  Y 2015/07/13 執行、已批 Specimen:ECG
+完成：2015/07/13
+ 黃瑞仁 
+檢查 18015B0S [金山]Treadmill Exercise ECG-複次階段運動心電圖 1  Y 2015/07/13 執行、已批 Indications for treadmill exercise test:Diagnosis of CAD
+完成：2015/08/19
+ 黃瑞仁 
+ 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. 
+Objective 
+【20150714】LDL-C: 61   mg/dL  CK: 85   U/L  ALT: 16   U/L  CRE: 1.0   mg/dL  UA: 6.0   mg/dL  GLU AC: 103   mg/dL  GLU 2hr PC: 164   mg/dL  TG: 102   mg/dL
+
+【20150421】GLU AC: 66   mg/dL  GLU 2hr PC: 134   mg/dL
+【20150421】HbA1c: 7.1   %
+
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: <5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70-> 142/90  mmHg 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 3 months; self use Glucophage; suggest refer back to Dr. Huang. Self use Norvasc 1# qd; Concor, Olmetec, Ismo-20 and Plavix 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 789.06 Epigastralgia  
+O 401.9 Hypertension 慢  
+O 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/15 已確認 已批 呂金盈 用藥原因:LDL-C: 73 (2015/01/26)
+ 
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/07/15 已確認 已批 呂金盈  
+警 Levemir FlexPen 300 U/3 mL /pen 25 U ASORDER SC 28 5 pen 自費  2015/07/15 已確認 已批 呂金盈 用藥原因:6) T2DM Patients：Insulin-treated patients. Patient A1C < 8% but have been exprienced ≧2 episode of hypoglycaemia/month
+ 
+Victoza 6 mg/1 mL 3 mL/pen 1.8 mg QD SC 28 3 pen 健保 3 2015/07/15 已確認 已批 呂金盈  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2015/07/15 已確認 已批 呂金盈  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 3 2015/07/15 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 15 15 tab 自費  2015/07/15 已確認 已批 呂金盈 重複原因:自費買藥
+ 
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/15 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage.
+No angina
+Low back soreness and pain 
+Objective 
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70  mmHg
+162/78 mmHg
+heart: RHB, no murmur
+
+ECG: 1st degree AV block, susp old inferior wall MI
+TXT: borderline, V4, V5 -1.1 mm
+
+L-S spine AP & lat: spur information>>>rehabilitation 
+Plan 
+L-S spine AP & lat stat
+13 week
+
+Oct 19 PM clinic 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 401.9 Hypertension 慢  
+O 789.06 Epigastralgia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/19 已確認 已批 黃瑞仁 重複原因:病人因素 (補給天數並延後回診)
+ 
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/19 已確認 已批 黃瑞仁 重複原因:病人因素 (補給天數並延後回診)
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/19 已確認 已批 黃瑞仁 重複原因:病人因素 (補給天數並延後回診)
+ 
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/19 已確認 已批 黃瑞仁 重複原因:病人因素 (補給天數並延後回診)
+ 
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/19 已確認 已批 黃瑞仁 重複原因:病人因素 (補給天數並延後回診)
+用藥原因:G.臨床確診為aspirin所導致之消化性潰瘍或上消化道出血，穿孔者．發生時間 2015/10/19
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP090 Spine: Lumbosacral AP, LAT. 1  Y 2015/10/19 執行、已批 小部位:.
+完成：2015/10/19
+ 黃瑞仁 
+ 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. 
+Objective 
+【20151020】HbA1c: 8.1   %
+【20151019】GLU AC: 146   mg/dL  GLU 2hr PC: 257   mg/dL
+
+【20150714】HbA1c: 6.6   %
+【20150714】LDL-C: 61   mg/dL  CK: 85   U/L  ALT: 16   U/L  CRE: 1.0   mg/dL  UA: 6.0   mg/dL  GLU AC: 103   mg/dL  GLU 2hr PC: 164   mg/dL  TG: 102   mg/dL
+
+【20150421】GLU AC: 66   mg/dL  GLU 2hr PC: 134   mg/dL
+【20150421】HbA1c: 7.1   %
+
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: <5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70-> 142/90 -> 138/69 mmHg 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 3 months; self use Glucophage; suggest refer back to Dr. Huang. Self use Norvasc 1# qd; Concor, Olmetec, Ismo-20 and Plavix, next time 92 kg 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+O 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 401.9 Hypertension 慢  
+O 789.06 Epigastralgia  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/21 已確認 已批 呂金盈 用藥原因:LDL-C: 61 (2015/07/14)
+ 
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 3 2015/10/21 已確認 已批 呂金盈  
+警 Lantus SoloStar 300 U/3 mL /pen 30 IU HS SC 84 9 pen 自費  2015/10/21 已確認 已批 呂金盈 用藥原因:5) T2DM Patients：Insulin-treated patients. A1C ≧8% currently
+ 
+Victoza 6 mg/1 mL 3 mL/pen 1.2 mg QD SC 28 2 pen 健保 3 2015/10/21 已確認 已批 呂金盈  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 3 2015/10/21 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/21 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09015CZP (Blood)Creatinine 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09043C0P HDL 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2015/10/19 執行、已批 Specimen:BLO
+完成：2016/01/19
+ 呂金盈 
+ 
+
+Subjective 
+low back pain, intermittent claudication 
+Objective 
+【20151019】Spine: Lumbosacral AP, LAT. :EXAMINATION: Spine: Lumbosacral AP, LAT.
+FINDINGS:
+Scoliosis. Marginal spur formation at multiple levels. Mild retrolisthesis at L2-3-4-5. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 738.4 Spondylolisthesis, acquired 
+ 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage.
+No angina
+Low back soreness and pain 
+Objective 
+BP 132/80 --> 136/88 --> 122/80--> 126/78   mmHg
+162/78 mmHg
+heart: RHB, no murmur
+
+ECG: 1st degree AV block, susp old inferior wall MI
+TXT: borderline, V4, V5 -1.1 mm
+
+L-S spine AP & lat: spur information>>>rehabilitation 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/18 已確認 已批 黃瑞仁  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/18 已確認 已批 黃瑞仁  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/18 已確認 已批 黃瑞仁  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/01/18 已確認 已批 黃瑞仁  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/18 已確認 已批 黃瑞仁 用藥原因:G.臨床確診為aspirin所導致之消化性潰瘍或上消化道出血，穿孔者．發生時間 2015/10/19 
+ 
+
+Subjective 
+BV os>od recently for 6 months 
+
+RD s/p op (os) 12yrs go in Cathay H, 
+DR ERM (os) for f/u
+DM+ HTN- CAD+ 
+Objective 
+OCT 2014-97: fovea ok (od) ERM with flat fovea, CRT414 (os)
+CVA 2015-1: 0.5/0.5 
+Plan 
+OPD f/u 6 months 
+BCVA, IOP,M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H26.9 Cataract  
+M H35.379 Macular pucker, Epiretinal membrane, unspecified side 慢  
+O H04.129 Dry eye, unspecified side 慢  
+O E11.329 Background diabetic retinopathy, nonproliferative 慢 複 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt BID OU 28 1 btl 健保  2016/01/19 已確認 已批 傅柏元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/01/19 執行、已批 完成：2016/01/19
+ 傅柏元 
+ 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. 
+Objective 
+【20160119】HbA1c: 7.1   % LDL-C: 52   mg/dL  HDL-C: 37   mg/dL  CK: 107   U/L  ALT: 17   U/L  CRE: 1.0   mg/dL  GLU AC: 65   mg/dL  GLU 2hr PC: 256   mg/dL  T-CHO: 96   mg/dL
+
+【20151020】HbA1c: 8.1   %
+【20151019】GLU AC: 146   mg/dL  GLU 2hr PC: 257   mg/dL
+
+【20150714】HbA1c: 6.6   %
+【20150714】LDL-C: 61   mg/dL  CK: 85   U/L  ALT: 16   U/L  CRE: 1.0   mg/dL  UA: 6.0   mg/dL  GLU AC: 103   mg/dL  GLU 2hr PC: 164   mg/dL  TG: 102   mg/dL
+
+【20150421】GLU AC: 66   mg/dL  GLU 2hr PC: 134   mg/dL
+【20150421】HbA1c: 7.1   %
+
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: <5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70-> 142/90 -> 138/69 -> 126/68 mmHg; PR 90/min 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 3 months; self use Glucophage; suggest refer back to Dr. Huang. Self use Norvasc 1# qd; Concor, Olmetec, Ismo-20 and Plavix, next time 92 kg 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 3 2016/01/20 已確認 已批 呂金盈 用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂)
+ 
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 3 2016/01/20 已確認 已批 呂金盈  
+警 Lantus SoloStar 300 U/3 mL /pen 30 IU HS SC 84 9 pen 自費  2016/01/20 已確認 已批 呂金盈 用藥原因:5) T2DM Patients：Insulin-treated patients. A1C ≧8% currently
+ 
+Victoza 6 mg/1 mL 3 mL/pen 1.2 mg QD SC 28 2 pen 健保 3 2016/01/20 已確認 已批 呂金盈  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 3 2016/01/20 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/20 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/11
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/11
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/04/11
+ 呂金盈 
+ 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. 
+Objective 
+【20160412】HbA1c: 7.6   %
+【20160411】GLU AC: 79   mg/dL  GLU 2hr PC: 236   mg/dL
+
+【20160119】HbA1c: 7.1   % LDL-C: 52   mg/dL  HDL-C: 37   mg/dL  CK: 107   U/L  ALT: 17   U/L  CRE: 1.0   mg/dL  GLU AC: 65   mg/dL  GLU 2hr PC: 256   mg/dL  T-CHO: 96   mg/dL
+
+【20151020】HbA1c: 8.1   %
+【20151019】GLU AC: 146   mg/dL  GLU 2hr PC: 257   mg/dL
+
+【20150714】HbA1c: 6.6   %
+【20150714】LDL-C: 61   mg/dL  CK: 85   U/L  ALT: 16   U/L  CRE: 1.0   mg/dL  UA: 6.0   mg/dL  GLU AC: 103   mg/dL  GLU 2hr PC: 164   mg/dL  TG: 102   mg/dL
+
+【20150421】GLU AC: 66   mg/dL  GLU 2hr PC: 134   mg/dL
+【20150421】HbA1c: 7.1   %
+
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: <5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70-> 142/90 -> 138/69 -> 126/68 -> 144/73 mmHg; PR 90/min 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 3 months; self use Glucophage; suggest refer back to Dr. Huang. Self use Norvasc 1# qd; Concor, Olmetec, Ismo-20 and Plavix, next time 92 kg 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O I10 Hypertension 慢  
+O R10.13 Epigastralgia 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 3 2016/04/13 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 3 2016/04/13 已確認 已批 呂金盈  
+警 Lantus SoloStar 300 U/3 mL /pen 30 IU HS SC 28 3 pen 自費  2016/04/13 已確認 已批 呂金盈 特殊醫囑:With Titration 
+用藥原因:6) T2DM Patients：Insulin-treated patients. Patient A1C < 8% but have been exprienced ≧2 episode of hypoglycaemia/month
+ 
+Victoza 6 mg/1 mL 3 mL/pen 1.2 mg QD SC 28 2 pen 健保 3 2016/04/13 已確認 已批 呂金盈 特殊醫囑:With Titration 
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 3 2016/04/13 已確認 已批 呂金盈  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 3 2016/04/13 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/13 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP (Blood)Creatinine 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09013CZP Uric acid 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+檢驗 09032CZP Creatine Kinase, CK 1  N 2016/04/13 執行、已批 Specimen:BLO
+完成：2016/08/18
+ 呂金盈 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+O I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 黃瑞仁  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 黃瑞仁  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 黃瑞仁  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 3 2016/04/14 已確認 已批 黃瑞仁  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/04/14 已確認 已批 黃瑞仁 用藥原因:近期發生中風，心肌梗塞或週邊動脈血管的粥狀動脈硬化者，且G. 臨床確診為aspirin所導致之消化性潰瘍或上消化道出血，穿孔者．發生時間2015年10月19日 
+ 
+
+Subjective 
+Bilateral leg numbness (left more severe) after walking, relieved after rest, for several months
+在上海工作
+Low back pain VAS: 5 at max 
+Objective 
+intermittent claudication
+no pain at night
+no weakness
+no sphincter incontinence
+
+【20151019】Spine: Lumbosacral AP, LAT.
+Scoliosis. Marginal spur formation at multiple levels. Mild retrolisthesis at L2-3-4-5.
+
+【20160525】CT Without Contrast-L Spine :lumbar spondylosis; recommend clinical correlation.
+
+2016/5/27
+These findings are compatible with a left L5/S1 radiculopathy. There is no electrophysiological evidence of active denervation. Clinical correlation is recommended. 
+Plan 
+MSUS for caudal injection (6/21)
+RTC 6/22
+Explain pros and cons of caudal injection
+病人暫不想開刀 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M48.00 Spinal stenosis 慢  
+O M43.10 Spondylolisthesis, acquired 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 19005BJN 體表軟組織超音波檢查(復健部) 1  N 2016/06/01 執行、已批 連絡電話:0952083193
+檢查部位:MSUS for caudal injection (6/21)
+完成：2016/06/21
+ 吳爵宏 
+ 
+
+Subjective 
+Recurrent chest pain for 3 days with dyspnea, no radiation, no sweating
+smoking: 1 PPD 
+Objective 
+heart: RHB, no murmur
+CXR: slightly increased pulmonary infiltration at both hilum
+ECG: NSR
+spirometry: Mild COPD 
+Plan 
+CXR (PA), ECG, spirometry stat 
+256 cut MDCT coronary angiography (self-paid)
+1 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O R06.00 Dyspnea 慢  
+O J44.9 Chronic obstructive pulmonary disease 慢 職  
+M I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 17003C0J [金山]簡單肺功能檢查 1  Y 2016/06/20 執行、已批 Specimen:NON
+完成：2016/06/20
+ 黃瑞仁 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/06/21 執行、已批 Specimen:BLO
+完成：2016/06/21
+ 林美伶 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/06/20 執行、已批 完成：2016/06/20
+ 黃瑞仁 
+影醫 000M4008 Coronary CT Angiography(自費) 1 自費 N 2016/06/20 執行、已批 Indication:Follow up
+完成：2016/06/24
+ 黃瑞仁 
+檢查 18001C0J [金山]一般心電圖檢查 1  Y 2016/06/20 執行、已批 完成：2016/06/20
+ 黃瑞仁 
+ 
+
+Subjective 
+Bilateral leg numbness (left more severe) after walking, relieved after rest, for several months
+在上海工作
+Low back pain VAS: 5 at max
+
+Morning back pain for one year (lasting for 1 hr)
+下週出國兩個月 
+Objective 
+intermittent claudication
+no pain at night
+no weakness
+no sphincter incontinence
+
+【20151019】Spine: Lumbosacral AP, LAT.
+Scoliosis. Marginal spur formation at multiple levels. Mild retrolisthesis at L2-3-4-5.
+
+【20160525】CT Without Contrast-L Spine :lumbar spondylosis; recommend clinical correlation.
+
+2016/5/27
+These findings are compatible with a left L5/S1 radiculopathy. There is no electrophysiological evidence of active denervation. Clinical correlation is recommended.
+
+【20160621】CRE: 1.1   mg/dL
+
+【20160621】Soft Tissue Echo for PMR :Due to narrow sacral hiatus and symptomless now, injection was not performed after discussing with the patient. 
+Plan 
+Medication
+病人暫不想開刀
+連處至105.8.17 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O M48.00 Spinal stenosis 慢  
+O M43.10 Spondylolisthesis, acquired 慢  
+M M47.816 Lumbar spondylosis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+CELEBREX 200 mg/cap 1 cap QN PO 28 28 cap 健保 2 2016/06/22 已確認 已批 吳爵宏 用藥原因:A.年齡大於等於六十歲之骨關節炎病患。 
+ 
+
+Subjective 
+Recurrent chest pain for 3 days with dyspnea, no radiation, no sweating
+smoking: 1 PPD 
+Objective 
+heart: RHB, no murmur
+CXR: slightly increased pulmonary infiltration at both hilum
+ECG: NSR
+spirometry: Mild COPD
+【20160624】Coronary CT Angiography(自費) :Agatston score: 361.2 (Moderate atherosclerotic plaque burden, stent excluded) 
+Coronary artery: Status post stenting in LM, mLAD, and pCx without significant in-stent restenosis. Status post stenting in pRCA with mild in-stent restenosis (<50%). Moderate (50%-69%) stenosis in mLAD distal to the stent with partially calcified plaques. Severe (70%-99%) stenosis in proximal D1 with non-calcified plaques. 
+Ventricular function: Normal. 
+CAD-RADS: 4A/S
+心臟冠狀動脈總鈣化積分: 361.2
+冠狀動脈管腔直徑變化狀況：冠狀動脈支架置放於左冠狀動脈主幹、左前下行支、左迴旋支及右冠狀動脈，無嚴重再狹窄。中度狹窄(50%-69%)於左前下行支中段。嚴重狹窄(70%-99%)於左前下行支第一分支近端。
+左心室功能：無異常發現 
+建議心臟科診追蹤及進一步處置。
+【20160620】FEV1/FVC: 68.61   %
+【20160620】[金山]FVC%: 97.3   %
+【20160620】[金山]FVC: 3.86   L
+【20160620】[金山]FEV1%: 86   %
+【20160620】[金山]FEV1: 2.65   L 
+Plan 
+Cath is indicated and scheduled on 2016-08-19. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+O R06.00 Dyspnea 慢  
+O J44.9 Chronic obstructive pulmonary disease 慢 職  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M47.816 Lumbar spondylosis 慢  
+O M48.00 Spinal stenosis 慢  
+O M43.10 Spondylolisthesis, acquired 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+CELEBREX 200 mg/cap 1 cap QN PO 28 28 cap 健保 2 2016/08/17 已確認 已批 許晏寧 用藥原因:A.年齡大於等於六十歲之骨關節炎病患。 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+O R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 2 2016/08/17 已確認 已批 林靜妤 用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂)
+ 
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2016/08/17 已確認 已批 林靜妤  
+Victoza 6 mg/1 mL 3 mL/pen 1.2 mg QD SC 28 2 pen 健保 2 2016/08/17 已確認 已批 林靜妤 特殊醫囑:With Titration 
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/08/17 已確認 已批 林靜妤  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 2 2016/08/17 已確認 已批 林靜妤  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/17 已確認 已批 林靜妤 
+ 
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. Will receive coronary angiography. 
+Objective 
+【20160621】CRE: 1.1   mg/dL
+【20160412】HbA1c: 7.6   %
+【20160411】GLU AC: 79   mg/dL  GLU 2hr PC: 236   mg/dL
+
+【20160119】HbA1c: 7.1   % LDL-C: 52   mg/dL  HDL-C: 37   mg/dL  CK: 107   U/L  ALT: 17   U/L  CRE: 1.0   mg/dL  GLU AC: 65   mg/dL  GLU 2hr PC: 256   mg/dL  T-CHO: 96   mg/dL
+
+【20151020】HbA1c: 8.1   %
+【20151019】GLU AC: 146   mg/dL  GLU 2hr PC: 257   mg/dL
+
+【20150714】HbA1c: 6.6   %
+【20150714】LDL-C: 61   mg/dL  CK: 85   U/L  ALT: 16   U/L  CRE: 1.0   mg/dL  UA: 6.0   mg/dL  GLU AC: 103   mg/dL  GLU 2hr PC: 164   mg/dL  TG: 102   mg/dL
+
+【20150421】GLU AC: 66   mg/dL  GLU 2hr PC: 134   mg/dL
+【20150421】HbA1c: 7.1   %
+
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: <5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70-> 142/90 -> 138/69 -> 126/68 -> 144/73 mmHg; PR 90/min 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 2 months; self use Glucophage; suggest refer back to Dr. Huang. Self use Norvasc 1# qd; Concor, Olmetec, Ismo-20 and Plavix, next time 92 kg 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O E78.5 Hyperlipidemia 慢  
+O R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 2 2016/08/17 已確認 已批 呂金盈 用藥原因:降血脂藥物治療超過一年，且有一年內的相關檢驗數據，繼續使用 (建議監測血脂)
+ 
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2016/08/17 已確認 已批 呂金盈  
+警 Lantus SoloStar 300 U/3 mL /pen 30 U HS SC 28 3 pen 自費  2016/08/17 已確認 已批 呂金盈 特殊醫囑:With Titration 
+ 
+Victoza 6 mg/1 mL 3 mL/pen 1.2 mg QD SC 28 2 pen 健保 2 2016/08/17 已確認 已批 呂金盈 特殊醫囑:With Titration 
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/08/17 已確認 已批 呂金盈  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 2 2016/08/17 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/17 已確認 已批 呂金盈 
+ 
+
+Subjective 
+Bilateral leg numbness (left more severe) improved much
+在上海工作
+Low back pain VAS: 4
+
+Morning back pain for one year (lasting for 1 hr)
+
+DM under Dr. 呂金盈's OPD 
+Objective 
+intermittent claudication
+no pain at night
+no weakness
+no sphincter incontinence
+
+【20151019】Spine: Lumbosacral AP, LAT.
+Scoliosis. Marginal spur formation at multiple levels. Mild retrolisthesis at L2-3-4-5.
+
+【20160525】CT Without Contrast-L Spine :lumbar spondylosis; recommend clinical correlation.
+
+2016/5/27
+These findings are compatible with a left L5/S1 radiculopathy. There is no electrophysiological evidence of active denervation. Clinical correlation is recommended.
+
+【20160621】CRE: 1.1   mg/dL
+
+【20160621】Soft Tissue Echo for PMR :Due to narrow sacral hiatus and symptomless now, injection was not performed after discussing with the patient. 
+Plan 
+Medication
+病人暫不想開刀
+連處至105.10.12
+Suggest warm-up and stretching before playing golf 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M47.816 Lumbar spondylosis 慢  
+O M48.00 Spinal stenosis 慢  
+O M43.10 Spondylolisthesis, acquired 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+CELEBREX 200 mg/cap 1 cap QN PO 28 28 cap 健保 2 2016/08/17 已確認 已批 吳爵宏 用藥原因:A.年齡大於等於六十歲之骨關節炎病患。 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+M I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 童佩姍  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 童佩姍  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 童佩姍  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/08/25 已確認 已批 童佩姍  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 童佩姍 用藥原因:近期發生中風，心肌梗塞或週邊動脈血管的粥狀動脈硬化者，且F. 對aspirin過敏，請描述過敏情形GERD 
+ 
+
+Plan 
+7W 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+M I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 黃瑞仁  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 黃瑞仁  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 黃瑞仁  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/08/25 已確認 已批 黃瑞仁  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/08/25 已確認 已批 黃瑞仁 用藥原因:近期發生中風，心肌梗塞或週邊動脈血管的粥狀動脈硬化者，且F. 對aspirin過敏，請描述過敏情形GERD 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O I10 Hypertension 慢  
+O R10.13 Epigastralgia 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 2 2016/10/12 已確認 已批 賴婉玲  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2016/10/12 已確認 已批 賴婉玲  
+Victoza 6 mg/1 mL 3 mL/pen 1.8 mg QD SC 28 3 pen 健保 2 2016/10/12 已確認 已批 賴婉玲 特殊醫囑:With Titration 
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/10/12 已確認 已批 賴婉玲  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 2 2016/10/12 已確認 已批 賴婉玲  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/12 已確認 已批 賴婉玲  
+ 
+
+Subjective 
+10/12
+cigarette smoking 1PPD for 40 years. 
+never quit before.
+has been asked to quit cigarette smoking by DM and CV doctor. 7 stent placed 
+pressure from work
+live in 上海
+no problem with teeth 
+Objective 
+10/12
+normal BP today. \
+home BP requested. 
+Assessment 
+10/12 has told patient about the contraindication of champix on unstable angina. will ask him to get permission from CV doctor 
+ 
+
+健康行為及篩檢結果 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F17.200 Drug abuse, tobacco 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+1 Champix FC 1 mg/tab 0.5 tab ASORDER PO 7 6 tab 健保  2016/10/12 已確認 已批 王維典 特殊醫囑:1至3天每日早上飯後半顆，4至7天每日早上、晚上飯後各半顆 
+ 
+1 Champix FC 1 mg/tab 1 tab BID PO 14 28 tab 健保  2016/10/12 已確認 已批 王維典 重複原因:長效與短效搭配加強療效或彈性調節
+尚有餘藥7天 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 E1023C00 用藥治療3個月追蹤費 1  N 2017/01/11 執行、已批、未看完 完成：2017/01/11
+ 王維典 
+治療 E1024C00 用藥治療6個月追蹤費 1  N 2017/04/06 執行、已批、未看完 完成：2017/04/06
+ 郭斐然 
+ 
+
+Subjective 
+BV os>od recently for 6 months 
+
+RD s/p op (os) 12yrs go in Cathay H, 
+DR ERM (os) for f/u
+DM+ with poor control ; HTN- CAD+ 
+Objective 
+OCT 2014-97: fovea ok (od) ERM with flat fovea, CRT414 (os)
+CVA 2015-1: 0.5/0.5
+
+
+20161012
+BCVA:0.63/0.4
+IOP:11/10
+Lens: NS++, os>od 
+Fundus: od attached, os attched, ERM
+【20160818】HbA1c: 7.7   % 
+Plan 
+OPD f/u 6 months 
+BCVA, IOP,M + OCT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M H35.379 Macular pucker, Epiretinal membrane, unspecified side 慢  
+O E11.329 Background diabetic retinopathy, nonproliferative 慢 複 糖  
+O H04.129 Dry eye, unspecified side 慢  
+O H26.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt BID OU 28 1 btl 健保  2016/10/12 已確認 已批 劉欣瑜  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt TID OU 28 1 btl 健保  2016/10/12 已確認 已批 劉欣瑜 
+ 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/10/12 執行、已批 完成：2016/10/12
+ 林昌平 
+檢驗 09005CZP Glucose (AC) 1  N 2015/07/15 執行、已批 Specimen:BLO
+完成：2015/10/19
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/07/15 執行、已批 Specimen:BLO
+完成：2015/10/19
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2015/07/15 執行、已批 Specimen:BLO
+完成：2015/10/19
+ 呂金盈 
+ 
+
+Subjective 
+BV os>od recently for 6 months 
+
+RD s/p op (os) 12yrs go in Cathay H, 
+DR ERM (os) for f/u
+DM+ with poor control ; HTN- CAD+ 
+Objective 
+OCT 2014-97: fovea ok (od) ERM with flat fovea, CRT414 (os)
+CVA 2015-1: 0.5/0.5
+
+
+20161012
+BCVA:0.63/0.4
+IOP:11/10
+Lens: NS++, os>od 
+Fundus: od attached, os attched, ERM
+【20160818】HbA1c: 7.7   % 
+Plan 
+OPD f/u 6 months 
+BCVA, IOP,M + OCT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M H35.379 Macular pucker, Epiretinal membrane, unspecified side 慢  
+O E11.329 Background diabetic retinopathy, nonproliferative 慢 複 糖  
+O H04.129 Dry eye, unspecified side 慢  
+O H26.9 Cataract  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt BID OU 28 1 btl 健保  2016/10/12 已確認 已批 劉欣瑜  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt TID OU 28 1 btl 健保  2016/10/12 已確認 已批 劉欣瑜 
+ 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/10/12 執行、已批 完成：2016/10/12
+ 林昌平 
+
+
+Subjective 
+DM 12 years, poor control noted in health exam; 98--> 94 --> 95--> 98-> 102 kg. Did not inject GLP-1 8/1-15. A lot of Glucophage left. Blurred vision. Weight 98 kg, wearing nighttime CPAP now. Did not take Glucophage. Will receive coronary angiography. Easy abdomen discomfort after using Loditon. 
+Objective 
+【20160820】Sugar(One touch): 227   *
+【20160819】Sugar(One touch): 89   *  Sugar(One touch): 183   *  Sugar(One touch): 280   *
+【20160818】HbA1c: 7.7   %
+
+【20160621】CRE: 1.1   mg/dL
+【20160412】HbA1c: 7.6   %
+【20160411】GLU AC: 79   mg/dL  GLU 2hr PC: 236   mg/dL
+
+【20160119】HbA1c: 7.1   % LDL-C: 52   mg/dL  HDL-C: 37   mg/dL  CK: 107   U/L  ALT: 17   U/L  CRE: 1.0   mg/dL  GLU AC: 65   mg/dL  GLU 2hr PC: 256   mg/dL  T-CHO: 96   mg/dL
+
+【20151020】HbA1c: 8.1   %
+【20151019】GLU AC: 146   mg/dL  GLU 2hr PC: 257   mg/dL
+
+【20150714】HbA1c: 6.6   %
+【20150714】LDL-C: 61   mg/dL  CK: 85   U/L  ALT: 16   U/L  CRE: 1.0   mg/dL  UA: 6.0   mg/dL  GLU AC: 103   mg/dL  GLU 2hr PC: 164   mg/dL  TG: 102   mg/dL
+
+【20150421】GLU AC: 66   mg/dL  GLU 2hr PC: 134   mg/dL
+【20150421】HbA1c: 7.1   %
+
+【20150127】HbA1c: 7.3   %
+【20150126】LDL-C: 73   mg/dL  ALT: 31   U/L  CRE: 1.0   mg/dL  GLU AC: 118   mg/dL  GLU 2hr PC: 233   mg/dL  TG: 100   mg/dL  Microalbumin/CRE(U): 0.004   *  Microalbumin: < 5   mg/L  CRE(U): 150   mg/dL
+
+【20140723】HbA1c: 6.5   %
+【20140722】GLU AC: 88   mg/dL  GLU 2hr PC: 140   mg/dL
+
+【20140205】Turbidity: -   *  Sp. Gr.(C): 1.016   *  Protein(C): -   mg/dL  pH: 7.0   *  O.B.(C): -   mg/dL
+【20140205】LDL-C: 80   mg/dL  ALT: 22   U/L  CRE: 1.0   mg/dL  UA: 6.1   mg/dL  GLU AC: 99   mg/dL  TG: 117   mg/dL
+
+【20131207】HbA1c: 8.1   %
+【20131207】GLU AC: 183   mg/dL  GLU 2hr PC: 271   mg/dL
+
+【20130913】LDL-C: 100   mg/dL  HDL-C: 37   mg/dL  ALT: 34   U/L  AST: 22   U/L  Cl: 101   mmol/L  K: 4.4   mmol/L  Na: 136   mmol/L  CRE: 0.9   mg/dL  UA: 5.8   mg/dL  GLU AC: 136   mg/dL  TG: 116   mg/dL  UN: 12.6   mg/dL  T-CHO: 153   mg/dL
+
+BP 132/80 --> 136/88 --> 122/80--> 126/78 --> 132/80--> 126/72--> 138/80-> 138/80-> 122/70-> 142/90 -> 138/69 -> 126/68 -> 144/73 mmHg; PR 90/min 
+Assessment 
+Can not quit smoking; poor response to GLP-1 analogue 
+Plan 
+RTC 12/14; self use Glucophage; suggest refer back to Dr. Huang. Self use Norvasc 1# qd; Concor, Olmetec, Ismo-20 and Plavix, next time 92 kg; self use Loditon 1# tid and Lantus 30U hs; quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+O I10 Hypertension 慢  
+O R10.13 Epigastralgia 慢  
+O E78.5 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+脂 Crestor 10 mg/tab 1 tab QOD PO 28 14 tab 健保 2 2016/10/12 已確認 已批 呂金盈  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2016/10/12 已確認 已批 呂金盈  
+Victoza 6 mg/1 mL 3 mL/pen 1.8 mg QD SC 28 3 pen 健保 2 2016/10/12 已確認 已批 呂金盈 特殊醫囑:With Titration 
+ 
+Loditon 500 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/10/12 已確認 已批 呂金盈  
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set BID SC 28 56 set 健保 2 2016/10/12 已確認 已批 呂金盈  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/12 已確認 已批 呂金盈  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09015CZP (Blood)Creatinine 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+檢驗 09013CZP Uric acid 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+檢驗 09026CZP ALT(GPT) 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+檢驗 09005CZP Glucose (AC) 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+檢驗 09006C0P HbA1c 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+檢驗 09044C0P LDL 1  N 2016/10/11 執行、已批 Specimen:BLO
+完成：2016/12/14
+ 呂金盈 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+M I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 賴婉玲  
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 賴婉玲  
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 賴婉玲  
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/10/13 已確認 已批 賴婉玲  
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 賴婉玲 用藥原因:近期發生中風，心肌梗塞或週邊動脈血管的粥狀動脈硬化者，且F. 對aspirin過敏，請描述過敏情形GERD 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O R10.13 Epigastralgia 慢  
+O I10 Hypertension 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+M I25.10 Coronary artery disease, post percutaneous transluminal coronary angioplasty 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+5康肯 Concor 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 黃瑞仁 重複原因:病人因素(補給天數並延後回診)
+尚有餘藥7天 
+ 
+Olmetec FC 20 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 黃瑞仁 重複原因:病人因素(補給天數並延後回診)
+尚有餘藥7天 
+ 
+Norvasc 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 黃瑞仁 重複原因:病人因素(補給天數並延後回診)
+尚有餘藥7天 
+ 
+Ismo-20 20 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/10/13 已確認 已批 黃瑞仁 重複原因:病人因素(補給天數並延後回診)
+尚有餘藥7天 
+ 
+75 Plavix 75 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/10/13 已確認 已批 黃瑞仁 重複原因:病人因素(補給天數並延後回診)
+尚有餘藥7天 
+用藥原因:近期發生中風，心肌梗塞或週邊動脈血管的粥狀動脈硬化者，且F. 對aspirin過敏，請描述過敏情形GERD 
+ 

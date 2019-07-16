@@ -1,0 +1,621 @@
+
+Subjective 
+Gum boil at upper and lower anterior gingiva
+ 
+Objective 
+upper and lower anterior teeth gingival swelling and abscess formation
+lower incisors are impinging upper anterior palatal gingiva
+ 
+Assessment 
+chronic periodontitis
+periodontal abscess
+ 
+Plan 
+FM scaling
+under local anesthesia of upper and lower anterior area
+0.12% CHX irrigation of anterior teeth
+TR2洪秀君
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2014/11/12 已確認 已批 王振穎  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2014/11/12 已確認 已批 王振穎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91004C00 SCALING:FULL-MOUTH 1  N 2014/11/12 執行、已批 齒位1:FM
+完成：2014/11/12
+ 王振穎 
+ 
+Subjective 
+for periodontal treatment
+ 
+Assessment 
+chronic periodontitis
+ 
+Plan 
+FM scaling
+(heavy calculus was noted, suggest scaling before subgingival curettage and root planing)
+TR2洪秀君
+ 
+
+Objective 
+TED 
+base 110 20  20
+ no diplopia 
+fu 3 m (3/20) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves’ ophthalmopathy 慢  
+O 372.14 Allergic conjunctivitis  
+O 375.15 Dry eye 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flumetholon Oph Susp 0.1% 5 mL/btl 1 gtt BID OU 28 1 btl 健保  2014/12/24 已確認 已批 廖述朗  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23605C00 眼球突出測定 1  N 2014/12/24 執行、已批 完成：2014/12/24
+ 廖述朗 
+行政費用 000O1001 掛號費 1 自費 N 2014/12/24 已批 完成：2014/12/24 
+ 
+
+Subjective 
+f/u, improved 
+Objective 
+【20141203】hsTSH(CIA): 0.600   μIU/mL
+【20141203】Free T4(CIA): 0.999   ng/dL 
+Plan 
+freeT4,hsTSH 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Procil 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2014/12/24 已確認 已批 黃天祥  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2014/12/24 執行、已批 Specimen:BLO
+完成：2015/03/19
+ 黃天祥 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2014/12/24 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/03/19
+ 黃天祥 
+ 
+
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+1.Generalized plaque and calculus deposition. 2. Generalized deep pocket and increased mobility of teeth. 3) Deep pocket as record in charting data attached
+牙周囊袋記錄
+======================
+第二象限
+
+    #21        #22        #23        #24    
+ 3, 5, 7    8, 4, 7    6, 2, 4    6, 3, 9   
+ 3, 5, 7    7, 3, 6    6, 5, 7    7, 6, 8   
+
+    #25        #26        #27        #28    
+ 8, 8, 8    9, 5, 8    8, 5, 8    5, 8, 9   
+10, 3, 7    8, 3, 9    6, 4, 7    5, 5, 5   
+
+======================
+牙周囊袋記錄
+======================
+第三象限
+
+    #31        #32        #33        #34    
+ 3, 4, 5    7, 8, 8    8, 5, 6    8, 8, 7   
+ 6, 5, 5    8, 3, 8    9, 3, 5    9, 2, 5   
+
+    #35        #36        #37        #38    
+ 8, 7, 7    4, 5, 5    5, 4, 7    8, 5, 8   
+ 7, 7, 8    5, 6, 5    6, 5, 7    9, 9, 8   
+
+======================
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at UL and LL areas.  3. subgingival plaque and calculus, soft diseased cementum, removed under local anesthesia of UL and LL areas.
+28 38 were extracted under local anesthesia (and 48 extraction was performed on 2014-12-26)
+socket curettage, and gauze packing.
+TR2 Hung Hsiu-chun
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+治療 91007C00 SUBGINGIVAL CURETTAGE:1/2 ARCH 2  N 2015/01/23 執行、已批 齒位1:UL
+齒位2:LL
+完成：2015/01/23
+ 王振穎 治療 92014C00 COMPLICATED EXTRATION 3  N 2015/01/24 執行、已批 齒位1:48
+齒位2:28
+齒位3:38
+完成：2015/01/24
+ 王振穎 
+Subjective 
+Asking for periodontal treatment
+ 
+Objective 
+1.Generalized plaque and calculus deposition. 2. Generalized deep pocket and increased mobility of teeth. 3) Deep pocket as record in charting data attached
+牙周囊袋記錄
+======================
+第一象限
+
+    #18        #17        #16        #15    
+  ,  ,      8,10+, 5    7, 3, 8   10, 3, 3   
+  ,  ,     10+, 9, 7    7, 3, 6    7, 7, 7   
+
+    #14        #13        #12        #11    
+ 8, 3, 8    5, 3, 7    7, 5, 7    7, 4, 6   
+ 7, 3, 8    3, 3, 6    6, 5, 6    7, 2, 4   
+
+======================
+牙周囊袋記錄
+======================
+第四象限
+
+    #48        #47        #46        #45    
+  ,  ,      7, 7, 8    7, 7, 8    8, 8, 7   
+  ,  ,      8, 7, 7    6, 5, 9    8, 2, 3   
+
+    #44        #43        #42        #41    
+ 7, 7, 8    5, 6, 7    3, 3, 5    5, 5, 5   
+ 5, 3, 8    5, 5, 8    6, 3, 7    7, 3, 5   
+
+======================
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at UR LR areas.  3. subgingival plaque and calculus, soft diseased cementum, removed under local anesthesia of UR LR areas.
+TR2洪秀君
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 523.4 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 96001C00 Dental Localized Anesthesia 2  N 2015/01/30 執行、已批 齒位1:UR
+齒位2:LR
+完成：2015/01/30
+ 陳漪紋 
+治療 91007C00 SUBGINGIVAL CURETTAGE:1/2 ARCH 2  N 2015/01/30 執行、已批 齒位1:UR
+齒位2:LR
+完成：2015/01/30
+ 陳漪紋 
+ 
+
+Objective 
+TED 
+base 110 20  20
+ no diplopia 
+fu 4 m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves’ ophthalmopathy 慢  
+O 375.15 Dry eye 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flumetholon Oph Susp 0.1% 5 mL/btl 1 gtt BID OU 28 1 btl 健保  2015/03/20 已確認 已批 廖述朗  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23605C00 眼球突出測定 1  N 2015/03/20 執行、已批 完成：2015/03/20
+ 廖述朗 
+ 
+
+Subjective 
+Graves' disease
+
+Thyroid: Gr 1
+
+proptosis, refer to eye doctor 
+Objective 
+【20141203】hsTSH(CIA): 0.600   μIU/mL
+【20141203】Free T4(CIA): 0.999   ng/dL
+【20150319】hsTSH(CIA): 0.653   μIU/mL  Free T4(CIA): 1.13   ng/dL 
+Plan 
+freeT4,hsTSH 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Procil 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/03/20 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2015/03/20 執行、已批 Specimen:BLO
+完成：2015/08/26
+ 李弘元 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/03/20 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/08/26
+ 李弘元 
+ 
+
+Subjective 
+Graves' disease
+
+Thyroid: Gr 1
+PR 100
+
+proptosis, refer to eye doctor 
+Objective 
+【20141203】hsTSH(CIA): 0.600   μIU/mL
+【20141203】Free T4(CIA): 0.999   ng/dL
+【20150319】hsTSH(CIA): 0.653   μIU/mL  Free T4(CIA): 1.13   ng/dL
+
+no blood test 
+Plan 
+freeT4,hsTSH(上次單) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Procil 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/06/05 已確認 已批 李弘元 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Procil 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/07/15 已確認 已批 王瑞芬 重複原因:補給天數 (至下次預約門診日) 
+ 
+
+Objective 
+TED 
+base 110 20  20 
+ no diplopia 
+fu 4 m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves’ ophthalmopathy 慢  
+O 372.14 Allergic conjunctivitis  
+O 375.15 Dry eye 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flumetholon Oph Susp 0.1% 5 mL/btl 1 gtt BID OU 28 1 btl 健保  2015/07/15 已確認 已批 廖述朗  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23605C00 眼球突出測定 1  N 2015/07/15 執行、已批 完成：2015/07/15
+ 廖述朗 
+ 
+
+Subjective 
+Graves' disease
+
+Thyroid: Gr 1
+PR 100
+
+proptosis, refer to eye doctor 
+Objective 
+【20141203】hsTSH(CIA): 0.600   μIU/mL
+【20141203】Free T4(CIA): 0.999   ng/dL
+【20150319】hsTSH(CIA): 0.653   μIU/mL  Free T4(CIA): 1.13   ng/dL
+【20150826】hsTSH(CIA): 0.882   μIU/mL
+【20150826】Free T4(CIA): 1.10   ng/dL 
+Plan 
+freeT4,hsTSH 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Procil 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/08/28 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2015/08/28 執行、已批 Specimen:BLO
+完成：2015/11/25
+ 李弘元 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/08/28 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2015/11/25
+ 李弘元 
+ 
+
+Objective 
+TED 
+base 110 19  19 
+ no diplopia 
+fu 4 m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves’ ophthalmopathy 慢  
+O 375.15 Dry eye 慢  
+O 372.14 Allergic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt BID OU 28 1 btl 健保  2015/11/25 待決 已退 廖述朗  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23605C00 眼球突出測定 1  N 2015/11/25 執行、已批 完成：2015/11/25
+ 廖述朗 
+ 
+
+Subjective 
+Graves' disease
+
+Thyroid: Gr 1
+PR 100
+
+proptosis, refer to eye doctor 
+Objective 
+【20141203】hsTSH(CIA): 0.600   μIU/mL
+【20141203】Free T4(CIA): 0.999   ng/dL
+【20150319】hsTSH(CIA): 0.653   μIU/mL  Free T4(CIA): 1.13   ng/dL
+【20150826】hsTSH(CIA): 0.882   μIU/mL
+【20150826】Free T4(CIA): 1.10   ng/dL
+【20151125】hsTSH(CIA): 0.836   μIU/mL
+【20151125】Free T4(CIA): 1.08   ng/dL 
+Assessment 
+To 2016/9 
+Plan 
+freeT4,hsTSH 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 242.00 Graves disease 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+舊 Procil 50 mg/tab 1 tab TID PO 28 84 tab 健保 3 2015/11/27 已確認 已批 李弘元  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt BID OU 28 1 btl 自費  2015/11/27 已確認 已批 李弘元 重複原因:自費買藥
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09106C0P Free T4 1  N 2015/11/27 執行、已批 Specimen:BLO
+完成：2016/03/09
+ 李弘元 
+檢驗 09112B0P Thyroid-stimulating hormone, thyrotropin, hsTSH 1  N 2015/11/27 執行、已批 Specimen:BLO
+採檢時機:.
+完成：2016/03/09
+ 李弘元 
+ 
+
+Subjective 
+For parentage test 
+Objective 
+To confirm parentage relationship 
+Plan 
+sampling for test 
+well explain 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z02.81 Paternity testing  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000X0016 血緣鑑定 1 自費 N 2016/03/09 執行、已批 完成：2016/03/09
+ 華筱玲 
+治療 000Z3043 中文診斷書 1 自費 N 2016/03/09 執行、已批 完成：2016/03/09
+ 華筱玲 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2016/03/09 執行、已批 完成：2016/03/09
+ 華筱玲 
+治療 000X0036 資料處理及郵寄報告手續費 1 自費 N 2016/03/09 執行、已批 完成：2016/03/09
+ 華筱玲 
+ 
+
+Objective 
+TED 
+base 110 19  19 
+ no diplopia 
+conj injected (ou)
+fu 3 m 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves’ ophthalmopathy 慢  
+O H04.123 Dry eye, bilateral 慢  
+O H10.413 Allergic conjunctivitis, chronic giant papillary, bilateral  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt BID OU 7 1 btl 健保  2016/03/09 已確認 已批 廖述朗  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23605C00 眼球突出測定 1  N 2016/03/09 執行、已批 完成：2016/03/09
+ 廖述朗 
+ 
+
+Subjective 
+CC:For tooth 17 hypermobility and periodontal evaluation (2015年做過phaseI)
+
+PMH:
+1.Graves disease
+2.No other major systemic diseases were noted.
+3.Alcohol(-), Betel nuts(-), Cigatette(+,1~2 packs/day)
+ 
+Objective 
+LF:
+1.Present dentition:
+7654321|1234567
+7654321|1234567
+2.Probing depth > 5mm: tooth 17,16,15,14,21,25,26,27,37,36,35,34,32,41,42,44,45,46,47
+3.Mobility:
+-Positive: tooth 16,14,12,21,27,35,33,46,47
+-Grade I: tooth 15,11,22,24,26,37,34,42,43,44,45
+-Grade II:tooth 25,32,31,41
+-Grade III:tooth 17
+4.Full mouth plaque accumulation and gingival inflammation.
+5.Oral hygiene: poor
+ 
+Assessment 
+Dx:
+Full mouth chronic periodontitis
+ 
+Plan 
+Tx:
+1.Take bilateral vertical bite-wing, panoramic X-ray and tooth 17 periapical X-rays, X-rays finding:
+-Generalized vertical bone loss about 70%
+
+Tx plan:
+1.Arrange 楊育豪 for full mouth phase I therapy.
+2.tooth 17 suggest to have extraction first(p't chief complaint).
+
+
+Ri李冠霆/VS王振穎
+2016/10/05 12:00
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/10/05 執行、已批 齒位1:FM
+完成：2016/10/05
+ 尹慧君 
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+4. Tooth 17 mobility grade III, and severe attachment loss
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1. full mouth charting and photo records were taken, 
+2. plaque control(術前) was done with application of disclosing agent, 
+3. oral hygiene instruction was done, 
+4. explained treatment plan to the patient:
+a. FM pahse I
+b. quit smoking
+c. extract 17
+5. signed consent
+
+Tooth 17  simple extraction under local anesthesia 
+< OP note >
+Pre-OP diagnosis: Tooth 17  chronic periodontitis 
+Post-OP diagnosis: Tooth 17  chronic periodontitis, Status post tooth extraction 
+OP method: Tooth 17  simple extraction under local anesthesia 
+OP procedure: 
+1. Disinfection with 0.12% CHX and local anesthesia of  UR area with 1.7 ml 2% Lidocaine(1:80000 epinephrine) 
+2. Tooth 17 was extracted with elevator and forcep. 
+3. socket curettage, gauze packing for one hour. 
+4. post OP instructions were given 
+OP findings: calculus deposition on root surface with granulation tissue accumulation
+Specimens for pathology:Nil 
+Operator:G2楊育豪 Recorded by:G2楊育豪
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/10/27 已確認 已批 王振穎  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2016/10/27 已確認 已批 王振穎 
+ 
+治療 92013C00 SIMPLE EXTRACTION 1  N 2016/10/27 執行、已批 齒位1:17
+完成：2016/10/27
+ 王振穎 
+
+Objective 
+TED 
+base 110 19.5  19.5 
+ no diplopia 
+conj injected (ou)
+fu 3 m
+next time op 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E05.00 Graves’ ophthalmopathy 慢  
+O H10.413 Allergic conjunctivitis, chronic giant papillary, bilateral  
+O H04.123 Dry eye, bilateral 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt BID OU 7 1 btl 健保  2016/11/02 已確認 已批 廖述朗  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 23605C00 眼球突出測定 1  N 2016/11/02 執行、已批 完成：2016/11/02
+ 廖述朗 
+ 

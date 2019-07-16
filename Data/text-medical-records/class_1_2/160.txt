@@ -1,0 +1,335 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+left neck metastatic adenocarcinoma 
+
+現病史：
+58/F, left neck adenocarcinoma, 
+probably lung cancer with metastasis 
+
+hypertension 
+
+EGD: gastric ulcer 
+
+過去病史：
+hypertension
+renal stone 
+Bokey 
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：A
+
+目前用藥：
+Bokey: DC for one month 
+
+最近三個月內旅遊史：無
+
+家族病史：高血壓
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：0-2 分(0分或無法表達之病人，以下請填NA)
+2.間歇痛 
+3.疼痛部位：neck 
+
+身體檢查：
+EGD 2016. gastric ulcer, shallow
+
+BP 147/91; HR 94 
+Plan 
+初始治療計劃：
+admission to 13B
+consult oncologist and Dr. Ho 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.92 Lung cancer, left 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Megest Oral Susp 40 mg/1 mL 120 mL/btl 4 mL QD PO 14 1 btl 健保  2016/06/06 已確認 已批 劉志銘  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 P2103C0M Requesting CT Film and Report 1  N 2016/06/06 開立、已批 欲借片之醫院:[南投縣]臺中榮民總醫院埔里分院(0638020014)
+特殊照影檢查名稱:CT
+它院照片日期:2016.5.30
+它院病歷號碼:M220571183
+影像檔案格式:DICOM檔
+ 劉志銘 
+ 
+
+Subjective 
+Diarrhea after afatinib, headache over bil temperal.
+NSCLC adenocarcinoma stage IV with brain LN mets complicated with seizure s/p WBRT, abnormal liver function due to erlotinib rechallenge with afatinib cash was just discharged. 
+Objective 
+疼痛評估：疼痛指數： 0 分; 疼痛部位： NA; 
+
+【20160707】D-Dimer: 5.12   μg/mL FEU
+【20160707】Seg: 59.6   %
+【20160707】WBC: 3.23   k/μL
+【20160707】PLT: 243   k/μL
+【20160707】HB: 10.2   g/dL
+【20160707】PTT: 27.5   sec
+【20160707】PT: 9.2   sec
+【20160707】GGT: 457   U/L  T-BIL: 0.24   mg/dL  ALP: 152   U/L  ALT: 38   U/L  AST: 16   U/L  K: 4.3   mmol/L  Na: 134   mmol/L  CRE: 0.6   mg/dL  UN: 19.5   mg/dL
+【20160617】CEA: 370.72   ng/mL
+【20160620】HBeAg: Negative   *
+【20160607】HBsAg: Negative(0.00)   IU/mL
+【20160620】Anti-HCV Ab: Negative   *
+【20160620】Anti-HBs: Positive(41.34)   mIU/mL
+【20160623】Vascular Duplex :1. Thrombus was detected from left CFV down to Peroneal vein in this 
+            study. 
+            2. No significant (>50%) arterial stenosis of left lower limb.
+疼痛評估：疼痛指數： 1分; 疼痛部位： headache; 
+Assessment 
+NSCLC adenocarcinoma LLL cT2bN3M1b stage IV with brain neck LN mets, DVT, pAf, HBV(-) HCV (-) EGFR Del 19 erlotinib abnormal liver function afatinib since20160701 
+Plan 
+Keep afatinib
+CXR
+Ddimer 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O C34.92 Lung cancer, left 重 慢 職 癌  
+M C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+免費 30 Giotrif 30 mg/tab 1 tab QD AC PO 14 14 tab 自費  2016/07/13 已確認 已批 何肇基  
+警 Clexane 6000anti-Xa 60 mg/0.6 mL /syrg 40 mg Q12H SC 14 28 syrg 健保  2016/07/13 已確認 已批 何肇基  
+Nexium 40 mg/tab 1 tab QDAC1HR PO 14 14 tab 健保  2016/07/13 已確認 已批 何肇基  
+Imolex 2 mg/cap 1 cap Q6HPRN PO 14 20 cap 健保  2016/07/13 已確認 已批 何肇基  
+栓 Bisacodyl Supp 10 mg/pill 1 pill QDPRN R 14 7 pill 健保  2016/07/13 已確認 已批 何肇基  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 14 42 tab 健保  2016/07/13 已確認 已批 何肇基  
+(管4) Rivotril 0.5 mg/tab 0.5 tab Q8H PO 14 21 tab 健保  2016/07/13 已確認 已批 何肇基  
+Keppra FC 500 mg/tab 3 tab BID PO 14 84 tab 健保  2016/07/13 已確認 已批 何肇基  
+Trileptal FC 300 mg/tab 2 tab BID PO 14 56 tab 健保  2016/07/13 已確認 已批 何肇基  
+Predonine 5 mg/tab 2 tab BID PO 14 56 tab 健保  2016/07/13 已確認 已批 何肇基  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09025CZP AST(GOT) 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 何肇基 
+檢驗 09026CZP ALT(GPT) 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 何肇基 
+檢驗 09027CZP ALP 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 何肇基 
+檢驗 09015CZP Creatinine (Blood) 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 何肇基 
+檢驗 08011CZP CBC & platelet 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 何肇基 
+檢驗 08013CZP WBC classification 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 何肇基 
+檢驗 08079B0P D-dimer 1  N 2016/07/13 執行、已批 Specimen:BLO
+完成：2016/07/26
+ 何肇基 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/07/13 執行、已批 完成：2016/07/26
+ 何肇基 
+ 
+
+Subjective 
+CC: Afatinib-induced skin toxicity with generalized xerotic dermatitis 
+
+
+PH:
+NSCLC adenocarcinoma LLL cT2bN3M1b stage IV with brain neck LN mets, DVT, pAf, HBV(-) HCV (-) EGFR Del 19 erlotinib abnormal liver function afatinib since20160701
+
+
+Diarrhea after afatinib, headache over bil temperal.
+NSCLC adenocarcinoma stage IV with brain LN mets complicated with seizure s/p WBRT, abnormal liver function due to erlotinib rechallenge with afatinib cash was just discharged. 
+Objective 
+There are numerous ill defined, variously sized, scaling patches on the trunk and 4 limbs.
+Severe pruritus(+)
+Scratch marks(+) 
+BSA>50% 
+Plan 
+Give oral prednisolone 2#bid for severe eczema Dermovate for severe eczema 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O C34.92 Lung cancer, left 重 慢 職 癌  
+M C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O L30.9 Eczema 慢 職  
+O L27.0 Drug eruption 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 7 7 tab 健保  2016/07/19 已確認 已批 朱家瑜  
+Dermovate Oint 0.05% 25 g/tube 1 XX BID D 7 1 tube 健保  2016/07/19 已確認 已批 朱家瑜 
+ 
+
+Subjective 
+Severe left leg swelling and skin rash whole body suspected drug effect.
+Diarrhea after afatinib, headache over bil temperal.
+NSCLC adenocarcinoma stage IV with brain LN mets complicated with seizure s/p WBRT, abnormal liver function due to erlotinib rechallenge with afatinib cash was just discharged. 
+Objective 
+疼痛評估：疼痛指數： 0 分; 疼痛部位： NA; 
+
+【20160707】D-Dimer: 5.12   μg/mL FEU
+【20160707】Seg: 59.6   %
+【20160707】WBC: 3.23   k/μL
+【20160707】PLT: 243   k/μL
+【20160707】HB: 10.2   g/dL
+【20160707】PTT: 27.5   sec
+【20160707】PT: 9.2   sec
+【20160707】GGT: 457   U/L  T-BIL: 0.24   mg/dL  ALP: 152   U/L  ALT: 38   U/L  AST: 16   U/L  K: 4.3   mmol/L  Na: 134   mmol/L  CRE: 0.6   mg/dL  UN: 19.5   mg/dL
+【20160617】CEA: 370.72   ng/mL
+【20160620】HBeAg: Negative   *
+【20160607】HBsAg: Negative(0.00)   IU/mL
+【20160620】Anti-HCV Ab: Negative   *
+【20160620】Anti-HBs: Positive(41.34)   mIU/mL
+【20160623】Vascular Duplex :1. Thrombus was detected from left CFV down to Peroneal vein in this 
+            study. 
+            2. No significant (>50%) arterial stenosis of left lower limb.
+疼痛評估：疼痛指數： 1分; 疼痛部位： headache;
+【20160720】抗癌藥品治療副作用 (標靶) Late Toxicity 
+Diarrhea : Gr.1
+Mucositis : Gr.1
+Skin rash : Gr.3
+
+處置:Hold afatinib癌症治療效果追蹤評估 Treatment Response:Not evaluable 
+Assessment 
+NSCLC adenocarcinoma LLL cT2bN3M1b stage IV with brain neck LN mets, DVT, pAf, HBV(-) HCV (-) EGFR Del 19 erlotinib abnormal liver function afatinib since20160701 
+Plan 
+Hold TKI, 
+Give anti histamin 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O C34.92 Lung cancer, left 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dex-CTM 2 mg/tab 1 tab Q6H PO 5 20 tab 健保  2016/07/20 已確認 已批 何肇基 
+ 
+
+Subjective 
+CC: Afatinib-induced skin toxicity with generalized xerotic dermatitis 
+
+
+PH:
+NSCLC adenocarcinoma LLL cT2bN3M1b stage IV with brain neck LN mets, DVT, pAf, HBV(-) HCV (-) EGFR Del 19 erlotinib abnormal liver function afatinib since20160701
+
+
+Diarrhea after afatinib, headache over bil temperal.
+NSCLC adenocarcinoma stage IV with brain LN mets complicated with seizure s/p WBRT, abnormal liver function due to erlotinib rechallenge with afatinib cash was just discharged. 
+Objective 
+There are numerous ill defined, variously sized, scaling patches on the trunk and 4 limbs.
+Severe pruritus(+)
+Scratch marks(+) 
+BSA>50% 
+Assessment 
+SPXD improved now 
+Plan 
+DC Dermovate for severe eczema; add Cort. S for xerotic eczema; keep Xyzal for drug eruption 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O L27.0 Drug eruption 慢  
+O L30.9 Eczema 慢 職  
+O C34.92 Lung cancer, left 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 14 14 tab 健保  2016/07/26 已確認 已批 朱家瑜  
+Cort. S. Oint 1% 50 g/box 1 XX BID D 14 1 box 自費  2016/07/26 已確認 已批 朱家瑜 
+ 
+
+Subjective 
+Severe left leg swelling and skin rash whole body suspected drug effect.
+Diarrhea after afatinib, headache over bil temperal.
+NSCLC adenocarcinoma stage IV with brain LN mets complicated with seizure s/p WBRT, abnormal liver function due to erlotinib rechallenge with afatinib cash was just discharged. 
+Objective 
+疼痛評估：疼痛指數： 0 分; 疼痛部位： NA; 
+
+【20160707】D-Dimer: 5.12   μg/mL FEU
+【20160707】Seg: 59.6   %
+【20160707】WBC: 3.23   k/μL
+【20160707】PLT: 243   k/μL
+【20160707】HB: 10.2   g/dL
+【20160707】PTT: 27.5   sec
+【20160707】PT: 9.2   sec
+【20160707】GGT: 457   U/L  T-BIL: 0.24   mg/dL  ALP: 152   U/L  ALT: 38   U/L  AST: 16   U/L  K: 4.3   mmol/L  Na: 134   mmol/L  CRE: 0.6   mg/dL  UN: 19.5   mg/dL
+【20160617】CEA: 370.72   ng/mL
+【20160620】HBeAg: Negative   *
+【20160607】HBsAg: Negative(0.00)   IU/mL
+【20160620】Anti-HCV Ab: Negative   *
+【20160620】Anti-HBs: Positive(41.34)   mIU/mL
+【20160623】Vascular Duplex :1. Thrombus was detected from left CFV down to Peroneal vein in this 
+            study. 
+            2. No significant (>50%) arterial stenosis of left lower limb.
+疼痛評估：疼痛指數： 1分; 疼痛部位： headache;
+【20160720】抗癌藥品治療副作用 (標靶) Late Toxicity 
+Diarrhea : Gr.1
+Mucositis : Gr.1
+Skin rash : Gr.3
+
+處置:Hold afatinib癌症治療效果追蹤評估 Treatment Response:Not evaluable
+【20160717】ALT: 18   U/L
+【20160717】AST: 18   U/L
+【20160717】K: 3.8   mmol/L
+【20160717】Na: 125   mmol/L
+【20160717】CRE: 0.7   mg/dL
+【20160717】BUN: 9   mg/dL
+【20160717】Seg: 82.0   %
+【20160717】WBC: 6.11   K/μL
+【20160717】PLT: 373   K/μL
+【20160717】HB: 11.7   g/dL
+【20160707】D-Dimer: 5.12   μg/mL FEU
+【20160707】Sugar(One touch): 104   *
+【20160726】Seg: 78.8   %
+【20160726】WBC: 8.90   k/μL
+【20160726】PLT: 337   k/μL
+【20160726】HB: 11.7   g/dL
+【20160726】D-Dimer: 2.87   μg/mL FEU
+【20160726】ALP: 102   U/L  ALT: 26   U/L  AST: 20   U/L  eGFR: 134.2   mL/min/1.73 m^2  CRE: 0.5   mg/dL 
+Assessment 
+NSCLC adenocarcinoma LLL cT2bN3M1b stage IV with brain neck LN mets, DVT, pAf, HBV(-) HCV (-) EGFR Del 19 erlotinib abnormal liver function afatinib since20160701 
+Plan 
+Hold TKI, 
+Give antihistamin 
+Admission for chest to pelvic CT with contrast. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C34.90 Lung cancer, unspecified side 重 慢 職 癌  
+O C34.92 Lung cancer, left 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+警 Clexane 6000anti-Xa 60 mg/0.6 mL /syrg 40 mg Q12H SC 14 28 syrg 健保  2016/07/27 已確認 已批 何肇基  
+(管4) Rivotril 0.5 mg/tab 0.5 tab Q8H PO 14 21 tab 健保  2016/07/27 已確認 已批 何肇基  
+Keppra FC 500 mg/tab 3 tab BID PO 14 84 tab 健保  2016/07/27 已確認 已批 何肇基  
+Trileptal FC 300 mg/tab 2 tab BID PO 14 56 tab 健保  2016/07/27 已確認 已批 何肇基  
+Predonine 5 mg/tab 1 tab BID PO 14 28 tab 健保  2016/07/27 已確認 已批 何肇基  
+Dex-CTM 2 mg/tab 1 tab Q6H PO 7 28 tab 健保  2016/07/27 已確認 已批 何肇基 
+ 

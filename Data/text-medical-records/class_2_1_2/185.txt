@@ -1,0 +1,229 @@
+﻿
+Subjective 
+for oral leukoplakia follow up
+ 
+Objective 
+patho(2014/8/23): Oral cavity, palatal mucosa, right, incisional biopsy, (1) chronic ulcer (2) fibrosis
+Oral cavity, palatal mucosa, left, incisional biopsy, severe dysplasia
+Oral cavity, buccal mucosa, left, excisional biopsy, hyperparakeratosis 
+soft palate wd: OK
+ 
+Assessment 
+right tongue mod ED s/p op (2013/5/16)
+right BM mod ED s/p OP (2013/5/16)
+uvula verrucous lesion with mod ED s/p OP(2013/5/16)
+left BM VH with mod ED s/p OP(2013/5/16)
+left soft palate,severe ED s/p op (2014/8/22, GA)
+ 
+Plan 
+suggest stop smoking
+topical mediaction
+RTC 4M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.6 Leukoplakia, oral  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2015/01/09 執行、已批 齒位1:99
+完成：2015/01/12
+ 李正 
+ 
+Subjective 
+for oral leukoplakia follow up
+ 
+Objective 
+soft palate wd: ulceration ?
+
+patho(2014/8/23): Oral cavity, palatal mucosa, right, incisional biopsy, (1) chronic ulcer (2) fibrosis
+Oral cavity, palatal mucosa, left, incisional biopsy, severe dysplasia
+Oral cavity, buccal mucosa, left, excisional biopsy, hyperparakeratosis
+ 
+Assessment 
+right tongue mod ED s/p op (2013/5/16)
+right BM mod ED s/p OP (2013/5/16)
+uvula verrucous lesion with mod ED s/p OP(2013/5/16)
+left BM VH with mod ED s/p OP(2013/5/16)
+left soft palate,severe ED s/p op (2014/8/22, GA)
+ 
+Plan 
+suggest stop smoking
+topical mediaction
+photo
+RTC  4 wks  (consider biopsy for soft palatal lesion)
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.6 Leukoplakia, oral  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2015/05/01 執行、已批 齒位1:99
+完成：2015/05/04
+ 李正 
+ 
+
+Subjective 
+for oral leukoplakia follow up
+ 
+Objective 
+soft palate wd: healed
+
+patho(2014/8/23): Oral cavity, palatal mucosa, right, incisional biopsy, (1) chronic ulcer (2) fibrosis
+Oral cavity, palatal mucosa, left, incisional biopsy, severe dysplasia
+Oral cavity, buccal mucosa, left, excisional biopsy, hyperparakeratosis
+ 
+Assessment 
+right tongue mod ED s/p op (2013/5/16)
+right BM mod ED s/p OP (2013/5/16)
+uvula verrucous lesion with mod ED s/p OP(2013/5/16)
+left BM VH with mod ED s/p OP(2013/5/16)
+left soft palate,severe ED s/p op (2014/8/22, GA)
+ 
+Plan 
+suggest stop smoking
+topical mediaction
+RTC  4 M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 528.6 Leukoplakia, oral  
+M 528.8 Oral submucosal fibrosis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+ 治療 92073C00 口腔黏膜難症特別處置 1  N 2015/06/29 執行、已批 齒位1:99
+完成：2015/06/29
+ 李正 
+
+
+Subjective 
+for oral leukoplakia & OSF follow up
+ 
+Objective 
+soft palate wd: R't  side, ulcer
+still smoking 
+
+patho(2014/8/23): Oral cavity, palatal mucosa, right, incisional biopsy, (1) chronic ulcer (2) fibrosis
+Oral cavity, palatal mucosa, left, incisional biopsy, severe dysplasia
+Oral cavity, buccal mucosa, left, excisional biopsy, hyperparakeratosis
+ 
+Assessment 
+right tongue mod ED s/p op (2013/5/16)
+right BM mod ED s/p OP (2013/5/16)
+uvula verrucous lesion with mod ED s/p OP(2013/5/16)
+left BM VH with mod ED s/p OP(2013/5/16)
+left soft palate,severe ED s/p op (2014/8/22, GA)
+ 
+Plan 
+suggest stop smoking
+topical mediaction
+RTC  3 M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 528.8 Oral submucosal fibrosis  
+O 528.6 Leukoplakia, oral  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92073C00 口腔黏膜難症特別處置 1  N 2015/09/29 執行、已批 齒位1:99
+完成：2015/10/05
+ 李正 
+ 
+
+Subjective 
+for oral leukoplakia & OSF follow up
+ 
+Objective 
+soft palate wd: no evidence of recurrence
+full mouith OSF
+still smoking 
+
+patho(2014/8/23): Oral cavity, palatal mucosa, right, incisional biopsy, (1) chronic ulcer (2) fibrosis
+Oral cavity, palatal mucosa, left, incisional biopsy, severe dysplasia
+Oral cavity, buccal mucosa, left, excisional biopsy, hyperparakeratosis
+ 
+Assessment 
+right tongue mod ED s/p op (2013/5/16)
+right BM mod ED s/p OP (2013/5/16)
+uvula verrucous lesion with mod ED s/p OP(2013/5/16)
+left BM VH with mod ED s/p OP(2013/5/16)
+left soft palate,severe ED s/p op (2014/8/22, GA)
+ 
+Plan 
+suggest stop smoking
+topical mediaction
+RTC  4 M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K13.5 Oral submucous fibrosis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92073C00 口腔黏膜難症特別處置 1  N 2015/12/29 執行、已批 齒位1:99
+完成：2016/01/04
+ 李正 
+ 
+
+Subjective 
+for oral leukoplakia & OSF follow up
+ 
+Objective 
+soft palate wd: no evidence of recurrence
+full mouith OSF
+still smoking 
+
+patho(2014/8/23): Oral cavity, palatal mucosa, right, incisional biopsy, (1) chronic ulcer (2) fibrosis
+Oral cavity, palatal mucosa, left, incisional biopsy, severe dysplasia
+Oral cavity, buccal mucosa, left, excisional biopsy, hyperparakeratosis
+ 
+Assessment 
+right tongue mod ED s/p op (2013/5/16)
+right BM mod ED s/p OP (2013/5/16)
+uvula verrucous lesion with mod ED s/p OP(2013/5/16)
+left BM VH with mod ED s/p OP(2013/5/16)
+left soft palate,severe ED s/p op (2014/8/22, GA)
+ 
+Plan 
+suggest stop smoking
+still smoking
+topical mediaction
+RTC  4 M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K13.5 Oral submucous fibrosis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92073C00 口腔黏膜難症特別處置 1  N 2016/04/26 執行、已批 齒位1:99
+完成：2016/05/02
+ 李正 
+ 

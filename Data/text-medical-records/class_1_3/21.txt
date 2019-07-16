@@ -1,0 +1,52 @@
+﻿
+Subjective 
+for follow up NP tumor
+no s/s currently
+no blood-tinged rhinorrhea 
+no facial numbness 
+Objective 
+疼痛評估：疼痛指數： 0分; 疼痛部位： NA; 
+LF: NP midline tumor, no neck mass 
+Plan 
+f/u 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 239.0 Nasopharyngeal tumor  
+O 477.9 Allergic Rhinitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Mucosolvan 30 mg/tab 2 tab TID PO 7 42 tab 健保  2015/04/01 已確認 已批 譚慶鼎  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/01 已批 完成：2015/04/01  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/04/01 已批 完成：2015/04/01  
+行政費用 05201AZ0 門診藥事服務費（一般性處方七天以內） 1  N 2015/04/01 已批 完成：2015/04/01 
+ 
+
+Subjective 
+for follow up NP tumor 
+Assessment 
+fiber
+fu
+LT, nose 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M D49.0 Nasopharyngeal tumor  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 28002C00 鼻咽鏡檢查 1  N 2016/01/12 執行、已批 完成：2016/01/12
+ 楊宗霖 
+治療 54019C00 其他鼻部治療 1  N 2016/01/12 執行、已批 完成：2016/01/12
+ 楊宗霖 
+ 
+

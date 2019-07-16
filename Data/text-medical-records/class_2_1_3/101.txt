@@ -1,0 +1,535 @@
+﻿
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保 2 2014/12/05 已確認 已批 陳鴻文  
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保 2 2014/12/05 已確認 已批 陳鴻文  
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保 2 2014/12/05 已確認 已批 陳鴻文  
+B.H.L. 5 mg/tab 0.5 tab BID PO 28 28 tab 健保 2 2014/12/05 已確認 已批 陳鴻文 
+ 
+
+Subjective 
+[健保局思覺失調症固定就醫個案收案評估]
+
+病人評估: CGI-S: 4 中度 
+now study at university 
+Objective 
+more stable 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保 3 2015/01/02 已確認 已批 黃宗正 特殊醫囑:1/2 1/30 2/26(四) 
+ 
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/02 已確認 已批 黃宗正  
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/02 已確認 已批 黃宗正  
+B.H.L. 5 mg/tab 0.5 tab TID PO 28 42 tab 健保 3 2015/01/02 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+醫材 20000906 塑膠注射器，帶針5CC (螺旋，23G*1+1/4"") 3  N 2015/01/02 執行、已批 完成：2015/01/02
+ 黃宗正 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保 3 2015/01/30 已確認 已批 鄭瑋婷 特殊醫囑:1/2 1/30 2/26(四) 
+ 
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/30 已確認 已批 鄭瑋婷  
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/30 已確認 已批 鄭瑋婷  
+B.H.L. 5 mg/tab 0.5 tab TID PO 28 42 tab 健保 3 2015/01/30 已確認 已批 鄭瑋婷  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保 3 2015/02/26 已確認 已批 鄭瑋婷 特殊醫囑:1/2 1/30 2/26(四) 
+ 
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/26 已確認 已批 鄭瑋婷  
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/26 已確認 已批 鄭瑋婷  
+B.H.L. 5 mg/tab 0.5 tab TID PO 28 42 tab 健保 3 2015/02/26 已確認 已批 鄭瑋婷 
+ 
+
+Subjective 
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Objective 
+more stable 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保 3 2015/03/27 已確認 已批 黃宗正 特殊醫囑:3/27,4/24,5/22 
+ 
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/27 已確認 已批 黃宗正  
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/27 已確認 已批 黃宗正  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/03/27 已確認 已批 黃宗正  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保 3 2015/04/24 已確認 已批 趙瑞真 特殊醫囑:3/27,4/24,5/22 
+ 
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/24 已確認 已批 趙瑞真  
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/24 已確認 已批 趙瑞真  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/04/24 已確認 已批 趙瑞真 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保 3 2015/05/22 已確認 已批 廖世令 特殊醫囑:3/27,4/24,5/22 
+ 
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/22 已確認 已批 廖世令  
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/22 已確認 已批 廖世令  
+B.H.L. 5 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/05/22 已確認 已批 廖世令 
+ 
+
+Subjective 
+1040612
+come mother
+剛畢業在104找工作
+上個月開始不吃藥, 容易生氣
+因為眼睛會上吊, 覺得都是醫師開藥害我的
+媽媽對於疾病與藥物有許多誤解 
+Objective 
+irregular adherence 
+Plan 
+開一個月藥, 請下個月帶病人去看黃醫師
+B.H.L開一天三顆 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Flucan 25 mg/1 mL /amp 50 mg Q4W IM 28 2 amp 健保  2015/06/12 已確認 已批 杜恩年 特殊醫囑:6/12 
+重複原因:短期或需要時使用
+ 
+3 Invega ER 3 mg/tab 1 tab QD PO 28 28 tab 健保  2015/06/12 已確認 已批 杜恩年 重複原因:短期或需要時使用
+ 
+9 Invega ER 9 mg/tab 1 tab QD PO 28 28 tab 健保  2015/06/12 已確認 已批 杜恩年 重複原因:短期或需要時使用
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保  2015/06/12 已確認 已批 杜恩年 重複原因:短期或需要時使用 
+ 
+
+Subjective 
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 1 1 syrg 健保  2015/07/10 已確認 已批 黃宗正 特殊醫囑:7/10 
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保  2015/07/10 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2015/07/10 執行、已批 完成：2015/07/10
+ 黃宗正 
+ 
+
+Subjective 
+20150807 started to work. mother worried about him and monitored him. 
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 1 1 syrg 健保  2015/08/07 已確認 已批 黃宗正 特殊醫囑:8/7 
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 21 63 tab 健保  2015/08/07 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2015/08/07 執行、已批 完成：2015/08/07
+ 黃宗正 
+醫材 20000906 塑膠注射器，帶針5CC (螺旋，23G*1+1/4"") 1  N 2015/08/07 執行、已批 完成：2015/08/07
+ 黃宗正 
+ 
+
+Subjective 
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 1 1 syrg 健保  2015/08/28 已確認 已批 黃宗正 特殊醫囑:9/4 
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保  2015/08/28 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2015/08/28 執行、已批 完成：2015/08/28
+ 黃宗正 
+ 
+
+Subjective 
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 1 1 syrg 健保  2015/10/02 已確認 已批 黃宗正  
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保  2015/10/02 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2015/10/02 執行、已批 完成：2015/10/02
+ 黃宗正 
+ 
+
+Subjective 
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 1 1 syrg 健保  2015/10/30 已確認 已批 黃宗正  
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保  2015/10/30 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2015/10/30 執行、已批 完成：2015/10/30
+ 黃宗正 
+ 
+
+Subjective 
+20151127 decided to cut smoking.
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 refer to FM for smoking session 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 28 1 syrg 健保 2 2015/11/27 已確認 已批 黃宗正 特殊醫囑:11/27 12/25 
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保 2 2015/11/27 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2015/11/27 執行、已批 完成：2015/11/27
+ 黃宗正 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 295.90 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 28 1 syrg 健保 2 2015/12/25 已確認 已批 宋美雯 特殊醫囑:11/27 12/25 
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保 2 2015/12/25 已確認 已批 宋美雯 
+ 
+
+Subjective 
+20160127 learned English. not quit smoking successfully. quit with nicotine gum, failed 
+20151127 decided to cut smoking.
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophrenia, unspecified 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 28 1 syrg 健保 2 2016/01/27 已確認 已批 黃宗正 特殊醫囑:1/27. 2/24. 
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/01/27 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2016/01/27 執行、已批 完成：2016/01/27
+ 黃宗正 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.9 Schizophrenia, unspecified 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 28 1 syrg 健保 2 2016/02/23 已確認 已批 廖世令 特殊醫囑:1/27. 2/24. 
+ 
+B.H.L. 5 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/02/23 已確認 已批 廖世令 
+ 
+
+Subjective 
+20150325 took BHL 60# and became retarded. sent to Cardinal Tien H. cons. more clear up the second day. 
+20151127 decided to cut smoking.
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Plan 
+45046 refer to FM for smoking session 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.3 Schizophrenia, undifferentiated 重 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2016/03/25 執行、已批 完成：2016/03/25
+ 黃宗正 
+ 
+
+Subjective 
+20160413 just discharged from Cardinal Tien H. still mild delusion of reference.-- a gang member.
+20160325 took BHL 60# and became retarded. sent to Cardinal Tien H. cons. more clear up the second day. 
+20151127 decided to cut smoking.
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Assessment 
+schizo, GERD 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O F20.9 Unspecified schizophrenia (F20.3) 重 慢  
+M F20.3 Schizophrenia, undifferentiated 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 9 27 tab 健保  2016/04/13 已確認 已批 黃宗正  
+(DC)Kimodin F.C. 20 mg/tab 1 tab HS PO 9 9 tab 健保  2016/04/13 已確認 已批 黃宗正  
+Nacid 500 mg/tab 1 tab TID PO 9 27 tab 自費  2016/04/13 已確認 已批 黃宗正  
+Haldol 5 mg/tab 1 tab HS PO 9 9 tab 健保  2016/04/13 已確認 已批 黃宗正  
+針150 Invega Sustenna PR Susp for IM(based on Paliperidone content) Inj 150 mg/syrg 150 mg Q4W IM 9 1 syrg 健保  2016/04/13 已確認 已批 黃宗正  
+Akinfree 2 mg/tab 1 tab BID PO 9 18 tab 健保  2016/04/13 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2016/04/13 執行、已批 完成：2016/04/13
+ 黃宗正 
+ 
+
+Subjective 
+20160422 stable. advise exercise.
+20160413 just discharged from Cardinal Tien H. still mild delusion of reference.-- a gang member.
+20160325 took BHL 60# and became retarded. sent to Cardinal Tien H. cons. more clear up the second day. 
+20151127 decided to cut smoking.
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university
+20151030 quit his job. hope to attend day care.
+20151002 pt comes with mom. much stable.
+20151002 work at Fu-Bon insurance company since 2015.04
+20150828 IQ=100 MRI-- no structural abnormality. now work at Fu-bon insurance company**
+
+20150710 oculogyric crisis, so DC invega then flucan by himself, and became worse. brother threatened him, so he finally agreed to take flucan depo. has graduated. father was distant, not caring.*
+20150327 stable
+20150102 [健保局思覺失調症固定就醫個案收案評估]
+病人評估: CGI-S: 4 中度 
+now study at university 
+Assessment 
+schizo, GERD
+BHL related GERD 
+Plan 
+45046 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M F20.3 Schizophrenia, undifferentiated 重 慢  
+O F20.9 Unspecified schizophrenia (F20.3) 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Inderal 10 mg/tab 1 tab TID PO 21 63 tab 健保  2016/04/22 已確認 已批 黃宗正  
+(DC)Kimodin F.C. 20 mg/tab 1 tab HS PO 21 21 tab 健保  2016/04/22 已確認 已批 黃宗正  
+Haldol 5 mg/tab 1 tab HS PO 21 21 tab 健保  2016/04/22 已確認 已批 黃宗正  
+Akinfree 2 mg/tab 1 tab BID PO 21 42 tab 健保  2016/04/22 已確認 已批 黃宗正  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45046C00 生理心理功能檢查 - 成人 1  N 2016/04/22 執行、已批 完成：2016/04/22
+ 黃宗正 

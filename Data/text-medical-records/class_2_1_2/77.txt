@@ -1,0 +1,269 @@
+﻿
+Subjective 
+Lt shoulder pain with extension for half a year
+rehab for 3 mo in vain
+night pain with lying on affected side
+Lt hip pain also noted 
+Objective 
+ROM of bil shoulder symmetric actively and passively
+local tenderness over Lt A-C joint
+no impingement over Lt shoulder
+SS 5/5
+IS 5/5
+SC 5/5
+Patrick test (-) bil
+local tenderness over Lt buttock area
+CxR: Lt A-C OA
+疼痛評估：疼痛指數： 4分; 間歇痛 ; 
+Plan 
+local inj with steroid and Xylocaine into Lt A-C: pain decreased
+hot packing
+RTC 2 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 719.41 Shoulder pain  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Triamcinolone Susp inj 10 mg/1 mL /amp 常備藥 10 mg STAT IL 1 1 amp 健保  2015/10/16 已確認 已批 張宗訓  
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 7 14 cap 健保  2015/10/16 已確認 已批 張宗訓  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32013CTM Shoulder Both on One Film 1  Y 2015/10/16 執行、已批 小部位:Both Shoulder In One Film
+完成：2015/10/16
+ 張宗訓 
+治療 39018C00 肌腱注射 1  N 2015/10/16 執行、已批 完成：2015/10/16
+ 張宗訓 
+ 
+Subjective 
+Lt shoulder pain with extension for half a year
+rehab for 3 mo in vain
+night pain with lying on affected side
+Lt hip pain also noted
+
+Lt shoulder pain decreased after local inj
+bil knee pain persisted 
+Objective 
+ROM of bil shoulder symmetric actively and passively
+local tenderness over Lt A-C joint
+no impingement over Lt shoulder
+SS 5/5
+IS 5/5
+SC 5/5
+Patrick test (-) bil
+local tenderness over Lt buttock area
+CxR: Lt A-C OA
+疼痛評估：疼痛指數： 4分; 間歇痛 ; 
+Plan 
+observaiton
+RTC end of this Dec
+take X ray of bil knee 3 view then 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 715.36 Osteoarthritis, knee 慢 傳 職  
+M 719.41 Shoulder pain  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 28 56 cap 健保  2015/10/30 已確認 已批 張宗訓  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 000MP034 Knee: Both 1  Y 2015/10/30 執行、已批 小部位:STANDING
+完成：2015/12/25
+ 張宗訓 
+影醫 000MP040 Patella, Both 1  Y 2015/10/30 執行、已批 小部位:MERCHANTS VIEW
+完成：2015/12/25
+ 張宗訓 
+ 
+
+Subjective 
+Lt shoulder pain with extension for half a year
+rehab for 3 mo in vain
+night pain with lying on affected side
+Lt hip pain also noted
+
+Lt shoulder pain decreased after local inj
+bil knee pain persisted
+
+Lt shoulder no pain
+Rt popliteal and Rt heel pain and Rt elbow pain recently
+ulcer after NSAID 
+Objective 
+ROM of bil shoulder symmetric actively and passively
+local tenderness over Lt A-C joint
+no impingement over Lt shoulder
+SS 5/5
+IS 5/5
+SC 5/5
+local tenderness over medial epicondyle of Rt humerus and Rt heel
+X ray of bil knee: OA,stage I
+疼痛評估：疼痛指數： 2分; 間歇痛 ;
+萬芳醫院玻尿酸注射記錄掃描留存病歷(last inj. time 104/9/24) 
+Plan 
+observaiton
+RTC end of next Mar 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 719.41 Shoulder pain  
+O 715.36 Osteoarthritis, knee 慢 傳 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Indol Gel 1% 10 g/tube 1 XX BID D 28 4 tube 健保 3 2015/12/25 已確認 已批 張宗訓 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 719.41 Shoulder pain  
+O 715.36 Osteoarthritis, knee 慢 傳 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Indol Gel 1% 10 g/tube 1 XX BID D 28 4 tube 健保 3 2016/01/13 已確認 已批 林小琴 
+ 
+
+Subjective 
+Lt shoulder pain with extension for half a year
+rehab for 3 mo in vain
+night pain with lying on affected side
+Lt hip pain also noted
+
+Lt shoulder pain decreased after local inj
+bil knee pain persisted
+
+Lt shoulder no pain
+Rt popliteal and Rt heel pain and Rt elbow pain recently
+ulcer after NSAID
+
+bil knee pain aggravated recently 
+Objective 
+ROM of bil shoulder symmetric actively and passively
+local tenderness over Lt A-C joint
+no impingement over Lt shoulder
+SS 5/5
+IS 5/5
+SC 5/5
+local tenderness over medial epicondyle of Rt humerus and Rt heel
+X ray of bil knee: OA,stage I
+疼痛評估：疼痛指數： 2分; 間歇痛 ;
+萬芳醫院玻尿酸注射記錄掃描留存病歷(last inj. time 104/9/24) 
+Plan 
+Hyalgan inj,bil knee, 1s rt time
+RTC 1 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O M25.519 Shoulder pain, unspecified side 慢  
+M M17.9 Osteoarthritis, knee 慢 傳 職  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 39005C00 關節腔內注射 2  N 2016/03/25 執行、已批 完成：2016/03/25
+ 張宗訓 
+醫材 20279803 關節內注射劑(膝爾康) 2  N 2016/03/25 執行、已批 完成：2016/03/25
+ 張宗訓 
+ 
+
+Subjective 
+Lt shoulder pain with extension for half a year
+rehab for 3 mo in vain
+night pain with lying on affected side
+Lt hip pain also noted
+
+Lt shoulder pain decreased after local inj
+bil knee pain persisted
+
+Lt shoulder no pain
+Rt popliteal and Rt heel pain and Rt elbow pain recently
+ulcer after NSAID
+
+bil knee pain decreased 
+Objective 
+ROM of bil shoulder symmetric actively and passively
+local tenderness over Lt A-C joint
+no impingement over Lt shoulder
+SS 5/5
+IS 5/5
+SC 5/5
+local tenderness over medial epicondyle of Rt humerus and Rt heel
+X ray of bil knee: OA,stage I
+疼痛評估：疼痛指數： 2分; 間歇痛 ;
+萬芳醫院玻尿酸注射記錄掃描留存病歷(last inj. time 104/9/24) 
+Plan 
+Hyalgan inj,bil knee, 2nd time
+RTC 1 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M17.9 Osteoarthritis, knee 慢 傳 職  
+O M25.519 Shoulder pain, unspecified side 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 39005C00 關節腔內注射 2  N 2016/04/01 執行、已批 完成：2016/04/01
+ 張宗訓 
+醫材 20279803 關節內注射劑(膝爾康) 2  N 2016/04/01 執行、已批 完成：2016/04/01
+ 張宗訓 
+ 
+
+Subjective 
+Lt shoulder pain with extension for half a year
+rehab for 3 mo in vain
+night pain with lying on affected side
+Lt hip pain also noted
+
+Lt shoulder pain decreased after local inj
+bil knee pain persisted
+
+Lt shoulder no pain
+Rt popliteal and Rt heel pain and Rt elbow pain recently
+ulcer after NSAID
+
+bil knee pain decreased 
+Objective 
+ROM of bil shoulder symmetric actively and passively
+local tenderness over Lt A-C joint
+no impingement over Lt shoulder
+SS 5/5
+IS 5/5
+SC 5/5
+local tenderness over medial epicondyle of Rt humerus and Rt heel
+X ray of bil knee: OA,stage I
+疼痛評估：疼痛指數： 2分; 間歇痛 ;
+萬芳醫院玻尿酸注射記錄掃描留存病歷(last inj. time 104/9/24) 
+Plan 
+Hyalgan inj,bil knee, 3rd time
+RTC 3 mo 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M M17.9 Osteoarthritis, knee 慢 傳 職  
+O M25.519 Shoulder pain, unspecified side 慢  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 39005C00 關節腔內注射 2  N 2016/04/08 執行、已批 完成：2016/04/08
+ 張宗訓 
+醫材 20279803 關節內注射劑(膝爾康) 2  N 2016/04/08 執行、已批 完成：2016/04/08
+ 張宗訓 
+ 

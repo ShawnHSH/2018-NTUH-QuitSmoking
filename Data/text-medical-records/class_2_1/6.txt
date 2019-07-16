@@ -1,0 +1,191 @@
+﻿
+Subjective 
+recurrent blood in stool in recent days. 
+Objective 
+DRE: internal hemo grade 2 
+Plan 
+colonoscope (IVG) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 578.1 Blood in stool  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/06/15 已確認 已批B 吳靜宜  
+Transamin 250 mg/cap 1 cap TID PO 7 21 cap 健保  2015/03/10 已確認 已批 周宗欣  
+栓 Bisacodyl Supp 10 mg/pill 1 pill AS ORDER R 1 1 pill 內含  2015/03/10 已確認 已批 周宗欣  
+口服 Dulcolax EC 5 mg/tab 4 tab AS ORDER PO 1 4 tab 內含  2015/03/10 已確認 已批 周宗欣  
+MAGVAC Soln 250 mL/btl 1 btl ONCE PO 1 1 btl 內含  2015/03/10 已確認 已批 周宗欣  
+Sokerz Supp /pill 1 pill HS R 14 14 pill 健保  2015/03/10 已確認 已批 周宗欣  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 28017CUS [總院]大腸鏡檢查(麻醉)-(內視鏡科)(內含藥Magvac) 1  N 2015/03/10 執行、已批 是否為國健局癌篩個案:否
+有無使用抗凝血藥物:無
+有無使用抗排斥藥物:無
+完成：2015/06/15
+ 周宗欣 
+治療 000U0144 Endoscopic Sedation 1 自費 N 2015/06/15 執行、已批 完成：2015/06/15
+ 吳靜宜 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/10 已批 完成：2015/03/10  
+行政費用 00156A00 一般門診診察費－就診人次在合理量 1  N 2015/03/10 已批 完成：2015/03/10  
+行政費用 05205A00 門診藥事服務費(一般性處方給藥１４～２７天) 1  N 2015/03/10 已批 完成：2015/03/10  
+ 
+ 
+
+預約日期 時段 序號 院區 檢查室 地點 
+2015/6/15 上午 5 總院區 內視鏡(三診) 東址一樓(新大樓)內視鏡治療中心【第三診】 
+ 
+
+Subjective 
+recurrent blood in stool in recent days. 
+Objective 
+【20150615】[總院]大腸鏡檢查(麻醉)-(內視鏡科)(內含藥Magvac) :Hemorrhoid
+ Indication :
+   Bloody stool
+ Colon preparation :
+   Niflec
+ Condition :
+   Excellent
+ Instrument :
+   CF-Q260AL .16
+ Insertion level :
+   Cecum
+ Pre-medication :
+   Buscopan
+ Anesthesia :
+   Dromucum+Rapifen+Propofol
+ Cleansing time :
+   Evening
+ Medication history :
+   Nil
+ Colonoscopic Findings :
+   The scope reached cecum smoothly. One Isp polyp was noted at anorectal ring. 
+   Hemorhroids were also found.
+ Endoscopic Diagnosis :
+   Hemorrhoids
+   Lower rectum polyp
+ Complication :
+   Negative
+DRE: internal hemo grade 2 
+Plan 
+admission for OP 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 578.1 Blood in stool  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Sokerz Supp /pill 1 pill HS R 14 14 pill 健保  2015/06/23 已確認 已批 周宗欣
+
+
+Subjective 
+recurrent blood in stool in recent days. 
+Objective 
+【20150702】Hemorrhoid, r/o polyp :Anorectum,hemorrhoidectomy,hemorrhoid and tubular adenoma 
+Plan 
+RTC 2 week. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 578.1 Blood in stool  
+O 564.0 Constipation 慢  
+O 455.6 Hemorrhoid 慢  
+O 211.3 Colon polyp 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Naposin 250 mg/tab 1 tab TIDPC PO 14 42 tab 健保  2015/07/07 已確認 已批 周宗欣  
+MgO 250 mg/tab 2 tab TID PO 14 84 tab 健保  2015/07/07 已確認 已批 周宗欣 
+ 
+ 
+Subjective 
+recurrent blood in stool in recent days. 
+Objective 
+【20150615】[總院]大腸鏡檢查(麻醉)-(內視鏡科)(內含藥Magvac) :Hemorrhoid
+ Indication :
+   Bloody stool
+ Colon preparation :
+   Niflec
+ Condition :
+   Excellent
+ Instrument :
+   CF-Q260AL .16
+ Insertion level :
+   Cecum
+ Pre-medication :
+   Buscopan
+ Anesthesia :
+   Dromucum+Rapifen+Propofol
+ Cleansing time :
+   Evening
+ Medication history :
+   Nil
+ Colonoscopic Findings :
+   The scope reached cecum smoothly. One Isp polyp was noted at anorectal ring. 
+   Hemorhroids were also found.
+ Endoscopic Diagnosis :
+   Hemorrhoids
+   Lower rectum polyp
+ Complication :
+   Negative
+
+
+Anorectum, hemorrhoidectomy: hemorrhoid and tubular adenoma
+
+The specimen submitted consists of 2 tissue fragments measuring up to
+3 x 1 x 0.2 cm in size fixed in formalin.
+
+Grossly, they are soft tan.
+
+
+
+【20150702】Hemorrhoid, r/o polyp :Anorectum,hemorrhoidectomy,hemorrhoid and tubular adenoma 
+Plan 
+explain 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 578.1 Blood in stool  
+O 211.3 Colon polyp 慢  
+O 455.6 Hemorrhoid 慢  
+O 564.0 Constipation 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+MgO 250 mg/tab 1 tab TID PO 28 84 tab 健保  2015/07/21 已確認 已批 周宗欣 
+ 
+
+Subjective 
+Ask for follow up CEA
+郵局員工體檢=> CEA:6.76 
+Objective 
+【20150701】Chest : PA View (Standing) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M V65.49 Other specified counseling  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12021C0P CEA 1 自費 N 2015/12/18 執行、已批 Specimen:BLO
+完成：2016/01/26
+ 賴和賢 
+ 
+
+ 

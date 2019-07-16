@@ -1,0 +1,256 @@
+﻿
+Subjective 
+Stable; Seroquel does help his sleep induction. 
+Objective 
+Stable on medication; some questions raised. 
+Assessment 
+Stable on current regimen; bipolar disorder, involuntary movement disorder. 
+Plan 
+Continue current regimen; P/T. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2014/12/18 已確認 已批 丘彥南  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2014/12/18 已確認 已批 丘彥南 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2014/12/18 已確認 已批 丘彥南  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/01/13 已確認 已批 張雅婷  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/01/13 已確認 已批 張雅婷 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/01/13 已確認 已批 張雅婷  
+ 
+
+Subjective 
+Stable; Seroquel does help his sleep induction. 
+Objective 
+Stable on medication; discussed about his idea and what he tried. 
+Assessment 
+Stable on current regimen; bipolar disorder, involuntary movement disorder. 
+Plan 
+Continue current regimen; P/T. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/02/12 已確認 已批 丘彥南  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/02/12 已確認 已批 丘彥南 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/02/12 已確認 已批 丘彥南  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 45010C00 支持性心理治療 1  N 2015/02/12 執行、已批 完成：2015/02/12
+ 丘彥南 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/03/06 已確認 已批 黃品翰  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/03/06 已確認 已批 黃品翰 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/03/06 已確認 已批 黃品翰 
+ 
+
+Subjective 
+Stable; Seroquel does help his sleep induction; failed to pass for 3 courses last term; 這學期修少一些學分. 
+Objective 
+Stable on medication; discussed about his idea and what he tried; has idea to learn some skills in fixing cars. 
+Assessment 
+Stable on current regimen; bipolar disorder, involuntary movement disorder. 
+Plan 
+Continue current regimen; P/T. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/04/09 已確認 已批 丘彥南  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/04/09 已確認 已批 丘彥南 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/04/09 已確認 已批 丘彥南 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/05/06 已確認 已批 張慧如  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/05/06 已確認 已批 張慧如 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/05/06 已確認 已批 張慧如  
+ 
+
+Subjective 
+Stable; Seroquel does help his sleep induction; failed to pass for 3 courses last term; 這學期修少一些學分; ever tried a part time job in a bank; diffcult course(財務工程研討). 
+Objective 
+Stable on medication; discussed about his idea and what he tried. 
+Assessment 
+Stable on current regimen; bipolar disorder, involuntary movement disorder. 
+Plan 
+Continue current regimen; P/T. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/06/04 已確認 已批 丘彥南  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/06/04 已確認 已批 丘彥南 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/06/04 已確認 已批 丘彥南  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/07/01 已確認 已批 湯秀筠  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/07/01 已確認 已批 湯秀筠 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/07/01 已確認 已批 湯秀筠 
+ 
+
+Subjective 
+Stable. 
+Objective 
+Stable on medication. 
+Assessment 
+Stable on current regimen; bipolar disorder, involuntary movement disorder. 
+Plan 
+Continue current regimen; P/T. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/07/30 已確認 已批 丘彥南  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/07/30 已確認 已批 丘彥南 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/07/30 已確認 已批 丘彥南  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/08/19 已確認 已批 林懿萱  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/08/19 已確認 已批 林懿萱 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/08/19 已確認 已批 林懿萱 
+ 
+
+Subjective 
+Stable; already got 122學分, still needs 12學分. 
+Objective 
+Stable on medication. 
+Assessment 
+Stable on current regimen; bipolar disorder, involuntary movement disorder. 
+Plan 
+Continue current regimen; P/T. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/09/24 已確認 已批 丘彥南  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 3 2015/09/24 已確認 已批 丘彥南 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/09/24 已確認 已批 丘彥南 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/10/19 已確認 已批 林靖軒  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 3 2015/10/19 已確認 已批 林靖軒 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/10/19 已確認 已批 林靖軒 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/11/09 已確認 已批 魏育瑄  
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 3 2015/11/09 已確認 已批 魏育瑄 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 3 2015/11/09 已確認 已批 魏育瑄 
+ 
+
+Subjective 
+Stable; already got 122學分, still needs 12學分; wants to quit from smoking after having deeper thought of his health; would like to get help from 戒菸門診; ever tried to work(搬家公司) quitted it 3 days later; confident for the courses taken this term; still has two courses to be completed next term. 
+Objective 
+Stable on medication. 
+Assessment 
+Stable on current regimen; bipolar disorder, involuntary movement disorder. 
+Plan 
+Continue current regimen; P/T; refer to 戒菸門診. 20160204取消連處：遺失連續處方，須於病歷上填寫切結 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/12/17 已確認 已批 丘彥南 特殊醫囑:20160204取消連處：遺失連續處方，須於病歷上填寫切結 
+ 
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2015/12/17 已確認 已批 丘彥南 特殊醫囑:20160204取消連處：遺失連續處方，須於病歷上填寫切結 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2015/12/17 已確認 已批 丘彥南 特殊醫囑:20160204取消連處：遺失連續處方，須於病歷上填寫切結  
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 296.66 Bipolar affective disorder, mixed, in full remission 重 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+SeroQuel 25 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2016/01/05 已確認 已批 陳怡君 特殊醫囑:20160204取消連處：遺失連續處方，須於病歷上填寫切結 
+ 
+LAMICTAL 50 mg/tab 5 tab AS ORDER PO 28 140 tab 健保 2 2016/01/05 已確認 已批 陳怡君 特殊醫囑:20160204取消連處：遺失連續處方，須於病歷上填寫切結 特殊劑量:早上2錠, 睡前3錠 
+ 
+Depakine Chrono 500 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/01/05 已確認 已批 陳怡君 特殊醫囑:20160204取消連處：遺失連續處方，須於病歷上填寫切結  
+ 

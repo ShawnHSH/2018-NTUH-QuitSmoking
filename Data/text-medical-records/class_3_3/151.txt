@@ -1,0 +1,3187 @@
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-14 area, healing: OK
+VAS:3
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)
+MM under zometa (x 1Y), prepare for BMT at NTUH
+ 
+Plan 
+topical medication
+RTC 4 wks
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2014/11/11 執行、已批 齒位1:16
+完成：2014/11/12
+ 李正�� 
+ 
+
+Subjective 
+no special complaints at this visit 
+Objective 
+no special physical exam at this visit 
+Assessment 
+MM, disease may be at early relapse, but not in progression 
+Plan 
+arrange the admission for the high dose chemotherapy and AuSCT admitted on 15 Dec 2014; pre-BVMT bone marrow exam on next W3 also for screening test for oral proteasome inh as a maintenance 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2014/11/28 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2014/11/28 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08128B0P Bone marrow smear differentiation count 1  N 2014/11/28 執行、已批 Specimen:BON
+完成：2014/12/03
+ 黃聖懿 
+檢驗 12206B05 Leukocyte surface marker(≧31 markers)(建議勾選) 1  N 2014/11/28 執行、已批 Specimen:BON
+完成：2014/12/03
+ 黃聖懿 
+病理 25004C0W Surgical pathology Level IV 1  N 2014/11/28 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2014/12/03
+ 黃聖懿 
+病理 25007BZW Cytogenetics 1  N 2014/11/28 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2014/12/03
+ 黃聖懿 
+病理 25012B0W Immunohistochemical stains, each antibody 4  N 2014/12/04 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2014/12/04
+ 徐珮君 
+檢查 29014B99 Bone Marrow Aspiration (骨髓穿刺) 1  N 2014/11/28 執行、已批 完成：2014/12/03
+ 黃聖懿 
+治療 29014B0A Bone marrow puncture 1  N 2014/11/28 執行、已批 完成：2014/12/03
+ 黃聖懿 
+治療 29032B00 Bone marrow biopsy 1  N 2014/11/28 執行、已批 完成：2014/12/03
+ 黃聖懿 
+醫材 20261702 Bone marrow biopsy needle 1  N 2014/11/28 執行、已批 完成：2014/12/03
+ 黃聖懿 
+醫材 20261712 BM aspiration needle (Disposable) 1  N 2014/11/28 執行、已批 完成：2014/12/03
+ 黃聖懿 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-14 area, healing: OK except 3 x 3  mm bone exposure at #17 area
+VAS:.o3
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)
+MM under zometa (x 1Y), prepare for BMT at NTUH
+ 
+Plan 
+topical medication
+N/S irrigation
+plan to receive BMT next week
+RTC 4 wks
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 203.00 Multiple myeloma 重 慢 職 癌  
+M 526.4 Osteomyelitis, jaw  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2014/12/04 執行、已批 齒位1:16
+完成：2014/12/10
+ 李正�� 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 526.4 Osteomyelitis, jaw  
+M 203.00 Multiple myeloma 重 慢 職 癌  
+O 521.0 Dental caries  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2014/12/31 執行、已批 Specimen:BLO
+完成：2015/01/16
+ 田豐銘 
+檢驗 08013CZP WBC classification 1  N 2014/12/31 執行、已批 Specimen:BLO
+完成：2015/01/16
+ 田豐銘 
+ 
+
+Subjective 
+just discharge from the hospital because of AuSCT for his myeloma; no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+BT 37
+weight up to 56Kgs 
+Assessment 
+MM, disease may be at early relapse, but not in progression
+MM, s/p AuSCT, day 0 was 19 Dec 2014 
+Plan 
+keep on the present medications and been followed at one month from now and he will be enrolled into a clinical trial with oral MLN9708 as a maintenance therapy after the AuSCT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/01/16 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/01/16 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12103B0P IFE 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09027CZP ALP 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09002CZP *BUN 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09025CZP AST(GOT) 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 27051B0P Beta 2- microglobulin 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 09033CZP LDH 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/11
+ 黃聖懿 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-14 area, healing: OK except 6 x 6  mm bone exposure at #17 area
+VAS:.o3
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)
+MM under zometa (x 1Y), prepare for BMT at NTUH
+ 
+Plan 
+N/S irrigation
+RTC 4 wks
+
+Pre-OP diagnosis:#17 BRONJ
+Post-OP diagnosis:#17 BRONJ s/p sequestrectomyy
+OP method:#17 sequestrectomy
+OP finding:#17 bone exposure, 6x6 mm
+OP procedures:
+1.Disinfection and draping, local anesthesia application, 3.6ml 2% Lidocaine with 1:80000 epinephrine
+2.Flap reflection, remove sequestrum with rounger 
+3.Suture with 3-0 silk, 3 stitches, gauze packing.
+Specimen:1 piece
+Estimate blood loss:
+Antibiotic and analgesics medication was given for pain control and infection prophylaxis
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 5 15 cap 健保  2015/01/21 已確認 已批 李正�� 
+ 
+病理 25003C0W Surgical pathology Level III 1  N 2015/02/04 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/01/21
+ 劉育豪 
+治療 92025B00 SEQUESTRECTOMY,<1/3 ARCH 1  N 2015/01/21 執行、已批 齒位1:17
+完成：2015/01/21
+ 李正�� 
+
+Subjective 
+just discharge from the hospital because of AuSCT for his myeloma; no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+BT 37
+weight up to 56Kgs 
+Assessment 
+MM, disease may be at early relapse, but not in progression
+MM, s/p AuSCT, day 0 was 19 Dec 2014 
+Plan 
+keep on the present medications and been followed at one month from now and he will be enrolled into a clinical trial with oral MLN9708 as a maintenance therapy after the AuSCT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/02/13 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/02/13 已確認 已批 黃聖懿  
+Regrow SR 60 mg/tab 1 tab BID PO 7 14 tab 健保  2015/02/13 已確認 已批 黃聖懿  
+(DC)Mucosolvan 30 mg/tab 1 tab BID PO 7 14 tab 健保  2015/02/13 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09015CZP Creatinine (Blood) 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09027CZP ALP 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09002CZP *BUN 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09025CZP AST(GOT) 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 27051B0P Beta 2- microglobulin 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 12015CZP C-Reactive Protein,CRP 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+檢驗 09033CZP LDH 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/03/11
+ 黃聖懿 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-14 area, healing: OK except 6 x 6  mm bone exposure at #17 area
+VAS:.o3
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+N/S irrigation
+RTC 2M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2015/02/24 執行、已批 齒位1:16
+完成：2015/02/25
+ 李正�� 
+ 
+
+Subjective 
+just discharge from the hospital because of AuSCT for his myeloma; no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+BT 37
+weight up to 56Kgs 
+Assessment 
+MM, disease may be at early relapse, but not in progression
+MM, s/p AuSCT, day 0 was 19 Dec 2014 
+Plan 
+keep on the present medications and been followed at one month from now and he will be enrolled into a clinical trial with oral MLN9708 as a maintenance therapy after the AuSCT
+
+NTUH-REC No.:201405082MSB (Version:1.4)
+Study Title：A Phase 3, Randomized, Placebo-Controlled, Double-Blind Study of Oral Ixazomib Citrate (MLN9708) Maintenance Therapy in Patients With Multiple Myeloma Following Autologous Stem Cell Transplant
+The subject AAA has been provided the sheet of Clinical Trial/Research Note and was fully explained the content of the Screening informed consent form on 2015/02/13(yyyy/mm/dd) by V □Principle Investigator □Co-Investigator □Other: (identity):(name)Shang-Yi Huang. The subject had enough time to consider and ask all questions regarding the study.
+The subject had signed informed consent form on 2015/03/13 (yyyy/mm/dd). 
+A copy of the signed informed consent form was provided to the subject.
+
+Principle Investigator\Co-Investigator：Shang-Yi Huang 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Naposin 250 mg/tab 1 tab BIDPC PO 7 14 tab 健保  2015/03/13 已確認 已批 黃聖懿  
+(DC)Gaster D 20 mg/tab 1 tab BID LZ 7 14 tab 健保  2015/03/13 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08128B0P Bone marrow smear differentiation count 1  N 2015/03/13 執行、已批 Specimen:BON
+完成：2015/03/17
+ 黃聖懿 
+檢驗 12206B05 Leukocyte surface marker(≧31 markers)(建議勾選) 1  N 2015/03/13 執行、已批 Specimen:BON
+完成：2015/03/18
+ 黃聖懿 
+檢驗 18001C0P ECG routine 1  N 2015/03/24 執行、已批 Specimen:ECG
+完成：2015/03/25
+ 黃聖懿 
+影醫 32021BZM Bone Survey 1  N 2015/03/24 執行、已批 小部位:WHOLE BODY BONE SURVEY
+完成：2015/03/25
+ 黃聖懿 
+病理 25004C0W Surgical pathology Level IV 1  N 2015/03/13 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/03/17
+ 黃聖懿 
+病理 25012B0W Immunohistochemical stains, each antibody 2  N 2015/03/18 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/03/18
+ 劉育豪 
+檢查 29014B99 Bone Marrow Aspiration (骨髓穿刺) 1  N 2015/03/13 執行、已批 完成：2015/03/17
+ 黃聖懿 
+治療 29014B0A Bone marrow puncture 1  N 2015/03/13 執行、已批 完成：2015/03/17
+ 黃聖懿 
+治療 29032B00 Bone marrow biopsy 1  N 2015/03/13 執行、已批 完成：2015/03/17
+ 黃聖懿 
+醫材 20261702 Bone marrow biopsy needle 1  N 2015/03/13 執行、已批 完成：2015/03/17
+ 黃聖懿 
+醫材 20261712 BM aspiration needle (Disposable) 1  N 2015/03/13 執行、已批 完成：2015/03/17
+ 黃聖懿 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-14 area, healing: OK except 6 x 6  mm bone exposure at #17 area
+VAS:.o3
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+N/S irrigation
+RTC 1M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 5 15 cap 健保  2015/03/16 已確認 已批 李正��  
+PARAMOL 500 mg/tab 1 tab QID PO 5 20 tab 健保  2015/03/16 已確認 已批 李正��  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 DENT0001 [不收費]局部電腦斷層攝影 1  N 2015/03/16 刪除、刪除、未看完 完成：2015/03/16
+ 李正�� 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/03/16 執行、已批 齒位1:FM
+完成：2015/03/16
+ 李正�� 
+治療 92066C00 特定局部治療 1  N 2015/03/16 執行、已批 齒位1:16
+完成：2015/03/16
+ 李正�� 
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+BT 37
+weight up to 56Kgs 
+Assessment 
+MM, disease may be at early relapse, but not in progression
+MM, s/p AuSCT, day 0 was 19 Dec 2014 
+Plan 
+He enrolled into a clinical trial with oral MLN9708 at C1D1 on 2015-3-30
+as a maintenance therapy after the AuSCT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+<試> MLN9708-C16019 3 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/03/30 已確認 已批 黃聖懿 特殊醫囑:54903-001 Med ID Number(s):2039766 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/03/30 報到、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/03/30 報到、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 12103B0P IFE 1 自費 N 2015/03/30 執行、已批 Specimen:UR3
+完成：2015/04/27
+ 黃聖懿 
+檢驗 09065BYP Other Body Fluie Electrophoresis 1 自費 N 2015/03/30 執行、已批 SITE:urine
+Specimen:UR3
+完成：2015/03/30
+ 黃聖懿 
+檢驗 09040CTP Total Protein (Urine) 1 自費 N 2015/03/30 執行、已批 Specimen:UR3
+完成：2015/03/30
+ 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+no fever
+weight up to 57 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+He enrolled into a clinical trial with oral MLN9708/placebo at C1D1 on 2015-3-30 as a maintenance therapy after the AuSCT and will be followed at one month from now 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/03/30 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/03/30 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/03/30 已批 完成：2015/03/30  
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-14 area, healing: OK except 6 x 6  mm bone exposure at #17 area, pus (+)
+VAS:.3
+smoking(+)
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+N/S irrigation
+RTC 1M (next: pano X check)
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 7 21 cap 健保  2015/04/13 已確認 已批 李正�� 
+ 
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2015/04/10 執行、已批 齒位1:16
+完成：2015/04/13
+ 李正�� 
+
+Subjective 
+no special complaints at this visit, subjectively better and sl. weight gain
+otherwise, BRONJ under oral antibiotic treatment 
+Objective 
+OP wound: 13-14 area, healing: OK except 6 x 6  mm bone exposure at #17 area, pus (+)
+VAS:3 
+smoking(+)
+171cm, 58kg , BP: 147/80 ,P:97 , BT:36.5degree 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)
+MM under zometa (x 1Y), s/p BMT at NTUH s/P MLN9708/placebo 
+Plan 
+He enrolled into a clinical trial with oral MLN9708/placebo at C1D2 on 2015-4-27 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+<試> MLN9708-C16019 3 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/04/27 已確認 已批 黃聖懿 特殊醫囑:54903-001 C2D1 IP: 2020924  
+ 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/04/25 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/04/25 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/04/25 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/04/25 開立、已批 Specimen:BLO
+ 黃聖懿 
+
+Subjective 
+no special complaints at this visit, subjectively better and sl. weight gain
+otherwise, BRONJ under oral antibiotic treatment 
+Objective 
+no special physical exam at this visit
+no fever
+weight up to 57 Kgs
+OP wound: 13-14 area, healing: OK except 6 x 6  mm bone exposure at #17 area, pus (+)
+VAS:.3
+smoking(+)
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing) 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)
+MM under zometa (x 1Y), s/p BMT at NTUH 
+Plan 
+He enrolled into a clinical trial with oral MLN9708/placebo at C1D1 on 2015-3-30 as a maintenance therapy after the AuSCT and will be followed at one month from now
+N/S irrigation
+RTC 1M (next: pano X check) 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+O 526.4 Osteomyelitis, jaw  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 14 42 cap 健保  2015/04/27 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/04/27 已批 完成：2015/04/27  
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-14 area, healing: OK except 10x10  mm bone exposure at #17 area, mobiled, pus (+)
+VAS:.3
+smoking(+)
+pano X: 
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+Mx: Sequestrectomy over #17 was performed under LA. A 1x1 cm sequestrum was submited for patho exam.
+pano X
+RTC 1M
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 5 20 tab 健保  2015/05/04 已確認 已批 李正�� 
+ 
+病理 25003C0W Surgical pathology Level III 1  N 2015/06/03 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/05/05
+ 劉育豪 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/05/04 執行、已批 齒位1:FM
+完成：2015/05/04
+ 李正�� 
+治療 92025B00 SEQUESTRECTOMY,<1/3 ARCH 1  N 2015/05/04 執行、已批 齒位1:17
+完成：2015/05/04
+ 李正�� 
+
+Subjective 
+no special complaints at this visit, but loss of appetite during this period of time 
+Objective 
+no special physical exam at this visit
+weight loss 1-2 kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+keep on the present medications add on the oral megace 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Megest Oral Susp 40 mg/1 mL 120 mL/btl 2 mL TID PO 7 1 btl 健保  2015/05/11 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/11 已批 完成：2015/05/11  
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+no fever
+weight up to 57 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and todya is the C3D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/05/25 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/05/25 已確認 已批 黃聖懿  
+Prometin 5 mg/tab 1 tab TIDAC30 PO 28 84 tab 健保  2015/05/25 已確認 已批 黃聖懿  
+Megest Oral Susp 40 mg/1 mL 120 mL/btl 2 mL QID PO 14 1 btl 健保  2015/05/25 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/05/25 已批 完成：2015/05/25 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+<試> MLN9708-C16019 3 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/05/25 已確認 已批 黃聖懿 特殊醫囑:54903-001 5/25,6/1,6/8 MLN9708/Placebo Med ID Number(s) : 2110768 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/05/24 執行、已批 Specimen:BLO
+完成：2015/06/22
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/05/24 執行、已批 Specimen:BLO
+完成：2015/06/22
+ 黃聖懿 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-15 area, healing: OK  , #17: healed, no sign of ONJ
+VAS:.3
+smoking(+)
+
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+pano X
+topical medication
+RTC 3M(next: pano X check)
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2015/05/29 執行、已批 齒位1:17
+完成：2015/06/01
+ 李正�� 
+ 
+
+Subjective 
+diarrhea and fatigue 
+Objective 
+fever free 
+Plan 
+iv fluid supplement 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Taita No.5 400 mL/btl 常備藥 400 mL QD IF 3 3 btl 健保  2015/06/05 已確認 已批 黃聖懿 特殊醫囑:90min (on 6/5,6/8,6/9 
+ 
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL QD IF 3 3 bag 健保  2015/06/05 已確認 已批 黃聖懿 特殊醫囑:90min (on 6/5,6/8,6/9 
+ 
+Regrow SR 60 mg/tab 1 tab BID PO 7 14 tab 健保  2015/06/05 已確認 已批 黃聖懿  
+(DC)Mucosolvan 30 mg/tab 1 tab BID PO 7 14 tab 健保  2015/06/05 已確認 已批 黃聖懿  
+Allegra 60 mg/tab 1 tab BID PO 7 14 tab 健保  2015/06/05 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 39004C00 靜脈點滴注射 3  N 2015/06/05 執行、已批 完成：2015/06/05
+ 黃聖懿 
+醫材 20005528 安全靜脈留置針(針夾式) #24 3  N 2015/06/05 執行、已批 完成：2015/06/05
+ 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+fever free
+no special physical exam at this visit
+weight at 57 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and todya is the C4D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/06/22 已確認 已批 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+fever free
+no special physical exam at this visit
+weight at 56 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and today is on C4D1. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+<試> MLN9708-C16019 3 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/06/22 已確認 已批 黃聖懿 特殊醫囑:54903-001 MLN9708/Placebo ID : 2149600 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09005CZP Glucose (AC) 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09038CZP Albumin(Blood) 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09029CZP BIL T 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09025CZP AST(GOT) 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09027CZP ALP 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09033CZP LDH 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09031CZP Gamma-GT, GGT 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09021CZP Sodium, Na 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09022CZP Potassium, K 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09023CZP Chloride, Cl 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09012CZP Phosphate, P 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09046BZP Magnesium, Mg 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/06/21 執行、已批 Specimen:BLO
+完成：2015/07/20
+ 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+no fever
+weight up to 57 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and todya is the C3D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 21 42 tab 健保  2015/06/29 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/06/29 已批 完成：2015/06/29 
+ 
+
+Subjective 
+no special complaints at this visit, 
+Objective 
+no special physical exam at this visit
+no fever
+weight sl down to 56 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and todya is the C5D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/07/20 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/07/20 已批 完成：2015/07/20 
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+no fever
+weight up to 56 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and todya is the C5D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+<試> MLN9708-C16019 4 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/07/20 已確認 已批 黃聖懿 特殊醫囑:54903-001 C5D1 MLN9708/Placebo ID:1197342 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/07/17 執行、已批 Specimen:BLO
+完成：2015/08/17
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/07/17 執行、已批 Specimen:BLO
+完成：2015/08/17
+ 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, except for the numbness of digits (after escalating up from 3 mg weekly to 4 mg weekly) 
+Objective 
+no special physical exam at this visit
+no fever
+weight sl down to 56 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and today is the C6D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/08/17 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2015/08/17 已確認 已批 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+no fever
+weight up to 56 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and today is the Cycle 6, Day 1 . 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+<試> MLN9708-C16019 4 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/08/17 已確認 已批 黃聖懿 特殊醫囑:Cycle 6 Day 1 54903-001 ID:1017582 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2015/08/16 執行、已批 Specimen:BLO
+完成：2015/09/14
+ 黃聖懿 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/08/20 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/08/20 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 黃聖懿 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/31
+ 黃聖懿 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/08/24 報到、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/08/24 報到、已批 Specimen:BLO
+ 黃聖懿 
+ 
+
+Subjective 
+he is here for the platelet transfusion, since the latest hemogram checked showed pla under 20k/uL 
+Objective 
+no special physical exam at this visit, except for a ecchymosis on his right knee 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+pla transfusion 12u today and will be followed on next Monday 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL STAT IF 1 1 bag 健保  2015/08/21 已確認 已批B 黃聖懿  
+Solu-Cortef 100 mg/vial 100 mg STAT IV 1 1 vial 健保  2015/08/21 已確認 已批 黃聖懿  
+Diphenhydramine HCl 30 mg/1 mL /amp 30 mg STAT IV 1 1 amp 健保  2015/08/21 已確認 已批 黃聖懿 for 2 分 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 11001CXP (備血單 1602785) ABO Blood Type (NewLis) 1  N 2015/08/21 報到、已批 Specimen:BLO
+其他：(1602785 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 ABO Blood Type (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢驗 11003CVP (備血單 1602785) Rh blood Type (NewLis) 1  N 2015/08/21 報到、已批 Specimen:BLO
+其他：(1602785 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 Rh blood Type (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢驗 11004CXP (備血單 1602785) Antibody (Ab) screening (NewLis) 1  N 2015/08/21 報到、已批 Specimen:BLO
+其他：(1602785 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 Antibody (Ab) screening (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢查 000BTR01 不排程，電話聯繫輸血中心 1  N 2015/08/21 開立、已批 單次輸注血品:Leukocyte dep aph PLT.(12U/袋) * 1 袋
+是否含需電血血品:N
+ 黃聖懿 
+治療 000YP002 輸血/輸血小板 1  N 2015/08/21 執行、已批 完成：2015/08/21
+ 黃聖懿 
+醫材 20005529 安全靜脈留置針(針夾式) #22 1  N 2015/08/21 執行、已批 完成：2015/08/21
+ 黃聖懿 
+醫材 20525301 Ｔ型接管 1  N 2015/08/21 執行、已批 完成：2015/08/21
+ 黃聖懿 
+醫材 20004200 輸血套 1  N 2015/08/21 執行、已批 完成：2015/08/21
+ 黃聖懿 
+醫材 20000912 塑膠注射器帶針#５ＣＣ(直叉) 1  N 2015/08/21 執行、已批 完成：2015/08/21
+ 黃聖懿 
+醫材 20000913 塑膠注射器帶針#１０ＣＣ(直叉) 1  N 2015/08/21 執行、已批 完成：2015/08/21
+ 黃聖懿 
+血品 000PP161 減除白血球之分離術血小板 1  N 2015/08/21 已批 完成：2015/08/21 
+ 
+
+Subjective 
+numbness of digits improved at this visit 
+Objective 
+no special physical exam at this visit
+no fever 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+await for the lab results 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL STAT IF 1 1 bag 健保  2015/08/31 已確認 已批B 黃聖懿  
+Solu-Cortef 100 mg/vial 100 mg QD IV 2 2 vial 健保  2015/08/31 待決 已退 黃聖懿  
+Diphenhydramine HCl 30 mg/1 mL /amp 30 mg QD IV 2 2 amp 健保  2015/08/31 待決 已退 黃聖懿 for 2 分 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 11001CXP (備血單 1607148) ABO Blood Type (NewLis) 1  N 2015/08/31 報到、已批 Specimen:BLO
+其他：(1607148 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 ABO Blood Type (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢驗 11003CVP (備血單 1607148) Rh blood Type (NewLis) 1  N 2015/08/31 報到、已批 Specimen:BLO
+其他：(1607148 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 Rh blood Type (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢驗 11004CXP (備血單 1607148) Antibody (Ab) screening (NewLis) 1  N 2015/08/31 報到、已批 Specimen:BLO
+其他：(1607148 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 Antibody (Ab) screening (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢驗 11001CXP (備血單 1607149) ABO Blood Type (NewLis) 1  N 2015/08/31 報到、已批 Specimen:BLO
+其他：(1607149 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 ABO Blood Type (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢驗 11003CVP (備血單 1607149) Rh blood Type (NewLis) 1  N 2015/08/31 報到、已批 Specimen:BLO
+其他：(1607149 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 Rh blood Type (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢驗 11004CXP (備血單 1607149) Antibody (Ab) screening (NewLis) 1  N 2015/08/31 報到、已批 Specimen:BLO
+其他：(1607149 備 Leukocyte dep aph PLT.(12U/袋) * 1 袋)：檢驗 Antibody (Ab) screening (NewLis) 請輸血當日或前三日內至輸血中心備血
+ 黃聖懿 
+檢查 000BTR01 不排程，電話聯繫輸血中心 1  N 2015/08/31 開立、已批 單次輸注血品:Leukocyte dep aph PLT.(12U/袋) * 1 袋
+是否含需電血血品:N
+ 黃聖懿 
+檢查 000BTR01 不排程，電話聯繫輸血中心 1  N 2015/08/31 開立、已批 單次輸注血品:Leukocyte dep aph PLT.(12U/袋) * 1 袋
+是否含需電血血品:N
+ 黃聖懿 
+治療 000YP002 輸血/輸血小板 2  N 2015/08/31 執行、已批 完成：2015/08/31
+ 黃聖懿 
+醫材 20005528 安全靜脈留置針(針夾式) #24 2  N 2015/08/31 執行、已批 完成：2015/08/31
+ 黃聖懿 
+醫材 20525301 Ｔ型接管 2  N 2015/08/31 執行、已批 完成：2015/08/31
+ 黃聖懿 
+醫材 20004200 輸血套 2  N 2015/08/31 執行、已批 完成：2015/08/31
+ 黃聖懿 
+醫材 20000912 塑膠注射器帶針#５ＣＣ(直叉) 2  N 2015/08/31 執行、已批 完成：2015/08/31
+ 黃聖懿 
+醫材 20000913 塑膠注射器帶針#１０ＣＣ(直叉) 2  N 2015/08/31 執行、已批 完成：2015/08/31
+ 黃聖懿 
+血品 000PP161 減除白血球之分離術血小板 1  N 2015/08/31 已批   
+血品 000PP161 減除白血球之分離術血小板 1  N 2015/08/31 已批 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+ 
+Objective 
+OP wound: 13-15 area, healing: OK  , #17: healed, no sign of ONJ
+VAS:.3
+smoking(+)
+pano X: no further bone destruction over UR area
+
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+pano X
+topical medication
+RTC 3M(next: pano X check)
+refer to Dr 徐幼群 for denture fabrication
+
+PS dept:
+1.Upper interim denture fabrication
+2.#27,36 require PR evaluation (probing depth>5mm)
+
+Ri游智升/VS徐幼群
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+完成：2015/09/03
+Subjective 
+no special complaints at this visit, and smoke less than before 
+Objective 
+no special physical exam at this visit
+no fever
+weight up to 57 Kgs
+WBC-- 3.80 K/μL(20150914) , PLT-- 105 K/μL(20150914) , Seg-- 71.8 %(20150914) , Band-- 0.0 %(20150914) , ANC-- 2.7284 K/μL(20150914) 
+Assessment 
+MM, MM, s/p AuSCT, was 19 Dec 2014
+at PR 
+Plan 
+go the trial treatment and today is the Cycle 7, Day 1 . 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+<試> MLN9708-C16019 3 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/09/14 已確認 已批 黃聖懿 特殊醫囑:54903-001 C7D1 MLN9708/Placebo ID:2065843 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  N 2015/09/14 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  N 2015/09/14 執行、已批 Specimen:BLO
+完成：2015/10/12
+ 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, better on numberness and also the GI upset 
+Objective 
+no special physical exam at this visit
+no fever
+no special physical exam at this visit
+no fever
+weight sl down to 56 Kgs 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR 
+Plan 
+await for the lab results
+go the trial treatment and today is C7D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+O 356.9 Polyneuropathy 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 14 28 tab 健保  2015/09/14 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 14 28 cap 健保  2015/09/14 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab QID PO 14 56 tab 健保  2015/09/14 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/09/14 已批 完成：2015/09/14 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Valtrex 500 mg/tab 1 tab QD PO 28 28 tab 自費  2015/10/12 已確認 已批 黃聖懿  
+<試> MLN9708-C16019 3 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/10/12 已確認 已批 黃聖懿 特殊醫囑:Subject ID:54903-001 , C8D1, medication No:2149723 ,taken on 10/12,10/19,10/26 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  Y 2015/10/08 執行、已批 Specimen:BLO
+完成：2015/11/09
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  Y 2015/10/08 執行、已批 Specimen:BLO
+完成：2015/11/09
+ 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit, better on numbness and also the GI upset 
+Objective 
+no special physical exam at this visit ,BW: 55 kg, ECOG: 0. 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR
+MM, s/p MLN C16019 Study. 
+Plan 
+await for the lab results
+go the trial treatment C8D1 on 12-Oct-2015 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/10/12 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2015/10/12 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/10/12 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/12 已批 完成：2015/10/12  
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK  , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.#13-15 large previous BRONJ (interarch space=27mm)
+2.missing tooth:
+  8765432 |     6 8
+    6           6   
+3.#27 mobility grade II, PD>5mm(ML=7mm)
+4.#37 mesial tilting tooth, mobility grade I,PD>5mm at M side
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication
+2.#27,36 require PR evaluation (probing depth>5mm)
+
+Today's treatment:
+1.photo record, primary impression
+
+G1林鈺淳/VS徐幼群 
+Nv.:consult perio dept. for 27,37
+ 
+ 
+ 
+ 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/10/19 已批 完成：2015/10/19 
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK  , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.#13-15 large previous BRONJ (interarch space=27mm)
+2.missing tooth:
+  8765432 |     6 8
+    6           6   
+3.#27 mobility grade II, PD>5mm(ML=7mm)
+4.#37 mesial tilting tooth, mobility grade I,PD>5mm at M side
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication
+2.#27,37 require PR evaluation (probing depth>5mm)
+
+Today's treatment:
+1.border molding, guiding planes and rest seat preparation, final impression
+
+G1林鈺淳/VS徐幼群 
+Nv.:consult perio dept. for 27,37
+ 
+ 
+ 
+ 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/02 已批 完成：2015/11/02 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Valtrex 500 mg/tab 1 tab QD PO 28 28 tab 自費  2015/11/09 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  Y 2015/11/05 執行、已批 Specimen:BLO
+完成：2015/11/14
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  Y 2015/11/05 執行、已批 Specimen:BLO
+完成：2015/11/14
+ 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit 
+Objective 
+no special physical exam at this visit ,BW: 57 kg, ECOG: 0.
+【20151109】WBC: 2.35   K/μL
+【20151109】PLT: 67   K/μL
+【20151109】HB: 11.9   g/dL 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR
+MM, s/p MLN C16019 Study. 
+Plan 
+hold Ixazomib/placebo treatment because of plt:67 K/μL
+follow up the plt next week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2015/11/09 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/11/09 已確認 已批 黃聖懿 
+ 
+
+Subjective 
+no special complaints at this visit 
+Objective 
+no special physical exam at this visit ,BW: 58 kg, ECOG: 0.
+WBC-- 3.44 K/μL(20151114) , PLT-- 83 K/μL(20151114) , Seg-- 66.3 %(20151114) , 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR
+MM, s/p MLN C16019 Study. 
+Plan 
+keep the ixazomib treatment of C9D1 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Valtrex 500 mg/tab 1 tab QD PO 7 7 tab 自費  2015/11/16 已確認 已批 黃聖懿 重複原因:自費買藥
+ 
+<試> MLN9708-C16019 3 mg/1 cap 3 cap/box 1 cap QW PO 21 1 box 自費  2015/11/16 已確認 已批 黃聖懿 特殊醫囑:54903-001,C9D1,MLN9708/Placebo Med ID Number(s) : 2085112;take on 11/16,11/23,11/30 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CYP CBC & platelet(STAT) 1  Y 2015/11/16 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 08013CYP WBC Classification(STAT) 1  Y 2015/11/16 開立、已批 Specimen:BLO
+ 黃聖懿 
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK  , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.#13-15 large previous BRONJ (interarch space=27mm)
+2.missing tooth:
+  8765432 |     6 8
+    6           6   
+3.#27 mobility grade II, PD>5mm(ML=7mm)
+  #22 mobility grade II
+4.#37 mesial tilting tooth, mobility grade I,PD>5mm at M side
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication
+2.#27,37 require PR evaluation (probing depth>5mm)
+
+Today's treatment:
+1.check UR border extension
+
+G1林鈺淳/VS徐幼群 
+Nv.:
+check occlusal rim
+consult perio dept. for 27,37
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+3.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility, M side rest seat
+  #22 mobility grade II
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication
+2.27,37 require PR evaluation (probing depth>5mm)(VS徐幼群)
+  
+Today's treatment:
+We originally planned to preserve 27 in interim denture phase, but due to poor periodontal attachment level for denture, we suggested to consult OS dept.,instead of perio dept. for 27,37 extraction
+
+G1林鈺淳/VS胡家源 
+consult OS dept. for evaluation of 27,37 extraction
+Nv.:Change prosthetic design of upper denture
+
+< OMS dept.>
+P't was already arranged ONJ f/u on 11/30(VS李)
+arrange the same day for evaluation of 27,37 extraction
+
+Recorder:R2吳蕙宇
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 525.1 Missing tooth 
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+3.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility, M side rest seat
+  #22 mobility grade II,sufficient bony support
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication
+2.27,37 require PR evaluation (probing depth>5mm)  
+
+Today's treatment:
+check recording base and occlusal rim, facebow transfer and shade selection 
+Check full mouth periapical films, bony support is good except 27,37
+
+G1林鈺淳/VS徐幼群
+Nv.:wax denture try-in
+
+< For OS dept.:>
+Please don't extract 27,37
+Because patient had extraction-related BRONJ history, after discussion with moderator,we decided to preserve 27,37(finally confirmed by Dr.徐)in interim phase, periodontal consultation for 27,37 will be arranged at next visit
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/11/27 已批 完成：2015/11/27 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Objective 
+OP wound: 13-15 area, healing: OK  , #17: healed, no sign of ONJ
+VAS:.3
+smoking(+)
+pano X: no further bone destruction over UR area
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+pano X
+topical medication
+photo
+RTC 4 M(next: pano X check)
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 526.4 Osteomyelitis, jaw  
+O 203.00 Multiple myeloma 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2015/11/24 執行、已批 齒位1:17
+完成：2015/11/30
+ 李正�� 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2015/11/30 執行、已批 齒位1:FM
+完成：2015/11/30
+ 李正�� 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) 針 Tramal Inj 100 mg/2 mL /amp 50 mg ONCE IM 1 1 amp 健保  2015/11/30 已確認 已批 黃聖懿 特殊醫囑:one hour before bone marrow procedure 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/11/30 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2015/11/30 執行、已批 Specimen:BLO
+完成：2015/12/28
+ 黃聖懿 
+檢驗 18001C0P ECG routine 1  N 2015/11/30 執行、已批 Specimen:ECG
+完成：2015/12/28
+ 黃聖懿 
+檢驗 08128B0P Bone marrow smear differentiation count 1  N 2015/11/30 執行、已批 Specimen:BON
+完成：2015/12/10
+ 黃聖懿 
+影醫 32021BZM Bone Survey 1  N 2015/11/30 執行、已批 小部位:WHOLE BODY BONE SURVEY
+完成：2015/12/28
+ 黃聖懿 
+病理 25004C0W Surgical pathology Level IV 1  N 2015/11/30 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/12/10
+ 黃聖懿 
+ 
+檢查 29014B99 Bone Marrow Aspiration (骨髓穿刺) 1  N 2015/11/30 執行、已批 完成：2015/12/10
+ 黃聖懿 
+治療 29014B0A Bone marrow puncture 1  N 2015/11/30 執行、已批 完成：2015/12/10
+ 黃聖懿 
+治療 29032B00 Bone marrow biopsy 1  N 2015/11/30 執行、已批 完成：2015/12/10
+ 黃聖懿 
+醫材 20261702 Bone marrow biopsy needle 1  N 2015/11/30 執行、已批 完成：2015/12/10
+ 黃聖懿 
+醫材 20261712 BM aspiration needle (Disposable) 1  N 2015/11/30 執行、已批 完成：2015/12/10
+ 黃聖懿 
+
+Subjective 
+doing fine but progressive up of his M-protein on the clinical trial which lead to his withdraw
+no special complaints at this visit 
+Objective 
+looking fine
+no special physical exam at this visit ,BW: 58 kg, ECOG: 0.
+WBC-- 3.44 K/μL(20151114) , PLT-- 83 K/μL(20151114) , Seg-- 66.3 %(20151114) , 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR
+MM, s/p MLN C16019 Study. 
+Plan 
+withdraw of C16019 cinical trial.
+last dose was taken on 23-Nov-2015. 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Musco 30 mg/tab 1 tab TID PO 7 21 tab 健保  2015/11/30 已確認 已批 黃聖懿 
+ 
+
+Subjective 
+doing fine but progressive up of his M-protein on the clinical trial which lead to his withdraw
+no special complaints at this visit 
+Objective 
+looking fine
+no special physical exam at this visit ,BW: 58 kg, ECOG: 0.
+WBC-- 3.44 K/μL(20151114) , PLT-- 83 K/μL(20151114) , Seg-- 66.3 %(20151114) , 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR
+MM, s/p MLN C16019 Study. 
+Plan 
+off the trial treatment 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保  2015/12/11 已確認 已批 黃聖懿  
+Rinderon-V Cream 0.06% 5 g/tube 2 XX BID D 28 2 tube 健保  2015/12/11 已確認 已批 黃聖懿 
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+3.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility, M side rest seat
+  #22 mobility grade II,sufficient bony support
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication
+2.27,37 require PR evaluation (probing depth>5mm)  
+
+Today's treatment:
+Wax-denture try-in, discuss lip support, occlusion, tooth arrangement(cross-bite in posterior region)with patient
+consult perio dept.
+G1林鈺淳/VS徐幼群
+Nv.:upper Class II interim denture delivery 
+
+< Consult perio dept.:>
+Because patient had extraction-related BRONJ history, after discussion with moderator,please try periodontal therapy to preserve 27,37 in interim phase
+ 
+ 
+ 
+ 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2015/12/11 已批 完成：2015/12/11 
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+3.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility, M side rest seat
+  #22 mobility grade II,sufficient bony support
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication
+2.27,37 require PR evaluation (probing depth>5mm)  
+
+
+Today's treatment:
+1.upper RPD: check tissue adaptation, occlusion, clinical remount 
+G1林鈺淳/VS徐幼群
+Nv.:upper RPD delivery
+
+< Perio dept>
+27
+B834
+M775
+Mobility:Gr(II)
+
+37
+M553
+B554
+Mobility:Gr(II)
+
+Referred to G1 黃振邦 for 27 37 local Sc/Rp
+
+G1 黃振邦 /VS 張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 525.1 Missing tooth 
+ 
+完成：2015/12/25
+
+Subjective 
+doing fine but progressive up of his M-protein on the clinical trial which lead to his withdraw
+no special complaints at this visit 
+Objective 
+looking fine
+no special physical exam at this visit , ECOG: 0.
+WBC-- 2.25 k/μL(20151228) , PLT-- 91 k/μL(20151228) , Seg-- 48.0 %(20151228) , 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014
+at PR
+MM, s/p MLN C16019 Study. 
+Plan 
+off the trial treatment
+and will be followed at one month from now 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 203.00 Multiple myeloma (MM) 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2015/12/28 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2015/12/28 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2015/12/28 已確認 已批 黃聖懿  
+Rinderon-V Cream 0.06% 5 g/tube 2 XX BID D 28 2 tube 健保  2015/12/28 已確認 已批 黃聖懿 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2015/12/28 執行、已批 Specimen:BLO
+完成：2016/01/20
+ 黃聖懿 
+ 
+
+Subjective 
+For upper denture fabrication
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+3.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility, M side rest seat
+  #22 mobility grade II,sufficient bony support
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+6.25 buccal clasp deform and broken during packing
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Plan :
+1.Upper interim denture fabrication  
+
+Today's treatment:
+1.upper RPD: check tissue adaptation, occlusion,adjustment and finishing and polishing
+G1林鈺淳/VS徐幼群
+Nv.:upper RPD f/u
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 525.1 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000L0506 *Bilat wrought wire RPD 1 自費 N 2015/12/29 執行、已批 齒位1:FM
+技工所:1
+完成：2015/12/29
+ 徐幼群 
+ 
+
+Subjective 
+For upper denture post-insertion f/u(He forgot to bring denture, no specific complaint)
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+3.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility, M side rest seat
+  #22 mobility grade II,sufficient bony support
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Today's treatment:
+1.Inquest that p't should bring upper RPD to our dept. next time
+G1林鈺淳/VS徐幼群
+Nv.:upper RPD f/u
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth 
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+27
+B834
+M775
+Mobility:Gr(II)
+
+37
+M553
+B554
+Mobility:Gr(II)
+ 
+Assessment 
+Localized chronic periodontitis
+ 
+Plan 
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2.subgingical root planing and smoothening root surface at 27 37.  
+3.subgingival plaque and calculus, soft diseased cementum, removed under local anesthesia of 27 37.
+4.Medication:
+Amoxicillin 250mg 1# Q8H PO for 3 days
+
+G1 黃振邦 /VS 張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/01/08 已確認 已批 張博鈞  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 96001C00 Dental Localized Anesthesia 2  N 2016/01/08 執行、已批 齒位1:UL
+齒位2:LL
+完成：2016/01/08
+ 張博鈞 
+治療 91008C00 SUBGINGIVAL CURETTAGE:LOCALIZED (<=3 TEETH) 1  N 2016/01/08 執行、已批 齒位1:27
+完成：2016/01/08
+ 張博鈞 
+治療 91008C00 SUBGINGIVAL CURETTAGE:LOCALIZED (<=3 TEETH) 1  N 2016/01/08 執行、已批 齒位1:37
+完成：2016/01/08
+ 張博鈞 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/01/25 已批 完成：2016/01/25  
+ 
+
+Subjective 
+no special complaints at this visit 
+Objective 
+looking fine
+SBP 150
+DBP 88
+【20160120】kappa free light chain: 411.00   mg/L
+【20160120】IFE: Serum IFE shows a thin band of IgG/kappa monoclonal gammopathy.   
+【20160120】IgG: 1910.00   mg/dL
+【20160120】PLT: 86   k/μL
+【20160120】HB: 12.4   g/dL
+【20160120】CRE: 1.0   mg/dL
+【20160120】Ca: 2.26   mmol/L 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD 
+Plan 
+followed at one month from now, lenalidomide if disease in progression 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Folic Acid 5 mg/tab 1 tab BID PO 28 56 tab 健保  2016/01/25 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2016/01/25 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2016/01/25 已確認 已批 黃聖懿  
+Rinderon-V Cream 0.06% 5 g/tube 2 XX BID D 28 2 tube 健保  2016/01/25 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/01/25 執行、已批 Specimen:BLO
+完成：2016/02/18
+ 黃聖懿 
+ 
+
+Subjective 
+For upper denture post-insertion f/u
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+3.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility, M side rest seat
+  #22 mobility grade II,sufficient bony support
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+6.mucosa status: no obvious ulcer
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Today's treatment:
+1.Upper RPD check occlusion, tissue fitness, retention, adjustment, finishing and polishing
+G1林鈺淳/VS徐幼群
+Nv.:upper RPD 2nd f/u
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth 
+ 
+
+Subjective 
+no special complaints at this visit 
+Objective 
+looking fine
+SBP 144
+DBP 90
+【20160120】kappa free light chain: 411.00   mg/L
+【20160120】IFE: Serum IFE shows a thin band of IgG/kappa monoclonal gammopathy.   
+【20160120】IgG: 1910.00   mg/dL
+【20160120】PLT: 86   k/μL
+【20160120】HB: 12.4   g/dL
+【20160120】CRE: 1.0   mg/dL
+【20160120】Ca: 2.26   mmol/L 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD 
+Plan 
+followed at one month from now, lenalidomide if disease in progression, LD the first cycle on today 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+25 Revlimid cap 25 mg/cap 1 cap QD PO 21 21 cap 健保  2016/02/22 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2016/02/22 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2016/02/22 已確認 已批 黃聖懿  
+Dorison 4 mg/tab 5 tab QD PO 4 20 tab 健保  2016/02/22 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/02/22 執行、已批 Specimen:BLO
+完成：2016/03/21
+ 黃聖懿 
+ 
+
+Subjective 
+productive cough and exertional dyspnea, ? mild couhg 
+Objective 
+looking fine, COPD chest
+no blood tests at this visit 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD 
+Plan 
+followed at one month from now, lenalidomide if disease in progression, LD the first cycle on today 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+O J40 Bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/03/11 已確認 已批 黃聖懿  
+Predonine 5 mg/tab 2 tab BID PO 7 28 tab 健保  2016/03/11 已確認 已批 黃聖懿  
+Lungtec 10 mg/tab 0.5 tab HS PO 7 4 tab 健保  2016/03/11 已確認 已批 黃聖懿  
+Regrow SR 60 mg/tab 1 tab BID PO 7 14 tab 健保  2016/03/11 已確認 已批 黃聖懿  
+Musco 30 mg/tab 2 tab BID PO 7 28 tab 自費  2016/03/11 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/03/11 開立、已批 Specimen:BLO
+ 黃聖懿 
+ 
+
+Subjective 
+much better now and no special complaints at this visit 
+Objective 
+stationary as previous visits
+【20160120】IgG: 1910.00   mg/dL
+【20160120】PLT: 86   k/μL
+【20160120】HB: 12.4   g/dL
+【20160120】CRE: 1.0   mg/dL
+【20160120】Ca: 2.26   mmol/L
+抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 Treatment Response:Not evaluable 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD 
+Plan 
+followed at one month from now, lenalidomide if disease in progression, LD the first cycle on today
+followed at one month from now, lenalidomide if disease in progression, LD the first cycle on today 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+O J40 Bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Augmentin 1 g/tab 1 tab BID PO 7 14 tab 健保  2016/03/21 已確認 已批 黃聖懿  
+25 Revlimid cap 25 mg/cap 1 cap QD PO 21 21 cap 健保  2016/03/21 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2016/03/21 已確認 已批 黃聖懿  
+Dorison 4 mg/tab 5 tab QD PO 4 20 tab 健保  2016/03/21 已確認 已批 黃聖懿  
+Predonine 5 mg/tab 2 tab BID PO 7 28 tab 健保  2016/03/21 已確認 已批 黃聖懿  
+Lungtec 10 mg/tab 0.5 tab HS PO 7 4 tab 健保  2016/03/21 已確認 已批 黃聖懿  
+Regrow SR 60 mg/tab 1 tab BID PO 7 14 tab 健保  2016/03/21 已確認 已批 黃聖懿  
+Musco 30 mg/tab 2 tab BID PO 7 28 tab 自費  2016/03/21 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/03/21 執行、已批 Specimen:BLO
+完成：2016/04/15
+ 黃聖懿 
+ 
+
+Subjective 
+For maxilla  BRONJ follow up
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+【20140831】Chest : PA View (Standing)
+ 
+Objective 
+OP wound: 13-15 area, healing: OK  , #17: healed, no sign of ONJ
+VAS:.3
+smoking(+)
+pano X: no further bone destruction over UR area
+ 
+Assessment 
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Plan 
+pano X
+topical medication
+photo
+RTC 6M (next: pano X check)
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O C90.00 Multiple myeloma 重 慢 職 癌  
+M M87.180 Osteonecrosis due to drugs, jaw 慢 職  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92066C00 特定局部治療 1  N 2016/03/24 執行、已批 齒位1:17
+完成：2016/03/28
+ 李正�� 
+ 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/03/28 執行、已批 齒位1:FM
+完成：2016/03/28
+ 李正�� 
+Subjective 
+For upper denture post-insertion f/u
+
+OP wound: 13-15 area, healing: OK , #17: healed, no sign of ONJ
+smoking(+)10枝/day
+
+PMH:
+1. Multiple myeloma (MM), under chemotherapy and medication therapy:
+(1)Zometa inj. (4mg/vial) 1 time on 2014-07-11
+(2)Thalidomide (50mg/cap) 2 cap, QD
+2. No known food or drug allergy.
+3. All systemic disease were denied.
+#15-17, BRONJ, s/p OP (2014/8/5, GA)(2014/11/4, GA)(2015/1/21, LA)(LA, 2015/5/4, #17), healed
+MM under zometa (x 1Y), s/p BMT at NTUH
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+2.upper RPD: stability:fair, retention:good, occlusion:fair
+4.#27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility
+  #22 mobility grade II,sufficient bony support
+4.#37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+6.mucosa status: no obvious ulcer
+ 
+Assessment 
+missing tooth
+ 
+Plan 
+Today's treatment:
+1.Upper RPD check occlusion, tissue fitness, retention, adjustment, finishing and polishing
+G1林鈺淳/VS徐幼群
+Nv.:upper RPD post-insertion 6 months f/u
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K08.109 Missing tooth  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/03/30 已批 完成：2016/03/30 
+ 
+
+Subjective 
+much better now and no special complaints at this visit
+but notably, cytopenias 
+Objective 
+stationary as previous visits
+【20160120】IgG: 1910.00   mg/dL
+抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 
+【20160415】IgG: 1170.00   mg/dL
+【20160415】WBC: 1.93   k/μL
+【20160415】HB: 10.5   g/dL
+【20160415】PLT: 111   k/μL 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD
+switch to oral LD, now reaching PR 
+Plan 
+keep on the present medicatons of LD and other symptomatic management 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+O J40 Bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+25 Revlimid cap 25 mg/cap 1 cap QD PO 21 21 cap 健保  2016/04/18 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2016/04/18 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 7 14 tab 健保  2016/04/18 已確認 已批 黃聖懿  
+Dorison 4 mg/tab 5 tab QD PO 4 20 tab 健保  2016/04/18 已確認 已批 黃聖懿  
+Musco 30 mg/tab 2 tab BID PO 7 28 tab 自費  2016/04/18 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/04/18 執行、已批 Specimen:BLO
+完成：2016/05/14
+ 黃聖懿 
+ 
+
+Subjective 
+for refill of his ultracet 
+Objective 
+stationary as previous visits
+【20160120】IgG: 1910.00   mg/dL
+抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 
+【20160415】IgG: 1170.00   mg/dL
+【20160415】WBC: 1.93   k/μL
+【20160415】HB: 10.5   g/dL
+【20160415】PLT: 111   k/μL 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD
+switch to oral LD, now reaching PR 
+Plan 
+for refill 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+O J40 Bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(管4) Ultracet tab /tab 1 tab BID PO 21 42 tab 健保  2016/04/25 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/04/25 已批 完成：2016/04/25 
+ 
+Subjective 
+C.C:Asking for periodontal treatment
+ 
+Objective 
+L.F:
+1.probing depths>5 mm:27 36
+2.a laceration wound at 37 lingual side gingiva
+ 
+Assessment 
+D.X:Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.27 36 periodontal emergency treratment
+2.Suggested periocline application
+
+G1黃振邦/VS 張博鈞
+ 
+
+Subjective 
+much better now and no special complaints at this visit
+but notably, cytopenias 
+Objective 
+stationary as previous visits
+【20160120】IgG: 1910.00   mg/dL
+抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 
+【20160415】IgG: 1170.00   mg/dL
+【20160415】WBC: 1.93   k/μL
+【20160415】HB: 10.5   g/dL
+【20160415】PLT: 111   k/μL
+【20160516】抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 Treatment Response:Not evaluable 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD
+switch to oral LD, now reaching PR 
+Plan 
+keep on the present medications of LD and other symptomatic management 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+O J40 Bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+25 Revlimid cap 25 mg/cap 1 cap QD PO 21 21 cap 健保  2016/05/16 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap BID PO 28 56 cap 健保  2016/05/16 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab BID PO 28 56 tab 健保  2016/05/16 已確認 已批 黃聖懿  
+Dorison 4 mg/tab 5 tab QD PO 4 20 tab 健保  2016/05/16 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/05/16 執行、已批 Specimen:BLO
+完成：2016/06/10
+ 黃聖懿 
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment
+ 
+Objective 
+L.F:
+1.probing depths>5 mm:27 36
+2.a laceration wound at 37 lingual side gingiva
+ 
+Assessment 
+D.X:Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.27 36 periodontal emergency treratment
+2.periocline application
+
+G1黃振邦/VS 張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/05/20 已批 完成：2016/05/20  
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment
+ 
+Objective 
+L.F:
+1.probing depths>5 mm:27 36
+2.a laceration wound at 37 lingual side gingiva
+3.Full mouth plaque and stain depsotion;gingival inflammation
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.27 36 periodontal emergency treratment
+2.Full mouth scaling+OHI
+3.periocline application
+
+G1黃振邦/VS 張博鈞
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 91004C00 SCALING:FULL-MOUTH 1  N 2016/05/30 執行、已批 齒位1:FM
+完成：2016/05/30
+ 張博鈞 
+ 
+
+Subjective 
+For upper denture post-insertion f/u
+ 
+Objective 
+1.missing tooth:
+8765432 | 6 8
+6 6 
+2.upper RPD: stability:fair, retention:good, occlusion:fair, but reduced masticatory force
+4.27 mobility grade II, PD>5mm(ML=7mm,MB=5mm)with vertical mobility
+4.37 mesial tilting tooth, mobility grade I,PD=5mm at M side
+5.heavy biting forces, with anterior wearing facets
+6.mucosa status:  ulcer over 16 UR edentulous mucosa
+ 
+Assessment 
+oral ulcer
+ 
+Plan 
+Today's treatment:
+1.take primary impression for final upper RPD fabrication
+2.apply oral base medication over UR edentulous ridge 
+ 
+G1林鈺淳/VS徐幼群
+Nv.:11 incisal edge fracture OD
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K12.1 Oral ulcer  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+行政費用 000O1001 掛號費 1 自費 N 2016/06/13 已批 完成：2016/06/13 
+ 
+
+Subjective 
+much better now and no special complaints at this visit, except for easy muscular contractures; otherwise, cytopenias (leukopenia) 
+Objective 
+stationary as previous visits
+【20160120】IgG: 1910.00   mg/dL
+抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 
+【20160415】IgG: 1170.00   mg/dL
+【20160415】WBC: 1.93   k/μL
+【20160415】HB: 10.5   g/dL
+【20160415】PLT: 111   k/μL
+【20160516】抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 Treatment Response:Not evaluable
+
+【20160610】IFE: Serum IFE shows no monoclonal gammopathy.   
+【20160610】free kappa/lambda ratio: 1.5102   *
+【20160610】IgG: 962.00   mg/dL 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD
+switch to oral LD, now reaching PR further into IFE neg CR 
+Plan 
+keep on the present medications of LD and other symptomatic management 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+O J40 Bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+25 Revlimid cap 25 mg/cap 1 cap QD PO 14 14 cap 健保  2016/06/13 已確認 已批 黃聖懿  
+Folic Acid 5 mg/tab 1 tab BID PO 14 28 tab 健保  2016/06/13 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab QID PO 28 112 tab 健保  2016/06/13 已確認 已批 黃聖懿  
+Dorison 4 mg/tab 5 tab QD PO 4 20 tab 健保  2016/06/13 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/06/13 執行、已批 Specimen:BLO
+完成：2016/07/07
+ 黃聖懿 
+ 
+Subjective 
+C.C:Asking for periodontal treatment
+ 
+Objective 
+L.F:
+1.probing depths>5 mm:27 36
+2.Full mouth plaque and stain depsotion;gingival inflammation
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.27 36 periocline application
+2.OHI
+
+G1黃振邦/VS 張博鈞
+ 
+
+Subjective 
+C.C:Asking for periodontal treatment
+ 
+Objective 
+L.F:
+1.probing depths>5 mm:27 36
+2.Full mouth plaque and stain depsotion;gingival inflammation
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+T.X:
+1.Full mouth scaling+OHI
+2.27 36 periocline application
+
+G1黃振邦/VS 張博鈞
+ 
+ 
+Subjective 
+much better now but fatigue and exertional dyspnea 
+Objective 
+stationary as previous visits
+【20160120】IgG: 1910.00   mg/dL
+抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 
+【20160415】IgG: 1170.00   mg/dL
+【20160415】WBC: 1.93   k/μL
+【20160415】HB: 10.5   g/dL
+【20160415】PLT: 111   k/μL
+【20160516】抗癌藥品治療副作用 (化療) 無副作用
+癌症治療效果追蹤評估 Treatment Response:Not evaluable
+
+【20160610】IFE: Serum IFE shows no monoclonal gammopathy.   
+【20160610】free kappa/lambda ratio: 1.5102   *
+【20160610】IgG: 962.00   mg/dL
+【20160711】抗癌藥品治療副作用 (化療) Late Toxicity 
+Fatigue : Gr.2 
+Assessment 
+MM, MM, s/p AuSCT, day 0 was 19 Dec 2014 at PR
+MM, s/p MLN C16019 Study, now off due to PD
+switch to oral LD, now reaching PR further into IFE neg CR 
+Plan 
+keep on the present medications of LD and other symptomatic management 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M C90.00 Multiple myeloma 重 慢 職 癌  
+O J40 Bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+25 Revlimid cap 25 mg/cap 1 cap QD PO 21 21 cap 健保  2016/07/11 已確認 已批 黃聖懿  
+Folic Acid 5 mg/tab 1 tab BID PO 14 28 tab 健保  2016/07/11 已確認 已批 黃聖懿  
+Methycobal 500 mcg/cap 1 cap QD PO 28 28 cap 健保  2016/07/11 已確認 已批 黃聖懿  
+(管4) Ultracet tab /tab 1 tab QD PO 28 28 tab 健保  2016/07/11 已確認 已批 黃聖懿  
+Dorison 4 mg/tab 5 tab QD PO 4 20 tab 健保  2016/07/11 已確認 已批 黃聖懿  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 08013CZP WBC classification 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 09026CZP ALT(GPT) 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 12027B0P IgA 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 12025B0P IgG 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 12029BZP IgM 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 12160BYP Quantitation of kappa & lamda free light chains 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 12103B0P IFE 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 09040CZP Total protein 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 09065B0P Electrophoresis 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+檢驗 09011CZP Calcium, Ca 1  N 2016/07/11 執行、已批 Specimen:BLO
+完成：2016/08/04
+ 黃聖懿 
+ 
+
+ 
+
+

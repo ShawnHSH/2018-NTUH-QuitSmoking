@@ -1,0 +1,209 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+For tooth hypermobility for 3 months
+
+現病史：
+This 55-year-old male noted the bilateral tooth hypermobility for 3 months. So he came to our dept for full mouth evaluation and treatment.
+
+過去病史：
+HTN under medication
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+醫材過敏：無 
+血型：A
+
+目前用藥：
+Norvasc
+美舒眠
+
+最近三個月內旅遊史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表)
+ 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：
+1.疼痛指數：2 分(0分或無法表達之病人，以下請填NA)
+2.間歇痛 
+3.疼痛部位：lower right when dieting
+
+LF.
+1. Present dentition
+   7654321│123x5x
+   ───────────────
+     5 321│12345x7
+2. Probing depth >5mm: 17-23,25,35,37 
+3. Tooth mobility: 
+   Gr(III): 45
+4. Full mouth plaque deposition with gingival inflammation, oral hygiene: poor
+ 
+Assessment 
+Full mouth chronic periodontitis,
+ 
+Plan 
+Tx.
+Check full mouth periapical film, bite-wing and panoramic X-ray,findings:
+- Generalized moderate to severe horizontal bony destruction
+- 45 severe bony destruction with apical third root fracture
+- 16 large occlusal defect with restoration
+- 14 status post RCT with crown, apical PDL widening
+- 23x25x cantilever bridge, 25 apical radiolucent lesion(+)
+- 35x37 bridge, 35 PDL widening
+
+Tx plan.
+- Full mouth phase I therapy OHI
+- Suggest 45 extraction
+- Lower right posterior missing tooth area rahabilitation option
+  Option I. Class I removable partial denture
+  Option II. Implantation(I44,I45,I46 or I46xI44)
+  (Patient prefered interim removable partial denture first.)
+Arrange R1鄧智仁 for further treatment.
+R3陳聖泓/VS王振穎 2016/3/23 11:02
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 34004CZL [不收費]齒顎全景Ｘ光片攝影 1  N 2016/03/23 執行、已批 齒位1:FM
+完成：2016/03/23
+ 王振穎 
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫療程開始)
+ 
+Objective 
+1. Generalized plaque and calculus deposition. 
+2. Generalized deep pocket and increased mobility of teeth. 
+3. Deep pocket as recorded in charting data attached. (見上傳initial charting data)
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.full mouth charting and photo records were taken, 
+2.plaque control(術前) was done with application of disclosing agent, 
+3.oral hygiene instruction was done, 
+4.explained treatment plan to the patient, 
+5.signed consent
+
+R1鄧智仁/VS王振穎 2016.04.13. 12:20
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 P4001C00 牙周病統合性治療第一階段給付 1  N 2016/04/13 執行、已批 完成：2016/04/13
+ 王振穎 
+治療 P4002C00 牙周病統合性治療第二階段給付 1  N 2016/04/21 執行、已批 完成：2016/04/21
+ 林欣宜 
+治療 P4003C00 牙周病統合性治療第三階段給付 1  N 2016/06/17 執行、已批 完成：2016/06/17
+ 王振穎 
+ 
+
+Subjective 
+Ask for 45 extraction
+Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+疼痛指數: 1分, 疼痛部位: 45
+1.tooth 45 chronic periodontitis
+-->root fracture
+-->mobility: GrIII
+2.Generalized plaque and calculus deposition
+3.Generalized deep pocket and increased mobility of teeth 
+4.Deep pocket as record in charting a attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+45 chronic periodontitis combined root fracture
+Generalized chronic periodontitis
+ 
+Plan 
+1.45 complicated extraction
+Pre-OP Dx: 45 chronic periodontitis, combined root fracture
+Post-OP Dx: 45 chronic periodontitis, combined root fracture
+OP method: 45 complicated extraction
+OP findings: 45 chronic periodontitis, combined root fracture
+OP procedures:
+1)Aseptic procedure was done with 0.12% chlorhexidine sponge and draping as usual
+2)Local anesthesia was done with 3.4 mL 2% xylocaine (with 1:80000 epinephrine)
+3)Complicated extraction of 45 was done with elevator and forcep(flap elevation for root tip removal)
+4)3-0 silk suture 
+5)Gauze packing for 1 hour
+6)Post-OP wound care instruction was given
+Prophylaxis for pain control
+Specimen for pathology: Nil
+
+2.Periodontal treatment(牙統)
+1)Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.  2)Subgingical root planing and smoothening root surface at 11 12 13 15 16 17.  
+3)subgingival plaque and calculus, soft diseased cementum, removed under local and bolck anesthesia of UR LR
+4)Medication:
+Amoxicillin 250mg 1# Q8H PO for 5 days
+Paramal 500mg 1# TID PO for 3 days
+
+R1鄧智仁/VS王振穎 2016.04.19.  11:20
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amoxicillin 250 mg/cap 1 cap Q8H PO 3 9 cap 健保  2016/04/19 已確認 已批 郭彥彬  
+PARAMOL 500 mg/tab 1 tab TID PO 3 9 tab 健保  2016/04/19 已確認 已批 郭彥彬  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 92014C00 COMPLICATED EXTRACTION 1  N 2016/04/19 執行、已批 齒位1:45
+完成：2016/04/19
+ 郭彥彬 
+ 
+
+Subjective 
+Asking for periodontal treatment (牙周統合照護計畫同次療程)
+ 
+Objective 
+1.Generalized plaque and calculus deposition. 
+2.Generalized deep pocket and increased mobility of teeth. 
+3.Deep pocket as record in charting data attached (Phase I 請見療程開始病歷）
+ 
+Assessment 
+Generalized chronic periodontitis
+ 
+Plan 
+1.Root planing and curretage of granulation tissue to remove calculus and smoothen tooth surface is indicated.
+2.Subgingical root planing and smoothening root surface at 21 22 25 35 37.  
+3.Subgingival plaque and calculus, soft diseased cementum, removed under local and bolck anesthesia of UL LL.
+
+R1鄧智仁/VS王振穎 2016.04.12. 11:10
+ 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M K05.30 Chronic periodontitis 
+ 

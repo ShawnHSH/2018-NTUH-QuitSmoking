@@ -1,0 +1,141 @@
+﻿
+Subjective 
+Cough for long time.
+Chronic bronchitis after 噴漆 since student.
+Smoking for 30~40 years. 1/2 PPD.
+URI recently, rhinorrhea, cough with sputum.
+He went to 戒菸OPD for one week.
+BW loss negative. 56kg.
+CAD s/p pobas last year. 
+Objective 
+Chest: bS no wheezing. 
+Plan 
+Chest CT without contrast LDCT.2016-3-3 OPD F/U2016/3/11(五)下午
+Sputum cytology for 3 times. AFB + TB for 3 times.
+SCC, CEA, CA 199.
+Pulmonary function test standard.2016-1-25
+RTC2015-1-29 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R05 Cough 慢  
+O J42 Chronic bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 1 tab QID PO 7 28 tab 健保  2016/01/08 已確認 已批 袁昂  
+Regrow SR 60 mg/tab 1 tab BID PO 7 14 tab 健保  2016/01/08 已確認 已批 袁昂  
+Musco 30 mg/tab 1 tab TID PO 7 21 tab 健保  2016/01/08 已確認 已批 袁昂  
+Xyzal 5 mg/tab 1 tab QD PO 5 5 tab 健保  2016/01/08 已確認 已批 袁昂  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12080B0P SCC 1  N 2016/01/08 執行、已批 Specimen:BLO
+完成：2016/01/08
+ 袁昂 
+檢驗 27055B0T CA19-9 (RIA) 1  N 2016/01/08 執行、已批 Specimen:BLO
+完成：2016/01/08
+ 袁昂 
+檢驗 27050BZT CEA (RIA) (Serum) 1  N 2016/01/08 執行、已批 Specimen:BLO
+完成：2016/01/08
+ 袁昂 
+檢驗 15001CZP Sputum cytology 1  N 2016/01/08 執行、已批 Specimen:SPU
+完成：2016/01/11
+ 袁昂 
+檢驗 15001CZP Sputum cytology 1  N 2016/01/08 執行、已批 Specimen:SPU
+完成：2016/01/13
+ 袁昂 
+檢驗 15001CZP Sputum cytology 1  N 2016/01/08 執行、已批 Specimen:SPU
+完成：2016/01/12
+ 袁昂 
+檢驗 000PP709 Acid fast stain+Mycobacterium culture (Respiratory specimen) 1  N 2016/01/08 執行、已批 Specimen:SPU
+菌數：1
+完成：2016/01/13
+ 袁昂 
+檢驗 000PP709 Acid fast stain+Mycobacterium culture (Respiratory specimen) 1  N 2016/01/08 執行、已批 Specimen:SPU
+完成：2016/01/11
+ 袁昂 
+檢驗 000PP709 Acid fast stain+Mycobacterium culture (Respiratory specimen) 1  N 2016/01/08 執行、已批 Specimen:SPU
+完成：2016/01/12
+ 袁昂 
+影醫 32001CXM Chest : PA View (Standing) 1  Y 2016/01/08 執行、已批 完成：2016/01/08
+ 袁昂 
+影醫 33070B2M CT Without Contrast-Chest 1  N 2016/01/08 執行、已批 Indication:Neoplasm
+小部位:ALL
+其他：LDCT
+完成：2016/03/03
+ 袁昂 
+檢查 17004B0S Lung volume wih FRC-標準肺量測定(包括 FRC測定) 1  N 2016/01/08 執行、已批 完成：2016/01/25
+ 袁昂 
+ 
+
+Subjective 
+Cough for long time.
+Chronic bronchitis after 噴漆 since student.
+Smoking for 30~40 years. 1/2 PPD.
+URI recently, rhinorrhea, cough with sputum.
+He went to 戒菸OPD for one week.
+BW loss negative. 56kg.
+CAD s/p pobas last year.
+
+2016-1-29
+
+Cough improving.
+littel sputu m 
+Objective 
+Chest: bS no wheezing.
+
+2016-1-29
+
+【20160125】Pulmonary Function Test :Chronic bronchitis * Spirometry by Elite DX
+
+* Normal standard spirometry
+
+
+【20160113】Specimen Adequacy: Satisfactory for evaluation   *
+【20160112】Sputum Cytology: Negative for malignant cells   *
+【20160112】Specimen Adequacy: Satisfactory for evaluation   *
+【20160113】AF Stain(AF) #1: Acid fast bacilli - negative   *
+【20160111】Sputum Cytology: Atypia of undetermined significance   *
+【20160111】Specimen Adequacy: Satisfactory for evaluation   *
+【20160112】AF Stain(AF) #1: Acid fast bacilli - negative   *
+【20160111】AF Stain(AF) #1: Acid fast bacilli - negative   *
+【20160108】SCC: 0.8   ng/mL
+【20160111】RIA:CA 19-9: 14.1   U/mL
+【20160111】RIA:CEA (Serum): 3.20   ng/ml
+【20160108】Chest : PA View (Standing) :Chest PA/AP shows normal heart size. calcification of aorta. possible mild fibrotic change at the left basal lung. mild degenerative change of the T and L spine.
+
+BP 130/70 mmHG 
+Plan 
+Chest CT without contrast LDCT.2016-3-3 OPD F/U2016/3/11(五)下午
+Sputum cytology for 3 times. AFB + TB for 3 times.
+SCC, CEA, CA 199.
+Pulmonary function test standard.2016-1-25
+RTC2015-1-29 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R05 Cough 慢  
+O J42 Chronic bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Regrow SR 60 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/01/29 已確認 已批 袁昂  
+Musco 30 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/01/29 已確認 已批 袁昂  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/01/29 已確認 已批 袁昂 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R05 Cough 慢  
+O J42 Chronic bronchitis 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Regrow SR 60 mg/tab 1 tab BID PO 28 56 tab 健保 2 2016/02/15 已確認 已批 林小琴  
+Musco 30 mg/tab 1 tab TID PO 28 84 tab 健保 2 2016/02/15 已確認 已批 林小琴  
+Xyzal 5 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/02/15 已確認 已批 林小琴 
+ 

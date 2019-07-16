@@ -1,0 +1,1494 @@
+﻿
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保 2 2014/12/19 已確認 已批 謝欣妤  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2014/12/19 已確認 已批 謝欣妤  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2014/12/19 已確認 已批 謝欣妤 
+ 
+
+Subjective 
+NYHA Fc: I, CCS class: I
+better sugar levell under DM specialist control 
+Objective 
+BP: 130/100 mmHG, PR: 84 BPM
+Chest: BS clear
+【20140325】T-CHO: 153   mg/dL
+【20140703】HbA1c: 9.3   %
+【20140703】LDL-C: 62   mg/dL
+【20140703】HDL-C: 29   mg/dL
+【20140703】CRE: 1.2   mg/dL
+【20140703】GLU AC: 234   mg/dL
+【20141117】HbA1c: 8.2   %
+【20141117】GLU AC: 150   mg/dL 
+Assessment 
+CAD, 3-VD s/p POBAS over RCA CTO(2010-10-21, Xience V)
+s/p POBAS over OM (2010-11-8, Resolute)
+DM, HTN, smoking(+)
+2013-1-5 ACS, LAD & RCA new lesion s/p POBAS 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/12/24 已確認 已批 林茂欣  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2014/12/24 已確認 已批 林茂欣  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2014/12/24 已確認 已批 林茂欣  
+脂 Crestor 10 mg/tab 1 tab HS PO 28 28 tab 健保 3 2014/12/24 已確認 已批 林茂欣 用藥原因:LDL-C: 62 (2014/07/03)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2014/12/24 執行、已批 Specimen:BLO
+完成：2015/03/12
+ 林茂欣 
+檢驗 09004CZP Triglyceride, TG 1  N 2014/12/24 執行、已批 Specimen:BLO
+完成：2015/03/12
+ 林茂欣 
+檢驗 09043C0P HDL 1  N 2014/12/24 執行、已批 Specimen:BLO
+完成：2015/03/12
+ 林茂欣 
+檢驗 09044C0P LDL 1  N 2014/12/24 執行、已批 Specimen:BLO
+完成：2015/03/12
+ 林茂欣 
+ 
+Subjective 
+A 62 year-old male patient suffered from painless gross hematuria since this morning 
+
+micturation pain (-)
+
+P.H:
+1. CAD (+) s/p CABG , DM(+) under medical control
+2. Op hx: s/p appendectomy
+3. Drug allergy: denied 
+Objective 
+疼痛評估：疼痛指數： 0分; 
+Plan 
+U/A, KUB, renal+baldder sonography, cystoscopy, PSA, RFT 
+RTC: 1 week 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 599.7 Hematuria  
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 7 7 tab 健保  2015/01/05 已確認 已批 李苑如  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/01/05 執行、已批 Specimen:UR1
+完成：2015/01/05
+ 李苑如 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/01/05 執行、已批 Specimen:UR1
+完成：2015/01/05
+ 李苑如 
+檢驗 09002CZP BUN 1  N 2015/01/05 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 李苑如 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/01/05 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 李苑如 
+檢驗 09013CZP Uric acid 1  N 2015/01/05 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 李苑如 
+檢驗 12081B0P PSA 1  N 2015/01/05 執行、已批 Specimen:BLO
+完成：2015/01/05
+ 李苑如 
+影醫 32006C0M Abdomen:KUB 1  N 2015/01/05 執行、已批 完成：2015/01/05
+ 李苑如 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Saline (NK) inj 0.9% 500 mL/bag 常備藥 500 mL STAT IF 1 1 bag 健保  2015/01/09 已確認 已批 古慧質  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 28019C00 膀胱鏡檢查 1  N 2015/01/08 執行、已批 完成：2015/01/09
+ 馮國剛 
+醫材 20470102 ＫＹ潤滑膏 1  N 2015/01/08 執行、已批 完成：2015/01/09
+ 古慧質 
+醫材 20004000 普通點滴套 (有濾網) 1  N 2015/01/08 執行、已批 完成：2015/01/09
+ 古慧質 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/12 已確認 已批 劉婉華  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/01/12 已確認 已批 劉婉華  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/01/12 已確認 已批 劉婉華  
+脂 Crestor 10 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/01/12 已確認 已批 劉婉華 用藥原因:LDL-C: 62 (2014/07/03) 
+ 
+
+Subjective 
+A 62 year-old male patient suffered from painless gross hematuria since this morning 
+
+micturation pain (-)
+
+P.H:
+1. CAD (+) s/p CABG , DM(+) under medical control
+2. Op hx: s/p appendectomy
+3. Drug allergy: denied 
+Objective 
+疼痛評估：疼痛指數： 0分;
+【20150105】Serum PSA: 0.832   ng/mL
+【20150105】Sp. Gr.(C): 1.015   *
+【20150105】pH: 6.0   *
+【20150105】Glu.(C): 1000 ( 4+ )   mg/dL
+【20150105】WBC (S): 5-10   /HPF
+【20150105】RBC (S): >100   /HPF
+【20150105】CRE: 1.3   mg/dL
+【20150105】UA: 5.9   mg/dL
+【20150105】UN: 22.0   mg/dL
+
+KUB and renal sonography showed left renal stone about 0.6*0.5cm
+
+Cysotsocpy showed  
+Operative Findings:
+1.No tumor was found in the urinary bladder
+2.Bilateral ureter orifices were patent with clear efflux
+3.Huge prostate and very high bladder neck 
+Assessment 
+Dizziness after harnalidge 
+Plan 
+Arrange OPD ESWL for left renal stone 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 2 tab TID PO 3 18 tab 內含  2015/01/12 已確認 已批 李苑如  
+Buscopan 10 mg/tab 1 tab TID PO 3 9 tab 內含  2015/01/12 已確認 已批 李苑如  
+口服 Dulcolax EC 5 mg/tab 2 tab AS ORDER PO 1 2 tab 內含  2015/01/12 已確認 已批 李苑如  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP 全血球計數（一般病患） 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 09002CZP BUN 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 N 2015/01/12 執行、已批 Specimen:UR1
+完成：2015/01/12
+ 李苑如 
+檢驗 06012CZP MULTISTIX (Routine) 1 內含 N 2015/01/12 執行、已批 Specimen:UR1
+完成：2015/01/12
+ 李苑如 
+檢驗 08026CZP PT 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 08036BZP PTT 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 08131C00 Platelet function closure time-Col/Epi 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 08132C00 Platelet function closure time-Col/ADP 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+ 
+
+Subjective 
+A 62 year-old male patient suffered from painless gross hematuria since this morning 
+
+micturation pain (-)
+
+P.H:
+1. CAD (+) s/p CABG , DM(+) under medical control
+2. Op hx: s/p appendectomy
+3. Drug allergy: denied 
+Objective 
+疼痛評估：疼痛指數： 0分;
+【20150105】Serum PSA: 0.832   ng/mL
+【20150105】Sp. Gr.(C): 1.015   *
+【20150105】pH: 6.0   *
+【20150105】Glu.(C): 1000 ( 4+ )   mg/dL
+【20150105】WBC (S): 5-10   /HPF
+【20150105】RBC (S): >100   /HPF
+【20150105】CRE: 1.3   mg/dL
+【20150105】UA: 5.9   mg/dL
+【20150105】UN: 22.0   mg/dL
+
+KUB and renal sonography showed left renal stone about 0.6*0.5cm
+
+Cysotsocpy showed  
+Operative Findings:
+1.No tumor was found in the urinary bladder
+2.Bilateral ureter orifices were patent with clear efflux
+3.Huge prostate and very high bladder neck 
+Assessment 
+Dizziness after harnalidge 
+Plan 
+Arrange OPD ESWL for left renal stone 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 599.7 Hematuria  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+PARAMOL 500 mg/tab 2 tab TID PO 3 18 tab 內含  2015/01/12 已確認 已批 李苑如  
+Buscopan 10 mg/tab 1 tab TID PO 3 9 tab 內含  2015/01/12 已確認 已批 李苑如  
+口服 Dulcolax EC 5 mg/tab 2 tab AS ORDER PO 1 2 tab 內含  2015/01/12 已確認 已批 李苑如  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP 全血球計數（一般病患） 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 09002CZP BUN 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 09015CZP Creatinine (Blood) 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 06012CYP SEDIMENT (Routine) 1 內含 N 2015/01/12 執行、已批 Specimen:UR1
+完成：2015/01/12
+ 李苑如 
+檢驗 06012CZP MULTISTIX (Routine) 1 內含 N 2015/01/12 執行、已批 Specimen:UR1
+完成：2015/01/12
+ 李苑如 
+檢驗 08026CZP PT 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 08036BZP PTT 1 內含 N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 08131C00 Platelet function closure time-Col/Epi 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+檢驗 08132C00 Platelet function closure time-Col/ADP 1  N 2015/01/12 執行、已批 Specimen:BLO
+完成：2015/01/12
+ 李苑如 
+治療 19001CZ0 腎臟超音波 1  Y 2015/01/12 執行、已批 完成：2015/01/12
+ 李苑如 
+治療 21008C0G 膀胱掃描 1  Y 2015/01/12 執行、已批 完成：2015/01/12
+ 李苑如 
+ 
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26
+BP 133/78 PR81 BW 69.2kg 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL 
+Plan 
+ac pc a1c 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保  2015/01/16 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2015/01/16 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保  2015/01/16 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李弘元 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李弘元 
+檢驗 09006C0P HbA1c 1  N 2015/01/16 執行、已批 Specimen:BLO
+完成：2015/02/09
+ 李弘元 
+行政費用 000O1001 掛號費 1 自費 N 2015/01/16 已批 完成：2015/01/16  
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 592.0 Renal stone, left  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 97405K00 體外電震波腎臟碎石術（單側） 1  N 2015/01/19 執行、已批 診療部位:L
+完成：2015/01/19
+ 吳碧娟 
+治療 50023B00 ESWL for urolithiasis (first time) 1 內含 N 2015/01/19 執行、已批 診療部位:L
+完成：2015/01/19
+ 吳碧娟 
+ 
+
+Subjective 
+A 62 year-old male patient suffered from painless gross hematuria since this morning 
+
+micturation pain (-)
+stone passage(+) was noted 
+P.H:
+1. CAD (+) s/p CABG , DM(+) under medical control
+2. Op hx: s/p appendectomy
+3. Drug allergy: denied 
+Objective 
+疼痛評估：疼痛指數： 0分;
+【20150105】Serum PSA: 0.832   ng/mL
+【20150105】Sp. Gr.(C): 1.015   *
+【20150105】pH: 6.0   *
+【20150105】Glu.(C): 1000 ( 4+ )   mg/dL
+【20150105】WBC (S): 5-10   /HPF
+【20150105】RBC (S): >100   /HPF
+【20150105】CRE: 1.3   mg/dL
+【20150105】UA: 5.9   mg/dL
+【20150105】UN: 22.0   mg/dL
+
+KUB and renal sonography showed left renal stone about 0.6*0.5cm
+
+Cysotsocpy showed  
+Operative Findings:
+1.No tumor was found in the urinary bladder
+2.Bilateral ureter orifices were patent with clear efflux
+3.Huge prostate and very high bladder neck
+
+KUB after ESWL showed left renal stone partial crushed 
+Plan 
+renal sonography, U/A, KUB(st)
+RTC: 6M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 600.0 Benign prostatic hypertrophy 慢 男  
+O 599.7 Hematuria  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/01/26 執行、已批 Specimen:UR1
+完成：2015/07/13
+ 李苑如 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/01/26 執行、已批 Specimen:UR1
+完成：2015/07/13
+ 李苑如 
+影醫 32006C0M Abdomen:KUB 1  Y 2015/01/26 執行、已批 完成：2015/01/26
+ 李苑如 
+檢查 19001CZ0 KIDNEY echo-腎臟超音波 (泌尿科) 1  N 2015/01/26 執行、已批 完成：2015/07/13
+ 李苑如 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/09 已確認 已批 沈玉琴  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/02/09 已確認 已批 沈玉琴  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/02/09 已確認 已批 沈玉琴  
+脂 Crestor 10 mg/tab 1 tab HS PO 28 28 tab 健保 3 2015/02/09 已確認 已批 沈玉琴 用藥原因:LDL-C: 62 (2014/07/03) 
+ 
+
+
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26
+BP 133/78 PR81 BW 69.2kg 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150209】HbA1c: 7.9   %  GLU AC: 170   mg/dL  GLU 2hr PC: 198   mg/dL 
+Plan 
+ac pc A1c
+RTC 2M 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保 2 2015/02/13 已確認 已批 許智堯  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/02/13 已確認 已批 許智堯  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/02/13 已確認 已批 許智堯  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/02/11 執行、已批 Specimen:BLO
+完成：2015/04/07
+ 許智堯 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/02/11 執行、已批 Specimen:BLO
+完成：2015/04/08
+ 許智堯 
+檢驗 09006C0P HbA1c 1  N 2015/02/13 執行、已批 Specimen:BLO
+完成：2015/04/07
+ 洪泊儒 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保 2 2015/03/12 已確認 已批 劉耀中  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/03/12 已確認 已批 劉耀中  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/03/12 已確認 已批 劉耀中 
+ 
+
+Subjective 
+NYHA Fc: I, CCS class: I
+better sugar levell under DM specialist control
+2014-12 quit smoking 
+Objective 
+BP: 130/92 mmHG, PR: 84 BPM
+Chest: BS clear
+【20140325】T-CHO: 153   mg/dL
+【20140703】HbA1c: 9.3   %
+【20140703】LDL-C: 62   mg/dL
+【20140703】HDL-C: 29   mg/dL
+【20140703】CRE: 1.2   mg/dL
+【20140703】GLU AC: 234   mg/dL
+【20141117】HbA1c: 8.2   %
+【20141117】GLU AC: 150   mg/dL
+【20150209】HbA1c: 7.9   %
+【20150312】TG: 127   mg/dL
+【20150312】LDL-C: 53   mg/dL
+【20150312】T-CHO: 104   mg/dL 
+Assessment 
+CAD, 3-VD s/p POBAS over RCA CTO(2010-10-21, Xience V)
+s/p POBAS over OM (2010-11-8, Resolute)
+DM, HTN
+2013-1-5 ACS, LAD & RCA new lesion s/p POBAS 
+Plan 
+lower Crestor dose 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/18 已確認 已批 林茂欣  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/03/18 已確認 已批 林茂欣  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/03/18 已確認 已批 林茂欣  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/03/18 已確認 已批 林茂欣 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/10 已確認 已批 劉耀中  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/04/10 已確認 已批 劉耀中  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/04/10 已確認 已批 劉耀中  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/04/10 已確認 已批 劉耀中 
+ 
+
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26 -> emphasize SMBG
+BP 133/78 PR81 BW 69.2kg 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150408】GLU 2hr PC: 209   mg/dL
+【20150407】HbA1c: 7.9   %  GLU AC: 185   mg/dL 
+Plan 
+ac pc a1c lipid 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保 2 2015/04/10 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/04/10 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/04/10 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/04/10 執行、已批 Specimen:BLO
+完成：2015/06/01
+ 李弘元 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/04/10 執行、已批 Specimen:BLO
+完成：2015/06/01
+ 李弘元 
+檢驗 09006C0P HbA1c 1  N 2015/04/10 執行、已批 Specimen:BLO
+完成：2015/06/01
+ 李弘元 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/04/10 執行、已批 Specimen:BLO
+完成：2015/06/01
+ 李弘元 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/04/10 執行、已批 Specimen:BLO
+完成：2015/06/01
+ 李弘元 
+檢驗 09043C0P HDL 1  N 2015/04/10 執行、已批 Specimen:BLO
+完成：2015/06/01
+ 李弘元 
+檢驗 09044C0P LDL 1  N 2015/04/10 執行、已批 Specimen:BLO
+完成：2015/06/01
+ 李弘元 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/07 已確認 已批 沈玉琴  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/05/07 已確認 已批 沈玉琴  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/05/07 已確認 已批 沈玉琴  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/05/07 已確認 已批 沈玉琴 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保 2 2015/05/07 已確認 已批 沈玉琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/05/07 已確認 已批 沈玉琴  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/05/07 已確認 已批 沈玉琴 
+ 
+
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26 -> emphasize SMBG
+BP 133/78 PR81 BW 69.2kg
+
+oil, fried rice 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150408】GLU 2hr PC: 209   mg/dL
+【20150407】HbA1c: 7.9   %  GLU AC: 185   mg/dL
+【20150601】HbA1c: 7.8   %  LDL-C: 45   mg/dL  HDL-C: 35   mg/dL  GLU AC: 136   mg/dL  GLU 2hr PC: 190   mg/dL  TG: 156   mg/dL  T-CHO: 96   mg/dL 
+Plan 
+ac pc a1c 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保 2 2015/06/05 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/06/05 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/06/05 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/06/05 執行、已批 Specimen:BLO
+完成：2015/08/05
+ 李弘元 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/06/05 執行、已批 Specimen:BLO
+完成：2015/08/05
+ 李弘元 
+檢驗 09006C0P *HbA1c 1  N 2015/06/05 執行、已批 Specimen:BLO
+完成：2015/08/05
+ 李弘元 
+ 
+
+Subjective 
+NYHA Fc: I, CCS class: I
+BP control: good 
+Objective 
+BP: 130/80 mmHG, PR: 78 BPM
+Chest: BS clear
+【20140325】T-CHO: 153   mg/dL
+【20140703】HbA1c: 9.3   %
+【20140703】LDL-C: 62   mg/dL
+【20140703】HDL-C: 29   mg/dL
+【20140703】CRE: 1.2   mg/dL
+【20140703】GLU AC: 234   mg/dL
+【20141117】HbA1c: 8.2   %
+【20141117】GLU AC: 150   mg/dL
+【20150209】HbA1c: 7.9   %
+【20150312】TG: 127   mg/dL
+【20150312】LDL-C: 53   mg/dL
+【20150312】T-CHO: 104   mg/dL
+【20150601】LDL-C: 45   mg/dL
+【20150601】HDL-C: 35   mg/dL
+【20150601】T-CHO: 96   mg/dL 
+Assessment 
+CAD, 3-VD s/p POBAS over RCA CTO(2010-10-21, Xience V)
+s/p POBAS over OM (2010-11-8, Resolute)
+DM, HTN
+2013-1-5 ACS, LAD & RCA new lesion s/p POBAS
+better sugar level under DM specialist control
+2014-12 quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/10 已確認 已批 林茂欣  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/06/10 已確認 已批 林茂欣  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/06/10 已確認 已批 林茂欣  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/06/10 已確認 已批 林茂欣 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保 2 2015/07/02 已確認 已批 林威良  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/07/02 已確認 已批 林威良  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/07/02 已確認 已批 林威良 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/02 已確認 已批 林威良  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/07/02 已確認 已批 林威良  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/07/02 已確認 已批 林威良  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/07/02 已確認 已批 林威良 
+ 
+
+Subjective 
+A 62 year-old male patient suffered from painless gross hematuria since this morning 
+
+micturation pain (-)
+stone passage(+) was noted 
+P.H:
+1. CAD (+) s/p CABG , DM(+) under medical control
+2. Op hx: s/p appendectomy
+3. Drug allergy: denied 
+Objective 
+疼痛評估：疼痛指數： 0分;
+【20150105】Serum PSA: 0.832   ng/mL
+【20150105】Sp. Gr.(C): 1.015   *
+【20150105】pH: 6.0   *
+【20150105】Glu.(C): 1000 ( 4+ )   mg/dL
+【20150105】WBC (S): 5-10   /HPF
+【20150105】RBC (S): >100   /HPF
+【20150105】CRE: 1.3   mg/dL
+【20150105】UA: 5.9   mg/dL
+【20150105】UN: 22.0   mg/dL
+
+KUB and renal sonography showed left renal stone about 0.6*0.5cm
+
+Cysotsocpy showed  
+Operative Findings:
+1.No tumor was found in the urinary bladder
+2.Bilateral ureter orifices were patent with clear efflux
+3.Huge prostate and very high bladder neck
+
+KUB after ESWL showed left renal stone partial crushed
+【20150713】Sp. Gr.(C): 1.016   *
+【20150713】pH: 6.0   *
+【20150713】WBC (S): 0-2   /HPF
+【20150713】Others (S): -   *
+
+【20150714】Abdomen:KUB showed R/O left renal stone
+
+【20150713】KIDNEY echo for uro :Bilateral renal stone (L>R)
+   ===> stasis 
+Plan 
+OPD follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O 599.7 Hematuria  
+M 600.0 Benign prostatic hypertrophy 慢 男  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32006C0M Abdomen:KUB 1  Y 2015/07/14 執行、已批 完成：2015/07/14
+ 李苑如 
+ 
+
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26 -> emphasize SMBG
+BP 133/78 PR81 BW 69.2kg
+
+oil, fried rice 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150408】GLU 2hr PC: 209   mg/dL
+【20150407】HbA1c: 7.9   %  GLU AC: 185   mg/dL
+【20150601】HbA1c: 7.8   %  LDL-C: 45   mg/dL  HDL-C: 35   mg/dL  GLU AC: 136   mg/dL  GLU 2hr PC: 190   mg/dL  TG: 156   mg/dL  T-CHO: 96   mg/dL
+【20150805】GLU AC: 207   mg/dL 
+Plan 
+ac pc a1c
+W5 am 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Diamicron MR 30 mg/tab 1.5 tab BIDAC PO 28 84 tab 健保  2015/08/05 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保  2015/08/05 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保  2015/08/05 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/09/01
+ 李弘元 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/09/01
+ 李弘元 
+檢驗 09006C0P HbA1c 1  N 2015/08/05 執行、已批 Specimen:BLO
+完成：2015/09/01
+ 李弘元 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/05 已確認 已批 陸蕙芬  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/08/05 已確認 已批 陸蕙芬  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/08/05 已確認 已批 陸蕙芬  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/08/05 已確認 已批 陸蕙芬 
+ 
+
+Subjective 
+NYHA Fc: I, CCS class: I
+BP control: good 
+Objective 
+BP: 130/80 mmHG, PR: 72 BPM
+Chest: BS clear
+【20140325】T-CHO: 153   mg/dL
+【20140703】HbA1c: 9.3   %
+【20140703】LDL-C: 62   mg/dL
+【20140703】HDL-C: 29   mg/dL
+【20140703】CRE: 1.2   mg/dL
+【20140703】GLU AC: 234   mg/dL
+【20141117】HbA1c: 8.2   %
+【20141117】GLU AC: 150   mg/dL
+【20150209】HbA1c: 7.9   %
+【20150312】TG: 127   mg/dL
+【20150312】LDL-C: 53   mg/dL
+【20150312】T-CHO: 104   mg/dL
+【20150601】LDL-C: 45   mg/dL
+【20150601】HDL-C: 35   mg/dL
+【20150601】T-CHO: 96   mg/dL 
+Assessment 
+CAD, 3-VD s/p POBAS over RCA CTO(2010-10-21, Xience V)
+s/p POBAS over OM (2010-11-8, Resolute)
+DM, HTN
+2013-1-5 ACS, LAD & RCA new lesion s/p POBAS
+better sugar level under DM specialist control
+2014-12 quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/04 已確認 已批 林茂欣  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/09/04 已確認 已批 林茂欣  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/09/04 已確認 已批 林茂欣  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/09/04 已確認 已批 林茂欣 用藥原因:LDL-C: 45 (2015/06/01)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 林茂欣 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 林茂欣 
+檢驗 09043C0P HDL 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 林茂欣 
+檢驗 09044C0P LDL 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/11/12
+ 林茂欣 
+ 
+
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26 -> emphasize SMBG!
+BP 133/78 PR81 BW 69.2kg
+
+oil, fried rice 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150408】GLU 2hr PC: 209   mg/dL
+【20150407】HbA1c: 7.9   %  GLU AC: 185   mg/dL
+【20150601】HbA1c: 7.8   %  LDL-C: 45   mg/dL  HDL-C: 35   mg/dL  GLU AC: 136   mg/dL  GLU 2hr PC: 190   mg/dL  TG: 156   mg/dL  T-CHO: 96   mg/dL
+【20150805】GLU AC: 207   mg/dL
+【20150901】HbA1c: 8.2   %  GLU AC: 172   mg/dL  GLU 2hr PC: 270   mg/dL 
+Plan 
+ac pc a1c lipid 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2015/09/04 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/09/04 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/09/04 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/10/27
+ 李弘元 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/10/27
+ 李弘元 
+檢驗 09006C0P *HbA1c 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/10/27
+ 李弘元 
+檢驗 09001CZP T-CHO 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/10/27
+ 李弘元 
+檢驗 09004CZP TG 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/10/27
+ 李弘元 
+檢驗 09043C0P HDL 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/10/27
+ 李弘元 
+檢驗 09044C0P LDL 1  N 2015/09/04 執行、已批 Specimen:BLO
+完成：2015/10/27
+ 李弘元 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2015/10/02 已確認 已批 謝欣妤  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/10/02 已確認 已批 謝欣妤  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/10/02 已確認 已批 謝欣妤 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/02 已確認 已批 謝欣妤  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/10/02 已確認 已批 謝欣妤  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/02 已確認 已批 謝欣妤  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/10/02 已確認 已批 謝欣妤 用藥原因:LDL-C: 45 (2015/06/01) 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 272.4 Hyperlipidemia 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/27 已確認 已批 謝欣妤  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2015/10/27 已確認 已批 謝欣妤  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2015/10/27 已確認 已批 謝欣妤  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2015/10/27 已確認 已批 謝欣妤 用藥原因:LDL-C: 45 (2015/06/01) 
+ 
+
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26 -> emphasize SMBG!
+BP 133/78 PR81 BW 69.2kg
+
+oil, fried rice
+
+educate insulin 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150408】GLU 2hr PC: 209   mg/dL
+【20150407】HbA1c: 7.9   %  GLU AC: 185   mg/dL
+【20150601】HbA1c: 7.8   %  LDL-C: 45   mg/dL  HDL-C: 35   mg/dL  GLU AC: 136   mg/dL  GLU 2hr PC: 190   mg/dL  TG: 156   mg/dL  T-CHO: 96   mg/dL
+【20150805】GLU AC: 207   mg/dL
+【20150901】HbA1c: 8.2   %  GLU AC: 172   mg/dL  GLU 2hr PC: 270   mg/dL
+【20151027】GLU 2hr PC: 266   mg/dL  HbA1c: 8.4   %  GLU AC: 164   mg/dL  TG: 291   mg/dL  T-CHO: 156   mg/dL  HDL-C: 36   mg/dL  LDL-C: 88   mg/dL 
+Plan 
+ac pc a1c GPT 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2015/10/30 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/10/30 已確認 已批 李弘元  
+Actos 30 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/10/30 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/10/30 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/21
+ 李弘元 
+檢驗 09005CYP *Glucose (PC 2h) 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/21
+ 李弘元 
+檢驗 09006C0P *HbA1c 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/21
+ 李弘元 
+檢驗 09026CZP ALT(GPT) 1  N 2015/10/30 執行、已批 Specimen:BLO
+完成：2015/12/21
+ 李弘元 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2015/11/18 已確認 已批 王鈺婷  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/11/18 已確認 已批 王鈺婷  
+Actos 30 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/11/18 已確認 已批 王鈺婷  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/11/18 已確認 已批 王鈺婷 
+ 
+
+ 
+
+Subjective 
+NYHA Fc: I, CCS class: I
+BP control: good 
+Objective 
+BP: 120/70 mmHG, PR: 72 BPM
+Chest: BS clear
+【20141117】HbA1c: 8.2   %
+【20141117】GLU AC: 150   mg/dL
+【20150209】HbA1c: 7.9   %
+【20150312】TG: 127   mg/dL
+【20150312】LDL-C: 53   mg/dL
+【20150312】T-CHO: 104   mg/dL
+【20150601】LDL-C: 45   mg/dL
+【20150601】HDL-C: 35   mg/dL
+【20150601】T-CHO: 96   mg/dL
+【20151112】LDL-C: 77   mg/dL
+【20151112】HDL-C: 42   mg/dL
+【20151112】TG: 210   mg/dL
+【20151112】T-CHO: 148   mg/dL 
+Assessment 
+CAD, 3-VD s/p POBAS over RCA CTO(2010-10-21, Xience V)
+s/p POBAS over OM (2010-11-8, Resolute)
+DM, HTN
+2013-1-5 ACS, LAD & RCA new lesion s/p POBAS
+better sugar level under DM specialist control
+2014-12 quit smoking 
+Plan 
+RTC 9 weeks 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/11/18 已確認 已批 林茂欣 重複原因:病人因素(補給天數並延後回診)
+ 
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/11/18 已確認 已批 林茂欣 重複原因:病人因素(補給天數並延後回診)
+ 
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/11/18 已確認 已批 林茂欣 重複原因:病人因素(補給天數並延後回診)
+ 
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/11/18 已確認 已批 林茂欣 重複原因:病人因素(補給天數並延後回診) 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 414.04 Coronary atherosclerosis of artery bypass graft (CAD) 慢  
+O 250.00 Diabetes mellitus 慢 糖  
+O 272.4 Hyperlipidemia 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/12/16 已確認 已批 林小琴  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 2 2015/12/16 已確認 已批 林小琴  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/12/16 已確認 已批 林小琴  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 2 2015/12/16 已確認 已批 林小琴 
+ 
+
+Subjective 
+DM
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26 -> emphasize SMBG!
+BP 133/78 PR81 BW 69.2kg
+
+oil, fried rice
+
+educate insulin 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150408】GLU 2hr PC: 209   mg/dL
+【20150407】HbA1c: 7.9   %  GLU AC: 185   mg/dL
+【20150601】HbA1c: 7.8   %  LDL-C: 45   mg/dL  HDL-C: 35   mg/dL  GLU AC: 136   mg/dL  GLU 2hr PC: 190   mg/dL  TG: 156   mg/dL  T-CHO: 96   mg/dL
+【20150805】GLU AC: 207   mg/dL
+【20150901】HbA1c: 8.2   %  GLU AC: 172   mg/dL  GLU 2hr PC: 270   mg/dL
+【20151027】GLU 2hr PC: 266   mg/dL  HbA1c: 8.4   %  GLU AC: 164   mg/dL  TG: 291   mg/dL  T-CHO: 156   mg/dL  HDL-C: 36   mg/dL  LDL-C: 88   mg/dL
+【20151221】ALT: 32   U/L  HbA1c: 8.2   %  GLU AC: 160   mg/dL  GLU 2hr PC: 213   mg/dL 
+Plan 
+ac pc a1c lipid UA gpt cre urinema+cre U/A
+CBC
+DM screen/2016.3.17 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2015/12/25 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2015/12/25 已確認 已批 李弘元  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2015/12/25 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2015/12/25 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09006C0P HbA1c 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09013CZP Uric acid 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09043C0P HDL 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09044C0P LDL 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/25 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 李弘元 
+檢驗 06012CYP SEDIMENT (Routine) 1  N 2015/12/25 執行、已批 Specimen:UR1
+完成：2016/02/16
+ 李弘元 
+檢驗 06012CZP MULTISTIX (Routine) 1  N 2015/12/25 執行、已批 Specimen:UR1
+完成：2016/02/16
+ 李弘元 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2015/12/25 執行、已批 Specimen:UR1
+完成：2016/02/16
+ 李弘元 
+檢查 000CMED1 糖尿病變篩檢檢查(含眼底、視力、尿液微量白蛋白、面神經刺激、動脈分段血流壓力檢查) 1  N 2015/12/25 執行、已批 完成：2016/03/17
+ 李弘元 
+治療 18009B0A 動脈分段血流及壓力之測定 1  N 2016/03/17 執行、已批 完成：2016/03/17
+ 王秋香 
+治療 23502C00 眼底彩色攝影（每張） 1  N 2016/03/17 執行、已批 完成：2016/03/17
+ 王秋香 
+治療 23501C00 眼底檢查 1  N 2016/03/17 執行、已批 完成：2016/03/17
+ 王秋香 
+治療 000E0404 V A CHECK 1 自費 N 2016/03/17 執行、已批 完成：2016/03/17
+ 王秋香 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 250.00 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2016/01/20 已確認 已批 陳鴻文  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/01/20 已確認 已批 陳鴻文  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/01/20 已確認 已批 陳鴻文  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2016/01/20 已確認 已批 陳鴻文 
+ 
+Subjective 
+NYHA Fc: I, CCS class: I
+BP control: good 
+Objective 
+BP: 120/70 mmHG, PR: 72 BPM
+Chest: BS clear
+
+【20150209】HbA1c: 7.9   %
+【20150312】TG: 127   mg/dL
+【20150312】LDL-C: 53   mg/dL
+【20150312】T-CHO: 104   mg/dL
+【20150601】LDL-C: 45   mg/dL
+【20150601】HDL-C: 35   mg/dL
+【20150601】T-CHO: 96   mg/dL
+【20151112】LDL-C: 77   mg/dL
+【20151112】HDL-C: 42   mg/dL
+【20151112】TG: 210   mg/dL
+【20151112】T-CHO: 148   mg/dL
+【20151221】HbA1c: 8.2   %
+【20151221】GLU AC: 160   mg/dL 
+Assessment 
+CAD, 3-VD s/p POBAS over RCA CTO(2010-10-21, Xience V)
+s/p POBAS over OM (2010-11-8, Resolute)
+DM, HTN
+2013-1-5 ACS, LAD & RCA new lesion s/p POBAS
+better sugar level under DM specialist control
+2014-12 quit smoking 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.729 Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris 慢  
+O E78.5 Hyperlipidemia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/20 已確認 已批 林茂欣  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/01/20 已確認 已批 林茂欣  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/01/20 已確認 已批 林茂欣  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/01/20 已確認 已批 林茂欣  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09001CZP Cholesterol, Total 1  N 2016/01/20 報到、已批 Specimen:BLO
+ 林茂欣 
+檢驗 09004CZP Triglyceride, TG 1  N 2016/01/20 報到、已批 Specimen:BLO
+ 林茂欣 
+檢驗 09043C0P HDL 1  N 2016/01/20 報到、已批 Specimen:BLO
+ 林茂欣 
+檢驗 09044C0P LDL 1  N 2016/01/20 報到、已批 Specimen:BLO
+ 林茂欣 
+檢驗 09022CZP Potassium, K 1  N 2016/01/20 執行、已批 Specimen:BLO
+完成：2016/02/16
+ 林茂欣 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/01/20 報到、已批 Specimen:BLO
+ 林茂欣 
+ 
+
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.729 Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris 慢  
+O E78.5 Hyperlipidemia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/16 已確認 已批 林威良  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/02/16 已確認 已批 林威良  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/02/16 已確認 已批 林威良  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/02/16 已確認 已批 林威良 
+ 
+
+Subjective 
+DMN(1+)
+
+DM since 1999
+mother has DM
+sweet drink(+)
+start SMBG & diet control since 2014/9/26 -> emphasize SMBG!
+BP 133/78 PR81 BW 69.2kg
+
+much starch
+
+educate insulin 
+Objective 
+【20150112】HbA1c: 7.9   %  CRE: 1.2   mg/dL  GLU AC: 182   mg/dL  GLU 2hr PC: 199   mg/dL  UN: 17.5   mg/dL
+【20150408】GLU 2hr PC: 209   mg/dL
+【20150407】HbA1c: 7.9   %  GLU AC: 185   mg/dL
+【20150601】HbA1c: 7.8   %  LDL-C: 45   mg/dL  HDL-C: 35   mg/dL  GLU AC: 136   mg/dL  GLU 2hr PC: 190   mg/dL  TG: 156   mg/dL  T-CHO: 96   mg/dL
+【20150805】GLU AC: 207   mg/dL
+【20150901】HbA1c: 8.2   %  GLU AC: 172   mg/dL  GLU 2hr PC: 270   mg/dL
+【20151027】GLU 2hr PC: 266   mg/dL  HbA1c: 8.4   %  GLU AC: 164   mg/dL  TG: 291   mg/dL  T-CHO: 156   mg/dL  HDL-C: 36   mg/dL  LDL-C: 88   mg/dL
+【20151221】ALT: 32   U/L  HbA1c: 8.2   %  GLU AC: 160   mg/dL  GLU 2hr PC: 213   mg/dL
+【20160216】WBC esterase (U): -   *  Urobil.(C): ≦1.5   mg/dL  Turbidity: -   *  Sp. Gr.(C): 1.011   *  Protein(C): -   mg/dL  pH: 6.5   *  O.B.(C): -   *  Nitrite(C): -   *  Ketone body (U): -   *  Glu.(C): -   mg/dL  Color: Light Yellow   *  Bil.(C): -   *  WBC (S): 0-2   /HPF  RBC (S): 0-2   /HPF  Others (S): -   *  Mucus(S): -   *  Epith (S): 0-2   /HPF  Crystal (S): -   *  Cast (S): -   /LPF  Bacteria: +   *
+【20160216】WBC: 7.56   k/μL  RDW-CV: 13.7   %  RBC: 4.77   M/μL  PS: -     PLT: 280   k/μL  MCV: 88.9   fL  MCHC: 34.2   g/dL  MCH: 30.4   pg  HCT: 42.4   %  HB: 14.5   g/dL
+【20160216】LDL-C: 82   mg/dL  HDL-C: 40   mg/dL  ALT: 19   U/L  K: 4.2   mmol/L  CRE: 1.2   mg/dL  UA: 4.8   mg/dL  HbA1c: 7.9   %  GLU AC: 161   mg/dL  GLU 2hr PC: 198   mg/dL  TG: 161   mg/dL  T-CHO: 143   mg/dL  Microalbumin/CRE(U): 0.044   *  Microalbumin: 37.7   mg/L  CRE(U): 86   mg/dL
+【20160216】LDL-C: 82   mg/dL  HDL-C: 40   mg/dL  ALT: 19   U/L  K: 4.2   mmol/L  CRE: 1.2   mg/dL  UA: 4.8   mg/dL  HbA1c: 7.9   %  GLU AC: 161   mg/dL  GLU 2hr PC: 198   mg/dL  TG: 161   mg/dL  T-CHO: 143   mg/dL  Microalbumin/CRE(U): 0.044   *  Microalbumin: 37.7   mg/L  CRE(U): 86   mg/dL 
+Assessment 
+DM screen: report next time 
+Plan 
+ac pc a1c urinema+cre 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2016/02/19 已確認 已批 李弘元  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/02/19 已確認 已批 李弘元  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/02/19 已確認 已批 李弘元  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2016/02/19 已確認 已批 李弘元  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/02/19 執行、已批 Specimen:BLO
+完成：2016/04/11
+ 李弘元 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/02/19 執行、已批 Specimen:BLO
+完成：2016/04/11
+ 李弘元 
+檢驗 09006C0P HbA1c 1  N 2016/02/19 執行、已批 Specimen:BLO
+完成：2016/04/11
+ 李弘元 
+檢驗 000PP211 Microalbumin / Cre (urine) 1  N 2016/02/19 執行、已批 Specimen:UR1
+完成：2016/04/11
+ 李弘元 
+ 
+
+Subjective 
+A 62 year-old male patient suffered from painless gross hematuria since this morning 
+
+micturation pain (-)
+stone passage(+) was noted 
+P.H:
+1. CAD (+) s/p CABG , DM(+) under medical control
+2. Op hx: s/p appendectomy
+3. Drug allergy: denied 
+Objective 
+疼痛評估：疼痛指數： 0分;
+【20150105】Serum PSA: 0.832   ng/mL
+【20150105】Sp. Gr.(C): 1.015   *
+【20150105】pH: 6.0   *
+【20150105】Glu.(C): 1000 ( 4+ )   mg/dL
+【20150105】WBC (S): 5-10   /HPF
+【20150105】RBC (S): >100   /HPF
+【20150105】CRE: 1.3   mg/dL
+【20150105】UA: 5.9   mg/dL
+【20150105】UN: 22.0   mg/dL
+
+KUB and renal sonography showed left renal stone about 0.6*0.5cm
+
+Cysotsocpy showed  
+Operative Findings:
+1.No tumor was found in the urinary bladder
+2.Bilateral ureter orifices were patent with clear efflux
+3.Huge prostate and very high bladder neck
+
+KUB after ESWL showed left renal stone partial crushed
+【20150713】Sp. Gr.(C): 1.016   *
+【20150713】pH: 6.0   *
+【20150713】WBC (S): 0-2   /HPF
+【20150713】Others (S): -   *
+
+【20150714】Abdomen:KUB showed R/O left renal stone
+
+【20150713】KIDNEY echo for uro :Bilateral renal stone (L>R)
+   ===> stasis
+【20160216】Sp. Gr.(C): 1.011   *
+【20160216】RBC (S): 0-2   /HPF
+【20160216】WBC (S): 0-2   /HPF 
+Plan 
+PSA, KUB, renal sonography
+RTC: 3/14 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.0 Benign prostatic hypertrophy 慢 男  
+O R31.9 Hematuria  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 12081B0P PSA 1  N 2016/03/08 執行、已批 Specimen:BLO
+完成：2016/03/08
+ 李苑如 
+影醫 32006C0M Abdomen:KUB 1  N 2016/03/08 執行、已批 完成：2016/03/08
+ 李苑如 
+治療 19001CZ0 腎臟超音波 1  Y 2016/03/08 執行、已批 完成：2016/03/08
+ 李苑如 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I25.729 Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris 慢  
+O E78.5 Hyperlipidemia 慢  
+O E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Dilatrend 25 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/08 已確認 已批 劉秋蘭  
+5 Sintec 5 mg/tab 0.5 tab QD PO 28 14 tab 健保 3 2016/03/08 已確認 已批 劉秋蘭  
+Zanidip FC 10 mg/tab 1 tab QD PO 28 28 tab 健保 3 2016/03/08 已確認 已批 劉秋蘭  
+脂 Crestor 10 mg/tab 0.5 tab HS PO 28 14 tab 健保 3 2016/03/08 已確認 已批 劉秋蘭 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M E11.9 Diabetes mellitus 慢 糖  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Amaryl 2 mg/tab 2 tab BID PO 28 112 tab 健保 2 2016/03/14 已確認 已批 林小琴  
+850 Glucophage 850 mg/tab 1 tab BIDPC PO 28 56 tab 健保 2 2016/03/14 已確認 已批 林小琴  
+Actos 30 mg/tab 1 tab QD PO 28 28 tab 健保 2 2016/03/14 已確認 已批 林小琴  
+Januvia 100 mg/tab 1 tab QDAC PO 28 28 tab 健保 2 2016/03/14 已確認 已批 林小琴 
+ 
+
+Subjective 
+A 62 year-old male patient suffered from painless gross hematuria since this morning 
+
+micturation pain (-)
+stone passage(+) was noted 
+P.H:
+1. CAD (+) s/p CABG , DM(+) under medical control
+2. Op hx: s/p appendectomy
+3. Drug allergy: denied 
+Objective 
+疼痛評估：疼痛指數： 0分;
+【20150105】Serum PSA: 0.832   ng/mL
+【20150105】Sp. Gr.(C): 1.015   *
+【20150105】pH: 6.0   *
+【20150105】Glu.(C): 1000 ( 4+ )   mg/dL
+【20150105】WBC (S): 5-10   /HPF
+【20150105】RBC (S): >100   /HPF
+【20150105】CRE: 1.3   mg/dL
+【20150105】UA: 5.9   mg/dL
+【20150105】UN: 22.0   mg/dL
+
+KUB and renal sonography showed left renal stone about 0.6*0.5cm
+
+Cysotsocpy showed  
+Operative Findings:
+1.No tumor was found in the urinary bladder
+2.Bilateral ureter orifices were patent with clear efflux
+3.Huge prostate and very high bladder neck
+
+KUB after ESWL showed left renal stone partial crushed
+【20150713】Sp. Gr.(C): 1.016   *
+【20150713】pH: 6.0   *
+【20150713】WBC (S): 0-2   /HPF
+【20150713】Others (S): -   *
+
+【20150714】Abdomen:KUB showed R/O left renal stone
+
+【20150713】KIDNEY echo for uro :Bilateral renal stone (L>R)
+   ===> stasis
+【20160216】Sp. Gr.(C): 1.011   *
+【20160216】RBC (S): 0-2   /HPF
+【20160216】WBC (S): 0-2   /HPF
+【20160308】Serum PSA: 1.009   ng/mL
+【20160216】Sp. Gr.(C): 1.011   *
+【20160216】pH: 6.5   *
+【20160216】WBC (S): 0-2   /HPF
+【20160216】RBC (S): 0-2   /HPF
+【20160308】KIDNEY echo :Left renal stone aout 0.4cm 
+Plan 
+OPD follow up 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M N40.0 Benign prostatic hypertrophy 慢 男  
+O R31.9 Hematuria  
+ 
+
+

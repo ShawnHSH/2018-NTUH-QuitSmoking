@@ -1,0 +1,493 @@
+﻿
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+O 368.13 Eye strain  
+O 372.10 Chronic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flumetholon Oph Susp 0.1% 5 mL/btl 1 gtt QID OU 7 1 btl 健保  2015/01/09 已確認 已批 楊長豪  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt QID OU 7 1 btl 健保  2015/01/09 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/01/09 執行、已批 完成：2015/01/09
+ 楊長豪 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+O 368.13 Eye strain  
+O 372.10 Chronic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flumetholon Oph Susp 0.1% 5 mL/btl 1 gtt QID OU 28 1 btl 健保  2015/04/17 已確認 已批 楊長豪  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt QID OU 28 1 btl 健保  2015/04/17 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/04/17 執行、已批 完成：2015/04/17
+ 楊長豪 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+O 368.13 Eye strain  
+O 372.10 Chronic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flumetholon Oph Susp 0.1% 5 mL/btl 1 gtt QID OU 28 1 btl 健保  2015/08/07 已確認 已批 楊長豪  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt QID OU 28 1 btl 健保  2015/08/07 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2015/08/07 執行、已批 完成：2015/08/07
+ 楊長豪 
+ 
+
+Subjective 
+2015-08-24: a 55 years old man was a case of hypertension under follow up at Mac-Kay Hospital, who had bloody stool for 10 days 
+Objective 
+2015-08-24: B.P.120/80mmHg,HR:76/min
+Chest: clear 
+Plan 
+colonoscope on 09-01 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+O 578.1 Bloody Stool  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2015/09/01 已確認 已批B 蕭伊伶  
+Fleet Phospho-Soda Oral Saline Laxative 45 mL/btl 45 mL AS ORDER PO 1 2 btl 自費  2015/08/24 已確認 已批 李龍騰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 李龍騰 
+檢驗 09026CZP ALT(GPT) 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 李龍騰 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 李龍騰 
+檢驗 09013CZP Uric acid 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 李龍騰 
+檢驗 09006C0P HbA1c 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 李龍騰 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/08/24 執行、已批 Specimen:BLO
+完成：2015/08/24
+ 李龍騰 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2015/08/24 執行、已批 完成：2015/08/24
+ 李龍騰 
+病理 25004C0W Surgical pathology Level IV 4  N 2015/09/01 執行、已批 術式名稱:.
+組織來源:.
+診斷名稱:.
+完成：2015/09/01
+ 蕭伊伶 
+檢查 28017CQS [總院]COLONOSCOPY-大腸鏡檢查(自費藥Fleet) 1 內含 N 2015/08/24 執行、已批 Symptom:bloody stool
+DURATION:1 month
+是否為國健局癌篩個案:nil
+有無使用抗凝血藥物:nil
+有無使用抗排斥藥物:nil
+完成：2015/09/01
+ 李龍騰 
+治療 49014CZS POLYPECTOMY 1  N 2015/09/01 執行、已批 完成：2015/09/01
+ 蕭伊伶 
+醫材 20255205 INJECTION NEEDLE 1 自費 N 2015/09/01 執行、已批 完成：2015/09/01
+ 蕭伊伶 
+醫材 20435204 腸胃道止血處置夾釘 3 自費 N 2015/09/01 執行、已批 完成：2015/09/01
+ 蕭伊伶 
+醫材 20432309 ROTATABLE CLIP FIXING DEVICE 1 自費 N 2015/09/01 執行、已批 完成：2015/09/01
+ 蕭伊伶 
+醫材 20435014 Non-Electric Biopsy Forceps-GI (Sterile) 1 內含 N 2015/09/04 執行、已批 完成：2015/09/02
+ 許妍婕 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+O 368.13 Eye strain  
+O 372.10 Chronic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Diagnogreen 25 mg/vial 門診常備藥 25 mg STAT IV 1 1 vial 自費  2015/11/27 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CWZ 光學同調斷層檢查-3 (OCT-ANGIO) 1  Y 2015/11/27 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:右眼
+掃描?:ANGIO, 視網膜
+完成：2015/11/27
+ 楊長豪 
+檢查 23505C99 F. A. G. 螢光眼底血管攝影術(open)Fluorescein angiography 1  Y 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+檢查 23505CA0 循血綠眼底血管攝影（ICG） 1 內含 Y 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 23502C00 眼底彩色攝影（每張） 8  N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 23505C00 F.A.G. 1  N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 000E0706 白內障外眼攝影 1 自費 N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 000E0320 COPY FILM 1 自費 N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+醫材 20064209 回縮式翼型安全採血套組 1 內含 N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+ 
+
+Subjective 
+2015-12-07: a 55 years old man was a case of hypertension under follow up at Mac-Kay Hospital, who had bloody stool for 10 days 
+Objective 
+2015-12-07: 
+B.P.130/90mmHg,HR:76/min
+Chest: clear 
+Plan 
+colonoscope on 03-01 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+O 578.1 Bloody Stool  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2016/03/01 已確認 已批B 江佩珍  
+栓 Bisacodyl Supp 10 mg/pill 1 pill AS ORDER R 1 1 pill 內含  2015/12/07 已確認 已批 李龍騰  
+口服 Dulcolax EC 5 mg/tab 4 tab AS ORDER PO 1 4 tab 內含  2015/12/07 已確認 已批 李龍騰  
+MAGVAC Soln 250 mL/btl 1 btl ONCE PO 1 1 btl 內含  2015/12/07 已確認 已批 李龍騰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09013CZP Uric acid 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+影醫 000MP083 Spine: Cervical AP, LAT. 1  N 2015/12/07 執行、已批 小部位:.
+完成：2015/12/07
+ 李龍騰 
+檢查 28017CZS [總院]COLONOSCOPY-大腸鏡檢查(內含藥Magvac) 1  N 2015/12/07 執行、已批 Symptom:colon tumor follow up
+DURATION:1 year
+是否為國健局癌篩個案:nil
+有無使用抗凝血藥物:nil
+有無使用抗排斥藥物:nil
+完成：2016/03/01
+ 李龍騰 
+治療 000Z3043 中文診斷書 1 自費 N 2015/12/07 執行、已批 完成：2015/12/07
+ 李龍騰 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+O 368.13 Eye strain  
+O 372.10 Chronic conjunctivitis  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Diagnogreen 25 mg/vial 門診常備藥 25 mg STAT IV 1 1 vial 自費  2015/11/27 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CWZ 光學同調斷層檢查-3 (OCT-ANGIO) 1  Y 2015/11/27 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:右眼
+掃描?:ANGIO, 視網膜
+完成：2015/11/27
+ 楊長豪 
+檢查 23505C99 F. A. G. 螢光眼底血管攝影術(open)Fluorescein angiography 1  Y 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+檢查 23505CA0 循血綠眼底血管攝影（ICG） 1 內含 Y 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 23502C00 眼底彩色攝影（每張） 8  N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 23505C00 F.A.G. 1  N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 000E0706 白內障外眼攝影 1 自費 N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+治療 000E0320 COPY FILM 1 自費 N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+醫材 20064209 回縮式翼型安全採血套組 1 內含 N 2015/11/27 執行、已批 完成：2015/11/27
+ 楊長豪 
+ 
+
+Subjective 
+2015-12-07: a 55 years old man was a case of hypertension under follow up at Mac-Kay Hospital, who had bloody stool for 10 days 
+Objective 
+2015-12-07: 
+B.P.130/90mmHg,HR:76/min
+Chest: clear 
+Plan 
+colonoscope on 03-01 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 401.9 Hypertension 慢  
+O 578.1 Bloody Stool  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+門診用 Buscopan Inj 20 mg/1 mL /amp 常備藥 20 mg STAT IM 1 1 amp 內含  2016/03/01 已確認 已批B 江佩珍  
+栓 Bisacodyl Supp 10 mg/pill 1 pill AS ORDER R 1 1 pill 內含  2015/12/07 已確認 已批 李龍騰  
+口服 Dulcolax EC 5 mg/tab 4 tab AS ORDER PO 1 4 tab 內含  2015/12/07 已確認 已批 李龍騰  
+MAGVAC Soln 250 mL/btl 1 btl ONCE PO 1 1 btl 內含  2015/12/07 已確認 已批 李龍騰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 08011CZP CBC & platelet 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09026CZP ALT(GPT) 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09015CZP Creatinine(Blood) 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09013CZP Uric acid 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09005CZP Glucose (AC) 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09001CZP Cholesterol, Total 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+檢驗 09004CZP Triglyceride, TG 1  N 2015/12/07 執行、已批 Specimen:BLO
+完成：2016/02/23
+ 李龍騰 
+影醫 000MP083 Spine: Cervical AP, LAT. 1  N 2015/12/07 執行、已批 小部位:.
+完成：2015/12/07
+ 李龍騰 
+檢查 28017CZS [總院]COLONOSCOPY-大腸鏡檢查(內含藥Magvac) 1  N 2015/12/07 執行、已批 Symptom:colon tumor follow up
+DURATION:1 year
+是否為國健局癌篩個案:nil
+有無使用抗凝血藥物:nil
+有無使用抗排斥藥物:nil
+完成：2016/03/01
+ 李龍騰 
+治療 000Z3043 中文診斷書 1 自費 N 2015/12/07 執行、已批 完成：2015/12/07
+ 李龍騰 
+ 
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+O 368.13 Eye strain  
+O 372.10 Chronic conjunctivitis  
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Betame Eye Drops 0.1% 5 mL/btl 1 gtt QID OD 3 1 btl 健保  2015/12/22 已確認 已批 楊長豪  
+Gentamicin Eye Drops 3 mg/1 mL 5 mL/btl 1 gtt QID OD 3 1 btl 健保  2015/12/22 已確認 已批 楊長豪  
+舊 Lucentis Inj 2.3 mg/0.23 mL /vial (每瓶最多抽出0.05mL) 0.5 mg ONCE IVI 1 1 vial 自費  2015/12/22 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 86201C0A 玻璃體內注射 1  N 2015/12/22 執行、已批 主副刀:1
+手術起時:2015/12/22 13:10
+手術迄時:2015/12/22 13:20
+完成：2015/12/22
+ 楊長豪 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M 362.50 Macular lesion 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Visudyne Powder for Solution for Infusion 15 mg/vial 15 mg QD IF 1 1 vial 健保  2015/12/24 已確認 已批 楊長豪 in: D5W 30 mL (濃度: 0.5 mg/mL) keep 流速: 180 mL/時 for 10 分 (速度: 1.5 mg/分) 
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CWZ 光學同調斷層檢查-3 (OCT-ANGIO) 1  N 2015/12/24 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:右眼
+掃描?:ANGIO, 視網膜
+完成：2016/01/20
+ 楊長豪 
+治療 60016C0E Photodynamic laser therapy(PDT) 1  N 2015/12/24 執行、已批 完成：2015/12/24
+ 楊長豪 
+醫材 20004212 維視達輸液管組 1 內含 N 2015/12/24 執行、已批 完成：2015/12/24
+ 楊長豪 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H10.401 Chronic conjunctivitis, right  
+O H53.141 Eye strain, right 慢  
+M H35.30 Macular lesion 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt QID OD 28 1 btl 健保  2016/01/22 已確認 已批 楊長豪  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt QID OD 28 1 btl 健保  2016/01/22 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CWZ 光學同調斷層檢查-3 (OCT-ANGIO) 1  N 2016/01/22 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:右眼
+掃描?:視網膜, ANGIO
+完成：2016/03/16
+ 楊長豪 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/01/22 執行、已批 完成：2016/01/22
+ 楊長豪 
+ 
+
+Subjective 
+2016-03-07: a 56 years old man was a case of hypertension under follow up at Mac-Kay Hospital, who had bloody stool for 10 days, diarrhea. 
+Objective 
+2016-03-07: 
+B.P.130/90mmHg,HR:76/min
+Chest: clear
+【20151207】Spine: Cervical AP, LAT. :Cervical spine AP and lateral views show relatively straighten alignment with mildly narrowed intervertebral space with minimal edge spur formation at C5-C6. Degenerative protrusive disk lesion is suspected.
+【20160223】WBC: 9.38   k/μL
+【20160223】GLU AC: 126   mg/dL
+【20151207】Spine: Cervical AP, LAT. :Cervical spine AP and lateral views show relatively straighten alignment with mildly narrowed intervertebral space with minimal edge spur formation at C5-C6. Degenerative protrusive disk lesion is suspected. 
+Plan 
+colonoscope on 03-01 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O M51.9 Herniated intervertebral disc 職  
+O R73.02 Impairment of glucose tolerance  
+O K52.9 Acute enterocolitis 慢  
+M I10 Hypertension 慢  
+O K92.1 Bloody Stool 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Smecta 3 g/pack 1 pack TID PO 3 9 pack 健保  2016/03/07 已確認 已批 李龍騰  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 09005CZP Glucose (AC) 1  N 2016/03/07 開立、已批 Specimen:BLO
+ 李龍騰 
+檢驗 09005CYP Glucose (PC 2h) 1  N 2016/03/07 開立、已批 Specimen:BLO
+ 李龍騰 
+檢驗 09006C0P HbA1c 1  N 2016/03/07 開立、已批 Specimen:BLO
+ 李龍騰 
+檢查 19001CSS Abdomen Echo(Ultrasound)-腹部超音波 (超音波科) 1  N 2016/03/07 執行、已批 Reason for abodominal echo:Abdomen pain
+完成：2016/03/08
+ 李龍騰 
+ 
+
+Subjective 
+2016-03-14: a 56 years old man was a case of hypertension under follow up at Mac-Kay Hospital, who had bloody stool for 10 days, diarrhea. 
+Objective 
+2016-03-14: 
+B.P.130/90mmHg,HR:76/min
+Chest: clear
+【20151207】Spine: Cervical AP, LAT. :Cervical spine AP and lateral views show relatively straighten alignment with mildly narrowed intervertebral space with minimal edge spur formation at C5-C6. Degenerative protrusive disk lesion is suspected.
+【20160223】WBC: 9.38   k/μL
+【20160223】GLU AC: 126   mg/dL
+【20151207】Spine: Cervical AP, LAT. :Cervical spine AP and lateral views show relatively straighten alignment with mildly narrowed intervertebral space with minimal edge spur formation at C5-C6. Degenerative protrusive disk lesion is suspected.
+【20160308】Abdomen Echo Ultrasound :Fatty liver, mild
+      Liver cyst, small, multiple
+      Renal cyst, right
+     檢查者:                          /                        /  江宗賢主治醫師
+【20150824】Chest : PA View (Standing) :Chest PA shows mild cardiomegaly and no definite lung lesion. Mild degenerative change of the T and L spine. (CSY/Dr. YCC) 
+Plan 
+colonoscope on 03-01 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+O M51.9 Herniated intervertebral disc 職  
+O R73.02 Impairment of glucose tolerance  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保  2016/03/14 已確認 已批 李龍騰 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+O H10.401 Chronic conjunctivitis, right  
+O H53.141 Eye strain, right 慢  
+M H35.30 Macular lesion 慢  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+(DC)Flucason Oph Susp 0.1% 5 mL/btl 1 gtt QID OD 28 1 btl 健保  2016/03/18 已確認 已批 楊長豪  
+O.N.S.D. Oph Soln 0.01% 10 mL/btl 1 gtt QID OD 28 1 btl 健保  2016/03/18 已確認 已批 楊長豪  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢查 23506CWZ 光學同調斷層檢查-3 (OCT-ANGIO) 1  N 2016/03/18 執行、已批 是否須散瞳?:需散瞳
+左眼或右眼?:右眼
+掃描?:視網膜, ANGIO
+完成：2016/05/03
+ 楊長豪 
+治療 000E0404 最佳矯正視力檢查 1 自費 N 2016/03/18 執行、已批 完成：2016/03/18
+ 楊長豪 
+治療 000Z3043 中文診斷書 1 自費 N 2016/03/18 執行、已批 完成：2016/03/18
+ 楊長豪 
+治療 000Z3063 中文診斷書第二份起每份50元 1 自費 N 2016/03/18 執行、已批 完成：2016/03/18
+ 楊長豪 
+ 
+
+Subjective 
+2016-04-11: a 56 years old man was a case of hypertension under follow up at Mac-Kay Hospital, who had bloody stool for 10 days, diarrhea. Frequent urine more than 8 times a day. 
+Objective 
+2016-04-11: 
+B.P.130/90mmHg,HR:76/min
+Chest: clear
+【20151207】Spine: Cervical AP, LAT. :Cervical spine AP and lateral views show relatively straighten alignment with mildly narrowed intervertebral space with minimal edge spur formation at C5-C6. Degenerative protrusive disk lesion is suspected.
+【20160223】WBC: 9.38   k/μL
+【20160223】GLU AC: 126   mg/dL
+【20151207】Spine: Cervical AP, LAT. :Cervical spine AP and lateral views show relatively straighten alignment with mildly narrowed intervertebral space with minimal edge spur formation at C5-C6. Degenerative protrusive disk lesion is suspected.
+【20160308】Abdomen Echo Ultrasound :Fatty liver, mild
+      Liver cyst, small, multiple
+      Renal cyst, right
+     檢查者:                          /                        /  江宗賢主治醫師
+【20150824】Chest : PA View (Standing) :Chest PA shows mild cardiomegaly and no definite lung lesion. Mild degenerative change of the T and L spine. (CSY/Dr. YCC) 
+Plan 
+colonoscope on 03-01 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I10 Hypertension 慢  
+O N40.0 Benign prostatic hyperplasia 慢 男  
+O R73.02 Impairment of glucose tolerance  
+O M51.9 Herniated intervertebral disc 職  
+O N32.81 Overactive bladder  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Urief 4 mg/cap 1 cap BID PO 28 56 cap 健保  2016/04/11 已確認 已批 李龍騰  
+Vesicare FC 5 mg/tab 1 tab QD PO 28 28 tab 健保  2016/04/11 已確認 已批 李龍騰 
+ 

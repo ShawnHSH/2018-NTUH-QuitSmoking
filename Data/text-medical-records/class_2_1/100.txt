@@ -1,0 +1,202 @@
+﻿
+Subjective 
+主要病史來源：病人
+
+主訴：
+cough on and off for years
+syncope
+
+現病史：
+no bloody disch.
+no BW loss
+syncope during cough 5-6 times in 2 months
+last for 10 sec.
+no seizure attack
+
+過去病史：
+smoker, much alcohol consumption
+
+過敏史：
+藥物過敏：無 
+食物過敏：無 
+血型：B
+
+目前用藥：
+nil
+
+最近三個月內旅遊史：無
+
+家族病史：無
+
+出生史/疫苗接種(7歲以下病人，請參考門診病人評估表)
+社經史及心理情緒評估(請參考門診病人評估表) 
+Objective 
+身體檢查 (身高、體重、頭圍、生命徵象請參考門診病人評估表)
+疼痛評估(小於1歲0-7分；1歲以上0-10分)：NA
+
+身體檢查：
+heart: RHB BS clear
+BW 59Kg 
+Assessment 
+cough 
+Plan 
+refer to CV for syncope during cough
+may F/U at Chest OPD 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M R05 Cough 慢  
+O R55 Syncope  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Medicon 15 mg/tab 1 tab TIDPC PO 5 15 tab 健保  2016/03/31 已確認 已批 王維慶  
+Allegra 60 mg/tab 1 tab BID PO 5 10 tab 健保  2016/03/31 已確認 已批 王維慶  
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+影醫 32001CXM Chest : PA View (Standing) 1  N 2016/03/31 執行、已批 完成：2016/03/31
+ 王維慶 
+ 
+
+Subjective 
+Cough
+Loss of consciousness then
+Dyspnea
+Deny chest pain
+Underlying: nil
+Smokign: 1PPD for 60 years 
+Objective 
+BP:  120/70 mmHg, 
+Chest: cardiomegaly, lung edema
+Heart: RHB
+Carotid: no bruit 
+Plan 
+Arrange thallium scan and UCG and carotid duplex
+ECG, CBC, ALT, BUn.Cr, K. AC sugar, lipid 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I50.9 Congestive heart failure 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 1 tab QD PO 28 28 tab 健保  2016/04/01 已確認 已批 葉志凡  
+Medicon 15 mg/tab 1 tab TIDPC PO 7 21 tab 健保  2016/04/01 已確認 已批 葉志凡 重複原因:病人因素(補給天數並延後回診)
+ 
+Allegra 60 mg/tab 1 tab BID PO 7 14 tab 健保  2016/04/01 已確認 已批 葉志凡 重複原因:病人因素(補給天數並延後回診)
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+檢驗 18001C0P ECG routine 1  N 2016/04/01 執行、已批 Specimen:ECG
+完成：2016/04/19
+ 葉志凡 
+檢驗 08011CZP CBC & platelet 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09026CZP ALT(GPT) 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09002CZP BUN 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09015CZP Creatinine(Blood) 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09022CZP Potassium, K 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09005CZP Glucose (AC) 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09001CZP T-CHO 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09004CZP TG 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢驗 09043C0P HDL 1  N 2016/04/01 執行、已批 Specimen:BLO
+完成：2016/04/19
+ 葉志凡 
+檢查 18005B99 Transthoracic UCG-心臟超音波檢查(健保)(不得改為自費) 1  N 2016/04/01 執行、已批 完成：2016/04/27
+ 葉志凡 
+檢查 000JEX04 神經部超音波檢查 1  N 2016/04/01 執行、已批 完成：2016/05/03
+ 葉志凡 
+核醫 000TP135 Dipyridamole & Resting 1  N 2016/04/01 執行、已批 完成：2016/04/28
+ 葉志凡 
+治療 18005BZS U.C.G. (M-mode + 2-D) 1  N 2016/04/01 執行、已批 完成：2016/04/27
+ 葉志凡 
+ 治療 18010B00 頸動脈頸動脈聲圖檢查 1  N 2016/04/01 執行、已批 完成：2016/05/03
+ 葉志凡 
+治療 20013B0J 頸動脈超音波檢查(Dopscan) 1  N 2016/04/01 執行、已批 完成：2016/05/03
+ 葉志凡 
+治療 05219B0T 放射性藥品處方之藥師服務費 1  N 2016/04/01 執行、已批 完成：2016/04/28
+ 葉志凡 
+治療 18007B0S U.C.G. (COLOR MAPPING ) 1  N 2016/04/27 執行、已批 完成：2016/04/27
+ 張意茹 
+
+Subjective 
+Cough
+Loss of consciousness then
+Dyspnea
+Deny chest pain
+Underlying: nil
+Smokign: 1PPD for 60 years
+Still mild cough 
+Objective 
+BP:  120/70 mmHg, 
+Chest: cardiomegaly, lung edema
+Heart: RHB
+Carotid: no bruit
+ECG: NSR, no ST T change
+UCGH: LVEF 68.6%, impaired LV relaxation
+【20160419】CRE: 1.4   mg/dL
+【20160419】UN: 25.8   mg/dL
+【20160419】T-CHO: 200   mg/dL
+【20160419】TG: 140   mg/dL
+【20160419】HDL-C: 42   mg/dL
+【20160428】Dipyridamole & Resting :Under standardized dipyridamole stress test, (1) R/O stress induced ischemia at apex and septum, (2) either mild stress induced ischemia or soft tissue attenuation at inferolateral wall, (3) good LV systolic function.
+【20160331】Chest : PA View (Standing) :EXAMINATION: Chest : PA View (Standing).
+FINDINGS:
+Normal heart size. Atherosclerotic calcification of aortic wall. Right apical pleural thickening. Sharp costophrenic angles. Spondylosis and scoliosis of TL spine. 
+Plan 
+CAG
+Arrange lung function test while admission 
+ 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M I50.9 Congestive heart failure 慢 職  
+ 
+
+商品名 劑量 頻率 途徑 天數 總量 記帳 連續 日期 狀態 開立者  
+Lasix 40 mg/tab 0.5 tab QD PO 28 14 tab 健保  2016/05/02 已確認 已批 葉志凡 
+ 
+
+健康行為及篩檢結果 
+陽性轉診院所代碼(轉他院必填)  陽性轉診院所電話 格式:(02)23123456#61234 篩檢地點 醫療院所 
+原住民 否 教育程度 國(初)中 嚼檳榔 無 
+吸菸 >10年，每天<20支 自覺口腔黏膜有無異常症狀? 無 檢查結果 無異常 
+需進一步追蹤或轉介原因 無異常     
+檢查結果部位      
+確診追蹤 
+ 
+ 
+
+主/次 診斷碼 診斷名稱 註記 
+M Z00.00 Encounter for general adult medical examination without abnormal findings  
+ 
+ 
+
+類別 醫令碼 醫令名稱 量 帳 急 日期 狀態 特殊醫囑 開立者 
+治療 00009500 口腔黏膜檢查 (30歲以上嚼/戒檳榔或吸煙者/每2年1次) 1  N 2016/05/03 執行、已批 完成：2016/05/03
+ 陳俊男 
+ 
+
+
